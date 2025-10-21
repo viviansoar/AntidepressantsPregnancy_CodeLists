@@ -1,0 +1,6 @@
+"MEDICAL_CODE_ID","DESCRIPTION","READ_CODE","SNOMED_CT_CODE","DATABASE"
+"O45","Premature separation of placenta [abruptio placentae]","O45","","ICD10"
+"O450","Premature separation of placenta with coagulation defect","O45.0","","ICD10"
+"O458","Other premature separation of placenta","O45.8","","ICD10"
+"O459","Premature separation of placenta, unspecified","O45.9","","ICD10"
+"P021","Fetus and newborn affected by other forms of placental separation and haemorrhage","P02.1","","ICD10"

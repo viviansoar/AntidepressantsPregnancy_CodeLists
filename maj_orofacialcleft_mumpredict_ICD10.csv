@@ -1,0 +1,20 @@
+MEDICAL_CODE_ID,DESCRIPTION,READ_CODE,SNOMED_CT_CODE,DATABASE
+Q35,Cleft palate,Q35,,ICD10
+Q351,Cleft hard palate,Q35.1,,ICD10
+Q353,Cleft soft palate,Q35.3,,ICD10
+Q355,Cleft hard palate with cleft soft palate,Q35.5,,ICD10
+Q357,Cleft uvula,Q35.7,,ICD10
+Q359,Cleft palate, unspecified,Q35.9,,ICD10
+Q360,Cleft lip, bilateral,Q36.0,,ICD10
+Q361,Cleft lip, median,Q36.1,,ICD10
+Q369,Cleft lip, unilateral,Q36.9,,ICD10
+Q37,Cleft palate with cleft lip,Q37,,ICD10
+Q370,Cleft hard palate with bilateral cleft lip,Q37.0,,ICD10
+Q371,Cleft hard palate with unilateral cleft lip,Q37.1,,ICD10
+Q372,Cleft soft palate with bilateral cleft lip,Q37.2,,ICD10
+Q373,Cleft soft palate with unilateral cleft lip,Q37.3,,ICD10
+Q374,Cleft hard and soft palate with bilateral cleft lip,Q37.4,,ICD10
+Q375,Cleft hard and soft palate with unilateral cleft lip,Q37.5,,ICD10
+Q378,Unspecified cleft palate with bilateral cleft lip,Q37.8,,ICD10
+Q379,Unspecified cleft palate with unilateral cleft lip,Q37.9,,ICD10
+Q36,Cleft lip,Q36,,ICD10

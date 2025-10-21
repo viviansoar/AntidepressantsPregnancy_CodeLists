@@ -1,0 +1,51 @@
+MEDICAL_CODE_ID,DESCRIPTION,READ_CODE,SNOMED_CT_CODE,DATABASE
+Q00,Anencephaly and similar malformations,Q00,,ICD10
+Q000,Anencephaly,Q00.0,,ICD10
+Q001,Craniorachischisis,Q00.1,,ICD10
+Q002,Iniencephaly,Q00.2,,ICD10
+Q01,Encephalocele,Q01,,ICD10
+Q010,Frontal encephalocele,Q01.0,,ICD10
+Q011,Nasofrontal encephalocele,Q01.1,,ICD10
+Q012,Occipital encephalocele,Q01.2,,ICD10
+Q018,Encephalocele of other sites,Q01.8,,ICD10
+Q019,Encephalocele, unspecified,Q01.9,,ICD10
+Q02X,Microcephaly,Q02,,ICD10
+Q03,Congenital hydrocephalus,Q03,,ICD10
+Q030,Malformations of aqueduct of Sylvius,Q03.0,,ICD10
+Q031,Atresia of foramina of Magendie and Luschka,Q03.1,,ICD10
+Q038,Other congenital hydrocephalus,Q03.8,,ICD10
+Q039,Congenital hydrocephalus, unspecified,Q03.9,,ICD10
+Q04,Other congenital malformations of brain,Q04,,ICD10
+Q040,Congenital malformations of corpus callosum,Q04.0,,ICD10
+Q041,Arhinencephaly,Q04.1,,ICD10
+Q042,Holoprosencephaly,Q04.2,,ICD10
+Q043,Other reduction deformities of brain,Q04.3,,ICD10
+Q044,Septo-optic dysplasia,Q04.4,,ICD10
+Q045,Megalencephaly,Q04.5,,ICD10
+Q046,Congenital cerebral cysts,Q04.6,,ICD10
+Q048,Other specified congenital malformations of brain,Q04.8,,ICD10
+Q049,Congenital malformation of brain, unspecified,Q04.9,,ICD10
+Q05,Spina bifida,Q05,,ICD10
+Q050,Cervical spina bifida with hydrocephalus,Q05.0,,ICD10
+Q051,Thoracic spina bifida with hydrocephalus,Q05.1,,ICD10
+Q052,Lumbar spina bifida with hydrocephalus,Q05.2,,ICD10
+Q053,Sacral spina bifida with hydrocephalus,Q05.3,,ICD10
+Q054,Unspecified spina bifida with hydrocephalus,Q05.4,,ICD10
+Q055,Cervical spina bifida without hydrocephalus,Q05.5,,ICD10
+Q056,Thoracic spina bifida without hydrocephalus,Q05.6,,ICD10
+Q057,Lumbar spina bifida without hydrocephalus,Q05.7,,ICD10
+Q058,Sacral spina bifida without hydrocephalus,Q05.8,,ICD10
+Q059,Spina bifida, unspecified,Q05.9,,ICD10
+Q06,Other congenital malformations of spinal cord,Q06,,ICD10
+Q061,Hypoplasia and dysplasia of spinal cord,Q06.1,,ICD10
+Q062,Diastematomyelia,Q06.2,,ICD10
+Q063,Other congenital cauda equina malformations,Q06.3,,ICD10
+Q064,Hydromyelia,Q06.4,,ICD10
+Q068,Other specified congenital malformations of spinal cord,Q06.8,,ICD10
+Q069,Congenital malformation of spinal cord, unspecified,Q06.9,,ICD10
+Q07,Other congenital malformations of nervous system,Q07,,ICD10
+Q070,Arnold-Chiari syndrome,Q07.0,,ICD10
+Q078,Other specified congenital malformations of nervous system,Q07.8,,ICD10
+Q079,Congenital malformation of nervous system, unspecified,Q07.9,,ICD10
+Q760,Spina bifida occulta,Q76.0,,ICD10
+Q060,Amyelia,Q06.0,,ICD10

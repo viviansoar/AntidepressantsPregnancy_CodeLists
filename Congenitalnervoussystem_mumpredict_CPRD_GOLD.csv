@@ -1,0 +1,251 @@
+MEDICAL_CODE_ID,DESCRIPTION,READ_CODE,SNOMED_CT_CODE,DATABASE
+2069,Congenital cerebral palsy,F23..00,null,CPRD_GOLD
+3336,Spina bifida occulta,PG17.00,null,CPRD_GOLD
+103882,Craniorachischisis,P01..00,null,CPRD_GOLD
+3947,Spina bifida,P1...00,null,CPRD_GOLD
+31775,Myelocele,P115.00,null,CPRD_GOLD
+25316,Congenital absence of cerebellum,P22A000,null,CPRD_GOLD
+29739,Repair of meningoencephalocele,7031000,null,CPRD_GOLD
+30168,Encephalocystocele,P200.00,null,CPRD_GOLD
+41774,Enlarged brain,F28y200,null,CPRD_GOLD
+45142,Myelodysplasia of spinal cord,P25y112,null,CPRD_GOLD
+45918,Congenital anomaly of spinal meninges,P25y200,null,CPRD_GOLD
+48609,Spina bifida without hydrocephalus - closed,P118.00,null,CPRD_GOLD
+50565,Thoracic spina bifida with hydrocephalus,P100200,null,CPRD_GOLD
+50672,Other specified repair of spina bifida,7043y00,null,CPRD_GOLD
+52683,Myelocele with hydrocephalus,P102.13,null,CPRD_GOLD
+53474,Congenital cerebral hernia,P20..13,null,CPRD_GOLD
+53723,Agyria,P223.00,null,CPRD_GOLD
+53929,Spinal meningocele of unspecified site,P113000,null,CPRD_GOLD
+54717,Reduction deformities of brain,P22..00,null,CPRD_GOLD
+54714,Congenital absence of brain,P00..11,null,CPRD_GOLD
+54877,Agenesis of cerebellum,P22A011,null,CPRD_GOLD
+56386,Fissured spine,P117.11,null,CPRD_GOLD
+57113,Lumbar spina bifida with hydrocephalus,P100300,null,CPRD_GOLD
+58710,Agenesis of part of brain NEC,P22z.12,null,CPRD_GOLD
+59218,Dandy - Walker syndrome with spina bifida,P10y000,null,CPRD_GOLD
+59380,Myelocystocele,P116.00,null,CPRD_GOLD
+60195,Congenital adhesions of cerebral meninges,P245.00,null,CPRD_GOLD
+60623,Sacral spina bifida with hydrocephalus - open,P102400,null,CPRD_GOLD
+61162,Fetus with central nervous system malformation + a/n problem,L250200,null,CPRD_GOLD
+61647,Defective development of the cauda equina,P25y300,null,CPRD_GOLD
+63821,Iniencephaly,P02..00,null,CPRD_GOLD
+64541,Reduction deformities of brain NOS,P22z.00,null,CPRD_GOLD
+64623,Amyelencephalus,P001.00,null,CPRD_GOLD
+65099,Nasofrontal encephalocele,P206.00,null,CPRD_GOLD
+67476,Agenesis of nerve, unspecified,P2x0.00,null,CPRD_GOLD
+67708,Rachischisis,P117.12,null,CPRD_GOLD
+68221,Cervical spina bifida without mention of hydrocephalus,P110100,null,CPRD_GOLD
+69221,Myelatelia,P25y111,null,CPRD_GOLD
+69370,Unspecified spina bifida without hydrocephalus - closed,P118000,null,CPRD_GOLD
+69397,Lumbar spina bifida without hydrocephalus - open,P117300,null,CPRD_GOLD
+71525,Sacral spina bifida without hydrocephalus - open,P117400,null,CPRD_GOLD
+71451,Enlarged brain,P241.12,null,CPRD_GOLD
+71733,Congenital cerebral cyst NOS,P240z00,null,CPRD_GOLD
+72048,Congenital endaural hernia,P20..14,null,CPRD_GOLD
+72094,Macrogyria,P242.00,null,CPRD_GOLD
+72928,Sacral spina bifida with hydrocephalus - closed,P103400,null,CPRD_GOLD
+73085,Other specified spina bifida with hydrocephalus,P10y.00,null,CPRD_GOLD
+73608,Spina bifida without hydrocephalus - open NOS,P117z00,null,CPRD_GOLD
+73712,Myelocele NOS,P115z00,null,CPRD_GOLD
+90482,Thoracolumbar spina bifida with hydrocephalus - closed,P103z11,null,CPRD_GOLD
+91846,Aplasia of cerebellum,P22A200,null,CPRD_GOLD
+92350,Foramen of Magendie atresia,P231.00,null,CPRD_GOLD
+93441,Arhinencephaly,P224.00,null,CPRD_GOLD
+93903,Amyelia,P25y000,null,CPRD_GOLD
+93911,Agenesis of nerve NEC,P2xz000,null,CPRD_GOLD
+93902,Spina bifida with hydrocephalus - closed,P103.00,null,CPRD_GOLD
+94384,Hydrocephalic disproportion - delivered,L236100,null,CPRD_GOLD
+94467,Anencephalus and similar anomalies NOS,P0z..00,null,CPRD_GOLD
+94598,Cervical myelocele,P115100,null,CPRD_GOLD
+94733,Megalencephaly,Q48y500,null,CPRD_GOLD
+95018,Unspecified spina bifida without hydrocephalus NOS,P110z00,null,CPRD_GOLD
+95478,Thoracic spina bifida without hydrocephalus - open,P117200,null,CPRD_GOLD
+96414,Hydrocephalic disproportion NOS,L236z00,null,CPRD_GOLD
+96709,Thoracic spina bifida without mention of hydrocephalus,P110200,null,CPRD_GOLD
+98265,Insertion of Halber valve for spina bifida,7010111,null,CPRD_GOLD
+98298,Spina bifida with hydrocephalus NOS,P100z00,null,CPRD_GOLD
+99281,Spina bifida without hydrocephalus - open,P117.00,null,CPRD_GOLD
+99332,Meningomyelocele of unspecified site,P114000,null,CPRD_GOLD
+99894,Other specified spina bifida without hydrocephalus,P11y.00,null,CPRD_GOLD
+100582,Encephalocele of other specified site,P20z100,null,CPRD_GOLD
+100673,[X]Other congenital hydrocephalus,Pyu0100,null,CPRD_GOLD
+101013,Spina bifida without hydrocephalus, site unspecified,P110000,null,CPRD_GOLD
+101493,Lumbar myelocystocele,P116300,null,CPRD_GOLD
+102628,Spina bifida with hydrocephalus of late onset,P104.00,null,CPRD_GOLD
+103284,Lumbar spina bifida with hydrocephalus - open,P102300,null,CPRD_GOLD
+104764,Hydrocephalic disproportion with antenatal problem,L236200,null,CPRD_GOLD
+104943,Fissured spine with hydrocephalus,P102.11,null,CPRD_GOLD
+105767,Lumbar spina bifida with hydrocephalus - closed,P103300,null,CPRD_GOLD
+106579,[X]Unspecified spina bifida with hydrocephalus,Pyu0400,null,CPRD_GOLD
+107732,[X]Other specified congenital malformations of spinal cord,Pyu0600,null,CPRD_GOLD
+107917,Congenital hydrocephalus due to toxoplasmosis,Q402311,null,CPRD_GOLD
+109394,Other specified anencephalus,P00y.00,null,CPRD_GOLD
+109441,Multiple congenital cerebral cysts,P240100,null,CPRD_GOLD
+109720,Excision of syncipital encephalocele,700A311,null,CPRD_GOLD
+109893,Myelocystocele NOS,P116z00,null,CPRD_GOLD
+110763,Ulegyria,P244.00,null,CPRD_GOLD
+111641,Other specified congenital hydrocephalus,P23y.00,null,CPRD_GOLD
+112518,Spina bifida with hydrocephalus - closed NOS,P103z00,null,CPRD_GOLD
+112803,Myelocele of unspecified site,P115000,null,CPRD_GOLD
+113139,Unspecified spina bifida with hydrocephalus - closed,P103000,null,CPRD_GOLD
+113222,Iniencephaly - closed,P020.00,null,CPRD_GOLD
+114019,Myelocystocele of unspecified site,P116000,null,CPRD_GOLD
+49810,Pseudoporencephaly,F280200,null,CPRD_GOLD
+114548,Hypoplasia of brain gyri,P226.11,null,CPRD_GOLD
+72018,Cervical spina bifida without hydrocephalus - closed,P118100,null,CPRD_GOLD
+4673,Encephalocele,P20..00,null,CPRD_GOLD
+5306,Spina bifida with hydrocephalus, unspecified,P100000,null,CPRD_GOLD
+5307,Closure of spinal myelomeningocele,7043100,null,CPRD_GOLD
+5431,Spina bifida without mention of hydrocephalus,P11..00,null,CPRD_GOLD
+5712,Microcephalus,P21..00,null,CPRD_GOLD
+6515,Micrencephaly,P211.00,null,CPRD_GOLD
+6866,Spinal meningocele,P113.00,null,CPRD_GOLD
+8279,Chiari's malformation,P6z..11,null,CPRD_GOLD
+8846,Suspect fetal spina bifida,L250.13,null,CPRD_GOLD
+8893,Congenital brain anomaly,P2y0.00,null,CPRD_GOLD
+9298,Repair of spina bifida,7043.00,null,CPRD_GOLD
+9611,Congenital hydrocephalus,P23..00,null,CPRD_GOLD
+9722,Meningomyelocele,P114.00,null,CPRD_GOLD
+9848,Arnold - Chiari syndrome,P101.00,null,CPRD_GOLD
+11531,Anencephalus,P00..00,null,CPRD_GOLD
+12284,Septo-optic dysplasia,P246.00,null,CPRD_GOLD
+15345,Nervous system anomalies NOS,P2z..00,null,CPRD_GOLD
+15530,Congenital spastic cerebral palsy,F23..11,null,CPRD_GOLD
+15988,Diastematomyelia,P250.00,null,CPRD_GOLD
+16164,Spinal cord anomalies NOS,P25z.00,null,CPRD_GOLD
+18537,Dandy - Walker syndrome,P233.11,null,CPRD_GOLD
+21249,Congenital quadriplegia,F232.00,null,CPRD_GOLD
+21802,Spina bifida NOS,P1z..00,null,CPRD_GOLD
+22738,Brachial plexus displacement,P2x1.00,null,CPRD_GOLD
+23457,Agenesis of brain, part unspecified,P220.00,null,CPRD_GOLD
+27966,Congenital hemiplegia,F231.00,null,CPRD_GOLD
+28306,Congenital cerebral palsy NOS,F23z.00,null,CPRD_GOLD
+28318,Anomalies of cerebellum,P22A.00,null,CPRD_GOLD
+28353,Congenital hydrocephalus NOS,P23z.00,null,CPRD_GOLD
+28824,Schizencephaly,P240200,null,CPRD_GOLD
+29633,Closure of spinal meningocele,7043200,null,CPRD_GOLD
+31717,Sinus pericranii,P20..15,null,CPRD_GOLD
+32838,Fetus with central nervous system malformation - delivered,L250100,null,CPRD_GOLD
+33442,Megalencephaly,P241.11,null,CPRD_GOLD
+33925,Congenital monoplegia,F233.00,null,CPRD_GOLD
+33939,Microcephalus NOS,P21z.00,null,CPRD_GOLD
+34161,Holoprosencephaly,P225.00,null,CPRD_GOLD
+34950,Lissencephaly,P223.11,null,CPRD_GOLD
+36116,Encephalomyelocele,P201.00,null,CPRD_GOLD
+36974,Congenital spinal cord anomaly,P2y1.00,null,CPRD_GOLD
+37160,Congenital paraplegia,F230000,null,CPRD_GOLD
+37474,Macroencephaly,P241.00,null,CPRD_GOLD
+37509,Drainage of hydrocephalus of fetus to facilitate delivery,7F1A300,null,CPRD_GOLD
+37600,Hypoplasia of corpus callosum,P228100,null,CPRD_GOLD
+37785,Cerebellar hypoplasia,P22z.11,null,CPRD_GOLD
+38608,Suspect fetal anencephaly,L250.11,null,CPRD_GOLD
+39391,Congenital cerebral cyst,P240.00,null,CPRD_GOLD
+39392,Congenital optic atrophy,P2xz100,null,CPRD_GOLD
+39486,Agenesis of corpus callosum,P228011,null,CPRD_GOLD
+39724,Anomalies of cerebrum,P227.00,null,CPRD_GOLD
+40588,Hydrocephauls with anomaly of aqueduct of Sylvius,P230.11,null,CPRD_GOLD
+40777,Agenesis of cerebrum,P227000,null,CPRD_GOLD
+41775,Congenital absence of corpus callosum,P228000,null,CPRD_GOLD
+42497,Unspecified spina bifida with hydrocephalus,P100.00,null,CPRD_GOLD
+42784,Microgyria,P226.00,null,CPRD_GOLD
+43593,Syringomyelocele,P11y.11,null,CPRD_GOLD
+43808,Chiari malformation type I,P2x6.00,null,CPRD_GOLD
+44253,Anomaly of cerebellum NOS,P22Az00,null,CPRD_GOLD
+44429,Hydrocephalic disproportion,L236.00,null,CPRD_GOLD
+44644,Fetus with central nervous system malformation,L250.00,null,CPRD_GOLD
+44717,Hypoplasia of cerebellum,P22A100,null,CPRD_GOLD
+44939,Hydromyelia,P251.00,null,CPRD_GOLD
+45551,Congenital diplegia NOS,F230z00,null,CPRD_GOLD
+46120,Stenosis of aqueduct of Sylvius,P230.12,null,CPRD_GOLD
+46583,Hydranencephaly,P234.00,null,CPRD_GOLD
+46790,Spina bifida with hydrocephalus,P10..00,null,CPRD_GOLD
+47288,Spina bifida with hydrocephalus - open NOS,P102z00,null,CPRD_GOLD
+47827,Lumbar meningomyelocele,P114300,null,CPRD_GOLD
+48027,Occipital encephalocele,P20z000,null,CPRD_GOLD
+48940,Congenital tethering of spinal cord,P252.00,null,CPRD_GOLD
+50169,Megalencephaly,P249.00,null,CPRD_GOLD
+50365,Spinal meningocele NOS,P113z00,null,CPRD_GOLD
+50663,Other specified nervous system anomalies NOS,P2xz.00,null,CPRD_GOLD
+51345,Atresia of foramina of Magendie and Luschka,P233.00,null,CPRD_GOLD
+51745,Dysplasia of cerebral cortex,P247.00,null,CPRD_GOLD
+52130,Meningoencephalocele,P204.00,null,CPRD_GOLD
+53178,Other congenital cerebral palsy,F23y.00,null,CPRD_GOLD
+53471,Rachischisis with hydrocephalus,P102.14,null,CPRD_GOLD
+53578,Spinal hydromeningocele,P111.00,null,CPRD_GOLD
+54690,Maternal care for CNS malformation in fetus,L250400,null,CPRD_GOLD
+54912,Aqueduct of Sylvius anomaly,P230.00,null,CPRD_GOLD
+55960,Aqueduct of Sylvius stenosis,P230100,null,CPRD_GOLD
+56233,Porencephaly,F280111,null,CPRD_GOLD
+56362,Spina bifida with stenosis of aqueduct of Sylvius,P105.00,null,CPRD_GOLD
+57243,Thoracic spina bifida with hydrocephalus - open,P102200,null,CPRD_GOLD
+57611,Meningomyelocele NOS,P114z00,null,CPRD_GOLD
+58163,Partial absence of septum pellucidum,P22y300,null,CPRD_GOLD
+59040,Foramen of Luschka atresia,P232.00,null,CPRD_GOLD
+60216,Hypoplasia of part of brain NEC,P22z.13,null,CPRD_GOLD
+61862,Lumbar spinal meningocele,P113300,null,CPRD_GOLD
+62742,Repair of spina bifida NOS,7043z00,null,CPRD_GOLD
+62968,Chiari malformation type I,P101000,null,CPRD_GOLD
+62992,Porencephaly,P243.00,null,CPRD_GOLD
+63513,Closed spina bifida with Arnold-Chiari malformation,P101.11,null,CPRD_GOLD
+63668,Hypoplasia of brain, part unspecified,P222.00,null,CPRD_GOLD
+64134,Congenital dilated lateral ventricles of brain,P248.00,null,CPRD_GOLD
+64717,Spina bifida with hydrocephalus NOS,P10z.00,null,CPRD_GOLD
+65088,Other nervous system congenital anomalies,P2...00,null,CPRD_GOLD
+65162,Neuroenteric cyst,P25y.11,null,CPRD_GOLD
+65246,Spina bifida without hydrocephalus - closed NOS,P118z00,null,CPRD_GOLD
+65936,Lumbar spina bifida without hydrocephalus - closed,P118300,null,CPRD_GOLD
+66499,Anencephalus NOS,P00z.00,null,CPRD_GOLD
+66516,Lumbar myelocele,P115300,null,CPRD_GOLD
+67264,Frontal encephalocele,P205.00,null,CPRD_GOLD
+67351,Cervical spinal meningocele,P113100,null,CPRD_GOLD
+67498,Atelomyelia,P25y100,null,CPRD_GOLD
+67556,Cephalocele,P20..12,null,CPRD_GOLD
+67870,Unspecified nervous system anomaly NOS,P2yz.00,null,CPRD_GOLD
+67878,Hydromyelocele,P112.00,null,CPRD_GOLD
+68181,Hemianencephaly,P002.11,null,CPRD_GOLD
+70266,Other specified spinal cord anomalies,P25..00,null,CPRD_GOLD
+70923,Sacral spina bifida without hydrocephalus - closed,P118400,null,CPRD_GOLD
+71279,Fetus with central nervous system malformation unspecified,L250000,null,CPRD_GOLD
+71495,Fetus with central nervous system malformation NOS,L250z00,null,CPRD_GOLD
+72390,Arnold - Chiari syndrome,P10..11,null,CPRD_GOLD
+72707,Anencephalus and similar anomalies,P0...00,null,CPRD_GOLD
+73055,Encephalocele NOS,P20z.00,null,CPRD_GOLD
+73166,Spinal cord hypoplasia,P25y400,null,CPRD_GOLD
+73574,Unspec nervous system anomaly of brain/cord/nervous system,P2y..00,null,CPRD_GOLD
+73819,Other specified nervous system anomalies,P2x..00,null,CPRD_GOLD
+81446,Congenital facial nerve palsy,P2x7.00,null,CPRD_GOLD
+85988,Hydromicrocephaly,P210.00,null,CPRD_GOLD
+89572,Chiari malformation type II,P101100,null,CPRD_GOLD
+91600,Thoracic spinal meningocele,P113200,null,CPRD_GOLD
+95591,Other specified anomalies of spinal cord,P25y.00,null,CPRD_GOLD
+95632,Congenital intracerebral cyst,P240.11,null,CPRD_GOLD
+95697,Hemimegalencephaly,P24A.00,null,CPRD_GOLD
+96407,Lumbar spina bifida without mention of hydrocephalus,P110300,null,CPRD_GOLD
+97663,Hydrocephalus with atresia of foramina of Magendie+Luschka,P233.12,null,CPRD_GOLD
+98280,Spina bifida without mention of hydrocephalus NOS,P11z.00,null,CPRD_GOLD
+98811,Spina bifida with hydrocephalus - open,P102.00,null,CPRD_GOLD
+99299,Thoracic meningomyelocele,P114200,null,CPRD_GOLD
+100305,Aplasia of brain, part unspecified,P221.00,null,CPRD_GOLD
+100627,Congenital suprabulbar paresis,F23y511,null,CPRD_GOLD
+101312,Hydroencephalocele,P20..11,null,CPRD_GOLD
+101559,Hydrocephalic disproportion unspecified,L236000,null,CPRD_GOLD
+101703,Congenital hernia of dura mater,P11z.14,null,CPRD_GOLD
+103057,Aplasia of corpus callosum,P228200,null,CPRD_GOLD
+103611,Congenital hypoplasia of cerebrum,P227100,null,CPRD_GOLD
+104035,Other specified spinal cord anomalies NOS,P25yz00,null,CPRD_GOLD
+105186,Disorder of neuronal migration and differentiation,P26..00,null,CPRD_GOLD
+105277,[X]Other specified congenital malformations of brain,Pyu0300,null,CPRD_GOLD
+106704,Other reduction deformity of brain NOS,P22yz00,null,CPRD_GOLD
+107144,Cervical meningomyelocele,P114100,null,CPRD_GOLD
+107377,Cervical myelocystocele,P116100,null,CPRD_GOLD
+107378,Other specified reduction deformities of brain,P22y.00,null,CPRD_GOLD
+108791,Excision of occipital encephalocele,700A100,null,CPRD_GOLD
+109243,Cervical spina bifida with hydrocephalus,P100100,null,CPRD_GOLD
+110155,Excision of basal encephalocele,700A000,null,CPRD_GOLD
+110165,Hemicephaly,P002.00,null,CPRD_GOLD
+111258,Anomaly of cerebrum NOS,P227z00,null,CPRD_GOLD
+112680,Thoracic myelocele,P115200,null,CPRD_GOLD
+113441,Thoracolumbar spina bifida without hydrocephalus - closed,P118z11,null,CPRD_GOLD
+114120,Syringomyelocele,P11z.12,null,CPRD_GOLD
+114817,Open iniencephaly,P021.00,null,CPRD_GOLD

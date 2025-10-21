@@ -1,0 +1,69 @@
+MEDICAL_CODE_ID,DESCRIPTION,READ_CODE,SNOMED_CT_CODE,DATABASE
+K114,Fistula of salivary gland,K11.4,,ICD10
+K44,Diaphragmatic hernia,K44,,ICD10
+K440,Diaphragmatic hernia with obstruction, without gangrene,K44.0,,ICD10
+K441,Diaphragmatic hernia with gangrene,K44.1,,ICD10
+K449,Diaphragmatic hernia without obstruction or gangrene,K44.9,,ICD10
+Q38,Other congenital malformations of tongue, mouth and pharynx,Q38,,ICD10
+Q380,Congenital malformations of lips, not elsewhere classified,Q38.0,,ICD10
+Q383,Other congenital malformations of tongue,Q38.3,,ICD10
+Q384,Congenital malformations of salivary glands and ducts,Q38.4,,ICD10
+Q385,Congenital malformations of palate, not elsewhere classified,Q38.5,,ICD10
+Q386,Other congenital malformations of mouth,Q38.6,,ICD10
+Q387,Pharyngeal pouch,Q38.7,,ICD10
+Q388,Other congenital malformations of pharynx,Q38.8,,ICD10
+Q39,Congenital malformations of oesophagus,Q39,,ICD10
+Q390,Atresia of oesophagus without fistula,Q39.0,,ICD10
+Q391,Atresia of oesophagus with tracheo-oesophageal fistula,Q39.1,,ICD10
+Q392,Congenital tracheo-oesophageal fistula without atresia,Q39.2,,ICD10
+Q393,Congenital stenosis and stricture of oesophagus,Q39.3,,ICD10
+Q394,Oesophageal web,Q39.4,,ICD10
+Q395,Congenital dilatation of oesophagus,Q39.5,,ICD10
+Q396,Diverticulum of oesophagus,Q39.6,,ICD10
+Q398,Other congenital malformations of oesophagus,Q39.8,,ICD10
+Q399,Congenital malformation of oesophagus, unspecified,Q39.9,,ICD10
+Q40,Other congenital malformations of upper alimentary tract,Q40,,ICD10
+Q402,Other specified congenital malformations of stomach,Q40.2,,ICD10
+Q403,Congenital malformation of stomach, unspecified,Q40.3,,ICD10
+Q408,Other specified congenital malformations of upper alimentary tract,Q40.8,,ICD10
+Q409,Congenital malformation of upper alimentary tract, unspecified,Q40.9,,ICD10
+Q41,Congenital absence, atresia and stenosis of small intestine,Q41,,ICD10
+Q410,Congenital absence, atresia and stenosis of duodenum,Q41.0,,ICD10
+Q411,Congenital absence, atresia and stenosis of jejunum,Q41.1,,ICD10
+Q412,Congenital absence, atresia and stenosis of ileum,Q41.2,,ICD10
+Q418,Congenital absence, atresia and stenosis of other specified parts of small intestine,Q41.8,,ICD10
+Q419,Congenital absence, atresia and stenosis of small intestine, part unspecified,Q41.9,,ICD10
+Q42,Congenital absence, atresia and stenosis of large intestine,Q42,,ICD10
+Q420,Congenital absence, atresia and stenosis of rectum with fistula,Q42.0,,ICD10
+Q421,Congenital absence, atresia and stenosis of rectum without fistula,Q42.1,,ICD10
+Q422,Congenital absence, atresia and stenosis of anus with fistula,Q42.2,,ICD10
+Q423,Congenital absence, atresia and stenosis of anus without fistula,Q42.3,,ICD10
+Q428,Congenital absence, atresia and stenosis of other parts of large intestine,Q42.8,,ICD10
+Q429,Congenital absence, atresia and stenosis of large intestine, part unspecified,Q42.9,,ICD10
+Q43,Other congenital malformations of intestine,Q43,,ICD10
+Q431,Hirschsprung disease,Q43.1,,ICD10
+Q432,Other congenital functional disorders of colon,Q43.2,,ICD10
+Q433,Congenital malformations of intestinal fixation,Q43.3,,ICD10
+Q434,Duplication of intestine,Q43.4,,ICD10
+Q435,Ectopic anus,Q43.5,,ICD10
+Q436,Congenital fistula of rectum and anus,Q43.6,,ICD10
+Q437,Persistent cloaca,Q43.7,,ICD10
+Q438,Other specified congenital malformations of intestine,Q43.8,,ICD10
+Q439,Congenital malformation of intestine, unspecified,Q43.9,,ICD10
+Q44,Congenital malformations of gallbladder, bile ducts and liver,Q44,,ICD10
+Q440,Agenesis, aplasia and hypoplasia of gallbladder,Q44.0,,ICD10
+Q441,Other congenital malformations of gallbladder,Q44.1,,ICD10
+Q442,Atresia of bile ducts,Q44.2,,ICD10
+Q443,Congenital stenosis and stricture of bile ducts,Q44.3,,ICD10
+Q444,Choledochal cyst,Q44.4,,ICD10
+Q445,Other congenital malformations of bile ducts,Q44.5,,ICD10
+Q446,Cystic disease of liver,Q44.6,,ICD10
+Q447,Other congenital malformations of liver,Q44.7,,ICD10
+Q45,Other congenital malformations of digestive system,Q45,,ICD10
+Q450,Agenesis, aplasia and hypoplasia of pancreas,Q45.0,,ICD10
+Q451,Annular pancreas,Q45.1,,ICD10
+Q452,Congenital pancreatic cyst,Q45.2,,ICD10
+Q453,Other congenital malformations of pancreas and pancreatic duct,Q45.3,,ICD10
+Q458,Other specified congenital malformations of digestive system,Q45.8,,ICD10
+Q459,Congenital malformation of digestive system, unspecified,Q45.9,,ICD10
+Q790,Congenital diaphragmatic hernia,Q79.0,,ICD10

@@ -1,0 +1,342 @@
+MEDICAL_CODE_ID,DESCRIPTION,READ_CODE,SNOMED_CT_CODE,DATABASE
+3753,Pharyngeal pouch,PA26.11,null,CPRD_GOLD
+27565,Congenital cystic liver disease,PB62.00,null,CPRD_GOLD
+39277,Congenital malposition of digestive system NOS,PBy2.00,null,CPRD_GOLD
+49479,Congenital obstruction of bile duct,PB61200,null,CPRD_GOLD
+60697,Diaphragmatic hernia - irreducible,J342.00,null,CPRD_GOLD
+62920,Unspecified diaphragmatic hernia,J34y.00,null,CPRD_GOLD
+12610,Atresia of anus with fistula,PB21400,null,CPRD_GOLD
+18406,Congenital absence of ileum,PB11200,null,CPRD_GOLD
+20126,Transposition of intestine NOS,PB53z00,null,CPRD_GOLD
+24781,Other mouth anomalies NOS,PA25z00,null,CPRD_GOLD
+27341,Other specified digestive system anomalies NOS,PByz.00,null,CPRD_GOLD
+34229,Division of web of oesophagus,7608200,null,CPRD_GOLD
+35278,Microgastria,PA76.00,null,CPRD_GOLD
+38389,Atresia of bile duct,PB61400,null,CPRD_GOLD
+39308,Aglossia,PA11.00,null,CPRD_GOLD
+40528,Upper alimentary tract anomalies NOS,PAz..00,null,CPRD_GOLD
+41359,Congenital stricture of anus with fistula,PB24000,null,CPRD_GOLD
+44475,Duplication of gallbladder,PB64200,null,CPRD_GOLD
+44471,Congenital absence of appendix,PB20100,null,CPRD_GOLD
+46814,Congenital oesophageal ring,PA3..11,null,CPRD_GOLD
+48269,Congenital absence of hepatic ducts,PB61500,null,CPRD_GOLD
+49089,Congenital stenosis of anus without mention of fistula,PB24111,null,CPRD_GOLD
+49382,Congenital salivary gland fistula,PA23.00,null,CPRD_GOLD
+49707,Congenital oesophageal stenosis,PA31.11,null,CPRD_GOLD
+50050,Megaloduodenum,PB56.00,null,CPRD_GOLD
+50319,Fistula of sublingual gland,J074200,null,CPRD_GOLD
+50444,Biliary atresia NOS,PB61z00,null,CPRD_GOLD
+50443,Congenital absence of rectum,PB20200,null,CPRD_GOLD
+53517,Congenital aganglionic megacolon,PB33.12,null,CPRD_GOLD
+56383,Agenesis of rectum with fistula,PB20411,null,CPRD_GOLD
+56901,Imperforate pharynx,PA27000,null,CPRD_GOLD
+57606,Fistula of lip,J085200,null,CPRD_GOLD
+58095,Congenital absence of rectum with fistula,PB20400,null,CPRD_GOLD
+58855,Congenital absence of large intestine,PB20.00,null,CPRD_GOLD
+59279,Transposition of appendix,PB53100,null,CPRD_GOLD
+59920,Other specified other repair of diaphragm,7H0Dy00,null,CPRD_GOLD
+61320,Displacement of Wharton's duct,PA29.11,null,CPRD_GOLD
+61593,Hypoplasia of pancreas,PB72.00,null,CPRD_GOLD
+62671,Congenital occlusion of anus NOS,PB23z00,null,CPRD_GOLD
+62998,Universal mesentery,PB42.00,null,CPRD_GOLD
+63395,Long segment Hirschsprung's disease,PB30000,null,CPRD_GOLD
+65298,Congenital plicated tongue,PA18.00,null,CPRD_GOLD
+65511,Aganglionic macrocolon,PB33.11,null,CPRD_GOLD
+65762,Congenital obstruction of large intestine,PB22.00,null,CPRD_GOLD
+66200,Transposition of caecum,PB53200,null,CPRD_GOLD
+67373,Accessory pancreas,PB73.00,null,CPRD_GOLD
+67877,Transposition of intestine,PB53.00,null,CPRD_GOLD
+68484,Imperforate jejunum,PB14.00,null,CPRD_GOLD
+68728,Duplication of caecum,PB52300,null,CPRD_GOLD
+68884,Congenital absence of salivary gland,PA20.00,null,CPRD_GOLD
+69054,Congenital stricture of rectum with fistula,PB25000,null,CPRD_GOLD
+69641,Other repair of diaphragm NOS,7H0Dz00,null,CPRD_GOLD
+69811,Congenital intestinal adhesions NOS,PB40z00,null,CPRD_GOLD
+70044,Unspecified liver and biliary system anomaly NOS,PB60z00,null,CPRD_GOLD
+71051,Congenital faecal fistula,PB5z000,null,CPRD_GOLD
+71153,Atresia of rectum with fistula,PB21500,null,CPRD_GOLD
+71180,Transposition of intestine, unspecified,PB53000,null,CPRD_GOLD
+71255,Megalogastria,PA75.00,null,CPRD_GOLD
+71858,Duplication of anus,PB52100,null,CPRD_GOLD
+72271,Congenital cardiospasm,PA70.00,null,CPRD_GOLD
+72283,Congenital floating gallbladder,PB6y200,null,CPRD_GOLD
+73631,Duplication of intestine, unspecified,PB52000,null,CPRD_GOLD
+94472,Giant oesophagus,PA44.00,null,CPRD_GOLD
+94845,Aglossia - adactyly syndrome,PKy7600,null,CPRD_GOLD
+96432,Congenital fistula of lip,PA24.00,null,CPRD_GOLD
+97491,Ectopic digestive organs NOS,PBy2.11,null,CPRD_GOLD
+97750,Anal septum,PB23.11,null,CPRD_GOLD
+98276,[X]Other congenital malformations of tongue,Pyu5000,null,CPRD_GOLD
+98402,Congenital absence of liver lobe,PB63100,null,CPRD_GOLD
+98741,Imperforate oesophagus,PA33.00,null,CPRD_GOLD
+98860,Cong.absence of oesophagus with tracheo-oesophageal fistula,PA36.00,null,CPRD_GOLD
+98859,Congenital absence of oesophagus,PA35.00,null,CPRD_GOLD
+99215,Fistula of salivary gland NOS,J074z00,null,CPRD_GOLD
+100050,Accessory liver,PB64311,null,CPRD_GOLD
+100539,Congenital stenosis of anus with fistula,PB24011,null,CPRD_GOLD
+101122,Congenital stenosis of rectum without mention of fistula,PB25111,null,CPRD_GOLD
+101542,[X]Other congenital malformations of bile ducts,Pyu5D00,null,CPRD_GOLD
+103145,Microglossia,PA15.00,null,CPRD_GOLD
+102580,Cleft tongue,PA17.00,null,CPRD_GOLD
+105089,[X]Congenital malformations of palate, NEC,Pyu5100,null,CPRD_GOLD
+105782,[X]Other congenital malformations of liver,Pyu5E00,null,CPRD_GOLD
+106033,[X]Other congen malformation of pancreas & pancreatic duct,Pyu5F00,null,CPRD_GOLD
+107117,Congenital stricture of anus without mention of fistula,PB24100,null,CPRD_GOLD
+107768,Other specified intestinal fixation anomaly,PB4y.00,null,CPRD_GOLD
+108445,Congenital stenosis of large intestine,PB22.11,null,CPRD_GOLD
+109392,Duplication of biliary duct,PB64000,null,CPRD_GOLD
+109846,Persistent vitelline duct,PB0..12,null,CPRD_GOLD
+110299,Trilobular liver,PB6yw13,null,CPRD_GOLD
+113274,Congenital agenesis of liver lobe,PB63111,null,CPRD_GOLD
+113407,Atresia of large intestine NOS,PB21z00,null,CPRD_GOLD
+113524,Congenital hypoplasia of bile duct,PB61100,null,CPRD_GOLD
+113675,Congenital absence of jejunum,PB11100,null,CPRD_GOLD
+114551,Congenital displacement of oesophagus,PA41.00,null,CPRD_GOLD
+115276,Congenital stomach displacement,PA72.00,null,CPRD_GOLD
+2981,Other specified upper alimentary tract anomaly,PAy..00,null,CPRD_GOLD
+4048,Tracheo-oesophageal fistula,J10y200,null,CPRD_GOLD
+4122,Atresia of oesophagus,PA30.00,null,CPRD_GOLD
+4620,Webbed oesophagus,PA34.00,null,CPRD_GOLD
+4855,Imperforate anus,PB26.00,null,CPRD_GOLD
+4856,Anal stenosis,J572111,null,CPRD_GOLD
+4987,Diaphragmatic hernia,J34..00,null,CPRD_GOLD
+5334,Stenosis of rectum,J572000,null,CPRD_GOLD
+5532,Malrotation of colon and caecum,PB41.00,null,CPRD_GOLD
+5801,Oesophageal atresia, stenosis or fistula NOS,PA3z.00,null,CPRD_GOLD
+7107,Unspecified anomalies of oesophagus,PAz1.00,null,CPRD_GOLD
+8270,Repair of diaphragmatic hernia,760K.00,null,CPRD_GOLD
+8546,Hirschsprung's disease,PB30.00,null,CPRD_GOLD
+11780,Diaphragmatic hernia NOS,J34z.00,null,CPRD_GOLD
+16343,Other anomalies of salivary glands or ducts,PA29.00,null,CPRD_GOLD
+16417,Congenital absence of bile duct,PB61000,null,CPRD_GOLD
+16713,Oesophageal stricture and stenosis,J103.00,null,CPRD_GOLD
+16744,Congenital oesophageal stricture,PA31.00,null,CPRD_GOLD
+16845,Unspecified anomalies of mouth and pharynx,PAz0.00,null,CPRD_GOLD
+17875,Other anomalies of lip,PA2A.00,null,CPRD_GOLD
+17991,Biliary anomalies,PB6..12,null,CPRD_GOLD
+18195,Congenital polycystic liver disease,PB62000,null,CPRD_GOLD
+18548,Stenosis of oesophagus,J103.11,null,CPRD_GOLD
+18680,Anomalies of pancreas,PB7..00,null,CPRD_GOLD
+19039,Atresia of duodenum,PB10100,null,CPRD_GOLD
+20610,Riedel's lobe liver,PB63300,null,CPRD_GOLD
+20686,Congenital stenosis of duodenum,PB13000,null,CPRD_GOLD
+20830,Congenital diverticulum of colon,PB50.00,null,CPRD_GOLD
+20979,Congenital choledochal cyst,PB6y000,null,CPRD_GOLD
+21059,Duhamel Hirschsprung abdoperin,7726y11,null,CPRD_GOLD
+21165,Other liver and biliary anomalies,PB6y.00,null,CPRD_GOLD
+21244,Other anomaly of lip NOS,PA2Az00,null,CPRD_GOLD
+21375,Stricture of intestine NOS,J50z300,null,CPRD_GOLD
+21784,Liver hyperplasia,PB6y900,null,CPRD_GOLD
+22504,Abnormal liver lobulation,PB6yw12,null,CPRD_GOLD
+22560,Congenital dilatation of oesophagus,PA40.00,null,CPRD_GOLD
+22586,Other specified congenital pyloric obstruction,PA5y.00,null,CPRD_GOLD
+23416,Congenital achalasia of cardia,PA70.11,null,CPRD_GOLD
+23432,Other liver or biliary system anomalies NOS,PB6yz00,null,CPRD_GOLD
+23593,Atresia of colon,PB21100,null,CPRD_GOLD
+24266,Congenital adhesions of tongue,PA12.00,null,CPRD_GOLD
+24703,Diaphragmatic hernia with gangrene,J340.00,null,CPRD_GOLD
+25042,Small intestine atresia or stenosis NOS,PB1z.00,null,CPRD_GOLD
+25280,Unspecified anomalies of stomach,PAz2.00,null,CPRD_GOLD
+25592,Roux-en-y procedure for biliary atresia,7824400,null,CPRD_GOLD
+25597,Biliary atresia,PB61.00,null,CPRD_GOLD
+27598,Atresia large intestine,PB2..11,null,CPRD_GOLD
+27895,Other specified oesophageal anomaly NOS,PA4z.00,null,CPRD_GOLD
+28350,Fibrocystic liver disease,PB62100,null,CPRD_GOLD
+29179,Stenosis of rectum and anus,J572.00,null,CPRD_GOLD
+29767,Other specified oesophageal atresia, stenosis or fistula,PA3y.00,null,CPRD_GOLD
+29785,Malformation of throat,PAzz.11,null,CPRD_GOLD
+29801,Liver anomaly, unspecified,PB60000,null,CPRD_GOLD
+30055,Anomalies of pancreas NOS,PB7z.00,null,CPRD_GOLD
+30980,Repair of diaphragmatic hernia using abdominal approach NEC,760K300,null,CPRD_GOLD
+31201,Liver anomalies,PB6..14,null,CPRD_GOLD
+31401,Intestinal fixation anomalies,PB4..00,null,CPRD_GOLD
+31467,Annular pancreas,PB74.00,null,CPRD_GOLD
+31468,Atresia of large intestine,PB21.00,null,CPRD_GOLD
+31730,Congenital oesophageal fistula,PA32.00,null,CPRD_GOLD
+31731,Atresia of anus,PB21000,null,CPRD_GOLD
+32747,Bifid tongue,PA13.11,null,CPRD_GOLD
+32791,Gallbladder anomalies,PB6..13,null,CPRD_GOLD
+32803,Congenital stricture of common bile duct,PB61311,null,CPRD_GOLD
+33342,Repair of oesophagus NOS,7606z00,null,CPRD_GOLD
+33453,Ectopic gastric mucosa,PA78.00,null,CPRD_GOLD
+33573,Other tongue anomalies NOS,PA1z.00,null,CPRD_GOLD
+33584,Atresia of small intestine,PB10.00,null,CPRD_GOLD
+33654,Closure of tracheooesophageal fistula,7606000,null,CPRD_GOLD
+33655,Atresia of oesophagus with tracheo-oesophageal fistula,PA37.00,null,CPRD_GOLD
+33725,Reanastomosis rectum-anal canal correct cong rectal atresia,7733300,null,CPRD_GOLD
+34304,Malrotation of intestine,PB4z.13,null,CPRD_GOLD
+34305,Atresia, salivary duct,PA22.00,null,CPRD_GOLD
+34691,Simple diaphragmatic hernia,J343.00,null,CPRD_GOLD
+34903,Congenital hepatic cyst,PB62.11,null,CPRD_GOLD
+34909,Agenesis of rectum,PB20211,null,CPRD_GOLD
+34967,Ectopic anus,PB54.00,null,CPRD_GOLD
+35019,Congenital anal stricture,PB24.11,null,CPRD_GOLD
+35042,Congenital tracheo-oesophageal fistula,PA32111,null,CPRD_GOLD
+35191,Enterogenous cyst,PB5A.00,null,CPRD_GOLD
+35634,Other tongue anomalies,PA1..00,null,CPRD_GOLD
+35714,Jackson's membrane,PB40100,null,CPRD_GOLD
+35852,Stenosis of intestine NOS,J50z200,null,CPRD_GOLD
+35968,Atresia and stenosis of large intestine/rectum/anus NOS,PB2z.00,null,CPRD_GOLD
+37080,Congenital anal fistula,PB59.00,null,CPRD_GOLD
+37195,Fistula of submandibular gland,J074100,null,CPRD_GOLD
+37358,Anomaly of tongue, unspecified,PA10.00,null,CPRD_GOLD
+37401,Idiopathic congenital megacolon,PB31.00,null,CPRD_GOLD
+37408,Oesophageal atresia, stenosis and fistula,PA3..00,null,CPRD_GOLD
+37471,Repair of diaphragmatic hernia NOS,760Kz00,null,CPRD_GOLD
+37517,Other congenital anomaly of palate,PA25y00,null,CPRD_GOLD
+37868,Oesophagotracheal fistula,PA32100,null,CPRD_GOLD
+37869,Repair of oesophagus,7606.00,null,CPRD_GOLD
+38085,Freeing of adhesions of tongue,7523200,null,CPRD_GOLD
+38317,Fordyce's disease of mouth,PA25.11,null,CPRD_GOLD
+38320,Other specified oesophageal anomalies,PA4..00,null,CPRD_GOLD
+38655,Congenital rectal stricture,PB25.11,null,CPRD_GOLD
+39628,Other mouth and pharynx anomalies NOS,PA2z.00,null,CPRD_GOLD
+39735,Malrotation of gut,PB4z.12,null,CPRD_GOLD
+39890,Repair of stricture of oesophagus,7607300,null,CPRD_GOLD
+39917,Repair of congenital atresia of pylorus,761B100,null,CPRD_GOLD
+39976,Diverticulum of pharynx,PA26.00,null,CPRD_GOLD
+40055,Other mouth anomalies,PA25.00,null,CPRD_GOLD
+40252,Atresia of small intestine, unspecified,PB10000,null,CPRD_GOLD
+40309,Fistula of parotid gland,J074000,null,CPRD_GOLD
+40334,Fistula of salivary gland,J074.00,null,CPRD_GOLD
+40425,Bile duct anomalies,PB6..11,null,CPRD_GOLD
+40984,Repair of congenital diaphragmatic hernia,7H0D300,null,CPRD_GOLD
+41141,Oesophageal stricture and stenosis NOS,J103z00,null,CPRD_GOLD
+41508,Persistent cloaca,PB58.00,null,CPRD_GOLD
+42256,Congenital absence of gallbladder,PB63000,null,CPRD_GOLD
+42469,Congenital stricture of rectum NOS,PB25z00,null,CPRD_GOLD
+42998,Other congenital digestive system anomaly,PB...00,null,CPRD_GOLD
+43442,Accessory salivary gland,PA21.00,null,CPRD_GOLD
+43558,Congenital oesophageal pouch,PA45.00,null,CPRD_GOLD
+43801,Other specified repair of oesophagus,7606y00,null,CPRD_GOLD
+43818,Correction of congenital atresia of oesophagus,7606200,null,CPRD_GOLD
+44201,Microcolon,PB57.00,null,CPRD_GOLD
+44233,Diaphragmatic hernia with obstruction,J341.00,null,CPRD_GOLD
+44945,Other pharynx anomalies,PA27.00,null,CPRD_GOLD
+44953,Imperforate rectum with fistula,PB27000,null,CPRD_GOLD
+44968,Other repair of diaphragm,7H0D.00,null,CPRD_GOLD
+44972,Other specified stomach anomalies,PA7..00,null,CPRD_GOLD
+45197,Congenital diverticulum of oesophagus,PA42.00,null,CPRD_GOLD
+45857,Transposition of colon,PB53300,null,CPRD_GOLD
+46106,Other congenital anomaly of gallbladder,PB6yx00,null,CPRD_GOLD
+46123,Atresia of rectum,PB21200,null,CPRD_GOLD
+46723,Atrophy of left lobe of liver,PB6y600,null,CPRD_GOLD
+47340,Perinatal jaundice due to congenital obstruction bile duct,Q435000,null,CPRD_GOLD
+47428,Persistent omphalomesenteric duct,PB03.00,null,CPRD_GOLD
+47576,Agenesis of gallbladder,PB63011,null,CPRD_GOLD
+47616,Congenital peritoneal bands,PB40211,null,CPRD_GOLD
+47726,Congenital malformation of intestine, unspecified,PB5X.00,null,CPRD_GOLD
+47776,Congenital hourglass stomach,PA71.00,null,CPRD_GOLD
+47939,Congenital stricture of small intestine,PB13z11,null,CPRD_GOLD
+48020,Congenital stricture of anus,PB24.00,null,CPRD_GOLD
+48087,Oesophagobronchial fistula,PA32000,null,CPRD_GOLD
+48226,Swenson Hirschsprung proctect,7726y13,null,CPRD_GOLD
+48260,Congenital redundant colon,PB52z12,null,CPRD_GOLD
+48738,Congenital hepatomegaly,PB6y100,null,CPRD_GOLD
+49242,Imperforate rectum,PB27.00,null,CPRD_GOLD
+49448,Congenital volvulus,PB5z.11,null,CPRD_GOLD
+49501,Congenital stricture of rectum,PB25.00,null,CPRD_GOLD
+49534,Pancreatic cyst, congenital,PB77.00,null,CPRD_GOLD
+49768,Congenital diaphragmatic hernia,PG61.00,null,CPRD_GOLD
+50109,Stenosis large intestine,PB2..12,null,CPRD_GOLD
+50278,Other anomalies of intestine,PB5..00,null,CPRD_GOLD
+50400,Atresia of hepatic ducts,PB61600,null,CPRD_GOLD
+50458,Extrahepatic atresia of bile duct,PB61412,null,CPRD_GOLD
+50686,Incision of pylorus NOS,761Bz00,null,CPRD_GOLD
+50785,Other anomalies of mesentery,PB43.00,null,CPRD_GOLD
+51485,Duplication of digestive system NOS,PBy1.00,null,CPRD_GOLD
+51486,Other specified stomach anomaly NOS,PA7z.00,null,CPRD_GOLD
+51672,Atresia and stenosis of large intestine/rectum/anal canal,PB2..00,null,CPRD_GOLD
+51731,Persistent vitelline duct,PB03.11,null,CPRD_GOLD
+52258,Total intestinal aganglionosis,PB33.00,null,CPRD_GOLD
+52284,Incision of pylorus,761B.00,null,CPRD_GOLD
+52687,Atresia of jejunum,PB10300,null,CPRD_GOLD
+53565,Atresia of ileum,PB10200,null,CPRD_GOLD
+53581,Stenosis of rectum and anus NOS,J572z00,null,CPRD_GOLD
+53764,Bile duct anomaly, unspecified,PB60200,null,CPRD_GOLD
+54524,Congenital absence of uvula,PA25000,null,CPRD_GOLD
+54778,Other specified anomalies of pancreas,PB7y.00,null,CPRD_GOLD
+55080,Anomalies of upper alimentary tract NOS,PAzz.00,null,CPRD_GOLD
+55806,Liver or biliary system anomalies NOS,PB6z.00,null,CPRD_GOLD
+55900,Congenital duplication of oesophagus,PA43.00,null,CPRD_GOLD
+56630,Hirschsprung's disease and allied congenital conditions,PB3..00,null,CPRD_GOLD
+56743,Malrotation of colon,PB41000,null,CPRD_GOLD
+57264,Other pharynx anomalies NOS,PA27z00,null,CPRD_GOLD
+57921,Malrotation of caecum,PB41100,null,CPRD_GOLD
+58583,Closure of fistula of oesophagus NEC,7606100,null,CPRD_GOLD
+58998,Anal fusion,PB58.11,null,CPRD_GOLD
+59013,Exteriorisation of pouch of oesophagus,7607000,null,CPRD_GOLD
+59085,Hirschsprung's disease and allied congenital conditions NOS,PB3z.00,null,CPRD_GOLD
+59270,Intrahepatic gallbladder,PB6y400,null,CPRD_GOLD
+59309,Pancreatic heterotopia,PB76.00,null,CPRD_GOLD
+59399,Congenital stenosis of small intestine,PB13.00,null,CPRD_GOLD
+59430,Congenital absence of anus,PB20000,null,CPRD_GOLD
+60083,Small intestine atresia and stenosis,PB1..00,null,CPRD_GOLD
+60094,Other specified repair of diaphragmatic hernia,760Ky00,null,CPRD_GOLD
+60432,Congenital pyloric obstruction NOS,PA5z.00,null,CPRD_GOLD
+60456,Glossopexy,7523500,null,CPRD_GOLD
+60549,Liver and biliary system anomalies,PB6..00,null,CPRD_GOLD
+60738,Congenital absence of digestive system NOS,PBy0.00,null,CPRD_GOLD
+61401,Imperforate anus with fistula,PB26000,null,CPRD_GOLD
+62051,Gallbladder anomaly, unspecified,PB60100,null,CPRD_GOLD
+62438,Dolichocolon,PB51.00,null,CPRD_GOLD
+63539,Repair of diaphragmatic hernia using thoracic approach NEC,760K100,null,CPRD_GOLD
+63612,Ectopic pancreas,PB75.00,null,CPRD_GOLD
+64436,Malfixation of gut NEC,PB4z.11,null,CPRD_GOLD
+64901,Closure of fistula of salivary gland,7543100,null,CPRD_GOLD
+65337,Congenital stomach diverticulum,PA73.00,null,CPRD_GOLD
+65590,Congenital dilation of bile duct,PB6y700,null,CPRD_GOLD
+65831,Duplication of intestine,PB52.00,null,CPRD_GOLD
+65889,Intrahepatic atresia of bile duct,PB61411,null,CPRD_GOLD
+66130,Duplication of stomach,PA74.00,null,CPRD_GOLD
+66182,Other congenital anomaly of liver,PB6yw00,null,CPRD_GOLD
+66199,Transposition of stomach,PA77.00,null,CPRD_GOLD
+66309,Congenital obstruction of small intestine,PB12.00,null,CPRD_GOLD
+66375,Malrotation of colon or caecum NOS,PB41z00,null,CPRD_GOLD
+66477,Short tongue,PA15.12,null,CPRD_GOLD
+66500,Secondary megacolon - congenital,J527100,null,CPRD_GOLD
+66895,Liver and biliary system anomalies, unspecified,PB60.00,null,CPRD_GOLD
+67021,Congenital stenosis of jejunum,PB13100,null,CPRD_GOLD
+67319,Imperforate anus NOS,PB26z00,null,CPRD_GOLD
+67420,Congenital peritoneal adhesions,PB40200,null,CPRD_GOLD
+67559,Hypoplasia of tongue,PA15.11,null,CPRD_GOLD
+67644,Other intestine anomalies NOS,PB5z.00,null,CPRD_GOLD
+67830,Congenital intestinal adhesions,PB40.00,null,CPRD_GOLD
+68527,Soave endorectal pull through op for Hirschsprung's disease,7726y12,null,CPRD_GOLD
+68819,Congenital redundant rectal mucosa,PB52z11,null,CPRD_GOLD
+69243,Duplication of intestine NOS,PB52z00,null,CPRD_GOLD
+69684,Congenital omental adhesions,PB40000,null,CPRD_GOLD
+69712,Congenital stenosis of ileum,PB13200,null,CPRD_GOLD
+70579,Small intestine atresia NOS,PB10z00,null,CPRD_GOLD
+70582,Hirschsprung's disease NOS,PB30z00,null,CPRD_GOLD
+70711,Duplication of cystic duct,PB64100,null,CPRD_GOLD
+70868,Short segment Hirschsprung's disease,PB30100,null,CPRD_GOLD
+71358,Other specified digestive system anomalies,PBy..00,null,CPRD_GOLD
+72000,Congenital cystic liver disease NOS,PB62z00,null,CPRD_GOLD
+72186,Intestinal fixation anomaly NOS,PB4z.00,null,CPRD_GOLD
+72209,Dislocation of tongue,PA16.00,null,CPRD_GOLD
+72991,Other congenital upper alimentary tract anomalies,PA...00,null,CPRD_GOLD
+73044,Digestive system anomalies NOS,PBz..00,null,CPRD_GOLD
+73497,Congenital stricture of anus NOS,PB24z00,null,CPRD_GOLD
+74903,[X]Other congenital malformations of mouth,Pyu5200,null,CPRD_GOLD
+88890,Congenital stenosis of rectum with fistula,PB25011,null,CPRD_GOLD
+89035,Fibreoptic endoscopic dilation of web of oesophagus,760D400,null,CPRD_GOLD
+90483,Congenital occlusion of anus,PB23.00,null,CPRD_GOLD
+92822,Excision of tracheooesophageal fistula,7606011,null,CPRD_GOLD
+93429,Dilation of web of oesophagus using rigid oesophagoscope,760G400,null,CPRD_GOLD
+93826,Congenital absence of anus with fistula,PB20300,null,CPRD_GOLD
+93912,Division of annular pancreas,7838000,null,CPRD_GOLD
+94116,Other congenital anomaly of hepatic or bile ducts,PB6yy00,null,CPRD_GOLD
+94813,Aganglionosis,PB3..11,null,CPRD_GOLD
+95311,Congenital oesophageal fistula NOS,PA32z00,null,CPRD_GOLD
+95810,Congenital stricture of bile duct,PB61300,null,CPRD_GOLD
+96239,Other specified mouth and pharynx anomalies,PA2..00,null,CPRD_GOLD
+99366,Congenital stenosis of small intestine NOS,PB13z00,null,CPRD_GOLD
+99447,Hypoplasia of gallbladder,PB6y500,null,CPRD_GOLD
+99653,Atresia of appendix,PB21300,null,CPRD_GOLD
+101348,Congenital occlusion of anus with fistula,PB23000,null,CPRD_GOLD
+104752,Congenital diverticulum of bile duct,PB6y800,null,CPRD_GOLD
+101593,Double tongue,PA13.12,null,CPRD_GOLD
+111515,[X]Cong absence/atresia/stenos oth spec parts small intest,Pyu5700,null,CPRD_GOLD
+113533,Congenital giant colon NEC,PB31.11,null,CPRD_GOLD
+114577,Congenital absence of small intestine,PB11.00,null,CPRD_GOLD

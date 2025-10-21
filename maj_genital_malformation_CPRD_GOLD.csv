@@ -1,0 +1,80 @@
+MEDICAL_CODE_ID,DESCRIPTION,READ_CODE,SNOMED_CT_CODE,DATABASE
+2912,Hypospadias,PC60.00,null,CPRD_GOLD
+3313,Bicornuate uterus,PC33.00,null,CPRD_GOLD
+5745,Embryonic cyst of fallopian tube and broad ligament,PC11.00,null,CPRD_GOLD
+31397,Doubling of vagina,PCyB.00,null,CPRD_GOLD
+7461,[X]Other specified congenit malform of male genital organs,Pyu6B00,null,CPRD_GOLD
+34210,Bicornuate uterus affecting obstetric care,L240011,null,CPRD_GOLD
+36724,Aplasia of uterus,PC32.00,null,CPRD_GOLD
+45451,Bicornuate uterus - baby delivered + postpartum complication,L240211,null,CPRD_GOLD
+48850,[X]Other congenital malformations of testis and scrotum,Pyu6800,null,CPRD_GOLD
+49246,46XX true hermaphrodite,PJyy100,null,CPRD_GOLD
+49245,Congenital absence of penis,PCy0000,null,CPRD_GOLD
+49789,Double uterus in pregnancy, childbirth and the puerperium,L240.12,null,CPRD_GOLD
+51726,Hypoplasia of scrotum,PCy2200,null,CPRD_GOLD
+57744,Hypospadias, female,PDyz100,null,CPRD_GOLD
+57747,Congenital absence of clitoris,PC4y200,null,CPRD_GOLD
+64385,[X]Other congenital malformations of vagina,Pyu6400,null,CPRD_GOLD
+70840,Bicornuate uterus complicating a/n care, baby not delivered,L240311,null,CPRD_GOLD
+91599,[X]Other congenital malformations of uterus and cervix,Pyu6300,null,CPRD_GOLD
+93135,Pseudohermaphrodite, male with adrenocortical disorder,C152814,null,CPRD_GOLD
+97489,Embryonic cyst of cervix,PC41300,null,CPRD_GOLD
+97883,False hermaphrodite,PC7z111,null,CPRD_GOLD
+112548,Nephrotic syndrome with pseudohermaphroditism,K01w111,null,CPRD_GOLD
+113523,Chimera 46XX/46XY, true hermaphrodite,PJyy011,null,CPRD_GOLD
+1210,Doubling of uterus,PC2..00,null,CPRD_GOLD
+3441,Other hypospadias repair,7B41000,null,CPRD_GOLD
+4339,Congenital aplasia of testicle,PCy1200,null,CPRD_GOLD
+6633,Congenital chordee,PC62.00,null,CPRD_GOLD
+8653,Hypospadias, penile,PC60000,null,CPRD_GOLD
+9690,Hypoplasia of testis,PCy2100,null,CPRD_GOLD
+11036,MAGPI hypospadias repair,7B41700,null,CPRD_GOLD
+11142,Denis - Browne hypospadias repair,7B41013,null,CPRD_GOLD
+18410,Plastic operations on penis,7C22.00,null,CPRD_GOLD
+18716,Hypospadias, glandular,PC60312,null,CPRD_GOLD
+20410,Repair of urethra,7B41.00,null,CPRD_GOLD
+22190,Uterus unicornis,PC34.00,null,CPRD_GOLD
+22511,Hypospadias, glanular,PC60311,null,CPRD_GOLD
+24238,First stage hypospadias repair,7B41017,null,CPRD_GOLD
+27316,Doubling of uterus, unspecified,PC20.00,null,CPRD_GOLD
+27395,Indeterminate sex and pseudohermaphroditism,PC7..00,null,CPRD_GOLD
+28225,Bicornuate uterus in pregnancy, childbirth and puerperium,L240.11,null,CPRD_GOLD
+28912,Congenital absence of testis, unilateral,PCy5.11,null,CPRD_GOLD
+29508,Indeterminate sex NOS,PC7z000,null,CPRD_GOLD
+29709,Second stage hypospadias repair,7B41018,null,CPRD_GOLD
+31327,Bicornuate uterus - baby delivered,L240111,null,CPRD_GOLD
+33252,Congenital absence of vagina,PC4y400,null,CPRD_GOLD
+35051,Plastic operation on penis NOS,7C22z00,null,CPRD_GOLD
+36187,Duckett hypospadias repair,7B41800,null,CPRD_GOLD
+37434,Other congenital anomaly of clitoris,PC4yy00,null,CPRD_GOLD
+37920,Ombredanne hypospadias repair,7B41014,null,CPRD_GOLD
+38541,[X]Other specified congenital malform of female genitalia,Pyu6600,null,CPRD_GOLD
+39115,Rectovaginal fistula, congenital,PC43.00,null,CPRD_GOLD
+40156,Hypospadias, balanic,PC60300,null,CPRD_GOLD
+40232,Other specified plastic operation on penis,7C22y00,null,CPRD_GOLD
+42571,Congenital absence of ovary,PC00.00,null,CPRD_GOLD
+44116,Hypospadias, penoscrotal,PC60100,null,CPRD_GOLD
+46264,True hermaphroditism,PC70.00,null,CPRD_GOLD
+46449,Agenesis of uterus,PC31.00,null,CPRD_GOLD
+47515,Hypospadias and epispadias,PC6..00,null,CPRD_GOLD
+48532,Pseudohermaphrodite NOS,PC7z100,null,CPRD_GOLD
+50066,Indeterminate sex or pseudohermaphroditism NOS,PC7z.00,null,CPRD_GOLD
+52508,Congenital torsion of ovary,PC05.00,null,CPRD_GOLD
+53312,Congenital absence of both testes,PCy4.11,null,CPRD_GOLD
+54216,Male pseudohermaphroditism,PC71.00,null,CPRD_GOLD
+55579,Young hypospadias repair,7B41016,null,CPRD_GOLD
+56096,Doubling of uterus, including cervix and vagina,PC22.00,null,CPRD_GOLD
+56542,Bicornuate uterus in pregnancy, childbirth or puerperium NOS,L240z11,null,CPRD_GOLD
+59186,Hypospadias, perineal,PC60200,null,CPRD_GOLD
+64539,Female pseudohermaphroditism,PC72.00,null,CPRD_GOLD
+64895,Agenesis of cervix,PC4y100,null,CPRD_GOLD
+65156,Van der Meulen hypospadias repair,7B41015,null,CPRD_GOLD
+66442,Hypospadias or epispadias NOS,PC6z.00,null,CPRD_GOLD
+71718,Other specified repair of urethra,7B41y00,null,CPRD_GOLD
+71899,Byars hypospadias repair,7B41011,null,CPRD_GOLD
+72662,Embryonic cyst of fallopian tube or broad ligament NOS,PC11z00,null,CPRD_GOLD
+73444,Doubling of uterus NOS,PC2z.00,null,CPRD_GOLD
+95648,[X]Other specified hypospadias,Pyu6700,null,CPRD_GOLD
+104506,Absent testes,1AK..00,null,CPRD_GOLD
+108922,Wilms' tumour + nephrotic syndrome + pseudohermaphroditism,K01w112,null,CPRD_GOLD
+111591,[X]Other congenital malformations of penis,Pyu6A00,null,CPRD_GOLD

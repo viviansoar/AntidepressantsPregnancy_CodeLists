@@ -1,0 +1,73 @@
+MEDICAL_CODE_ID,DESCRIPTION,READ_CODE,SNOMED_CT_CODE,DATABASE
+M231,Discoid meniscus (congenital),M23.1,,ICD10
+M2310,Discoid meniscus (congenital),M23.10,,ICD10
+M2311,Discoid meniscus (congenital),M23.11,,ICD10
+M2312,Discoid meniscus (congenital),M23.12,,ICD10
+M2313,Discoid meniscus (congenital),M23.13,,ICD10
+M2314,Discoid meniscus (congenital),M23.14,,ICD10
+M2315,Discoid meniscus (congenital),M23.15,,ICD10
+M2316,Discoid meniscus (congenital),M23.16,,ICD10
+M2319,Discoid meniscus (congenital),M23.19,,ICD10
+Q046,Congenital cerebral cysts,Q04.6,,ICD10
+Q06,Other congenital malformations of spinal cord,Q06,,ICD10
+Q068,Other specified congenital malformations of spinal cord,Q06.8,,ICD10
+Q069,Congenital malformation of spinal cord, unspecified,Q06.9,,ICD10
+Q270,Congenital absence and hypoplasia of umbilical artery,Q27.0,,ICD10
+Q271,Congenital renal artery stenosis,Q27.1,,ICD10
+Q272,Other congenital malformations of renal artery,Q27.2,,ICD10
+Q273,Peripheral arteriovenous malformation,Q27.3,,ICD10
+Q274,Congenital phlebectasia,Q27.4,,ICD10
+Q28,Other congenital malformations of circulatory system,Q28,,ICD10
+Q280,Arteriovenous malformation of precerebral vessels,Q28.0,,ICD10
+Q282,Arteriovenous malformation of cerebral vessels,Q28.2,,ICD10
+Q288,Other specified congenital malformations of circulatory system,Q28.8,,ICD10
+Q289,Congenital malformation of circulatory system, unspecified,Q28.9,,ICD10
+Q30,Congenital malformations of nose,Q30,,ICD10
+Q301,Agenesis and underdevelopment of nose,Q30.1,,ICD10
+Q303,Congenital perforated nasal septum,Q30.3,,ICD10
+Q308,Other congenital malformations of nose,Q30.8,,ICD10
+Q309,Congenital malformation of nose, unspecified,Q30.9,,ICD10
+Q31,Congenital malformations of larynx,Q31,,ICD10
+Q310,Web of larynx,Q31.0,,ICD10
+Q312,Laryngeal hypoplasia,Q31.2,,ICD10
+Q313,Laryngocele,Q31.3,,ICD10
+Q315,Congenital laryngomalacia,Q31.5,,ICD10
+Q318,Other congenital malformations of larynx,Q31.8,,ICD10
+Q319,Congenital malformation of larynx, unspecified,Q31.9,,ICD10
+Q67,Congenital musculoskeletal deformities of head, face, spine and chest,Q67,,ICD10
+Q674,Other congenital deformities of skull, face and jaw,Q67.4,,ICD10
+Q675,Congenital deformity of spine,Q67.5,,ICD10
+Q68,Other congenital musculoskeletal deformities,Q68,,ICD10
+Q688,Other specified congenital musculoskeletal deformities,Q68.8,,ICD10
+Q75,Other congenital malformations of skull and face bones,Q75,,ICD10
+Q750,Craniosynostosis,Q75.0,,ICD10
+Q753,Macrocephaly,Q75.3,,ICD10
+Q758,Other specified congenital malformations of skull and face bones,Q75.8,,ICD10
+Q759,Congenital malformation of skull and face bones, unspecified,Q75.9,,ICD10
+Q76,Congenital malformations of spine and bony thorax,Q76,,ICD10
+Q760,Spina bifida occulta,Q76.0,,ICD10
+Q762,Congenital spondylolisthesis,Q76.2,,ICD10
+Q763,Congenital scoliosis due to congenital bony malformation,Q76.3,,ICD10
+Q764,Other congenital malformations of spine, not associated with scoliosis,Q76.4,,ICD10
+Q767,Congenital malformation of sternum,Q76.7,,ICD10
+Q79,Congenital malformations of the musculoskeletal system, not elsewhere classified,Q79,,ICD10
+Q798,Other congenital malformations of musculoskeletal system,Q79.8,,ICD10
+Q799,Congenital malformation of musculoskeletal system, unspecified,Q79.9,,ICD10
+Q82,Other congenital malformations of skin,Q82,,ICD10
+Q828,Other specified congenital malformations of skin,Q82.8,,ICD10
+Q829,Congenital malformation of skin, unspecified,Q82.9,,ICD10
+Q83,Congenital malformations of breast,Q83,,ICD10
+Q830,Congenital absence of breast with absent nipple,Q83.0,,ICD10
+Q831,Accessory breast,Q83.1,,ICD10
+Q838,Other congenital malformations of breast,Q83.8,,ICD10
+Q839,Congenital malformation of breast, unspecified,Q83.9,,ICD10
+Q84,Other congenital malformations of integument,Q84,,ICD10
+Q840,Congenital alopecia,Q84.0,,ICD10
+Q842,Other congenital malformations of hair,Q84.2,,ICD10
+Q843,Anonychia,Q84.3,,ICD10
+Q845,Enlarged and hypertrophic nails,Q84.5,,ICD10
+Q846,Other congenital malformations of nails,Q84.6,,ICD10
+Q848,Other specified congenital malformations of integument,Q84.8,,ICD10
+Q849,Congenital malformation of integument, unspecified,Q84.9,,ICD10
+Q893,Situs inversus,Q89.3,,ICD10
+Q894,Conjoined twins,Q89.4,,ICD10

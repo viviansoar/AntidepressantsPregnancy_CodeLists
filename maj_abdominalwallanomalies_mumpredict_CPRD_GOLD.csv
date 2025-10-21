@@ -1,0 +1,15 @@
+MEDICAL_CODE_ID,DESCRIPTION,READ_CODE,SNOMED_CT_CODE,DATABASE
+99515,Unspecified omphalocoele,J32y000,null,CPRD_GOLD
+100368,Omphalocele with obstruction,J321000,null,CPRD_GOLD
+113109,Omphalocoele with gangrene,J320000,null,CPRD_GOLD
+115065,[X]Other congenital malformations of abdominal wall,Pyu8L00,null,CPRD_GOLD
+5716,Other repair of anterior abdominal wall NOS,7H19z00,null,CPRD_GOLD
+15593,Gastroschisis,PG71.00,null,CPRD_GOLD
+18063,Abdominal wall anomalies,PG7..00,null,CPRD_GOLD
+22883,Exomphalos,PG70.00,null,CPRD_GOLD
+35924,Closure of exomphalos,7H19511,null,CPRD_GOLD
+38418,Omphalocele,J32..11,null,CPRD_GOLD
+39313,Other repair of anterior abdominal wall,7H19.00,null,CPRD_GOLD
+42590,Simple omphalocoele,J323000,null,CPRD_GOLD
+44634,Other specified anomaly of abdominal wall,PG7y.00,null,CPRD_GOLD
+47060,Abdominal wall anomaly NOS,PG7z.00,null,CPRD_GOLD

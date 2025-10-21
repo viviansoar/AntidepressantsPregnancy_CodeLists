@@ -1,0 +1,52 @@
+MEDICAL_CODE_ID,DESCRIPTION,READ_CODE,SNOMED_CT_CODE,DATABASE
+Q50,Congenital malformations of ovaries, fallopian tubes and broad ligaments,Q50,,ICD10
+Q500,Congenital absence of ovary,Q50.0,,ICD10
+Q502,Congenital torsion of ovary,Q50.2,,ICD10
+Q503,Other congenital malformations of ovary,Q50.3,,ICD10
+Q504,Embryonic cyst of fallopian tube,Q50.4,,ICD10
+Q505,Embryonic cyst of broad ligament,Q50.5,,ICD10
+Q506,Other congenital malformations of fallopian tube and broad ligament,Q50.6,,ICD10
+Q51,Congenital malformations of uterus and cervix,Q51,,ICD10
+Q510,Agenesis and aplasia of uterus,Q51.0,,ICD10
+Q511,Doubling of uterus with doubling of cervix and vagina,Q51.1,,ICD10
+Q512,Other doubling of uterus,Q51.2,,ICD10
+Q513,Bicornate uterus,Q51.3,,ICD10
+Q514,Unicornate uterus,Q51.4,,ICD10
+Q515,Agenesis and aplasia of cervix,Q51.5,,ICD10
+Q516,Embryonic cyst of cervix,Q51.6,,ICD10
+Q517,Congenital fistulae between uterus and digestive and urinary tracts,Q51.7,,ICD10
+Q518,Other congenital malformations of uterus and cervix,Q51.8,,ICD10
+Q519,Congenital malformation of uterus and cervix, unspecified,Q51.9,,ICD10
+Q52,Other congenital malformations of female genitalia,Q52,,ICD10
+Q520,Congenital absence of vagina,Q52.0,,ICD10
+Q521,Doubling of vagina,Q52.1,,ICD10
+Q522,Congenital rectovaginal fistula,Q52.2,,ICD10
+Q524,Other congenital malformations of vagina,Q52.4,,ICD10
+Q526,Congenital malformation of clitoris,Q52.6,,ICD10
+Q528,Other specified congenital malformations of female genitalia,Q52.8,,ICD10
+Q529,Congenital malformation of female genitalia, unspecified,Q52.9,,ICD10
+Q54,Hypospadias,Q54,,ICD10
+Q540,Hypospadias, balanic,Q54.0,,ICD10
+Q541,Hypospadias, penile,Q54.1,,ICD10
+Q542,Hypospadias, penoscrotal,Q54.2,,ICD10
+Q543,Hypospadias, perineal,Q54.3,,ICD10
+Q544,Congenital chordee,Q54.4,,ICD10
+Q548,Other hypospadias,Q54.8,,ICD10
+Q549,Hypospadias, unspecified,Q54.9,,ICD10
+Q55,Other congenital malformations of male genital organs,Q55,,ICD10
+Q550,Absence and aplasia of testis,Q55.0,,ICD10
+Q551,Hypoplasia of testis and scrotum,Q55.1,,ICD10
+Q552,Other congenital malformations of testis and scrotum,Q55.2,,ICD10
+Q553,Atresia of vas deferens,Q55.3,,ICD10
+Q554,Other congenital malformations of vas deferens, epididymis, seminal vesicles and prostate,Q55.4,,ICD10
+Q555,Congenital absence and aplasia of penis,Q55.5,,ICD10
+Q556,Other congenital malformations of penis,Q55.6,,ICD10
+Q558,Other specified congenital malformations of male genital organs,Q55.8,,ICD10
+Q559,Congenital malformation of male genital organ, unspecified,Q55.9,,ICD10
+Q56,Indeterminate sex and pseudohermaphroditism,Q56,,ICD10
+Q560,Hermaphroditism, not elsewhere classified,Q56.0,,ICD10
+Q561,Male pseudohermaphroditism, not elsewhere classified,Q56.1,,ICD10
+Q562,Female pseudohermaphroditism, not elsewhere classified,Q56.2,,ICD10
+Q563,Pseudohermaphroditism, unspecified,Q56.3,,ICD10
+Q564,Indeterminate sex, unspecified,Q56.4,,ICD10
+Q991,46,XX true hermaphrodite,Q99.1,,ICD10

@@ -1,0 +1,108 @@
+MEDICAL_CODE_ID,DESCRIPTION,READ_CODE,SNOMED_CT_CODE,DATABASE
+497890010,Congenital absence of auricle,P401300,57436000,CPRD_AURUM
+378221000000114,Attachment of auricular prosthesis NOS,7308z00,426991006,CPRD_AURUM
+3198571000006114,Congenital malformation of inner ear,null,43353004,CPRD_AURUM
+487231000000112,Second stage insertion of fixtures for auricular prosthesis,7308800,234441000000102,CPRD_AURUM
+378361000000110,Insertion of fixtures for auricular prosthesis Stage 2,7308100,234441000000102,CPRD_AURUM
+12490601000006111,First stage insertion of fixtures for auricular prosthesis,,234431000000106,CPRD_AURUM
+12490611000006114,Second stage insertion of fixtures for auricular prosthesis,,234441000000102,CPRD_AURUM
+3433411000006115,Congenital absence of ear auricle,,57436000,CPRD_AURUM
+4011711000006114,Congenital malformation of inner ear,,92918008,CPRD_AURUM
+8073401000006114,Insertion of fixture for auricular prosthesis stage 2,,234441000000102,CPRD_AURUM
+8073371000006111,Second stage insertion of fixture for auricular prosthesis,,234441000000102,CPRD_AURUM
+12490301000006117,Insertion of fixtures for auricular prosthesis Stage 2,,234441000000102,CPRD_AURUM
+3382461000006114,Congenital abnormal fusion of auditory ossicles,,54386000,CPRD_AURUM
+5571281000006111,Congenital anomaly of ear,,275259005,CPRD_AURUM
+12490291000006118,Insertion of fixtures for auricular prosthesis Stage 1,,234431000000106,CPRD_AURUM
+8073361000006116,Insertion of fixture for auricular prosthesis stage 1,,234431000000106,CPRD_AURUM
+3382451000006112,Congenital fixation of auditory ossicles,,54386000,CPRD_AURUM
+3382471000006119,Congenital fused auditory ossicles,,54386000,CPRD_AURUM
+3723241000006114,Congenital absence of eustachian tube,,75231006,CPRD_AURUM
+12705231000006117,First stage insertion of fixtures for auricular prosthesis,,234431000000106,CPRD_AURUM
+892861000006115,Webbing of neck,P45z.99,588171000000109,CPRD_AURUM
+313244018,Congenital absence of chin,P4y4.00,204285005,CPRD_AURUM
+3382441000006110,Congenital fusion of ossicles of ear,,54386000,CPRD_AURUM
+8073331000006113,First stage insertion of fixture for auricular prosthesis,,234431000000106,CPRD_AURUM
+12721551000006119,Congenital face or neck anomaly NOS,,588191000000108,CPRD_AURUM
+385321000000115,Reduction of soft tissue for auricular prosthesis,7308200,237841000000108,CPRD_AURUM
+124946018,Congenital absence of eustachian tube,P423000,75231006,CPRD_AURUM
+2916941000006118,Congenital absence of external auditory canal,,26061003,CPRD_AURUM
+12722811000006114,Other specified face and neck anomalies,,627751000000103,CPRD_AURUM
+12721541000006116,Congenital webbing of neck NOS,,588171000000109,CPRD_AURUM
+313168015,Middle ear anomaly NEC NOS,P403z00,204233008,CPRD_AURUM
+400791015,Other and unspecified ear anomaly with hearing impaired,P40z.00,204224006,CPRD_AURUM
+313187014,Other specified ear anomalies,P42..00,275259005,CPRD_AURUM
+394033016,Reconstruction of external auditory canal,7306100,265303002,CPRD_AURUM
+95517017,Congenital absence of external ear,P401.00,57436000,CPRD_AURUM
+313194012,Other specified ear anomalies NOS,P42z.00,275259005,CPRD_AURUM
+313165017,Middle ear anomaly, excluding ossicles,P403.00,204233008,CPRD_AURUM
+579081000006118,Congenital absence of ear NOS,P40z000,275259005,CPRD_AURUM
+313171011,Inner ear anomalies NOS,P405z00,232297009,CPRD_AURUM
+400787013,Ear auricle and external auditory canal absent,P401200,268166000,CPRD_AURUM
+315672018,[X]Congenital malformation of inner ear,Pyu1A00,92918008,CPRD_AURUM
+221821000000111,Congenital absence ear auricle,P401211,57436000,CPRD_AURUM
+3198561000006119,Congenital anomaly of inner ear,null,43353004,CPRD_AURUM
+5571261000006118,Malformation of ear,,275259005,CPRD_AURUM
+313246016,Congenital face or neck anomaly NOS,P4z..00,66091009,CPRD_AURUM
+313189012,Eustachian tube anomalies,P423.00,204250005,CPRD_AURUM
+199451000000110,Mid-facial hypoplasia,P4y5.00,112871000000108,CPRD_AURUM
+313238017,Congenital webbing of neck NOS,P45z.00,11731003,CPRD_AURUM
+4824071000006114,Congenital abnormality of Eustachian tube,,204250005,CPRD_AURUM
+2686861000006114,Neck webbing,,11731003,CPRD_AURUM
+2852681000006116,Congenital absence of ear lobe,,22138001,CPRD_AURUM
+774861000006118,Inner ear anomalies,P405.00,92918008,CPRD_AURUM
+313147016,Ear, face and neck congenital anomalies,P4...00,204223000,CPRD_AURUM
+313247013,Congenital anomaly of neck NOS,P4z0.00,40052002,CPRD_AURUM
+483098015,Absence of external auditory canal,P401100,26061003,CPRD_AURUM
+385301000000112,Attention to fixtures for auricular prosthesis,7308300,237831000000104,CPRD_AURUM
+2478752012,Congenital fusion of ear ossicles,P404000,54386000,CPRD_AURUM
+5241291000006117,Absence of ear canal,,247249003,CPRD_AURUM
+3734571000006119,Congenital abnormality of ear ossicles,,75922002,CPRD_AURUM
+313245017,Other specified face and neck anomalies NOS,P4yz.00,66091009,CPRD_AURUM
+313193018,Eustachian tube anomalies NOS,P423z00,204250005,CPRD_AURUM
+313170012,Anomaly of ossicles NOS,P404z00,75922002,CPRD_AURUM
+315671013,[X]Other congenital malformations of middle ear,Pyu1900,21905007,CPRD_AURUM
+313236018,Congenital neck webbing, unspecified,P450.00,11731003,CPRD_AURUM
+313158013,Absence of external ear NOS,P401z00,49130001,CPRD_AURUM
+400786016,Congenital absence of external ear, unspecified,P401000,57436000,CPRD_AURUM
+5722241000006113,Congenital anomaly of nervous system of head/neck,,287080001,CPRD_AURUM
+4649941000006112,Reconstruction of external auditory canal,,172608009,CPRD_AURUM
+5724411000006117,Meatal atresia of ear corrected,,287403006,CPRD_AURUM
+377153018,Deafness due to congenital anomaly NEC,P40z.11,204224006,CPRD_AURUM
+313209015,Other ear anomalies NOS,P42zz00,232217008,CPRD_AURUM
+138743017,Mandibular micrognathism,J040300,32958008,CPRD_AURUM
+315675016,[X]Other specified congenital malformations of ear,Pyu1D00,275259005,CPRD_AURUM
+313166016,Ear osseous meatus atresia,P403000,204234002,CPRD_AURUM
+5571251000006115,Congenital malformation of ear,,275259005,CPRD_AURUM
+892871000006110,Cong. anomaly face/neck NOS,P4z..99,588191000000108,CPRD_AURUM
+45637010,Maxillary micrognathism,J040800,27299009,CPRD_AURUM
+3734561000006114,Congenital anomaly of ossicles of ear,,75922002,CPRD_AURUM
+55020012,Micrognathism,J040.15,32958008,CPRD_AURUM
+377155013,Absence of ear NOS,P401011,275259005,CPRD_AURUM
+313177010,Ear anomaly with hearing impaired NOS,P40zz00,204224006,CPRD_AURUM
+2675907012,Attachment of auricular prosthesis,7308.00,426991006,CPRD_AURUM
+396151000006111,[X]Malformation of ear with impairment of hearing, unspec,Pyu1B00,111339003,CPRD_AURUM
+315661011,[X]Congenital malformations of eye, ear, face and neck,Pyu1.00,204223000,CPRD_AURUM
+313239013,Other specified face and neck anomalies,P4y..00,66091009,CPRD_AURUM
+313159017,Other external ear anomaly with hearing impairment,P402.00,25906001,CPRD_AURUM
+313192011,Congenital stenosis of eustachian tube,P423100,204252002,CPRD_AURUM
+383601000000115,Other specified attachment of auricular prosthesis,7308y00,426991006,CPRD_AURUM
+313210013,Congenital ear anomaly NOS,P43..00,275259005,CPRD_AURUM
+302048013,Micrognathism unspecified,J040B00,32958008,CPRD_AURUM
+1222714015,Congenital ear lobe absence,P420.00,22138001,CPRD_AURUM
+3725331000006113,Congenital atresia of external auditory canal,,75355004,CPRD_AURUM
+313248015,Congenital anomaly of face NOS,P4z1.00,66091009,CPRD_AURUM
+3030631000006111,Congenital micrognathism,,32958008,CPRD_AURUM
+278166017,Release of webbing of neck,7K6T000,179835003,CPRD_AURUM
+20263017,Pterygium colli,P451.00,11731003,CPRD_AURUM
+313164018,Other external ear anomaly with hearing impairment NOS,P402z00,25906001,CPRD_AURUM
+313149018,Ear anomalies with hearing impaired, unspecified,P400.00,204224006,CPRD_AURUM
+313148014,Ear anomalies with hearing impairment,P40..00,204224006,CPRD_AURUM
+502992019,Atresia of external auditory canal,P402000,75355004,CPRD_AURUM
+503152010,Anomaly of ossicles,P404.00,75922002,CPRD_AURUM
+20264011,Congenital webbing of neck,P45..00,11731003,CPRD_AURUM
+860101000006110,Meatal atresia corrected - ear,7302399,172608009,CPRD_AURUM
+242881000006114,Pattee reconstruction of external auditory canal,7306111,265303002,CPRD_AURUM
+378341000000114,Insertion of fixtures for auricular prosthesis Stage 1,7308000,234431000000106,CPRD_AURUM
+487221000000110,First stage insertion of fixtures for auricular prosthesis,7308700,234431000000106,CPRD_AURUM
+3015411000006115,Congenital anomaly of face bones,,32003007,CPRD_AURUM

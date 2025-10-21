@@ -1,0 +1,151 @@
+MEDICAL_CODE_ID,DESCRIPTION,READ_CODE,SNOMED_CT_CODE,DATABASE
+305331019,Incomplete spontaneous abortion with embolism,L041600,198650006,CPRD_AURUM
+305316011,Unspecified spontaneous abortion with metabolic disorder,L040400,13384007,CPRD_AURUM
+305318012,Unspecified spontaneous abortion with embolism,L040600,43306002,CPRD_AURUM
+782261000006117,Incomplete inevitable abortion complicated by embolism,L044200,307746006,CPRD_AURUM
+729141000006111,Incomp inev abor comp by genital tract and pelvic infection,L044000,307749004,CPRD_AURUM
+81371000006112,Unspec inev abor comp by genital tract and pelvic infect,L043000,59363009,CPRD_AURUM
+5721361000006111,Blighted ovum and/or carneous mole,,286996009,CPRD_AURUM
+2670041000006110,Spontaneous abortion complicated by renal failure,,10697004,CPRD_AURUM
+2543241000006119,Miscarriage complicated by delayed and/or excessive haemorrhage,,2781009,CPRD_AURUM
+4793281000006111,Complete spontaneous abortion with delayed or excessive hemorrhage,,198656000,CPRD_AURUM
+2712071000006117,Spontaneous abortion complicated by metabolic disorder,,13384007,CPRD_AURUM
+5972341000006110,Incomplete inevitable abortion complicated by delayed or excessive hemorrhage,,307752007,CPRD_AURUM
+12451311000006116,Spontaneous misc 8-28 weeks,,184339009,CPRD_AURUM
+3197781000006118,Spontaneous abortion complicated by embolism,,43306002,CPRD_AURUM
+3057281000006113,Spontaneous abortion with complication,,34614007,CPRD_AURUM
+11903041000006114,Unspec spontaneous abortion + other specified complication,,34614007,CPRD_AURUM
+4731131000006114,Miscarriage at 8 to 28 weeks,,184339009,CPRD_AURUM
+2543271000006110,Miscarriage complicated by delayed and/or excessive hemorrhage,,2781009,CPRD_AURUM
+2763271000006115,Fetal death before 22 weeks with retention of dead fetus,,16607004,CPRD_AURUM
+2543251000006117,Spontaneous abortion complicated by delayed AND/OR excessive hemorrhage,,2781009,CPRD_AURUM
+5972241000006115,Incomplete inevitable miscarriage complicated by embolism,,307746006,CPRD_AURUM
+451099014,Unspecified inevitable abortion complicated by embolism,L043200,59363009,CPRD_AURUM
+12757771000006110,Incomplete spontaneous abortion,,16863000,CPRD_AURUM
+12757761000006115,Incomplete miscarriage,,16863000,CPRD_AURUM
+305328015,Incomplete spontaneous abortion with renal failure,L041300,198647008,CPRD_AURUM
+576181000006110,Complete spontaneous abortion + pelvic organ/tissue damage,L042200,198657009,CPRD_AURUM
+4793081000006116,Incomplete spontaneous abortion with delayed or excessive hemorrhage,,198645000,CPRD_AURUM
+2763281000006117,MA - Missed abortion,,16607004,CPRD_AURUM
+5972191000006115,Complete inevitable abortion complicated by delayed or excessive hemorrhage,,307735008,CPRD_AURUM
+2543261000006115,Spontaneous abortion complicated by delayed AND/OR excessive haemorrhage,,2781009,CPRD_AURUM
+451106012,Incomplete inevitable abortion complicated by embolism,L044211,307746006,CPRD_AURUM
+1227351016,Unspecified inevitable miscarriage complicated by embolism,L043211,59363009,CPRD_AURUM
+2763301000006118,Foetal death before 22 weeks with retention of dead foetus,,16607004,CPRD_AURUM
+4731151000006119,Spontaneous abortion at 8 to 28 weeks,,184339009,CPRD_AURUM
+6839881000006112,Incomplete spontaneous abortion with complication,,413338003,CPRD_AURUM
+305315010,Unspecified spontaneous abortion with renal failure,L040300,10697004,CPRD_AURUM
+81541000006113,Unspec spontaneous abortion + pelvic organ/tissue damage,L040200,58990004,CPRD_AURUM
+12716171000006116,Incomplete abortion,,16863000,CPRD_AURUM
+1221382012,Missed miscarriage,L02..11,16607004,CPRD_AURUM
+305305016,Spontaneous abortion unspecified,L040.00,17369002,CPRD_AURUM
+75030019,Carneous mole,L011.00,44979007,CPRD_AURUM
+576161000006117,Complete spontaneous abortion + no mention of complication,L042y00,156073000,CPRD_AURUM
+782311000006112,Incomplete inevitable miscarriage with other specified comp,L044y11,307737000,CPRD_AURUM
+3519381000006119,Surgical treatment of miscarriage of any trimester,,62688006,CPRD_AURUM
+305349019,Complete spontaneous abortion with complication NOS,L042x00,156073000,CPRD_AURUM
+7383561000006113,Notification of miscarriage,,450810001,CPRD_AURUM
+781651000006112,Incomplete spontaneous abortion + pelvic organ/tissue damage,L041200,198646004,CPRD_AURUM
+305317019,Unspecified spontaneous abortion with shock,L040500,17369002,CPRD_AURUM
+305345013,Complete spontaneous abortion with shock,L042500,198661003,CPRD_AURUM
+28094011,Missed abortion,L02..00,16607004,CPRD_AURUM
+305499016,Unspecified abortion incomplete,L071.00,156072005,CPRD_AURUM
+780711000006112,Inevitable miscarriage incomp,L044.11,307737000,CPRD_AURUM
+398326018,Incomplete spontaneous abortion NOS,L041z00,156072005,CPRD_AURUM
+451085010,Inevitable abortion complete,L045.00,307733001,CPRD_AURUM
+729161000006110,Incomp spontaneous abortion + delayed/excessive haemorrhage,L041100,198645000,CPRD_AURUM
+451105011,Incomplete inevitable abortion with unspecified complication,L044x00,307737000,CPRD_AURUM
+2793531000006117,Surgical treatment of missed miscarriage of first trimester,,18489003,CPRD_AURUM
+782011000006110,Incomp spontaneous abortion + genital tract/pelvic infection,L041000,198644001,CPRD_AURUM
+81391000006113,Unspec inevit abortion comp by delayed or excessive haemorr,L043100,198645000,CPRD_AURUM
+782021000006119,Incomp spontaneous abortion + other specified complication,L041w00,156072005,CPRD_AURUM
+576191000006113,Complete spontaneous abortion +delayed/excessive haemorrhage,L042100,198656000,CPRD_AURUM
+81511000006114,Unspec spontaneous abortion + delayed/excessive haemorrhage,L040100,17369002,CPRD_AURUM
+81381000006110,Unspec inev miscarriage comp by genital tract pelvic infec,L043011,59363009,CPRD_AURUM
+76811000006113,Unspecified incomplete abortion + delayed/excess haemorrhage,L071100,198645000,CPRD_AURUM
+2611551000006119,Fetal demise from miscarriage,,7000009,CPRD_AURUM
+305344012,Complete spontaneous abortion with metabolic disorder,L042400,198660002,CPRD_AURUM
+4793291000006114,Complete miscarriage with delayed or excessive haemorrhage,,198656000,CPRD_AURUM
+60067012,Blighted ovum,L010.00,35999006,CPRD_AURUM
+451094016,Inevitable abortion incomplete,L044.00,307737000,CPRD_AURUM
+780721000006116,Inevitable miscarriage unspecified,L043.11,59363009,CPRD_AURUM
+451097011,Complete inevitable abortion without complication,L045z00,307738005,CPRD_AURUM
+887641000006119,Blighted ovum - carneous mole,L010.99,35999006,CPRD_AURUM
+575951000006112,Complete inevitable miscarriage with unspecified comp,L045x11,307733001,CPRD_AURUM
+76821000006117,Unspecified incomplete abortion + no mention of complication,L071y00,156072005,CPRD_AURUM
+5573091000006117,Miscarriage with heavy bleeding,,275421004,CPRD_AURUM
+576151000006119,Complete spontaneous abortion + genital tract/pelvic infect,L042000,198655001,CPRD_AURUM
+8300431000006116,Miscarriage surgical management care plan,,865741000000109,CPRD_AURUM
+3699831000006115,Threatened miscarriage in first trimester,,73790007,CPRD_AURUM
+729151000006113,Incomp inev mis complicated by genital tract pelvic infect,L044011,307749004,CPRD_AURUM
+5972321000006115,Incomplete inevitable miscarriage complicated by delayed or excessive hemorrhage,,307752007,CPRD_AURUM
+305329011,Incomplete spontaneous abortion with metabolic disorder,L041400,198648003,CPRD_AURUM
+3284531000006115,Miscarriage in third trimester,,48485000,CPRD_AURUM
+3597661000006111,Miscarriage with sepsis,,67465009,CPRD_AURUM
+130071000006117,Spontaneous abortion incomplete,L041.00,156072005,CPRD_AURUM
+621441000006110,Dilation and curettage removal of missed abortion,7E08800,176833006,CPRD_AURUM
+451110010,Incomplete inevitable miscarriage without complication,L044z11,307748007,CPRD_AURUM
+486339012,Anembryonic pregnancy,L010.11,35999006,CPRD_AURUM
+575941000006110,Complete inevitable miscarriage with OS complication,L045y11,307733001,CPRD_AURUM
+575921000006115,Complete inevitable miscar comp by delayed or excessive haem,L045111,307735008,CPRD_AURUM
+451120017,Complete inevitable abortion with unspecified complication,L045x00,307733001,CPRD_AURUM
+1227360012,Unspecified inevitable miscarriage without complication,L043z11,307748007,CPRD_AURUM
+3531689012,Delayed haemorrhage due to and following miscarriage,,737318003,CPRD_AURUM
+305330018,Incomplete spontaneous abortion with shock,L041500,198649006,CPRD_AURUM
+576171000006112,Complete spontaneous abortion + other specified complication,L042w00,156073000,CPRD_AURUM
+76971000006110,Unspecified inevitable miscarriage with unspec complication,L043x11,59363009,CPRD_AURUM
+81531000006115,Unspec spontaneous abortion + other specified complication,L040w00,34614007,CPRD_AURUM
+4515101000006113,Complete spontaneous abortion,,156073000,CPRD_AURUM
+575861000006118,Complete inev misc compl by genital tract and pelvic infec,L045011,307734007,CPRD_AURUM
+5972161000006111,Complete inevitable miscarriage complicated by delayed or excessive hemorrhage,,307735008,CPRD_AURUM
+76961000006115,Unspecified inevitable miscarriage with OS complication,L043y11,59363009,CPRD_AURUM
+76921000006114,Unspecified inevitable abortion with OS complication,L043y00,59363009,CPRD_AURUM
+305511017,Unspecified incomplete abortion NOS,L071z00,156072005,CPRD_AURUM
+411405016,Retained products after spontaneous abortion,L041z11,275425008,CPRD_AURUM
+906451000006111,[RFC] Miscarriage,,906451000006107,CPRD_AURUM
+782031000006116,Incomp spontaneous abortion with no mention of complication,L041y00,156072005,CPRD_AURUM
+451115017,Unspecified inevitable abortion without complication,L043z00,307748007,CPRD_AURUM
+81521000006118,Unspec spontaneous abortion + genital tract/pelvic infection,L040000,17369002,CPRD_AURUM
+81241000006111,Unsp inevitable mis comp by delayed or excessive haemorrhage,L043111,198645000,CPRD_AURUM
+76841000006112,Unspecified incomplete abortion +genital tract/pelvic infect,L071000,198644001,CPRD_AURUM
+305321014,Unspecified spontaneous abortion with complication NOS,L040x00,34614007,CPRD_AURUM
+305343018,Complete spontaneous abortion with renal failure,L042300,198659007,CPRD_AURUM
+305347017,Complete spontaneous abortion with embolism,L042600,198663000,CPRD_AURUM
+130061000006112,Spontaneous abortion complete,L042.00,156073000,CPRD_AURUM
+451086011,Inevitable miscarriage complete,L045.11,307733001,CPRD_AURUM
+98603019,Inevitable abortion,L10zz11,59363009,CPRD_AURUM
+1221381017,Silent miscarriage,L02..12,16607004,CPRD_AURUM
+870241000006114,D+C: missed abortion removal,7E08899,176833006,CPRD_AURUM
+782251000006119,Incomplete inev mis comp by delayed or excessive haemorrhage,L044111,307752007,CPRD_AURUM
+81551000006110,Unspec spontaneous abortion without mention of complication,L040y00,17369002,CPRD_AURUM
+782281000006110,Incomplete inevitable abortion with OS complication,L044y00,307737000,CPRD_AURUM
+2996601000006112,Miscarriage with endometritis,,30806007,CPRD_AURUM
+451113012,Complete inevitable abortion complicated by embolism,L045200,307750004,CPRD_AURUM
+4793091000006118,Incomplete miscarriage with delayed or excessive haemorrhage,,198645000,CPRD_AURUM
+29370010,Miscarriage,L04..11,17369002,CPRD_AURUM
+780691000006114,Inevitable miscarriage,L040900,59363009,CPRD_AURUM
+451103016,Inevitable abortion unspecified,L043.00,59363009,CPRD_AURUM
+305351015,Complete spontaneous abortion NOS,L042z00,156073000,CPRD_AURUM
+782321000006116,Incomplete inevitable miscarriage with unspecified comp,L044x11,307737000,CPRD_AURUM
+305323012,Unspecified spontaneous abortion NOS,L040z00,17369002,CPRD_AURUM
+305333016,Incomplete spontaneous abortion with complication NOS,L041x00,156072005,CPRD_AURUM
+575871000006113,Complete inevitable abor comp by delayed or excessive haem,L045100,307735008,CPRD_AURUM
+3530211016,Miscarriage care management,,737943000,CPRD_AURUM
+575851000006115,Complete inev abor comp by genital tract and pelvic infec,L045000,307734007,CPRD_AURUM
+29367011,Spontaneous abortion,L04..00,17369002,CPRD_AURUM
+305376019,Spontaneous abortion NOS,L04z.00,17369002,CPRD_AURUM
+887651000006117,Incomplete spontaneous abortn.,L041.99,16863000,CPRD_AURUM
+284651019,Spontaneous misc 8-28 weeks,9535.00,184339009,CPRD_AURUM
+451096019,Complete inevitable miscarriage without complication,L045z11,307738005,CPRD_AURUM
+5573111000006114,Retained products after miscarriage,,275425008,CPRD_AURUM
+451109017,Incomplete inevitable abortion without complication,L044z00,307748007,CPRD_AURUM
+4674801000006116,Dilation of cervix uteri and curettage of uterus for removal of missed miscarriage,,176833006,CPRD_AURUM
+112117014,Spontaneous abortion with sepsis,L040011,67465009,CPRD_AURUM
+411401013,Spontaneous abortion with heavy bleeding,L040111,275421004,CPRD_AURUM
+7499561000006116,Miscarriage of tubal ectopic pregnancy,,609525000,CPRD_AURUM
+729101000006114,Incom inev abor complicated by delayed or excessive haemorr,L044100,307752007,CPRD_AURUM
+4515081000006117,Incomplete spontaneous abortion,,156072005,CPRD_AURUM
+575891000006114,Complete inevitable abortion with OS complication,L045y00,307733001,CPRD_AURUM
+451114018,Complete inevitable miscarriage complicated by embolism,L045211,307750004,CPRD_AURUM
+3884511000006115,Miscarriage in second trimester,,85116003,CPRD_AURUM
+76931000006112,Unspecified inevitable abortion with unspec complication,L043x00,59363009,CPRD_AURUM

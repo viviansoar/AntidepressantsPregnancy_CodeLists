@@ -1,0 +1,121 @@
+MEDICAL_CODE_ID,DESCRIPTION,READ_CODE,SNOMED_CT_CODE,DATABASE
+377813018,Ectopic bone and cartilage in lung,P86y311,253746001,CPRD_AURUM
+4014331000006116,Congenital enlarged lung,null,93071000,CPRD_AURUM
+3060001000006116,Congenital absence of bronchus,,34774005,CPRD_AURUM
+3262331000006116,Congenital lung malformation,,47147007,CPRD_AURUM
+3916541000006118,Congenital cystic disease of lung,,87119009,CPRD_AURUM
+5573921000006115,Absence of lung,,275507003,CPRD_AURUM
+3916551000006116,Congenital polycystic disease of lung,,87119009,CPRD_AURUM
+4825411000006112,Congenital atresia of anterior nares,,204511005,CPRD_AURUM
+2839301000006114,Correction of congenital choanal stenosis,,21335006,CPRD_AURUM
+3262341000006114,Congenital malformation of lung,,47147007,CPRD_AURUM
+5503521000006119,Ectopic tissue in lung,,268195009,CPRD_AURUM
+893011000006116,Pulmonary agenesis,P85..99,204572006,CPRD_AURUM
+893061000006118,Oral/resp. congen. anomaly NOS,P9z..99,596771000000106,CPRD_AURUM
+893021000006112,Congen. resp. anomalies NOS,P8z..99,600261000000104,CPRD_AURUM
+861021000006114,Pharyngeal atresia correction,7422.99,69888009,CPRD_AURUM
+313670011,Congenital absence of lung fissures,P853000,204575008,CPRD_AURUM
+4825561000006111,Anomaly of laryngeal and/or tracheal cartilage,,204537008,CPRD_AURUM
+4825431000006118,Congenital atresia of posterior nares,,204512003,CPRD_AURUM
+5571321000006117,Congenital respiratory tract malformation,,275260000,CPRD_AURUM
+5333881000006110,Congenital anomaly of trachea and bronchus,,253740007,CPRD_AURUM
+193401000006117,Pulmonary arterio-venous malformation,P736.12,303070000,CPRD_AURUM
+313585010,Choanal atresia, unspecified,P800.00,204508009,CPRD_AURUM
+75278011,Congenital pulmonary lymphangiectasis,P8y4.00,45142002,CPRD_AURUM
+313651018,Other anomaly of trachea,P83yx00,253740007,CPRD_AURUM
+2839311000006112,Correction of congenital choanal atresia,,21335006,CPRD_AURUM
+316905011,[X]Other and unspecified atelectasis of newborn,Qyu3700,54959009,CPRD_AURUM
+1231958018,Atresia of nasopharynx,P8y2.00,59423009,CPRD_AURUM
+585321000006113,Congenital stenosis of bronchus,P833200,204551008,CPRD_AURUM
+414301000006114,[X]Other specified congen malformation respiratory system,Pyu3500,275260000,CPRD_AURUM
+313588012,Atresia of the anterior nares,P801.00,204511005,CPRD_AURUM
+5333871000006112,Congenital malformation of trachea and bronchus,,253740007,CPRD_AURUM
+221881000000112,Ectopic tissues in lung,P86y300,268195009,CPRD_AURUM
+313637018,Atresia of larynx or trachea NOS,P832z00,204544004,CPRD_AURUM
+1219630019,Congenital cystic adenomatoid malformation of the lung,P844.00,111318005,CPRD_AURUM
+400819012,Congenital bronchogenic cyst,P843.12,762195006,CPRD_AURUM
+128792019,Congenital bronchiectasis,P861.00,77593006,CPRD_AURUM
+485081000006119,Anomaly, pleural folds,P8y1.00,46722007,CPRD_AURUM
+507421018,Multiple congenital bronchogenic cysts,P841.12,87119009,CPRD_AURUM
+313675018,Lung agenesis, hypoplasia or dysplasia NOS,P85z.00,47147007,CPRD_AURUM
+313686016,Other specified respiratory system anomalies,P8y..00,275260000,CPRD_AURUM
+313638011,Congenital stenosis of larynx, trachea and bronchus,P833.00,204550009,CPRD_AURUM
+126690011,Rudimentary tracheal bronchus,P83y800,76280006,CPRD_AURUM
+861601000006113,Lung cyst removal,7452198,173178001,CPRD_AURUM
+861011000006118,Pharyngeal reconstruction,7422.98,69888009,CPRD_AURUM
+313672015,Other specified lung agenesis, hypoplasia or dysplasia,P85y.00,47147007,CPRD_AURUM
+313642014,Congenital stenosis of larynx or trachea NOS,P833z00,204550009,CPRD_AURUM
+11777331000006114,Multiple cysts of lung,,275505006,CPRD_AURUM
+313584014,Choanal atresia,P80..00,204508009,CPRD_AURUM
+144462013,Congenital cystic lung,P84..00,87119009,CPRD_AURUM
+221921000000118,Congenital tracheo-oesophageal fistula,PA32111,60983006,CPRD_AURUM
+313677014,Anomaly of lung, unspecified,P860.00,47147007,CPRD_AURUM
+100764015,Congenital cyst of mediastinum,P8y3.00,60652005,CPRD_AURUM
+500437014,Aplasia of lung,P850.00,66489009,CPRD_AURUM
+2795431000006117,Congenital sequestration of lung,,18620009,CPRD_AURUM
+313591012,Atresia of the posterior nares,P802.00,204512003,CPRD_AURUM
+5332341000006117,Pulmonary atresia with absent pulmonary artery,,253625004,CPRD_AURUM
+411496010,Multiple lung cysts,P841.11,275505006,CPRD_AURUM
+313655010,Congenital cystic lung disease, unspecified,P840.00,87119009,CPRD_AURUM
+313624016,Anomaly of laryngeal and tracheal cartilage,P831.00,204537008,CPRD_AURUM
+313665016,Congenital cystic lung NOS,P84z.00,87119009,CPRD_AURUM
+4193971000006110,Congenital cystic adenomatoid malformation of lung,,111318005,CPRD_AURUM
+267776014,Other specified repair of pharynx,7422y00,69888009,CPRD_AURUM
+2839291000006113,Repair of choanal atresia, intranasal,,21335006,CPRD_AURUM
+313674019,Other lung agenesis, hypoplasia or dysplasia NOS,P85yz00,47147007,CPRD_AURUM
+313671010,Agenesis of lung NOS,P853z00,66489009,CPRD_AURUM
+11779421000006113,Cyst of lung,,275504005,CPRD_AURUM
+892991000006115,Congen anom - oral/respiratory,P8...99,77868001,CPRD_AURUM
+66470013,Scimitar syndrome,P74z600,39905002,CPRD_AURUM
+400818016,Single lung cyst,P843.00,762195006,CPRD_AURUM
+313682019,Other lung anomaly NOS,P86yz00,47147007,CPRD_AURUM
+313643016,Other anomaly of larynx, trachea and bronchus,P83y.00,275260000,CPRD_AURUM
+313654014,Other anomalies of larynx, trachea or bronchus NOS,P83z.00,275260000,CPRD_AURUM
+2652251000006118,Bronchogenic cyst,null,9550003,CPRD_AURUM
+313632012,Atresia of larynx and trachea,P832.00,204544004,CPRD_AURUM
+11827161000006117,Congenital pulmonary airway malformation,,111318005,CPRD_AURUM
+44230014,Congenital tracheocele,P83y200,26408002,CPRD_AURUM
+497721000006110,Atresia of oesophagus with tracheo-oesophageal fistula,PA37.00,204659003,CPRD_AURUM
+313685017,Lung anomaly NOS,P86z.00,47147007,CPRD_AURUM
+313690019,Respiratory system anomaly NOS,P8z..00,275260000,CPRD_AURUM
+1222144014,Sequestration of lung,P852.00,18620009,CPRD_AURUM
+313678016,Other lung anomaly,P86y.00,47147007,CPRD_AURUM
+313594016,Choanal atresia NOS,P80z.00,204508009,CPRD_AURUM
+313664017,Other specified congenital cystic lung,P84y.00,87119009,CPRD_AURUM
+500438016,Agenesis of lung,P853.00,66489009,CPRD_AURUM
+3589231000006114,Congenital lobar emphysema,,66987001,CPRD_AURUM
+315705013,[X]Other congenital malformations of trachea,Pyu3200,253740007,CPRD_AURUM
+3317971000006110,Congenital atresia of bronchus,null,50513008,CPRD_AURUM
+2653801000006114,Congenital tracheal stenosis,,9660004,CPRD_AURUM
+72376017,Congenital diverticulum of bronchus,P83y400,43383008,CPRD_AURUM
+5347511000006111,Benign mediastinal dermoid cyst,,254647005,CPRD_AURUM
+411495014,Lung cyst,P843.11,275504005,CPRD_AURUM
+788641000006115,Hypoplasia of lung,P851.00,80825009,CPRD_AURUM
+1234180017,Respiratory system congenital anomalies,P8...00,275260000,CPRD_AURUM
+313689011,Other specified respiratory system anomaly NOS,P8yz.00,275260000,CPRD_AURUM
+315702011,[X]Congenital malformations of the respiratory system,Pyu3.00,275260000,CPRD_AURUM
+16895015,Congenital stenosis of trachea,P833100,9660004,CPRD_AURUM
+313666015,Lung agenesis, hypoplasia and dysplasia,P85..00,204572006,CPRD_AURUM
+10290013,Congenital diverticulum of trachea,P83y500,5565008,CPRD_AURUM
+578711000006115,Cong.absence of oesophagus with tracheo-oesophageal fistula,PA36.00,204658006,CPRD_AURUM
+497821000006115,Atresia of trachea,P832300,53189005,CPRD_AURUM
+315706014,[X]Other congenital malformations of bronchus,Pyu3300,253740007,CPRD_AURUM
+313673013,Fusion of lobes of lung,P85y000,204578005,CPRD_AURUM
+313653015,Other anomaly of larynx, trachea or bronchus NOS,P83yz00,275260000,CPRD_AURUM
+3490751000006114,Congenital oesophagotracheal fistula,,60983006,CPRD_AURUM
+49566012,Imperforate pharynx,PA27000,29632002,CPRD_AURUM
+158133018,Congenital bronchomalacia,P83yB00,95468000,CPRD_AURUM
+350103010,Congenital chylothorax,P7yz100,233646003,CPRD_AURUM
+315707017,[X]Other congenital malformations of lung,Pyu3400,47147007,CPRD_AURUM
+14128161000006116,Agenesis of lung,null,156936000,CPRD_AURUM
+313618010,Other anomalies of larynx, trachea and bronchus,P83..00,275260000,CPRD_AURUM
+110473015,Congenital absence of lung,P853.11,66489009,CPRD_AURUM
+313631017,Anomaly of laryngeal or tracheal cartilage NOS,P831z00,275260000,CPRD_AURUM
+98257019,Congenital honeycomb lung,P842.00,59128005,CPRD_AURUM
+313652013,Other anomaly of bronchus,P83yy00,253740007,CPRD_AURUM
+11456012,Congenital dilatation of trachea,P83y100,6296006,CPRD_AURUM
+26419015,Congenital absence of lobe of lung,P853100,15582005,CPRD_AURUM
+507420017,Congenital polycystic lung,P841.00,87119009,CPRD_AURUM
+4825641000006113,Congenital bronchial stenosis,,204551008,CPRD_AURUM
+892981000006118,Congen. anomalies of resp.sys.,P8...98,77868001,CPRD_AURUM
+12719651000006114,Lung agenesis, hypoplasia and dysplasia,,204572006,CPRD_AURUM

@@ -1,0 +1,232 @@
+MEDICAL_CODE_ID,DESCRIPTION,READ_CODE,SNOMED_CT_CODE,DATABASE
+1798,Open-angle glaucoma,F451.00,null,CPRD_GOLD
+2074,Glaucoma,F45..00,null,CPRD_GOLD
+2399,Glaucoma monitoring,66T1.00,null,CPRD_GOLD
+86412,Congenital corneal opacity without visual deficit,P341100,null,CPRD_GOLD
+23605,Anophthalmos,P30..00,null,CPRD_GOLD
+22805,Glaucoma due to unspecified ocular disorder,F456000,null,CPRD_GOLD
+31592,Clinical anophthalmos, unspecified,P300.00,null,CPRD_GOLD
+47661,Cornea plana,P340200,null,CPRD_GOLD
+48479,Glaucoma due to ocular tumour or cyst,F456400,null,CPRD_GOLD
+50282,Congenital orbit anomalies,P365.00,null,CPRD_GOLD
+51185,Congenital cystic eyeball,P301.00,null,CPRD_GOLD
+59944,Aplasia of iris,P344600,null,CPRD_GOLD
+60073,Specified anterior chamber anomalies,P342.00,null,CPRD_GOLD
+61381,Anomalies of lens shape NOS,P336z00,null,CPRD_GOLD
+62531,Congenital absence of lens,P335.11,null,CPRD_GOLD
+63429,Zonular cataract,P332100,null,CPRD_GOLD
+64325,Unspecified microphthalmos NOS,P310z00,null,CPRD_GOLD
+64851,Glaucoma due to systemic syndrome,F454300,null,CPRD_GOLD
+65193,Glaucoma due to episode of increased venous pressure,F45y100,null,CPRD_GOLD
+65761,Congenital eye disorder screen,68A4.00,null,CPRD_GOLD
+65888,Rudimentary eye,P310200,null,CPRD_GOLD
+66637,Anomalies of lens shape,P336.00,null,CPRD_GOLD
+67413,Primary angle-closure glaucoma residual stage,F452400,null,CPRD_GOLD
+67756,Congenital absence of eyes,P303.00,null,CPRD_GOLD
+68094,Steroid-induced glaucoma residual stage,F453100,null,CPRD_GOLD
+70469,Buphthalmos NOS,P32z.00,null,CPRD_GOLD
+71623,Total or subtotal congenital cataract NOS,P334z00,null,CPRD_GOLD
+71732,Congenital corneal opacity with visual deficit,P341000,null,CPRD_GOLD
+90279,Other congenital cataract or lens anomaly NOS,P33yz00,null,CPRD_GOLD
+92890,Enlarged eye NOS,P321.11,null,CPRD_GOLD
+95791,Congenital displaced lens,P337.11,null,CPRD_GOLD
+96390,Simple buphthalmos,P321.00,null,CPRD_GOLD
+97515,Spectacles for aphakia,8D35.00,null,CPRD_GOLD
+97779,Congenital absence of punctum lacrimale,P364111,null,CPRD_GOLD
+98647,[X]Glaucoma in endocrine,nutritional+metabolic diseases CE,FyuG100,null,CPRD_GOLD
+98721,Newborn glaucoma,P320011,null,CPRD_GOLD
+98962,Cortical or zonular cataract NOS,P332z00,null,CPRD_GOLD
+99401,Goniodysgenesis,P344.11,null,CPRD_GOLD
+99424,Congenital membranous cataract,P33y100,null,CPRD_GOLD
+99704,Traumatic glaucoma due to birth trauma,Q20y700,null,CPRD_GOLD
+100303,Glaucoma due to ocular cyst,F456411,null,CPRD_GOLD
+101780,[X]Other specified congenital malformations of eye,Pyu1800,null,CPRD_GOLD
+107635,Agenesis of lens,P335.12,null,CPRD_GOLD
+108933,[X]Other congenital lens malformations,Pyu1300,null,CPRD_GOLD
+111254,[X]Other anophthalmos,Pyu1200,null,CPRD_GOLD
+111582,Unspecified buphthalmos NOS,P320z00,null,CPRD_GOLD
+113881,Congenital stricture of retinal artery,P357200,null,CPRD_GOLD
+114648,Subtotal congenital cataract,P334100,null,CPRD_GOLD
+107079,[X]Other congenital malformations of lacrimal apparatus,Pyu1100,null,CPRD_GOLD
+70742,Anophthalmos NOS,P300z00,null,CPRD_GOLD
+299,Congenital cataract, unspecified,P330.00,null,CPRD_GOLD
+1663,Aphakia,F4K3000,null,CPRD_GOLD
+2788,Glaucoma screen,68A2.00,null,CPRD_GOLD
+2823,Primary angle-closure glaucoma,F452.00,null,CPRD_GOLD
+3474,Corneal scar or opacity NOS,F4B0z00,null,CPRD_GOLD
+4086,Congenital eye anomalies,P3...00,null,CPRD_GOLD
+4148,Congenital cataract and lens anomalies,P33..00,null,CPRD_GOLD
+4366,Corneal scars and opacities,F4B0.00,null,CPRD_GOLD
+4524,Unspecified corneal opacity,F4B0000,null,CPRD_GOLD
+4567,No H/O: Glaucoma,115D.00,null,CPRD_GOLD
+4581,Primary open-angle glaucoma,F451100,null,CPRD_GOLD
+5050,[V]Screening for glaucoma,ZV7A100,null,CPRD_GOLD
+6315,Closed angle glaucoma,F452.11,null,CPRD_GOLD
+8001,Glaucoma NOS,F45z.00,null,CPRD_GOLD
+8132,Low tension glaucoma,F45y200,null,CPRD_GOLD
+8319,Congenital ptosis,P360.00,null,CPRD_GOLD
+8955,H/O: glaucoma,1482.00,null,CPRD_GOLD
+8971,Borderline glaucoma,F450.00,null,CPRD_GOLD
+9213,Rubeotic glaucoma,F456611,null,CPRD_GOLD
+9260,Borderline glaucoma NOS,F450z00,null,CPRD_GOLD
+9469,Low tension glaucoma,F451200,null,CPRD_GOLD
+10070,Open angle glaucoma with borderline intraocular pressure,F450100,null,CPRD_GOLD
+10563,Anisocoria - unequal pupil diameter,F4K4100,null,CPRD_GOLD
+10756,Vitreous anomalies,P350.00,null,CPRD_GOLD
+11053,Retinal microaneurysms NOS,F421800,null,CPRD_GOLD
+11058,Neovascular glaucoma,F456600,null,CPRD_GOLD
+11059,Pan retinal photocoagulation for glaucoma,7275.00,null,CPRD_GOLD
+11255,Subcapsular cataract,P331100,null,CPRD_GOLD
+11463,Congenital blocked tear duct,P364400,null,CPRD_GOLD
+11583,Congenital corneal opacities,P341.00,null,CPRD_GOLD
+12251,Pigmentary glaucoma,F451300,null,CPRD_GOLD
+12753,Congenital lacrimal gland anomalies,P363.00,null,CPRD_GOLD
+15501,Fundus coloboma,P351.00,null,CPRD_GOLD
+15902,Coloboma of iris,P344200,null,CPRD_GOLD
+16473,Aphakia and other disorders of lens,F4K3.00,null,CPRD_GOLD
+16690,Blepharoptosis,P360.11,null,CPRD_GOLD
+17422,Specified anomalies of sclera,P345.00,null,CPRD_GOLD
+18089,Capsular cataract,P331000,null,CPRD_GOLD
+18743,Pseudoexfoliation glaucoma,F455100,null,CPRD_GOLD
+19244,Optic disc congenital anomalies,P356.11,null,CPRD_GOLD
+19532,O/E - retinal microaneurysms,2BB4.00,null,CPRD_GOLD
+20230,Optic disc glaucomatous atrophy,F4H1400,null,CPRD_GOLD
+20325,Eyelid, lacrimal system and orbit congenital anomalies NOS,P36zz00,null,CPRD_GOLD
+20520,Unspecified primary angle-closure glaucoma,F452000,null,CPRD_GOLD
+21063,Congenital vitreous opacity,P350000,null,CPRD_GOLD
+21632,Anterior chamber anomalies,P34..00,null,CPRD_GOLD
+21767,Coloboma of choroid,P358000,null,CPRD_GOLD
+22114,Coloboma of retina,P355000,null,CPRD_GOLD
+22325,Coloboma of optic disc,F4H2200,null,CPRD_GOLD
+22528,Glaucoma due to ocular trauma,F456500,null,CPRD_GOLD
+22838,Pupillary membranes NOS,F447700,null,CPRD_GOLD
+22904,Referral to glaucoma clinic,8HTW.00,null,CPRD_GOLD
+23407,Congenital glaucoma,P320000,null,CPRD_GOLD
+23783,Congenital keratoconus,P340100,null,CPRD_GOLD
+23889,Hypoplasia of eye,P310100,null,CPRD_GOLD
+24860,Unspecified preglaucoma,F450000,null,CPRD_GOLD
+25692,Other congenital retinal changes NOS,P355z00,null,CPRD_GOLD
+26024,Congenital optic disc coloboma,P356000,null,CPRD_GOLD
+26127,Coloboma of lens,P336200,null,CPRD_GOLD
+26462,Microphthalmos,P31..00,null,CPRD_GOLD
+26870,Glaucoma due to ocular inflammation,F456200,null,CPRD_GOLD
+27898,Blue dot cataract,P33y000,null,CPRD_GOLD
+28189,Open-angle glaucoma NOS,F451z00,null,CPRD_GOLD
+28505,Other specified forms of glaucoma,F45y.00,null,CPRD_GOLD
+28536,Acute primary angle-closure glaucoma,F452200,null,CPRD_GOLD
+29346,Minor opacity of cornea,F4B0100,null,CPRD_GOLD
+29474,Congenital ectopic lens,P337.00,null,CPRD_GOLD
+29686,Congenital blocked tear duct,P364.11,null,CPRD_GOLD
+29719,Specified optic disc anomalies,P356.00,null,CPRD_GOLD
+29764,Glaucomatocyclitic crises,F442100,null,CPRD_GOLD
+30000,Specified anomalies of choroid,P358.00,null,CPRD_GOLD
+30468,Congenital lacrimal passage anomalies,P364.00,null,CPRD_GOLD
+30649,Simple chronic glaucoma,F451111,null,CPRD_GOLD
+31651,Simple microphthalmos,P311.00,null,CPRD_GOLD
+34354,Glaucoma associated with disorders of the lens NOS,F455z00,null,CPRD_GOLD
+34924,Congenital chorioretinal degeneration,P352.00,null,CPRD_GOLD
+35351,Congenital lens anomaly,P33..11,null,CPRD_GOLD
+35446,Chronic primary angle-closure glaucoma,F452300,null,CPRD_GOLD
+35528,Steroid-induced glaucoma,F453.00,null,CPRD_GOLD
+35596,Corneal opacity and other disorders of cornea,F4B..00,null,CPRD_GOLD
+35748,Borderline glaucoma with anatomical narrow angle,F450200,null,CPRD_GOLD
+36003,Corneal size and shape anomalies,P340.00,null,CPRD_GOLD
+36355,Central opacity of cornea,F4B0300,null,CPRD_GOLD
+36737,Borderline glaucoma steroid responder,F450300,null,CPRD_GOLD
+37557,Anophthalmos NOS,P30z.00,null,CPRD_GOLD
+37781,Dysplasia of eye,P310000,null,CPRD_GOLD
+37876,Glaucoma due to pupillary block,F456100,null,CPRD_GOLD
+39050,Excision of pupillary membrane,7258600,null,CPRD_GOLD
+39081,Total congenital cataract,P334000,null,CPRD_GOLD
+39120,Primary angle-closure glaucoma NOS,F452z00,null,CPRD_GOLD
+39152,Agenesis of lacrimal apparatus,P364000,null,CPRD_GOLD
+39392,Congenital optic atrophy,P2xz100,null,CPRD_GOLD
+40571,Corectopia,P344300,null,CPRD_GOLD
+40989,Insertion Molteno implantation tube in anterior chamber eye,7255411,null,CPRD_GOLD
+41794,Glaucoma due to ocular vascular disorder,F456300,null,CPRD_GOLD
+41804,Glaucoma due to disease NOS,F454z00,null,CPRD_GOLD
+41854,Glaucoma due to disease EC,F454.00,null,CPRD_GOLD
+41903,Specified anomaly of choroid NOS,P358z00,null,CPRD_GOLD
+42271,Vitreous anomalies NOS,P350z00,null,CPRD_GOLD
+42447,Unspecified open-angle glaucoma,F451000,null,CPRD_GOLD
+43659,[V]Screening for congenital eye anomaly,ZV7A300,null,CPRD_GOLD
+43783,Congenital eye anomalies NOS,P3z..00,null,CPRD_GOLD
+44295,Other specified glaucoma NOS,F45yz00,null,CPRD_GOLD
+44338,Glaucoma - absolute,F404211,null,CPRD_GOLD
+44798,Phacolytic glaucoma,F455000,null,CPRD_GOLD
+44817,Intermittent primary angle-closure glaucoma,F452100,null,CPRD_GOLD
+44851,Congenital anisocoria,P344000,null,CPRD_GOLD
+44929,Specified optic disc anomaly NOS,P356z00,null,CPRD_GOLD
+45190,Lamellar zonular cataract,F460600,null,CPRD_GOLD
+45352,Other specified eye anomalies,P3y..00,null,CPRD_GOLD
+45926,Congenital cataract or lens anomaly NOS,P33z.00,null,CPRD_GOLD
+46069,Operations following glaucoma surgery,7259.00,null,CPRD_GOLD
+48132,Steroid-induced glaucoma NOS,F453z00,null,CPRD_GOLD
+48507,Microphthalmos with other eye anomaly,P312.00,null,CPRD_GOLD
+48943,Specified anomaly of sclera NOS,P345z00,null,CPRD_GOLD
+49394,Other eye anomalies NOS,P3yz.00,null,CPRD_GOLD
+49791,Congenital retinal aneurysm,P357000,null,CPRD_GOLD
+50584,Congenital retinal fold,P355100,null,CPRD_GOLD
+51176,Peripheral opacity of cornea,F4B0200,null,CPRD_GOLD
+52137,[X]Congenital malformations of eye, ear, face and neck,Pyu1.00,null,CPRD_GOLD
+52888,[X]Glaucoma,FyuG.00,null,CPRD_GOLD
+53127,Glaucoma associated with other ocular disorders,F456.00,null,CPRD_GOLD
+53521,Glaucoma associated with other ocular disorders NOS,F456z00,null,CPRD_GOLD
+53879,Normal pressure glaucoma,F451211,null,CPRD_GOLD
+54262,Glaucoma associated with disorders of the lens,F455.00,null,CPRD_GOLD
+55135,Congenital dislocation of lens,P337.12,null,CPRD_GOLD
+56285,Agenesis of eye,P300100,null,CPRD_GOLD
+57790,Microcornea,P340000,null,CPRD_GOLD
+58005,Corneal size or shape anomalies NOS,P340z00,null,CPRD_GOLD
+58645,Glaucoma of childhood,F451400,null,CPRD_GOLD
+58909,Macrophthalmos,P37..00,null,CPRD_GOLD
+59914,Capsular and subcapsular cataract,P331.00,null,CPRD_GOLD
+60425,Cortical cataract - congenital,P332000,null,CPRD_GOLD
+60812,Congenital cysts of the posterior segment,P353100,null,CPRD_GOLD
+62479,Posterior chamber congenital anomalies,P35..00,null,CPRD_GOLD
+62483,Specified anterior chamber anomalies NOS,P342z00,null,CPRD_GOLD
+62587,Congenital arteriovenous malformation of retina,P357100,null,CPRD_GOLD
+62976,Other congenital retinal changes,P355.00,null,CPRD_GOLD
+63097,Other iris or ciliary body anomalies NOS,P344z00,null,CPRD_GOLD
+63212,Nuclear cataract - congenital,P333.00,null,CPRD_GOLD
+63439,Microphthalmos NOS,P31z.00,null,CPRD_GOLD
+63660,Hypersecretion glaucoma,F45y000,null,CPRD_GOLD
+64214,Aphakia and other disorders of lens NOS,F4K3z00,null,CPRD_GOLD
+65079,Needling of bleb following glaucoma surgery,7259000,null,CPRD_GOLD
+65346,Cryptophthalmos syndrome,P302.00,null,CPRD_GOLD
+65781,Agenesis of punctum lacrimale,P364100,null,CPRD_GOLD
+66259,Congenital corneal opacities NOS,P341z00,null,CPRD_GOLD
+67341,Glaucoma due to iris anomaly,F454100,null,CPRD_GOLD
+68208,Congenital absence of eye,P300200,null,CPRD_GOLD
+68633,Glaucoma in endocrine, nutritional and metabolic diseases,F454400,null,CPRD_GOLD
+68836,Other/unspecified anomalies of eyelid/lacrimal system/orbit,P36z.00,null,CPRD_GOLD
+69009,Anterior segment anomalies NOS,P34z.00,null,CPRD_GOLD
+69195,Glaucoma due to chamber angle anomaly,F454000,null,CPRD_GOLD
+69823,Congenital aphakia,P335.00,null,CPRD_GOLD
+70195,[X]Other glaucoma,FyuG000,null,CPRD_GOLD
+70700,Other specified congenital cataract or lens anomaly,P33y.00,null,CPRD_GOLD
+71298,Hypoplasia of iris,P344500,null,CPRD_GOLD
+71724,Congenital folds of the posterior segment,P353000,null,CPRD_GOLD
+72284,Microphthalmos, unspecified,P310.00,null,CPRD_GOLD
+72394,Open-angle glaucoma residual stage,F451500,null,CPRD_GOLD
+73673,Atresia of pupil,P344100,null,CPRD_GOLD
+85982,[X]Other corneal scars and opacities,FyuD400,null,CPRD_GOLD
+88142,Other specified operations following glaucoma surgery,7259y00,null,CPRD_GOLD
+88595,Revision of bleb NEC following glaucoma surgery,7259200,null,CPRD_GOLD
+88738,Capsular or subcapsular cataract NOS,P331z00,null,CPRD_GOLD
+89934,Injection of bleb following glaucoma surgery,7259100,null,CPRD_GOLD
+91442,Removal of releasable suture following glaucoma surgery,7259300,null,CPRD_GOLD
+91657,Hypoplasia of eyelid,P362300,null,CPRD_GOLD
+92173,Polycoria,P344400,null,CPRD_GOLD
+93282,Congenital absence of lacrimal apparatus,P364011,null,CPRD_GOLD
+93967,Laser suture lysis following glaucoma surgery,7259400,null,CPRD_GOLD
+94229,Suspected glaucoma,1JF..00,null,CPRD_GOLD
+94280,Congenital anomalies of eyelid, lacrimal system and orbit,P36..00,null,CPRD_GOLD
+94285,Congenital anomalies of posterior chamber NOS,P35z.00,null,CPRD_GOLD
+95852,Operations following glaucoma surgery NOS,7259z00,null,CPRD_GOLD
+96385,Cortical and zonular cataract,P332.00,null,CPRD_GOLD
+96707,Glaucoma due to other anterior segment anomaly,F454200,null,CPRD_GOLD
+101194,Congenital hypertrophy of retinal pigment epithelium,P355200,null,CPRD_GOLD
+104135,[X]Other congenital malforms of anterior segment of eye,Pyu1600,null,CPRD_GOLD
+104673,[X]Other congenital malformations of iris,Pyu1400,null,CPRD_GOLD
+107168,Glaucomatous subcapsular flecks,F463100,null,CPRD_GOLD

@@ -1,0 +1,75 @@
+MEDICAL_CODE_ID,DESCRIPTION,READ_CODE,SNOMED_CT_CODE,DATABASE
+45340,Spontaneous abortion with heavy bleeding,L040111,null,CPRD_GOLD
+59116,Complete inevitable abortion with unspecified complication,L045x00,null,CPRD_GOLD
+63778,Complete spontaneous abortion with complication NOS,L042x00,null,CPRD_GOLD
+66365,Unspecified inevitable abortion with OS complication,L043y00,null,CPRD_GOLD
+68669,Unspec spontaneous abortion + other specified complication,L040w00,null,CPRD_GOLD
+94270,Unspecified inevitable abortion with unspec complication,L043x00,null,CPRD_GOLD
+165,Miscarriage,L04..11,null,CPRD_GOLD
+1737,Missed abortion,L02..00,null,CPRD_GOLD
+68511,Unspec spontaneous abortion + delayed/excessive haemorrhage,L040100,null,CPRD_GOLD
+68740,Incomplete spontaneous abortion with complication NOS,L041x00,null,CPRD_GOLD
+99578,Unspecified inevitable miscarriage with unspec complication,L043x11,null,CPRD_GOLD
+99736,Complete spontaneous abortion + genital tract/pelvic infect,L042000,null,CPRD_GOLD
+99955,Unspecified spontaneous abortion with metabolic disorder,L040400,null,CPRD_GOLD
+104747,Unspecified spontaneous abortion with complication NOS,L040x00,null,CPRD_GOLD
+107001,Complete inevitable abor comp by delayed or excessive haem,L045100,null,CPRD_GOLD
+107075,Unspecified inevitable miscarriage without complication,L043z11,null,CPRD_GOLD
+107171,Complete spontaneous abortion +delayed/excessive haemorrhage,L042100,null,CPRD_GOLD
+107604,Complete inevitable miscarriage complicated by embolism,L045211,null,CPRD_GOLD
+107976,Complete inevitable miscar comp by delayed or excessive haem,L045111,null,CPRD_GOLD
+108742,Complete inevitable miscarriage with unspecified comp,L045x11,null,CPRD_GOLD
+109228,Unspecified inevitable miscarriage with OS complication,L043y11,null,CPRD_GOLD
+111306,Incomplete inev mis comp by delayed or excessive haemorrhage,L044111,null,CPRD_GOLD
+112579,Unspec inevit abortion comp by delayed or excessive haemorr,L043100,null,CPRD_GOLD
+112681,Incomplete spontaneous abortion + pelvic organ/tissue damage,L041200,null,CPRD_GOLD
+72459,Incomp inev abor comp by genital tract and pelvic infection,L044000,null,CPRD_GOLD
+95625,Incomplete inevitable abortion complicated by embolism,L044200,null,CPRD_GOLD
+2034,Inevitable abortion,L10zz11,null,CPRD_GOLD
+3082,Spontaneous abortion,L04..00,null,CPRD_GOLD
+4708,Dilation and curettage removal of missed abortion,7E08800,null,CPRD_GOLD
+5107,Blighted ovum,L010.00,null,CPRD_GOLD
+7114,Inevitable abortion incomplete,L044.00,null,CPRD_GOLD
+7413,Spontaneous abortion incomplete,L041.00,null,CPRD_GOLD
+7817,Spontaneous abortion complete,L042.00,null,CPRD_GOLD
+8173,Inevitable abortion unspecified,L043.00,null,CPRD_GOLD
+11234,Inevitable miscarriage unspecified,L043.11,null,CPRD_GOLD
+11323,Inevitable miscarriage complete,L045.11,null,CPRD_GOLD
+12241,Missed miscarriage,L02..11,null,CPRD_GOLD
+17625,Inevitable miscarriage incomp,L044.11,null,CPRD_GOLD
+22379,Spontaneous abortion NOS,L04z.00,null,CPRD_GOLD
+29439,Incomplete spontaneous abortion NOS,L041z00,null,CPRD_GOLD
+29940,Complete spontaneous abortion NOS,L042z00,null,CPRD_GOLD
+30276,Retained products after spontaneous abortion,L041z11,null,CPRD_GOLD
+33501,Inevitable abortion complete,L045.00,null,CPRD_GOLD
+33989,Complete inevitable abortion without complication,L045z00,null,CPRD_GOLD
+38625,Carneous mole,L011.00,null,CPRD_GOLD
+40258,Spontaneous abortion with sepsis,L040011,null,CPRD_GOLD
+41783,Incomp spontaneous abortion + delayed/excessive haemorrhage,L041100,null,CPRD_GOLD
+42458,Spontaneous abortion unspecified,L040.00,null,CPRD_GOLD
+48552,Anembryonic pregnancy,L010.11,null,CPRD_GOLD
+48603,Inevitable miscarriage,L040900,null,CPRD_GOLD
+50653,Incomp spontaneous abortion with no mention of complication,L041y00,null,CPRD_GOLD
+51614,Incomplete inevitable abortion without complication,L044z00,null,CPRD_GOLD
+53836,Incomplete inevitable miscarriage without complication,L044z11,null,CPRD_GOLD
+55404,Complete inevitable miscarriage without complication,L045z11,null,CPRD_GOLD
+56325,Complete spontaneous abortion + no mention of complication,L042y00,null,CPRD_GOLD
+56562,Unspecified spontaneous abortion NOS,L040z00,null,CPRD_GOLD
+56828,Incomp spontaneous abortion + other specified complication,L041w00,null,CPRD_GOLD
+57576,Complete inevitable miscarriage with OS complication,L045y11,null,CPRD_GOLD
+63777,Complete inevitable abortion with OS complication,L045y00,null,CPRD_GOLD
+64736,Spontaneous misc 8-28 weeks,9535.00,null,CPRD_GOLD
+67699,Incomp spontaneous abortion + genital tract/pelvic infection,L041000,null,CPRD_GOLD
+68110,Unspecified inevitable abortion without complication,L043z00,null,CPRD_GOLD
+68311,Incomplete inevitable abortion with OS complication,L044y00,null,CPRD_GOLD
+68938,Unspec spontaneous abortion without mention of complication,L040y00,null,CPRD_GOLD
+72307,Unspec spontaneous abortion + genital tract/pelvic infection,L040000,null,CPRD_GOLD
+72593,Incomplete inevitable abortion with unspecified complication,L044x00,null,CPRD_GOLD
+92284,Incomplete inevitable miscarriage with other specified comp,L044y11,null,CPRD_GOLD
+94359,Complete spontaneous abortion + other specified complication,L042w00,null,CPRD_GOLD
+94976,Incomplete inevitable miscarriage with unspecified comp,L044x11,null,CPRD_GOLD
+96949,Silent miscarriage,L02..12,null,CPRD_GOLD
+105470,Unspecified spontaneous abortion with shock,L040500,null,CPRD_GOLD
+112917,Incom inev abor complicated by delayed or excessive haemorr,L044100,null,CPRD_GOLD
+113517,Incomplete spontaneous abortion with shock,L041500,null,CPRD_GOLD
+112450,Complete inev abor comp by genital tract and pelvic infec,L045000,null,CPRD_GOLD

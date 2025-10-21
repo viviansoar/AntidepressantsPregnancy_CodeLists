@@ -1,0 +1,173 @@
+MEDICAL_CODE_ID,DESCRIPTION,READ_CODE,SNOMED_CT_CODE,DATABASE
+66201000006115,Veau type III bilateral cleft lip repair,7502C12,265325008,CPRD_AURUM
+136401000006118,Skoog correction of alar slump,7409113,172842002,CPRD_AURUM
+177831000006110,Repair cleft hard palate post based axial transposition flap,7525211,265332004,CPRD_AURUM
+3636584010,Cleft palate with right cleft lip,,762410008,CPRD_AURUM
+12626171000006115,Suspected fetal cleft lip,,1110771000000104,CPRD_AURUM
+5336541000006113,Unilateral incomplete cleft lip and/or alveolus,,253987006,CPRD_AURUM
+3636582014,Cleft palate with left cleft lip,null,762409003,CPRD_AURUM
+5336581000006119,Bilateral incomplete cleft lip and alveolus,null,253989009,CPRD_AURUM
+4541461000006110,History of cleft lip,,161575002,CPRD_AURUM
+4825781000006113,Complete bilateral cleft palate with cleft lip,,204614006,CPRD_AURUM
+8462771000006119,Cleft of soft palate and bilateral cleft lip,null,1085341000119103,CPRD_AURUM
+12016571000006112,Repair of right cleft lip,null,764451006,CPRD_AURUM
+3953511000006118,Repair of unilateral cleft lip with quadrilateral flap,,89432003,CPRD_AURUM
+3271061000006112,Incomplete bilateral cleft palate,,47686007,CPRD_AURUM
+12451881000006117,Repair unilateral cleft lip with quadrilateral flap,,89432003,CPRD_AURUM
+12722181000006111,Cleft palate or cleft lip NOS,,596771000000106,CPRD_AURUM
+3521111000006116,Incomplete bilateral cleft lip,,62815003,CPRD_AURUM
+5336521000006118,Unilateral cleft hard palate,,253985003,CPRD_AURUM
+3805971000006116,CL - Cleft lip,,80281008,CPRD_AURUM
+3929651000006119,CP - Cleft palate,,87979003,CPRD_AURUM
+191751000006110,Randall repair unilateral cleft lip,7502711,234647001,CPRD_AURUM
+12484031000006119,Cleft soft palate, central,,253997002,CPRD_AURUM
+2829551000006119,Complete unilateral cleft palate,,20729004,CPRD_AURUM
+5484991000006115,Repair bilateral cleft lip - rotation advancement flap technique,,265323001,CPRD_AURUM
+5072091000006110,Correction of cleft palate,,234890003,CPRD_AURUM
+3805941000006112,Congenital fissure of lip,,80281008,CPRD_AURUM
+394069012,Primary repair of cleft palate, unspecified,7525000,450350009,CPRD_AURUM
+371081000006119,[X]Cleft lip and cleft palate,Pyu4.00,66948001,CPRD_AURUM
+394053017,Correction of deformity of lip,7502.00,265318001,CPRD_AURUM
+268225013,Repair of bilateral cleft lip unspecified,7502D00,234650003,CPRD_AURUM
+268449013,Repair of cleft soft palate with intra-velar veloplasty,7525700,173394004,CPRD_AURUM
+496631016,Primary correction of cleft lip nasal deformity,7409000,53356001,CPRD_AURUM
+313729015,Unilateral complete cleft palate with cleft lip,P921.00,66948001,CPRD_AURUM
+315712016,[X]Unspecified cleft palate with cleft lip, bilateral,Pyu4100,66948001,CPRD_AURUM
+313728011,Cleft palate with cleft lip, unspecified,P920.00,66948001,CPRD_AURUM
+702331000006119,Millard repair unilateral cleft lip,7502611,234647001,CPRD_AURUM
+1234474017,Bilateral complete cleft lip,P913.00,80446009,CPRD_AURUM
+393565016,Unilateral columella lengthening operation,7409400,265022001,CPRD_AURUM
+133218014,Congenital fissure of lip,P91..12,80281008,CPRD_AURUM
+173081000006111,Repair unilat cleft lip - rotation advancement flp technique,7502600,234647001,CPRD_AURUM
+268192011,Bilateral lip adhesion,7502400,173235003,CPRD_AURUM
+114611000006116,Tajima unilateral columella lengthening operation,7409411,265022001,CPRD_AURUM
+558591000006115,Cleft soft palate, bilateral,P904.11,254000002,CPRD_AURUM
+7567271000006114,Cleft palate clinic,,702841007,CPRD_AURUM
+698971000006112,Manchester bilateral cleft lip repair,7502C11,265325008,CPRD_AURUM
+313734016,Central incomplete cleft palate with cleft lip,P926.00,204617004,CPRD_AURUM
+558421000006116,Cleft hard palate, bilateral,P903.11,253994009,CPRD_AURUM
+5072121000006114,Repair of anterior cleft palate,,234893001,CPRD_AURUM
+862151000006110,Cleft palate repair,7525099,234890003,CPRD_AURUM
+313722012,Cleft palate NOS,P90z.00,87979003,CPRD_AURUM
+268210013,Repair of unilateral cleft lip unspecified,7502900,234649003,CPRD_AURUM
+510811000006117,Bilateral complete cleft palate,P903.00,24194000,CPRD_AURUM
+476774019,Secondary correction of cleft lip nasal deformity,7409100,360762005,CPRD_AURUM
+221891000000114,Unilateral incomplete cleft palate,P902.00,87979003,CPRD_AURUM
+268447010,Repair of anterior cleft palate with local flap,7525500,173392000,CPRD_AURUM
+1223218010,Cleft hard palate with cleft soft palate, bilateral,P927.00,24194000,CPRD_AURUM
+747721000006112,Lemesurier cleft lip repair,7502011,89432003,CPRD_AURUM
+177711000006113,Rep bilat cleft lip Millard,7502A11,265323001,CPRD_AURUM
+378121013,Cleft hard palate, bilateral,P90B.00,253994009,CPRD_AURUM
+313733010,Central complete cleft palate with cleft lip,P925.00,204616008,CPRD_AURUM
+378112012,Cleft hard palate, unilateral,P90C.00,253985003,CPRD_AURUM
+268228010,Synchronous bilateral cleft lip repair,7502E00,173245001,CPRD_AURUM
+503621000006116,Barsky repair bilateral cleft lip,7502B11,265324007,CPRD_AURUM
+5925211000006110,Unilateral cleft lip,,304067009,CPRD_AURUM
+8462681000006110,Cleft of hard palate and cleft lip,,1085301000119100,CPRD_AURUM
+351593017,Repair of cleft lip operations,7502.11,234647001,CPRD_AURUM
+394054011,Primary closure of cleft lip, unspecified,7502000,234647001,CPRD_AURUM
+313726010,Cleft lip NOS,P91z.00,80281008,CPRD_AURUM
+5067821000006113,Repair of cleft lip,,234647001,CPRD_AURUM
+378119015,Cleft hard palate NOS,P907.11,448915004,CPRD_AURUM
+267615010,Septorhinoplasty for cleft lip nasal deformity,7409600,172849006,CPRD_AURUM
+394072017,Repair of cleft soft palate with Z-plasty,7525400,265334003,CPRD_AURUM
+313739014,Cleft palate with cleft lip NOS,P92z.00,66948001,CPRD_AURUM
+313738018,Cleft hard palate with cleft lip, unilateral,P92B.00,1085301000119100,CPRD_AURUM
+5067861000006119,Repair of unilateral cleft lip,,234649003,CPRD_AURUM
+268229019,Asynchronous bilateral cleft lip repair,7502F00,173246000,CPRD_AURUM
+394055012,Repair of unilateral cleft lip using straight line technique,7502500,234647001,CPRD_AURUM
+476121000006117,Alar base advancement,7409211,265021008,CPRD_AURUM
+177701000006110,Rep anterior cleft palate local flap,7525711,173394004,CPRD_AURUM
+558451000006113,Cleft hard palate, unilateral,P901.11,253985003,CPRD_AURUM
+378120014,Cleft hard palate, central,P905.11,253993003,CPRD_AURUM
+394059018,Repair of bilateral cleft lip with quadrilateral flap,7502B00,265324007,CPRD_AURUM
+8462791000006118,Cleft of soft palate and cleft lip,null,1085351000119101,CPRD_AURUM
+268189012,Revision of primary closure of cleft lip,7502100,173232000,CPRD_AURUM
+1227986011,Unilateral incomplete cleft lip,P912.00,80281008,CPRD_AURUM
+378127012,Cleft soft palate NOS,P908.11,253997002,CPRD_AURUM
+893031000006110,Cleft palate/hare lip,P9...99,66948001,CPRD_AURUM
+268231011,Correction of deformity of lip NOS,7502z00,265318001,CPRD_AURUM
+861741000006116,Cleft lip plastic operation,7502099,89432003,CPRD_AURUM
+558641000006113,Cleft uvula,P902.11,18910001,CPRD_AURUM
+313731012,Bilateral complete cleft palate with cleft lip,P923.00,204614006,CPRD_AURUM
+405151013,Complete cleft palate NOS,P907.00,87979003,CPRD_AURUM
+315711011,[X]Cleft palate, unspecified, bilateral,Pyu4000,24194000,CPRD_AURUM
+405152018,Incomplete cleft palate NOS,P908.00,87979003,CPRD_AURUM
+313725014,Central cleft lip,P915.00,204608004,CPRD_AURUM
+400822014,Central incomplete cleft palate,P906.00,268197001,CPRD_AURUM
+313737011,Cleft hard palate with cleft lip, bilateral,P92A.00,204620007,CPRD_AURUM
+177811000006116,Repair bilateral cleft lip - rotation advancement flap tech,7502A00,265323001,CPRD_AURUM
+1235453012,Repair unilateral cleft lip with quadrilateral flap,7502811,89432003,CPRD_AURUM
+58171000006114,Wardill repair cleft palate,7525212,265332004,CPRD_AURUM
+5336711000006119,Occult submucous cleft palate,null,254003000,CPRD_AURUM
+145838018,Cleft palate,P90..00,87979003,CPRD_AURUM
+313740011,Cleft palate or cleft lip NOS,P9z..00,66948001,CPRD_AURUM
+268436015,Revision of repair of cleft palate,7525100,173388007,CPRD_AURUM
+31883010,Cleft uvula,P909.00,18910001,CPRD_AURUM
+267608019,Columella lengthening procedure unspecified,7409300,172842002,CPRD_AURUM
+267616011,Septoplasty for cleft lip nasal deformity,7409700,172850006,CPRD_AURUM
+496632011,Primary correction of alar cartilage,7409011,53356001,CPRD_AURUM
+893051000006115,Cleft palate with hare hip,P92..99,66948001,CPRD_AURUM
+405150014,Central complete cleft palate,P905.00,270513005,CPRD_AURUM
+378125016,Cleft soft palate, central,P906.11,253997002,CPRD_AURUM
+313732017,Bilateral incomplete cleft palate with cleft lip,P924.00,204615007,CPRD_AURUM
+558621000006118,Cleft soft palate, unilateral,P902.12,254002005,CPRD_AURUM
+1222534017,Cleft hard palate with cleft soft palate, unilateral,P928.00,20729004,CPRD_AURUM
+511041000006116,Bilateral incomplete cleft palate,P904.00,47686007,CPRD_AURUM
+394057016,Repair of unilateral cleft lip with triangular flap,7502700,234647001,CPRD_AURUM
+3953491000006112,Lemesurier operation, cleft lip repair,,89432003,CPRD_AURUM
+109111000006114,Tennyson repair unilateral cleft lip,7502713,234647001,CPRD_AURUM
+3898011000006117,Millard operation, cleft lip repair,,86000007,CPRD_AURUM
+378110016,Cheilopalatoschisis,P92..11,253983005,CPRD_AURUM
+173091000006114,Repair unilateral cleft lip with quadrilateral flap,7502800,89432003,CPRD_AURUM
+251804010,H/O: cleft palate,14H2.00,161574003,CPRD_AURUM
+267614014,Rhinoplasty for cleft lip nasal deformity,7409500,172848003,CPRD_AURUM
+698751000006117,Millard cleft lip correction,7502012,234647001,CPRD_AURUM
+268453010,Correction of deformity of palate NOS,7525z00,265330007,CPRD_AURUM
+268448017,Repair of anterior cleft palate with vomerine flap,7525600,173393005,CPRD_AURUM
+80371000006118,Unilateral complete cleft palate,P901.00,20729004,CPRD_AURUM
+378129010,Cleft soft palate, bilateral,P90A.00,254000002,CPRD_AURUM
+394071012,Repair of cleft hard palate with bipedicled flaps,7525300,265333009,CPRD_AURUM
+313730013,Unilateral incomplete cleft palate with cleft lip,P922.00,66948001,CPRD_AURUM
+751661000006115,Langenbeck repair cleft palate,7525311,265333009,CPRD_AURUM
+58181000006112,Wardill repair of cleft palate,7525013,265332004,CPRD_AURUM
+109081000006115,Tenison cleft lip repair,7502014,234647001,CPRD_AURUM
+394060011,Repair of bilateral cleft lip using straight line technique,7502C00,265325008,CPRD_AURUM
+11999921000006119,Submucous cleft palate,,763108005,CPRD_AURUM
+500571019,Cleft palate and lip,P9...00,66948001,CPRD_AURUM
+558471000006115,Cleft lip (harelip),P91..00,80281008,CPRD_AURUM
+111202018,Cleft palate with cleft lip,P92..00,66948001,CPRD_AURUM
+251805011,H/O: cleft lip,14H3.00,161575002,CPRD_AURUM
+313723019,Cleft lip, unspecified,P910.00,80281008,CPRD_AURUM
+267590010,Correction of cleft lip nasal deformity,7409.00,172842002,CPRD_AURUM
+797131000006117,Furlow repair cleft palate,7525411,265334003,CPRD_AURUM
+1232395010,Bilateral incomplete cleft lip,P914.00,62815003,CPRD_AURUM
+1232380013,Unilateral complete cleft lip,P911.00,80281008,CPRD_AURUM
+751671000006110,Langenbeck repair of cleft palate,7525012,265333009,CPRD_AURUM
+393563011,Correction of cleft lip nasal tip deformity,7409200,265021008,CPRD_AURUM
+620111000006110,Dibbell correction of alar slump,7409114,172842002,CPRD_AURUM
+12016561000006116,Repair of left cleft lip,,764450007,CPRD_AURUM
+177821000006112,Repair cleft hard palate post based axial transposition flap,7525200,265332004,CPRD_AURUM
+268191016,Unilateral lip adhesion,7502300,234647001,CPRD_AURUM
+268230012,Other specified correction of deformity of lip,7502y00,265318001,CPRD_AURUM
+191741000006113,Randall cleft lip repair,7502013,234647001,CPRD_AURUM
+754241000006119,Kilner repair of cleft palate,7525011,234890003,CPRD_AURUM
+378113019,Palatoschisis,P900.11,87979003,CPRD_AURUM
+476765016,Secondary correction of alar slump,7409111,360762005,CPRD_AURUM
+225751000006116,Pigott alar leap-frog correction,7409013,172842002,CPRD_AURUM
+352029016,Repair of cleft palate,7525.12,234890003,CPRD_AURUM
+394068016,Correction of deformity of palate,7525.00,265330007,CPRD_AURUM
+400821019,Cleft palate, unspecified,P900.00,87979003,CPRD_AURUM
+177841000006117,Repair cleft soft palate with other musculature correction,7525800,234892006,CPRD_AURUM
+133217016,Cheiloschisis,P91..11,80281008,CPRD_AURUM
+268452017,Other specified correction of deformity of palate,7525y00,265330007,CPRD_AURUM
+66191000006118,Veau flap repair cleft palate,7525213,265332004,CPRD_AURUM
+1776521000006116,Reason for referral: Cleft Palate,,1776521000006100,CPRD_AURUM
+6383631000006116,Cleft lip and alveolus,,373643003,CPRD_AURUM
+754251000006117,Kilner repair unilateral cleft lip,7502511,234647001,CPRD_AURUM
+136411000006115,Skoog repair unilateral cleft lip,7502712,234647001,CPRD_AURUM
+5270271000006114,Cleft lip nasal deformity,,249341006,CPRD_AURUM
+8462731000006117,Cleft palate and bilateral cleft lip,,1085331000119107,CPRD_AURUM
+5925221000006119,Bilateral cleft lip,,304068004,CPRD_AURUM
+3808341000006119,Complete bilateral cleft lip,,80446009,CPRD_AURUM
+4541441000006111,History of cleft palate,,161574003,CPRD_AURUM
