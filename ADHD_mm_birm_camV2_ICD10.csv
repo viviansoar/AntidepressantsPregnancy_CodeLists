@@ -1,0 +1,6 @@
+"MEDICAL_CODE_ID","DESCRIPTION","READ_CODE","SNOMED_CT_CODE","DATABASE"
+"F90","Hyperkinetic disorders","F90","","ICD10"
+"F900","Disturbance of activity and attention","F90.0","","ICD10"
+"F901","Hyperkinetic conduct disorder","F90.1","","ICD10"
+"F908","Other hyperkinetic disorders","F90.8","","ICD10"
+"F909","Hyperkinetic disorder, unspecified","F90.9","","ICD10"
