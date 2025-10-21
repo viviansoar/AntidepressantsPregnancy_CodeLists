@@ -1,0 +1,122 @@
+MEDICAL_CODE_ID,DESCRIPTION,READ_CODE,SNOMED_CT_CODE,DATABASE
+2170,Cleft palate,P90..00,null,CPRD_GOLD
+24846,Cleft uvula,P909.00,null,CPRD_GOLD
+31584,Repair of cleft hard palate with bipedicled flaps,7525300,null,CPRD_GOLD
+34024,Repair of anterior cleft palate with local flap,7525500,null,CPRD_GOLD
+34175,Tajima unilateral columella lengthening operation,7409411,null,CPRD_GOLD
+38873,Cleft hard palate, unilateral,P901.11,null,CPRD_GOLD
+42208,Cleft soft palate, bilateral,P90A.00,null,CPRD_GOLD
+48646,Other specified correction of deformity of palate,7525y00,null,CPRD_GOLD
+49751,Repair of unilateral cleft lip with triangular flap,7502700,null,CPRD_GOLD
+52827,Central cleft lip,P915.00,null,CPRD_GOLD
+54974,Veau flap repair cleft palate,7525213,null,CPRD_GOLD
+56520,Millard repair unilateral cleft lip,7502611,null,CPRD_GOLD
+62690,Bilateral incomplete cleft palate with cleft lip,P924.00,null,CPRD_GOLD
+64549,Cleft hard palate, bilateral,P90B.00,null,CPRD_GOLD
+68166,Cleft soft palate, central,P906.11,null,CPRD_GOLD
+69871,Lemesurier cleft lip repair,7502011,null,CPRD_GOLD
+70876,Pigott alar leap-frog correction,7409013,null,CPRD_GOLD
+73531,Unilateral complete cleft palate,P901.00,null,CPRD_GOLD
+90923,Kilner repair of cleft palate,7525011,null,CPRD_GOLD
+93972,Cleft hard palate with cleft soft palate, unilateral,P928.00,null,CPRD_GOLD
+97477,Cleft soft palate, bilateral,P904.11,null,CPRD_GOLD
+98506,Repair of bilateral cleft lip with quadrilateral flap,7502B00,null,CPRD_GOLD
+101223,Cleft hard palate, unilateral,P90C.00,null,CPRD_GOLD
+103535,Repair bilateral cleft lip - rotation advancement flap tech,7502A00,null,CPRD_GOLD
+105114,Cheilopalatoschisis,P92..11,null,CPRD_GOLD
+105377,Skoog correction of alar slump,7409113,null,CPRD_GOLD
+106078,Bilateral incomplete cleft palate,P904.00,null,CPRD_GOLD
+113211,Randall repair unilateral cleft lip,7502711,null,CPRD_GOLD
+114094,Randall cleft lip repair,7502013,null,CPRD_GOLD
+115221,Kilner repair unilateral cleft lip,7502511,null,CPRD_GOLD
+96645,Tennyson repair unilateral cleft lip,7502713,null,CPRD_GOLD
+100946,Repair unilateral cleft lip with quadrilateral flap,7502811,null,CPRD_GOLD
+1679,Primary repair of cleft palate, unspecified,7525000,null,CPRD_GOLD
+2020,Repair of cleft lip operations,7502.11,null,CPRD_GOLD
+2027,Cleft lip (harelip),P91..00,null,CPRD_GOLD
+5374,Cleft palate and lip,P9...00,null,CPRD_GOLD
+5386,Cleft palate with cleft lip,P92..00,null,CPRD_GOLD
+6341,Repair of cleft palate,7525.12,null,CPRD_GOLD
+8002,Rhinoplasty for cleft lip nasal deformity,7409500,null,CPRD_GOLD
+9809,Correction of cleft lip nasal deformity,7409.00,null,CPRD_GOLD
+14974,Repair of bilateral cleft lip unspecified,7502D00,null,CPRD_GOLD
+15294,Correction of deformity of lip NOS,7502z00,null,CPRD_GOLD
+15364,Cleft palate NOS,P90z.00,null,CPRD_GOLD
+16457,Cleft lip, unspecified,P910.00,null,CPRD_GOLD
+16938,Cheiloschisis,P91..11,null,CPRD_GOLD
+17207,H/O: cleft lip,14H3.00,null,CPRD_GOLD
+20542,Revision of repair of cleft palate,7525100,null,CPRD_GOLD
+21043,H/O: cleft palate,14H2.00,null,CPRD_GOLD
+21245,Unilateral lip adhesion,7502300,null,CPRD_GOLD
+21363,Primary correction of cleft lip nasal deformity,7409000,null,CPRD_GOLD
+23683,Langenbeck repair of cleft palate,7525012,null,CPRD_GOLD
+23714,Rep bilat cleft lip Millard,7502A11,null,CPRD_GOLD
+23739,Repair of unilateral cleft lip unspecified,7502900,null,CPRD_GOLD
+24026,Revision of primary closure of cleft lip,7502100,null,CPRD_GOLD
+24102,Primary closure of cleft lip, unspecified,7502000,null,CPRD_GOLD
+25740,Cleft soft palate NOS,P908.11,null,CPRD_GOLD
+28600,Primary correction of alar cartilage,7409011,null,CPRD_GOLD
+30249,Repair of cleft soft palate with intra-velar veloplasty,7525700,null,CPRD_GOLD
+30957,Bilateral incomplete cleft lip,P914.00,null,CPRD_GOLD
+32465,Septoplasty for cleft lip nasal deformity,7409700,null,CPRD_GOLD
+33902,Cleft hard palate with cleft lip, bilateral,P92A.00,null,CPRD_GOLD
+34071,Millard cleft lip correction,7502012,null,CPRD_GOLD
+35374,Cleft lip NOS,P91z.00,null,CPRD_GOLD
+37071,Rep anterior cleft palate local flap,7525711,null,CPRD_GOLD
+37079,Repair of cleft soft palate with Z-plasty,7525400,null,CPRD_GOLD
+37457,Correction of deformity of palate,7525.00,null,CPRD_GOLD
+41002,Correction of deformity of palate NOS,7525z00,null,CPRD_GOLD
+42525,Manchester bilateral cleft lip repair,7502C11,null,CPRD_GOLD
+44977,Bilateral complete cleft palate with cleft lip,P923.00,null,CPRD_GOLD
+44998,Correction of deformity of lip,7502.00,null,CPRD_GOLD
+45229,Dibbell correction of alar slump,7409114,null,CPRD_GOLD
+45313,Central incomplete cleft palate,P906.00,null,CPRD_GOLD
+47845,Repair of anterior cleft palate with vomerine flap,7525600,null,CPRD_GOLD
+48070,[X]Unspecified cleft palate with cleft lip, bilateral,Pyu4100,null,CPRD_GOLD
+48195,Secondary correction of alar slump,7409111,null,CPRD_GOLD
+48870,Synchronous bilateral cleft lip repair,7.50E+03,null,CPRD_GOLD
+48948,Bilateral complete cleft palate,P903.00,null,CPRD_GOLD
+49350,Secondary correction of cleft lip nasal deformity,7409100,null,CPRD_GOLD
+49874,Septorhinoplasty for cleft lip nasal deformity,7409600,null,CPRD_GOLD
+50430,Cleft palate or cleft lip NOS,P9z..00,null,CPRD_GOLD
+51058,Furlow repair cleft palate,7525411,null,CPRD_GOLD
+51196,Repair cleft soft palate with other musculature correction,7525800,null,CPRD_GOLD
+51301,Cleft palate with cleft lip, unspecified,P920.00,null,CPRD_GOLD
+51377,Incomplete cleft palate NOS,P908.00,null,CPRD_GOLD
+51498,Columella lengthening procedure unspecified,7409300,null,CPRD_GOLD
+54012,Unilateral incomplete cleft lip,P912.00,null,CPRD_GOLD
+54144,Unilateral incomplete cleft palate with cleft lip,P922.00,null,CPRD_GOLD
+54721,Bilateral complete cleft lip,P913.00,null,CPRD_GOLD
+54973,Veau type III bilateral cleft lip repair,7502C12,null,CPRD_GOLD
+57453,Palatoschisis,P900.11,null,CPRD_GOLD
+57490,Cleft soft palate, unilateral,P902.12,null,CPRD_GOLD
+58885,Cleft palate, unspecified,P900.00,null,CPRD_GOLD
+58977,Asynchronous bilateral cleft lip repair,7502F00,null,CPRD_GOLD
+60474,Congenital fissure of lip,P91..12,null,CPRD_GOLD
+60496,Tenison cleft lip repair,7502014,null,CPRD_GOLD
+62102,Bilateral lip adhesion,7502400,null,CPRD_GOLD
+62304,Alar base advancement,7409211,null,CPRD_GOLD
+62321,Cleft hard palate with cleft lip, unilateral,P92B.00,null,CPRD_GOLD
+62987,Unilateral complete cleft palate with cleft lip,P921.00,null,CPRD_GOLD
+63658,Correction of cleft lip nasal tip deformity,7409200,null,CPRD_GOLD
+63930,Unilateral complete cleft lip,P911.00,null,CPRD_GOLD
+65623,Cleft hard palate NOS,P907.11,null,CPRD_GOLD
+65664,Repair unilat cleft lip - rotation advancement flp technique,7502600,null,CPRD_GOLD
+65866,Repair of unilateral cleft lip using straight line technique,7502500,null,CPRD_GOLD
+65887,Repair cleft hard palate post based axial transposition flap,7525200,null,CPRD_GOLD
+65948,Wardill repair of cleft palate,7525013,null,CPRD_GOLD
+68398,Cleft palate with cleft lip NOS,P92z.00,null,CPRD_GOLD
+69454,Repair unilateral cleft lip with quadrilateral flap,7502800,null,CPRD_GOLD
+71457,Langenbeck repair cleft palate,7525311,null,CPRD_GOLD
+71980,Other specified correction of deformity of lip,7502y00,null,CPRD_GOLD
+72027,[X]Cleft lip and cleft palate,Pyu4.00,null,CPRD_GOLD
+72318,Unilateral columella lengthening operation,7409400,null,CPRD_GOLD
+73558,Unilateral incomplete cleft palate,P902.00,null,CPRD_GOLD
+93030,Complete cleft palate NOS,P907.00,null,CPRD_GOLD
+93641,[X]Cleft palate, unspecified, bilateral,Pyu4000,null,CPRD_GOLD
+97631,Cleft uvula,P902.11,null,CPRD_GOLD
+99908,Wardill repair cleft palate,7525212,null,CPRD_GOLD
+100787,Central complete cleft palate,P905.00,null,CPRD_GOLD
+110201,Skoog repair unilateral cleft lip,7502712,null,CPRD_GOLD
+112480,Cleft hard palate, central,P905.11,null,CPRD_GOLD
+112758,Cleft hard palate with cleft soft palate, bilateral,P927.00,null,CPRD_GOLD

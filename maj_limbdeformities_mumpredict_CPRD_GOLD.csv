@@ -1,0 +1,527 @@
+MEDICAL_CODE_ID,DESCRIPTION,READ_CODE,SNOMED_CT_CODE,DATABASE
+933,Congenital dislocation of hip,PE30.00,null,CPRD_GOLD
+89722,Agenesis of other tarsal bone,PF38200,null,CPRD_GOLD
+9239,Congenital dislocation and subluxation of the hip,PE3..00,null,CPRD_GOLD
+12263,Calcaneonavicular bar,PF67100,null,CPRD_GOLD
+22756,Chondrodysplasia,PG4..00,null,CPRD_GOLD
+27365,Reduction deformity of unspecified limb,PF4..00,null,CPRD_GOLD
+44150,Certain congenital musculoskeletal deformities,PE...00,null,CPRD_GOLD
+46734,Other lower limb and pelvic girdle anomaly NOS,PF6yz00,null,CPRD_GOLD
+15859,Congenital elevation of scapula,PF52.00,null,CPRD_GOLD
+23669,Complex tarsal coalition,PF67A00,null,CPRD_GOLD
+28542,Congenital deformity of clavicle,PF51.00,null,CPRD_GOLD
+28775,Constriction ring syndrome of lower limb with amputation,PF6D300,null,CPRD_GOLD
+35699,Congenital absence of toe,PF39.00,null,CPRD_GOLD
+35834,Acheiria,PF21611,null,CPRD_GOLD
+36494,Conjoined toes,PF14.12,null,CPRD_GOLD
+41345,Macrodactylia (fingers),PF57.00,null,CPRD_GOLD
+41471,Phocomelia of unspecified limb,PF44.00,null,CPRD_GOLD
+42733,Perodactylia of great toe,PF66800,null,CPRD_GOLD
+44219,Other upper limb and shoulder anomaly,PF5..00,null,CPRD_GOLD
+45651,Congenital club hand,PE8y000,null,CPRD_GOLD
+46124,Capitate-hamate synostosis,PF5A100,null,CPRD_GOLD
+46652,Congenital overgrowth of lower limb,PF6B.00,null,CPRD_GOLD
+47217,Correction of congenital absence of radius,7L0E500,null,CPRD_GOLD
+47224,Guerin - Stern syndrome,PE8y500,null,CPRD_GOLD
+50504,Other specified correction of congenital deformity of hip,7L0Gy00,null,CPRD_GOLD
+52738,Other specified anomalies of unspecified limb,PFy..00,null,CPRD_GOLD
+52819,[X]Other congen malform upper limb(s), incl shoulder girdle,Pyu8A00,null,CPRD_GOLD
+53673,Congenital overgrowth of foot,PF6B200,null,CPRD_GOLD
+54295,Congenital angulation of tibia,PF6y000,null,CPRD_GOLD
+55114,Other congenital anomalies of pelvis NOS,PF6xz00,null,CPRD_GOLD
+55593,Congenital spastic foot,F233.11,null,CPRD_GOLD
+56203,Undergrowth of whole hand,PF5D100,null,CPRD_GOLD
+57346,Transverse arrest of carpals and metacarpals,PF28.11,null,CPRD_GOLD
+57873,Naviculocuneiform bar,PF67900,null,CPRD_GOLD
+59150,Other congenital anomalies of lower leg,PF6v.00,null,CPRD_GOLD
+59949,Accesory hallux,PF02000,null,CPRD_GOLD
+60133,Longitudinal reduction deformity of unspecified limb,PF46.00,null,CPRD_GOLD
+60207,Revisn release radius- correctn congenital deformity forearm,7L0E300,null,CPRD_GOLD
+61285,Transverse deficiency of arm, shoulder level(amelia),PF21300,null,CPRD_GOLD
+61387,Revisn release ulna- correction congenital deformity forearm,7L0E400,null,CPRD_GOLD
+61876,Deformity of scapula,N36y400,null,CPRD_GOLD
+61879,Congenital spade-like hand,PE8y400,null,CPRD_GOLD
+62658,Correction of clinodactyly with closing wedge osteotomy,7L0FD00,null,CPRD_GOLD
+62705,Congen overgrowth of whole lower limb,PF6B300,null,CPRD_GOLD
+62804,Other specified reduction deformities of upper limb,PF2y.00,null,CPRD_GOLD
+62884,Transverse arrest metacarpal other,PF28200,null,CPRD_GOLD
+63009,Complex varus foot deformities,PE5x.00,null,CPRD_GOLD
+63146,Chondrodysplasia calcificans congenita,PG56011,null,CPRD_GOLD
+63972,Other congenital anomalies of shoulder,PF5w.00,null,CPRD_GOLD
+64701,Brachydactyly-missing phalanx,PF5r600,null,CPRD_GOLD
+64730,Congenital absence of great toe,PF39000,null,CPRD_GOLD
+64988,Congenital absence of thigh and lower leg with foot present,PF6E.00,null,CPRD_GOLD
+65217,Other specified reduction deformities of lower limb,PF3y.00,null,CPRD_GOLD
+65349,Withered limb,PF4z.12,null,CPRD_GOLD
+65604,Osseous syndactyly of fingers,PF12.12,null,CPRD_GOLD
+65592,Transverse deficiency of leg,PF31.00,null,CPRD_GOLD
+65714,Scaphoid-lunate synostosis,PF5A200,null,CPRD_GOLD
+65997,[X]Other congenital deformities of chest,Pyu8500,null,CPRD_GOLD
+66061,Total radial absence,PF26200,null,CPRD_GOLD
+66066,Transverse arrest metacarpal 1st ray,PF28100,null,CPRD_GOLD
+67807,Transverse deficiency of arm, forearm level,PF21200,null,CPRD_GOLD
+68342,Brachymesophalangia,PF5rC00,null,CPRD_GOLD
+68535,Reduction deformity of upper limb NOS,PF2z.00,null,CPRD_GOLD
+68991,Polysyndactyly,PF1z.11,null,CPRD_GOLD
+68975,Total absence of ulna,PF27100,null,CPRD_GOLD
+69248,Congenital absence of 5th toe,PF39100,null,CPRD_GOLD
+69588,Centralisation carpus- correctn congenital deformity forearm,7L0E200,null,CPRD_GOLD
+70263,Agenesis of 4th and 5th metatarsals,PF38700,null,CPRD_GOLD
+70730,Ectromelia of upper limb NOS,PF20100,null,CPRD_GOLD
+70964,Transverse deficiency lower limb - knee level,PF31500,null,CPRD_GOLD
+71088,Windblown hand,PF59000,null,CPRD_GOLD
+72180,Congenital absence of upper arm only,PF24.00,null,CPRD_GOLD
+72410,Secndry arthroplasty hip for correctn congenital deformity,7L0G200,null,CPRD_GOLD
+72940,Transverse arrest carpal level,PF28000,null,CPRD_GOLD
+73649,Hemimelia of unspecified limb,PF43.00,null,CPRD_GOLD
+73653,Ectromelia of lower limb NOS,PF30000,null,CPRD_GOLD
+90516,Sympus,PKy7411,null,CPRD_GOLD
+92299,Other congenital anomalies of upper leg,PF6w.00,null,CPRD_GOLD
+92289,Agenesis of talus,PF38000,null,CPRD_GOLD
+93219,Complete phocomelia of lower limb,PF33.11,null,CPRD_GOLD
+93506,PIP joint symphalangism,PF5A400,null,CPRD_GOLD
+94122,Longitudinal deficiency of arm NEC NOS,PF22z00,null,CPRD_GOLD
+94794,Triphalangeal great toe,PF66B00,null,CPRD_GOLD
+94845,Aglossia - adactyly syndrome,PKy7600,null,CPRD_GOLD
+95320,[X]Other congenital varus deformities of feet,Pyu8100,null,CPRD_GOLD
+95375,Other failure of differentiation, skeletal tissues of arm,PF5A.00,null,CPRD_GOLD
+95502,Correction of congenital deformity shoulder or upper arm OS,7L0Dy00,null,CPRD_GOLD
+95735,Congenital absence of thigh only,PF34.00,null,CPRD_GOLD
+96336,Reconstruction of radial club hand,7L0FK00,null,CPRD_GOLD
+96366,Brachymelia of leg,PF30.11,null,CPRD_GOLD
+96409,Amelia - lower limb,PF31311,null,CPRD_GOLD
+96511,Correction of congenital deformity of forearm NOS,7L0Ez00,null,CPRD_GOLD
+96461,Adams correction of congenital dislocation of hip,7L0Gz11,null,CPRD_GOLD
+96621,Correction of congenital deformity of forearm OS,7L0Ey00,null,CPRD_GOLD
+96737,Congenital absence of other lesser toe,PF39200,null,CPRD_GOLD
+96910,Transverse deficiency of arm, unspecified,PF21000,null,CPRD_GOLD
+97110,Other upper limb and shoulder anomaly NOS,PF5yz00,null,CPRD_GOLD
+97353,Simple syndactyly of toes 1st web space,PF13000,null,CPRD_GOLD
+97556,Correction of complex craniofacial deformity NOS,7L0Nz00,null,CPRD_GOLD
+97903,Congenital fibular deficiency type II,PF37100,null,CPRD_GOLD
+98901,Transverse deficiency of arm, elbow level(hemimelia),PF21500,null,CPRD_GOLD
+99016,Transverse arrest phalangeal level 4th ray,PF29300,null,CPRD_GOLD
+99017,Transverse arrest phalangeal level 5th ray,PF29400,null,CPRD_GOLD
+99157,Brachymelia NOS,PF4y000,null,CPRD_GOLD
+100344,Repositioning of thumb for cleft hand,7L0F700,null,CPRD_GOLD
+101472,Brachymetapodia of other metatarsal,PF6C500,null,CPRD_GOLD
+101676,Intraartic soft tiss proced correct congenital deformity hip,7L0G300,null,CPRD_GOLD
+101754,Radial polydactyly Wassel 1,PF01000,null,CPRD_GOLD
+102227,Humeroradial synostosis,PF5y400,null,CPRD_GOLD
+102633,Other upper limb and shoulder anomaly OS,PF5y.00,null,CPRD_GOLD
+102900,Clinodactyly, no delta phalanx,PF5rB00,null,CPRD_GOLD
+103258,Perodactylia of lesser toe,PF66900,null,CPRD_GOLD
+103268,Congenital dislocation of knee grade II,PE41100,null,CPRD_GOLD
+103878,Transverse deficiency of arm NOS,PF21z00,null,CPRD_GOLD
+103879,Agenesis of other metatarsal,PF38600,null,CPRD_GOLD
+104024,Constriction ring with acrosyndactyly and amputation,PF5E400,null,CPRD_GOLD
+104207,Proximal phocomelia of lower limb,PF34.11,null,CPRD_GOLD
+104353,Macrodactyly - fatty nerve tumor,PF57100,null,CPRD_GOLD
+104751,Partial defect of ulna,PF27000,null,CPRD_GOLD
+104729,DIP joint symphalangism,PF5A500,null,CPRD_GOLD
+104835,Congenital tibial deficiency type III,PF36200,null,CPRD_GOLD
+104822,Transverse deficiency of arm, phalangeal level, all fingers,PF21100,null,CPRD_GOLD
+104916,Osseous syndactyly lesser toes,PF14100,null,CPRD_GOLD
+105008,Other undergrowth of limb NOS,PF5Dz00,null,CPRD_GOLD
+105696,Myotonic chondrodysplasia,PG42100,null,CPRD_GOLD
+106011,Transverse arrest of phalanges,PF29.12,null,CPRD_GOLD
+106171,Partial radial absence,PF26100,null,CPRD_GOLD
+106182,Overgrowth of partial upper limb,PF5C100,null,CPRD_GOLD
+107002,Transverse arrest phalangeal level 1st ray,PF29000,null,CPRD_GOLD
+107951,[X]Other reduction defects of upper limb(s),Pyu8700,null,CPRD_GOLD
+108734,Syndactyly of toes with bone fusion,PF14.13,null,CPRD_GOLD
+108865,Brachyphalangia of little toe,PF66600,null,CPRD_GOLD
+108988,Hemimelia - knee level,PF31511,null,CPRD_GOLD
+109238,Ulnar mammary syndrome,PJ54.00,null,CPRD_GOLD
+109504,Correction of congenital deformity shoulder or upper arm NOS,7L0Dz00,null,CPRD_GOLD
+110361,Perkins operation for club foot,7L0J214,null,CPRD_GOLD
+110670,Brachymetapodia of 1st metatarsal,PF6C300,null,CPRD_GOLD
+110673,Other specified reduction deformities of unspecified limb,PF4y.00,null,CPRD_GOLD
+111003,[X]Other congenital deformities of hip,Pyu8000,null,CPRD_GOLD
+112725,Radial polydactyly Wassel 5,PF01400,null,CPRD_GOLD
+112765,Osseous syndactyly - 2nd to 4th web,PF12100,null,CPRD_GOLD
+113646,Chondrodysplasia,PG42.13,null,CPRD_GOLD
+114240,Constriction ring of lower limb with lymphoedema,PF6D100,null,CPRD_GOLD
+114253,Chondrodysplasia with haemangioma,PG42013,null,CPRD_GOLD
+115146,Transverse deficiency lower limb - metatarsal level,PF31400,null,CPRD_GOLD
+101281,[X]Other congenital malforms of the musculoskeletal system,Pyu8M00,null,CPRD_GOLD
+156,Congenital talipes equinovarus,PE51.00,null,CPRD_GOLD
+944,Other congenital anomalies of toe,PF66.00,null,CPRD_GOLD
+2021,Ectrodactyly of finger,PF29.11,null,CPRD_GOLD
+2022,Syndactylisation of lesser toes,7K51200,null,CPRD_GOLD
+2023,Congenital claw foot,PE73.00,null,CPRD_GOLD
+2070,Congenital anomalies of foot NEC,PF67.00,null,CPRD_GOLD
+2483,Syndactyly - webbing of digits,PF1..00,null,CPRD_GOLD
+2889,Congenital hip dysplasia,PF63100,null,CPRD_GOLD
+2948,Other congenital musculoskeletal anomalies,PG...00,null,CPRD_GOLD
+3241,Polydactyly - supernumerary digits,PF0..00,null,CPRD_GOLD
+3298,Congenital musculoskeletal deformities,PE...11,null,CPRD_GOLD
+3642,Webbed toes,PF13.11,null,CPRD_GOLD
+3691,Dysplastic hip,PE34.00,null,CPRD_GOLD
+4330,Congenital postural scoliosis,PE22.00,null,CPRD_GOLD
+4331,Clubfoot NOS,PE70.11,null,CPRD_GOLD
+4333,Congenital curly toes,PF66500,null,CPRD_GOLD
+4334,Congenital talipes equinus,PE7y200,null,CPRD_GOLD
+4335,Talipes, unspecified,PE70.00,null,CPRD_GOLD
+4378,Persistent femoral anteversion,N363400,null,CPRD_GOLD
+4457,Syndactyly of fingers with bone fusion,PF12.00,null,CPRD_GOLD
+4616,Congenital shortening of leg, unspecified,PF30.00,null,CPRD_GOLD
+4804,H/O: cong. dislocation - hip,14H5.00,null,CPRD_GOLD
+4805,Congenital bowing of tibia and fibula,PE43.00,null,CPRD_GOLD
+5376,Tarsal coalitions,PF67400,null,CPRD_GOLD
+5378,Triple arthrodesis for correction of congenital deformity,7L0K400,null,CPRD_GOLD
+5594,Other congenital anomalies of hand,PF5s.00,null,CPRD_GOLD
+6342,Clinodactyly,PF5r300,null,CPRD_GOLD
+6406,Primary correction of talipes,7L0J.12,null,CPRD_GOLD
+7039,Congenital clubfoot - varus,PE50.12,null,CPRD_GOLD
+7405,Congenital hallux varus,PF66100,null,CPRD_GOLD
+7815,Congenital talipes calcaneovarus,PE5y000,null,CPRD_GOLD
+7822,Primary correction of club foot,7L0J.11,null,CPRD_GOLD
+7823,Medial release foot joints- correction congenital deformity,7L0J200,null,CPRD_GOLD
+7965,Congenital hallux valgus,PF66000,null,CPRD_GOLD
+7998,Camptodactyly,PF5r200,null,CPRD_GOLD
+8626,Congenital hammer toe,PF66200,null,CPRD_GOLD
+9299,Pemberton osteotomy for congenital deformity of hip,7L0G900,null,CPRD_GOLD
+9549,Congenital anteversion of femoral neck,PF63000,null,CPRD_GOLD
+9723,Congenital anomaly of unspecified limb NOS,PFz..00,null,CPRD_GOLD
+10556,Flexion deformity of fingers,PF5r400,null,CPRD_GOLD
+10751,Other correction of talipes,7L0K.12,null,CPRD_GOLD
+12526,Amputation of supernumerary finger NEC,7L0F500,null,CPRD_GOLD
+14649,Other congenital limb anomalies,PF...00,null,CPRD_GOLD
+14917,Chondrodysplasia NOS,PG4z.00,null,CPRD_GOLD
+14938,Congenital subluxation of hip,PE31.00,null,CPRD_GOLD
+14964,Upper limb anomaly, unspecified,PF50.00,null,CPRD_GOLD
+15124,Congenital knee joint deformity,PF64.00,null,CPRD_GOLD
+15502,Lower limb anomaly, unspecified,PF60.00,null,CPRD_GOLD
+15526,Supernumerary digits, unspecified,PF00.00,null,CPRD_GOLD
+15785,Talipes cavus,PE71.00,null,CPRD_GOLD
+15949,Other congenital hip joint deformity,PF63.00,null,CPRD_GOLD
+16058,Upper limb or shoulder anomaly NOS,PF5z.00,null,CPRD_GOLD
+16335,Accessory fingers,PF01.00,null,CPRD_GOLD
+16570,Correction of congenital deformity of shoulder or upper arm,7L0D.00,null,CPRD_GOLD
+16574,Congenital disloc. hip screen,68G..00,null,CPRD_GOLD
+17433,Congenital trigger thumb,PF59600,null,CPRD_GOLD
+17996,Primary correction of congenital deformity of foot,7L0J.00,null,CPRD_GOLD
+18160,Short-rib/polydactyly syndrome,PG4B300,null,CPRD_GOLD
+18193,Chondrodysplasia punctata,PG4C.00,null,CPRD_GOLD
+18517,Congenital crossed toes,PF66400,null,CPRD_GOLD
+19123,Developmental dysplasia of the hip,PF63111,null,CPRD_GOLD
+19378,Other operations for club foot,7L0K.11,null,CPRD_GOLD
+19667,Congenital shortening of arm, unspecified,PF20.00,null,CPRD_GOLD
+19703,Congenital claw toe,PE71.11,null,CPRD_GOLD
+20442,Thumb in palm deformity,PF59500,null,CPRD_GOLD
+20559,Congenital abduction contracture of hip,PE8y700,null,CPRD_GOLD
+20689,[V]Screening for congenital dislocation of hip,ZV7y300,null,CPRD_GOLD
+20691,Amputation of duplicate thumb,7L0F400,null,CPRD_GOLD
+20745,Congenital dislocation of knee,PE41.00,null,CPRD_GOLD
+21049,Poland's syndrome,PGy0100,null,CPRD_GOLD
+21716,Other correction of congenital deformity of foot,7L0K.00,null,CPRD_GOLD
+21813,Congenital dislocation of patella,PF64400,null,CPRD_GOLD
+21966,Holt - Oram syndrome,PKy7100,null,CPRD_GOLD
+22301,Congenital dislocation of elbow,PE8y200,null,CPRD_GOLD
+22316,Excision of ulnar digit and skeletal repair for polydactyly,7L0FH00,null,CPRD_GOLD
+22457,Hypoplasia of upper limb,PF2z.11,null,CPRD_GOLD
+22742,Salter osteotomy for congenital deformity of hip,7L0G800,null,CPRD_GOLD
+22846,Congenital talipes varus,PE50.00,null,CPRD_GOLD
+23320,Arthrogryposis multiplex congenita.,N233011,null,CPRD_GOLD
+23440,Release of syndactyly of toes,7L0L100,null,CPRD_GOLD
+23738,Medial release of joints of foot for correction of club foot,7L0J213,null,CPRD_GOLD
+23757,Correction of congenital crossed toes,7L0L400,null,CPRD_GOLD
+23852,Wedge tarsectomy for correction congenital deformity of foot,7L0K100,null,CPRD_GOLD
+23981,Release pantalar joints correction congenital deformity foot,7L0J000,null,CPRD_GOLD
+24051,Correction of syndactyly of fingers using skin graft,7L0F200,null,CPRD_GOLD
+24053,Constriction ring syndrome of upper limb,PF5E.00,null,CPRD_GOLD
+24167,Tibiofibular synostosis for congenital deformity,7L0H900,null,CPRD_GOLD
+24526,Other deformities of feet,PE7..00,null,CPRD_GOLD
+24643,Macrodactylia of toes,PF65.00,null,CPRD_GOLD
+24646,Hypoplasia of lower limb,PF3z.11,null,CPRD_GOLD
+24670,Correction of congenital deformity of hip,7L0G.00,null,CPRD_GOLD
+24777,Dilwyn Evans proc for correction of congenital deformity,7L0K500,null,CPRD_GOLD
+24936,Simple syndactyly lesser toes,PF13100,null,CPRD_GOLD
+25109,Chiari osteotomy for congenital deformity of hip,7L0GA00,null,CPRD_GOLD
+25190,Other congenital anomalies of pelvis,PF6x.00,null,CPRD_GOLD
+26139,Other musc skeletal deformity,PE9..00,null,CPRD_GOLD
+26291,Other congenital anomalies of fingers,PF5r.00,null,CPRD_GOLD
+26456,Pes varus,PE50.11,null,CPRD_GOLD
+26851,Correction of congenital deformity of forearm,7L0E.00,null,CPRD_GOLD
+27301,Congenital dislocation of hip NOS,PE3z.00,null,CPRD_GOLD
+27426,Congenital deformity of ankle joint,PF6y100,null,CPRD_GOLD
+27624,Congenital absence of forearm only,PF25.00,null,CPRD_GOLD
+27774,Split foot,PF3A.00,null,CPRD_GOLD
+28025,Madelung's deformity,PF54.00,null,CPRD_GOLD
+28034,Correction of congenital deformity of hand,7L0F.00,null,CPRD_GOLD
+28097,Rudimentary hand,PF21612,null,CPRD_GOLD
+28205,Deformity of tibia,N36yE00,null,CPRD_GOLD
+28246,Accessory thumbs,PF03.00,null,CPRD_GOLD
+28646,Agenesis of tarsals and metatarsals,PF38.00,null,CPRD_GOLD
+28661,Congenital absence of limb NOS,PF40.00,null,CPRD_GOLD
+28715,Amputation of supernumerary toe,7L0L200,null,CPRD_GOLD
+29124,Congenital flexion contracture of knee,PE8y800,null,CPRD_GOLD
+29298,Congenital bowing of femur,PE42.00,null,CPRD_GOLD
+29902,Angina decubitus NOS,G330z00,null,CPRD_GOLD
+30141,Congenital cleft hand,PF58.00,null,CPRD_GOLD
+30227,Cleidocranial dysostosis,PF5y000,null,CPRD_GOLD
+30363,Open reduction of congenital dislocation of hip,7L0G000,null,CPRD_GOLD
+30613,Phocomelia of upper limb NOS,PF22000,null,CPRD_GOLD
+31032,Open reduction of congenital dislocation of knee,7L0H000,null,CPRD_GOLD
+31211,Congenital contractural arachnodactyly,PKy7A00,null,CPRD_GOLD
+31418,Arthrogryposis,N233000,null,CPRD_GOLD
+31908,Cubitus NOS,PF5v.11,null,CPRD_GOLD
+31942,VATER association,PKy9600,null,CPRD_GOLD
+32039,Transverse deficiency of arm,PF21.00,null,CPRD_GOLD
+32337,O/E - arachnodactyly,2G24.11,null,CPRD_GOLD
+32418,Congenital acetabular dysplasia,PF63200,null,CPRD_GOLD
+32512,Radio-ulnar synostosis,PF53.00,null,CPRD_GOLD
+32607,Deformity of ulna,N36y700,null,CPRD_GOLD
+32907,Hemimelia of lower limb NOS,PF30100,null,CPRD_GOLD
+33365,Webbed fingers,PF11.11,null,CPRD_GOLD
+33394,Congenital absence of finger,PF29.00,null,CPRD_GOLD
+33576,Congenital dislocation of hip NOS,PE30z00,null,CPRD_GOLD
+33811,Metaphyseal chondrodysplasia,PG4D.00,null,CPRD_GOLD
+33927,Fused toes,PF14.11,null,CPRD_GOLD
+33960,Other toe anomalies NOS,PF66z00,null,CPRD_GOLD
+33984,Lobster-claw hand,PF58.11,null,CPRD_GOLD
+34038,Primary osteotomy pelvis correction congenital deformity hip,7L0G100,null,CPRD_GOLD
+34200,Correction of congenital deformity of leg,7L0H.00,null,CPRD_GOLD
+34285,Bilateral dysplastic hip,PE34100,null,CPRD_GOLD
+34321,Congenital absence of digits NOS,PF47.00,null,CPRD_GOLD
+34660,Reduction deformity of lower limb,PF3..00,null,CPRD_GOLD
+34717,Radio-ulnar dysostosis,PF5u000,null,CPRD_GOLD
+34765,Correction of radial polydactyly,7L0FF00,null,CPRD_GOLD
+35097,Accessory tarsal bones,PF67700,null,CPRD_GOLD
+35125,Congenital thoracic wall deformity NEC,PE8y111,null,CPRD_GOLD
+36269,Correction of congenital deformity of hip NOS,7L0Gz00,null,CPRD_GOLD
+36277,Congenital varus ankle,PF6y400,null,CPRD_GOLD
+36487,Reduction deformity of lower limb NOS,PF3z.00,null,CPRD_GOLD
+36685,Shelf procedure for correction congenital deformity of hip,7L0GC00,null,CPRD_GOLD
+36739,Hypoplastic thumb-Blauth 2,PF26500,null,CPRD_GOLD
+36847,Osteotomy of ilium correction of congenital deformity of hip,7L0G500,null,CPRD_GOLD
+36940,Sprengel's deformity,PF52.11,null,CPRD_GOLD
+37141,Coalition of calcaneous,PF67200,null,CPRD_GOLD
+37167,Other congenital musculoskeletal deformity,PE9..11,null,CPRD_GOLD
+37277,Congenital absence upper arm and forearm with hand present,PF23.00,null,CPRD_GOLD
+37327,Congenital dislocation of radial head,PE8yA00,null,CPRD_GOLD
+37402,Apert's syndrome,PF55.11,null,CPRD_GOLD
+37404,Anomalies of foot NEC NOS,PF67z00,null,CPRD_GOLD
+37430,[V]Deficiencies of limbs problems,ZV49000,null,CPRD_GOLD
+37679,Deformity of femur,N36yC00,null,CPRD_GOLD
+37804,Other duplication of limb,PF5B.00,null,CPRD_GOLD
+37895,Camptodactyly-little finger,PF5r800,null,CPRD_GOLD
+37965,Congenital malformation of thumb,PF5rD00,null,CPRD_GOLD
+37973,Congenital absence part of arm,PF21.11,null,CPRD_GOLD
+38305,Congenital coxa valga,PF61.00,null,CPRD_GOLD
+38373,Bilateral congenital dislocation of hip,PE30100,null,CPRD_GOLD
+38386,Congenital talipes calcaneus,PE7y100,null,CPRD_GOLD
+38479,Arthrogryposis multiplex congenita,PFy0.00,null,CPRD_GOLD
+38772,Unilateral dysplastic hip,PE34000,null,CPRD_GOLD
+38836,Polysyndactyly,PF15.00,null,CPRD_GOLD
+38896,Constriction ring,PF5E000,null,CPRD_GOLD
+39538,Distal arthrogryposis syndrome,PFy3.00,null,CPRD_GOLD
+39769,Evans operation for club foot,7L0J212,null,CPRD_GOLD
+39825,Cranio-orbital remodelling, unspecified,7L0N200,null,CPRD_GOLD
+39931,Anonychia,PH50.00,null,CPRD_GOLD
+40277,Feet deformities NOS,PE7z.00,null,CPRD_GOLD
+40396,Posteromedial release of clubfoot,7L0J400,null,CPRD_GOLD
+40398,Fused fingers,PF12.11,null,CPRD_GOLD
+40517,Congenital deformity of hip, unspecified,PF63X00,null,CPRD_GOLD
+40691,Polydactyly NOS,PF0z.00,null,CPRD_GOLD
+40975,Phocomelia of lower limb NOS,PF32.11,null,CPRD_GOLD
+40980,Congenital coxa vara,PF62.00,null,CPRD_GOLD
+40983,Duplication of lower limb bone,PF6A.00,null,CPRD_GOLD
+41019,Congenital club fingers,PE8y011,null,CPRD_GOLD
+41117,Syndactyly of fingers without bone fusion,PF11.00,null,CPRD_GOLD
+41360,Correction of syndactyly of fingers using skin expander,7L0F300,null,CPRD_GOLD
+41398,Distal phocomelia of lower limb,PF35.11,null,CPRD_GOLD
+41840,Acrocephalosyndactyly (Apert),PF55000,null,CPRD_GOLD
+42135,Other specified varus foot deformity NOS,PE5yz00,null,CPRD_GOLD
+42203,Triphalangeal thumb,PF5r000,null,CPRD_GOLD
+42848,Congenital shortening of tendon,PGyy100,null,CPRD_GOLD
+43154,Other specified varus feet deformity,PE5y.00,null,CPRD_GOLD
+43175,Open reduction congenital dislocation of patella,7L0H800,null,CPRD_GOLD
+43396,Arachnodactyly,PKy7500,null,CPRD_GOLD
+43578,Reduction deformity of upper limb,PF2..00,null,CPRD_GOLD
+43649,Leg reduction deformity,PF3..11,null,CPRD_GOLD
+43838,Syndactyly NOS,PF1z.00,null,CPRD_GOLD
+44045,Correction of congenital deformity of leg NOS,7L0Hz00,null,CPRD_GOLD
+44293,Other specified foot deformity,PE7y.00,null,CPRD_GOLD
+44379,Other specified foot deformity NOS,PE7yz00,null,CPRD_GOLD
+44728,Other lower limb anomalies,PF6y.00,null,CPRD_GOLD
+44821,Absent thumb,PF26300,null,CPRD_GOLD
+44997,Reduction of macrodactyly of toe,7L0L500,null,CPRD_GOLD
+45324,Correction of congenital deformity of hand NOS,7L0Fz00,null,CPRD_GOLD
+45385,Unspecified congenital leg shortening NOS,PF30z00,null,CPRD_GOLD
+45447,Symbrachydactyly,PF5r700,null,CPRD_GOLD
+45605,Longitudinal reduction deformity of lower limb NEC,PF32.00,null,CPRD_GOLD
+45928,Post release foot joints for correction congenital deformity,7L0J100,null,CPRD_GOLD
+45970,Unilateral congenital dislocation of hip,PE30000,null,CPRD_GOLD
+46129,Brachydactyly of fingers, unspecified,PF5r100,null,CPRD_GOLD
+46139,Excision of radial digit & skeletal repair for polydactyly,7L0FG00,null,CPRD_GOLD
+46835,Congenital absence of hand,PF21613,null,CPRD_GOLD
+47441,Brachymetacarpia,PF5D200,null,CPRD_GOLD
+47736,Bipartite patella,PF64500,null,CPRD_GOLD
+47750,Talipes strapping,Z1NI.00,null,CPRD_GOLD
+48177,Other anomaly of fingers NOS,PF5rz00,null,CPRD_GOLD
+48248,Separation of tarsal coalition,7L0K300,null,CPRD_GOLD
+48469,Congenital pseudarthrosis of tibia,PF6y600,null,CPRD_GOLD
+48474,Talonavicular synostosis,PF67300,null,CPRD_GOLD
+48508,Congenital complete absence of upper limb(s),PF5G.00,null,CPRD_GOLD
+48888,Other accessory toe,PF02200,null,CPRD_GOLD
+48901,Congenital absence of both forearm and hand,PF5F.00,null,CPRD_GOLD
+49171,Brachydactyly NOS,PF4z.11,null,CPRD_GOLD
+49228,Agenesis of carpals and metacarpals,PF28.00,null,CPRD_GOLD
+49527,Realignment of congenital ulnar drift,7L0FA00,null,CPRD_GOLD
+49743,Congenital deformity of scapula NEC,PF5w.11,null,CPRD_GOLD
+49767,Accessory little toe,PF02100,null,CPRD_GOLD
+50077,Congenital knee joint deformity NOS,PF64z00,null,CPRD_GOLD
+50234,Distal phocomelia of upper limb,PF25.11,null,CPRD_GOLD
+50251,Acrocephalosyndactyly (Pfeiffer),PF55100,null,CPRD_GOLD
+50307,Congenital flexion contracture of hip,PE8y600,null,CPRD_GOLD
+50314,Other correction of congenital deformity of foot NOS,7L0Kz00,null,CPRD_GOLD
+50564,Congenital absence of thigh and lower leg with foot present,PF33.00,null,CPRD_GOLD
+50784,Hemimelia of upper limb NOS,PF20200,null,CPRD_GOLD
+51173,Correction of cleft hand,7L0F800,null,CPRD_GOLD
+51709,Brachymelia of arm,PF20.11,null,CPRD_GOLD
+51738,Dillwyn operation for club foot,7L0J211,null,CPRD_GOLD
+51993,Hypoplasia of limb NOS,PF4z.13,null,CPRD_GOLD
+52065,Correction of complex craniofacial deformity,7L0N.00,null,CPRD_GOLD
+52764,Deformity of patella,N36yD00,null,CPRD_GOLD
+53079,Lobster claw foot,PF67500,null,CPRD_GOLD
+53564,Congenital amputation of unspecified limb,PF45.00,null,CPRD_GOLD
+53574,Clinodactyly with delta phalanx,PF5rA00,null,CPRD_GOLD
+53639,Femoral osteotomy for correction congenital deformity of hip,7L0G600,null,CPRD_GOLD
+54180,Congenital undergrowth of proximal part of limb,PF6C000,null,CPRD_GOLD
+54240,Other specified correction of congenital deformity of leg,7L0Hy00,null,CPRD_GOLD
+54298,Talocalcaneal bar,PF67800,null,CPRD_GOLD
+54315,Arm reduction deformity,PF2..11,null,CPRD_GOLD
+54598,Other congenital anomalies of wrist,PF5t.00,null,CPRD_GOLD
+54805,Radioulnar synostosis and dislocation of radial head,PF53100,null,CPRD_GOLD
+55347,Complete subtalar release of clubfoot,7L0J800,null,CPRD_GOLD
+55872,Ferguson open reduction of congenital deformity of hip,7L0G011,null,CPRD_GOLD
+55975,Deformity of humerus,N36y500,null,CPRD_GOLD
+55981,Camptodactyly-other or multiple,PF5r900,null,CPRD_GOLD
+56166,Macrodactyly - simple,PF57000,null,CPRD_GOLD
+56313,Cleft hand with syndactyly,PF58200,null,CPRD_GOLD
+56350,Agenesis of hand,PF21z11,null,CPRD_GOLD
+56631,Congenital flexion contractures of leg,PE8y300,null,CPRD_GOLD
+56739,Primary correction of congenital deformity of foot NOS,7L0Jz00,null,CPRD_GOLD
+56836,Syndactyly of toes without bone fusion,PF13.00,null,CPRD_GOLD
+56876,Cleidocranial dysplasia,PF5y011,null,CPRD_GOLD
+57051,Congenital absence finger NOS,PF29z00,null,CPRD_GOLD
+57063,Combined posteromedial + posterolateral release of clubfoot,7L0J500,null,CPRD_GOLD
+57519,Reduction of Sprengel deformity,7L0D000,null,CPRD_GOLD
+57811,Radialialization correction for radial club hand,7L0E600,null,CPRD_GOLD
+57917,Other specified correction of congenital deformity of hand,7L0Fy00,null,CPRD_GOLD
+58035,Chondrodysplasia calcificans congenita,PG56000,null,CPRD_GOLD
+59037,Deformity of phalanx of finger/thumb,N36yA00,null,CPRD_GOLD
+59166,Adactyly,PF47.11,null,CPRD_GOLD
+59307,Congenital amputation of upper limb,PF21400,null,CPRD_GOLD
+59410,Rudimentary arm,PF22100,null,CPRD_GOLD
+59934,Other correction of congenital deformity of foot OS,7L0Ky00,null,CPRD_GOLD
+60165,Other arthrogryposis syndromes,PFy4.00,null,CPRD_GOLD
+60305,Turco soft tissue release for club foot,7L0J011,null,CPRD_GOLD
+60339,Astragaloscaphoid synostosis,PF67000,null,CPRD_GOLD
+60525,Congenital absence of leg and foot,PF31200,null,CPRD_GOLD
+60598,Anterior release foot joints correction congenital deformity,7L0J300,null,CPRD_GOLD
+60930,Agenesis of fibula,PF37.00,null,CPRD_GOLD
+61076,Correction of oblique facial cleft,7L0N500,null,CPRD_GOLD
+61225,Proximal phocomelia of upper limb,PF24.11,null,CPRD_GOLD
+61558,Other congenital anomaly forearm NOS,PF5uz00,null,CPRD_GOLD
+61605,Congenital short quadriceps,PE8y900,null,CPRD_GOLD
+61638,Congenital absence of patella,PF64000,null,CPRD_GOLD
+61661,Other overgrowth of upper limb,PF5C.00,null,CPRD_GOLD
+61993,Deformity of metacarpal,N36y900,null,CPRD_GOLD
+62024,Congenital humeral varus,PF5y300,null,CPRD_GOLD
+62026,Primary correction of congenital deformity of foot OS,7L0Jy00,null,CPRD_GOLD
+62353,Acrosyndactyly,PF5E200,null,CPRD_GOLD
+62450,Congenital undergrowth of lower limb,PF6C.00,null,CPRD_GOLD
+62500,Hypoplasia of radius,PF26000,null,CPRD_GOLD
+62586,Congenital subluxation of hip NOS,PE31z00,null,CPRD_GOLD
+62732,Reduction deformity of unspecified limb NOS,PF4z.00,null,CPRD_GOLD
+62902,Simple syndactyly - 1st web,PF11000,null,CPRD_GOLD
+63079,Syndactyly of multiple digits, unspecified,PF10.00,null,CPRD_GOLD
+63274,Acrocephalosyndactyly,PF55.00,null,CPRD_GOLD
+63750,Pelvic osteotomy for congenital deformity of hip,7L0G700,null,CPRD_GOLD
+63818,Deformity of calcaneum,N36yG00,null,CPRD_GOLD
+63834,Other congenital hip joint deformity NOS,PF63z00,null,CPRD_GOLD
+63874,Deformity of radius,N36y600,null,CPRD_GOLD
+63929,Correction of clinodactyly with osteotomy and bone graft,7L0FC00,null,CPRD_GOLD
+64307,Proximal radioulnar synostosis,PF53000,null,CPRD_GOLD
+64339,Congenital absence of other multiple toes,PF39400,null,CPRD_GOLD
+64527,Congenital deformity of sacroiliac joint,PF6y200,null,CPRD_GOLD
+64939,Congenital undergrowth of distal part of limb,PF6C100,null,CPRD_GOLD
+65011,Congenital dislocation of patella,PE41300,null,CPRD_GOLD
+65113,Colonna osteotomy for congenital deformity of hip,7L0GB00,null,CPRD_GOLD
+65248,Transverse deficiency of arm, wrist level(hemimelia),PF21600,null,CPRD_GOLD
+65514,Ulnar and humeroulnar synostosis,PF27200,null,CPRD_GOLD
+65790,Correction of macrodactyly,7L0FJ00,null,CPRD_GOLD
+66010,Other congenital anomalies of forearm,PF5u.00,null,CPRD_GOLD
+66174,Duplication of limb NOS,PF5Bz00,null,CPRD_GOLD
+66220,Other anomaly of unspecified limb NOS,PFyz.00,null,CPRD_GOLD
+66229,Symphalangism,PF1z.12,null,CPRD_GOLD
+66510,O/E - hands - arachnodactyly,2G24.00,null,CPRD_GOLD
+66868,Agenesis of tibia,PF36.00,null,CPRD_GOLD
+66912,Amelia of unspecified limb,PF41.00,null,CPRD_GOLD
+67014,Syndactyly of toes with bone fusion,PF14.00,null,CPRD_GOLD
+67022,Brachydactyly-all 3 phalanges,PF5r500,null,CPRD_GOLD
+67119,Hemimelia - ankle level,PF31112,null,CPRD_GOLD
+67220,Congenital fusion of sacroiliac joint,PF6y300,null,CPRD_GOLD
+67293,Constriction ring syndrome of lower limb,PF6D.00,null,CPRD_GOLD
+67992,[X]Other congenital deformities of feet,Pyu8300,null,CPRD_GOLD
+68287,Deformity of clavicle,N36y300,null,CPRD_GOLD
+68317,Brachydactyly of toes,PF66300,null,CPRD_GOLD
+68427,Osteochondrodysplasia,PG5z.11,null,CPRD_GOLD
+68582,Congenital cubitus varus,PF5y200,null,CPRD_GOLD
+68768,Camptomelia dysplasia,PG4B400,null,CPRD_GOLD
+69116,Ludloff open reduction of congenital deformity of hip,7L0G012,null,CPRD_GOLD
+69168,Deformity of carpal bone,N36y800,null,CPRD_GOLD
+69492,Lateral release for congenital deformity of foot,7L0J600,null,CPRD_GOLD
+69795,Ulnar polydactyly,PF01800,null,CPRD_GOLD
+69843,Brachymetapodia of 4th metatarsal,PF6C400,null,CPRD_GOLD
+70267,Total elbow synostosis,PF5y600,null,CPRD_GOLD
+70743,Poland's syndrome,PF59400,null,CPRD_GOLD
+70749,Simple syndactyly - 2nd to 4th web,PF11100,null,CPRD_GOLD
+72268,Macrodactyly of toes - simple,PF65000,null,CPRD_GOLD
+72487,Other lower limb and pelvic girdle anomalies,PF6..00,null,CPRD_GOLD
+72561,Congenital absence of lower leg only,PF35.00,null,CPRD_GOLD
+73597,Deformity of pelvis,N36yB00,null,CPRD_GOLD
+73622,Unspecified congenital shortening of arm NOS,PF20z00,null,CPRD_GOLD
+73905,Chondrodysplasia, unspecified,PG40.00,null,CPRD_GOLD
+89442,Other carpal synostosis,PF5A300,null,CPRD_GOLD
+90910,Congenital absence of radius,PF26.11,null,CPRD_GOLD
+93038,Constriction ring with lymphoedema,PF5E100,null,CPRD_GOLD
+93775,Hypoplastic thumb-Blauth 1,PF26400,null,CPRD_GOLD
+93784,Constriction ring of lower limb,PF6D000,null,CPRD_GOLD
+94719,Radial polydactyly Wassel 4,PF01300,null,CPRD_GOLD
+94734,Congenital short femur,PF34100,null,CPRD_GOLD
+95060,Agenesis of radial ray,PF26.00,null,CPRD_GOLD
+97269,Congenital instability of hip joint,PE31014,null,CPRD_GOLD
+97450,Complete phocomelia of upper limb,PF23.11,null,CPRD_GOLD
+97637,[X]Congenital deformity of hip, unspecified,Pyu8N00,null,CPRD_GOLD
+97774,Aberrant intrinsic muscles,PF59300,null,CPRD_GOLD
+99156,Agenesis of 5th metatarsal,PF38500,null,CPRD_GOLD
+99226,Other overgrowth of limb NOS,PF5Cz00,null,CPRD_GOLD
+99310,Congenital dislocation one hip with subluxation other hip,PE32.00,null,CPRD_GOLD
+99600,Intra-uterine amputation,PF5E300,null,CPRD_GOLD
+99666,Proximal femoral focal deficiency,PF34000,null,CPRD_GOLD
+99672,Central polydactyly,PF01700,null,CPRD_GOLD
+99687,Congenital synostosis of lower limb bones,PF69000,null,CPRD_GOLD
+100780,Radial polydactyly Wassel 2,PF01100,null,CPRD_GOLD
+101105,Hypoplastic thumb-Blauth 4,PF26700,null,CPRD_GOLD
+101514,Cleft hand with polydactyly,PF58300,null,CPRD_GOLD
+103201,Humeroulnar synostosis,PF5y500,null,CPRD_GOLD
+103805,Greig cephalopolysyndactyly syndrome,PJ33500,null,CPRD_GOLD
+103983,Hypoplastic thumb-Blauth 3,PF26600,null,CPRD_GOLD
+104434,Deformity of fibula,N36yF00,null,CPRD_GOLD
+104767,Correction of clinodactyly with reversed wedge osteotomy,7L0FE00,null,CPRD_GOLD
+104836,Hypoplastic thumb-Blauth 5,PF26800,null,CPRD_GOLD
+105799,Transverse arrest phalangeal level 2nd ray,PF29100,null,CPRD_GOLD
+105807,Longitudinal deficiency of arm NEC,PF22.00,null,CPRD_GOLD
+106160,[X]Other specified congenital malformations of limb(s),Pyu8C00,null,CPRD_GOLD
+106477,Transverse deficiency lower limb - ankle level,PF31100,null,CPRD_GOLD
+107012,Clavicle agenesis,PF51.11,null,CPRD_GOLD
+107677,Agenesis of ulna,PF27.00,null,CPRD_GOLD
+109481,Distal radioulnar synostosis,PF53200,null,CPRD_GOLD
+95032,Rudimentary patella,PF64300,null,CPRD_GOLD
+111768,Radial polydactyly Wassel 3,PF01200,null,CPRD_GOLD
+112462,Arthrogryposis, unspecified,PFy2.00,null,CPRD_GOLD
+114973,[X]Other specified congenital musculoskeletal deformities,Pyu8600,null,CPRD_GOLD

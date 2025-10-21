@@ -1,0 +1,96 @@
+MEDICAL_CODE_ID,DESCRIPTION,READ_CODE,SNOMED_CT_CODE,DATABASE
+I070,Tricuspid stenosis,I07.0,,ICD10
+I050,Mitral stenosis,I05.0,,ICD10
+I052,Mitral stenosis with insufficiency,I05.2,,ICD10
+I058,Other mitral valve diseases,I05.8,,ICD10
+I059,Mitral valve disease, unspecified,I05.9,,ICD10
+I071,Tricuspid insufficiency,I07.1,,ICD10
+I072,Tricuspid stenosis with insufficiency,I07.2,,ICD10
+I078,Other tricuspid valve diseases,I07.8,,ICD10
+I079,Tricuspid valve disease, unspecified,I07.9,,ICD10
+I080,Disorders of both mitral and aortic valves,I08.0,,ICD10
+I083,Combined disorders of mitral, aortic and tricuspid valves,I08.3,,ICD10
+I231,Atrial septal defect as current complication following acute myocardial infarction,I23.1,,ICD10
+I232,Ventricular septal defect as current complication following acute myocardial infarction,I23.2,,ICD10
+I280,Arteriovenous fistula of pulmonary vessels,I28.0,,ICD10
+I281,Aneurysm of pulmonary artery,I28.1,,ICD10
+I340,Mitral (valve) insufficiency,I34.0,,ICD10
+I342,Nonrheumatic mitral (valve) stenosis,I34.2,,ICD10
+I350,Aortic (valve) stenosis,I35.0,,ICD10
+I351,Aortic (valve) insufficiency,I35.1,,ICD10
+I352,Aortic (valve) stenosis with insufficiency,I35.2,,ICD10
+I360,Nonrheumatic tricuspid (valve) stenosis,I36.0,,ICD10
+I361,Nonrheumatic tricuspid (valve) insufficiency,I36.1,,ICD10
+I362,Nonrheumatic tricuspid (valve) stenosis with insufficiency,I36.2,,ICD10
+I37,Pulmonary valve disorders,I37,,ICD10
+I370,Pulmonary valve stenosis,I37.0,,ICD10
+I372,Pulmonary valve stenosis with insufficiency,I37.2,,ICD10
+I378,Other pulmonary valve disorders,I37.8,,ICD10
+I379,Pulmonary valve disorder, unspecified,I37.9,,ICD10
+I390,Mitral valve disorders in diseases classified elsewhere,I39.0,,ICD10
+I392,Tricuspid valve disorders in diseases classified elsewhere,I39.2,,ICD10
+I393,Pulmonary valve disorders in diseases classified elsewhere,I39.3,,ICD10
+I424,Endocardial fibroelastosis,I42.4,,ICD10
+I510,Cardiac septal defect, acquired,I51.0,,ICD10
+Q244,Congenital subaortic stenosis,Q24.4,,ICD10
+Q20,Congenital malformations of cardiac chambers and connections,Q20,,ICD10
+Q200,Common arterial trunk,Q20.0,,ICD10
+Q201,Double outlet right ventricle,Q20.1,,ICD10
+Q202,Double outlet left ventricle,Q20.2,,ICD10
+Q203,Discordant ventriculoarterial connection,Q20.3,,ICD10
+Q204,Double inlet ventricle,Q20.4,,ICD10
+Q206,Isomerism of atrial appendages,Q20.6,,ICD10
+Q208,Other congenital malformations of cardiac chambers and connections,Q20.8,,ICD10
+Q209,Congenital malformation of cardiac chambers and connections, unspecified,Q20.9,,ICD10
+Q21,Congenital malformations of cardiac septa,Q21,,ICD10
+Q210,Ventricular septal defect,Q21.0,,ICD10
+Q211,Atrial septal defect,Q21.1,,ICD10
+Q212,Atrioventricular septal defect,Q21.2,,ICD10
+Q213,Tetralogy of Fallot,Q21.3,,ICD10
+Q214,Aortopulmonary septal defect,Q21.4,,ICD10
+Q218,Other congenital malformations of cardiac septa,Q21.8,,ICD10
+Q219,Congenital malformation of cardiac septum, unspecified,Q21.9,,ICD10
+Q22,Congenital malformations of pulmonary and tricuspid valves,Q22,,ICD10
+Q220,Pulmonary valve atresia,Q22.0,,ICD10
+Q221,Congenital pulmonary valve stenosis,Q22.1,,ICD10
+Q222,Congenital pulmonary valve insufficiency,Q22.2,,ICD10
+Q223,Other congenital malformations of pulmonary valve,Q22.3,,ICD10
+Q224,Congenital tricuspid stenosis,Q22.4,,ICD10
+Q225,Ebstein anomaly,Q22.5,,ICD10
+Q226,Hypoplastic right heart syndrome,Q22.6,,ICD10
+Q228,Other congenital malformations of tricuspid valve,Q22.8,,ICD10
+Q229,Congenital malformation of tricuspid valve, unspecified,Q22.9,,ICD10
+Q23,Congenital malformations of aortic and mitral valves,Q23,,ICD10
+Q230,Congenital stenosis of aortic valve,Q23.0,,ICD10
+Q231,Congenital insufficiency of aortic valve,Q23.1,,ICD10
+Q232,Congenital mitral stenosis,Q23.2,,ICD10
+Q233,Congenital mitral insufficiency,Q23.3,,ICD10
+Q234,Hypoplastic left heart syndrome,Q23.4,,ICD10
+Q238,Other congenital malformations of aortic and mitral valves,Q23.8,,ICD10
+Q239,Congenital malformation of aortic and mitral valves, unspecified,Q23.9,,ICD10
+Q24,Other congenital malformations of heart,Q24,,ICD10
+Q240,Dextrocardia,Q24.0,,ICD10
+Q241,Laevocardia,Q24.1,,ICD10
+Q242,Cor triatriatum,Q24.2,,ICD10
+Q243,Pulmonary infundibular stenosis,Q24.3,,ICD10
+Q245,Malformation of coronary vessels,Q24.5,,ICD10
+Q246,Congenital heart block,Q24.6,,ICD10
+Q248,Other specified congenital malformations of heart,Q24.8,,ICD10
+Q249,Congenital malformation of heart, unspecified,Q24.9,,ICD10
+Q250,Patent ductus arteriosus,Q25.0,,ICD10
+Q251,Coarctation of aorta,Q25.1,,ICD10
+Q253,Stenosis of aorta,Q25.3,,ICD10
+Q254,Other congenital malformations of aorta,Q25.4,,ICD10
+Q255,Atresia of pulmonary artery,Q25.5,,ICD10
+Q256,Stenosis of pulmonary artery,Q25.6,,ICD10
+Q257,Other congenital malformations of pulmonary artery,Q25.7,,ICD10
+Q26,Congenital malformations of great veins,Q26,,ICD10
+Q260,Congenital stenosis of vena cava,Q26.0,,ICD10
+Q262,Total anomalous pulmonary venous connection,Q26.2,,ICD10
+Q263,Partial anomalous pulmonary venous connection,Q26.3,,ICD10
+Q264,Anomalous pulmonary venous connection, unspecified,Q26.4,,ICD10
+Q268,Other congenital malformations of great veins,Q26.8,,ICD10
+Q269,Congenital malformation of great vein, unspecified,Q26.9,,ICD10
+Q280,Arteriovenous malformation of precerebral vessels,Q28.0,,ICD10
+Q282,Arteriovenous malformation of cerebral vessels,Q28.2,,ICD10
+Z954,Presence of other heart-valve replacement,Z95.4,,ICD10

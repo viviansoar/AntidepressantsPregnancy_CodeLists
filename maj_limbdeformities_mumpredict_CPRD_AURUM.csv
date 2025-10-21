@@ -1,0 +1,839 @@
+MEDICAL_CODE_ID,DESCRIPTION,READ_CODE,SNOMED_CT_CODE,DATABASE
+797351000006110,Fused fingers,PF12.11,2560006,CPRD_AURUM
+4829871000006115,Cleft foot,,205358006,CPRD_AURUM
+489411000006116,Apodia,PF31111,371197005,CPRD_AURUM
+86593010,Agenesis of ulna,PF27.00,52022007,CPRD_AURUM
+96439013,Distal phocomelia of lower limb,PF35.11,58010002,CPRD_AURUM
+132709018,Rudimentary patella,PF64300,79991006,CPRD_AURUM
+152270014,Agenesis of talus,PF38000,91913001,CPRD_AURUM
+278563017,Repositioning of thumb for cleft hand,7L0F700,180089004,CPRD_AURUM
+314712011,Congenital tibial deficiency type III,PF36200,205215005,CPRD_AURUM
+314881017,Brachyphalangia of little toe,PF66600,205349004,CPRD_AURUM
+314692019,Transverse deficiency lower limb - hip level,PF31300,205203006,CPRD_AURUM
+314714012,Congenital fibular deficiency type II,PF37100,205217002,CPRD_AURUM
+314653014,Partial defect of ulna,PF27000,205180002,CPRD_AURUM
+1230437012,Congenital absence of thigh only,PF34.00,47276000,CPRD_AURUM
+1235709018,Agenesis of calcaneum,PF38100,91872004,CPRD_AURUM
+3891241000006117,TAR syndrome,,85589009,CPRD_AURUM
+278553013,Correction of congenital deformity of forearm NOS,7L0Ez00,180070004,CPRD_AURUM
+314799018,Other failure of differentiation skeletal tissues of arm NOS,PF5Az00,66510004,CPRD_AURUM
+314717017,Agenesis of other tarsal bone,PF38200,91914007,CPRD_AURUM
+314938016,Other congenital anomalies of pelvis NOS,PF6xz00,78626001,CPRD_AURUM
+314861018,Other upper limb and shoulder anomaly NOS,PF5yz00,66510004,CPRD_AURUM
+314873018,Macrodactyly of toes - fatty nerve tumor,PF65100,205343003,CPRD_AURUM
+315776010,[X]Other specified osteochondrodysplasias,Pyu8J00,240190009,CPRD_AURUM
+91621000006118,Transverse deficiency of arm, upper arm level-long,PF21800,205164007,CPRD_AURUM
+6594921000006111,Congenital clubfoot,,397932003,CPRD_AURUM
+125471000006117,Starr correction of congenital absence of radius,7L0E512,265743005,CPRD_AURUM
+454761000006115,Acrocephalopolysyndactyly,PF55.12,205260006,CPRD_AURUM
+578751000006119,Congen undergrowth of whole lower limb,PF6C600,66078008,CPRD_AURUM
+579721000006115,Congenital absence of thigh and lower leg with foot present,PF33.00,55852007,CPRD_AURUM
+588841000006118,Congenital undergrowth of proximal part of limb,PF6C000,67341007,CPRD_AURUM
+590281000006112,Constriction ring with lymphoedema,PF5E100,268264007,CPRD_AURUM
+807621000006110,Guerin - Stern syndrome,PE8y500,111246005,CPRD_AURUM
+377088016,Mermaid sirenomelia,PKy7412,723973002,CPRD_AURUM
+1231537018,Congenital absence of thigh and lower leg with foot present,PF6E.00,55852007,CPRD_AURUM
+4829531000006116,Constriction ring of upper limb with acrosyndactyly and amputation,,205304002,CPRD_AURUM
+7740941000006116,Gollop Wolfgang complex,,716006003,CPRD_AURUM
+3529331000006111,Dewebbing of syndactyly of fingers,,63295000,CPRD_AURUM
+5518401000006115,Congenital absence of thumb,,270963009,CPRD_AURUM
+3516391015,Bilateral webbed toes of both feet,null,323751000119109,CPRD_AURUM
+2618601000006113,Diplopodia,null,7458004,CPRD_AURUM
+2804661000006112,Correction of syndactyly,null,19199006,CPRD_AURUM
+3048341000006110,Syndactyly of the fingers,null,34048007,CPRD_AURUM
+3190181000006115,Longitudinal deficiency of tibia,null,42808000,CPRD_AURUM
+6350481000006119,Congenital absence of foot,,371197005,CPRD_AURUM
+3953911000006111,Metaphyseal chondrodysplasia with pancreatic insufficiency AND neutropenia,,89454001,CPRD_AURUM
+4830111000006111,Constriction ring of lower limb with lymphedema,,205385004,CPRD_AURUM
+7849881000006112,Sirenomelia sequence,,723973002,CPRD_AURUM
+2715821000006117,Lobster-claw hand,,13624003,CPRD_AURUM
+3574581000006119,Congenital longitudinal deficiency lower limb,,66078008,CPRD_AURUM
+12484421000006113,Congenital talipes equinovarus,,397932003,CPRD_AURUM
+12451061000006115,Brachysyndactyly of the fingers,,41878001,CPRD_AURUM
+5336411000006113,Syndactyly of the thumb,null,253972001,CPRD_AURUM
+2544911000006112,Brachydactyly-spherophakia syndrome,,2884008,CPRD_AURUM
+3118121000006116,Unilateral defect of pectoralis muscle AND syndactyly of hand,,38371006,CPRD_AURUM
+3174841000006115,Symbrachydactyly,,41878001,CPRD_AURUM
+3752201000006115,Classic arthrogryposis,,77016009,CPRD_AURUM
+5504031000006114,Constriction ring of upper limb with lymphedema,,268264007,CPRD_AURUM
+3993851000006113,Agenesis of tarsal bone,,91914007,CPRD_AURUM
+12186971000006113,Talipes planus,,53226007,CPRD_AURUM
+3891231000006110,Thrombocytopenia-absent radii syndrome,,85589009,CPRD_AURUM
+3511381000006118,Spider finger,,62250003,CPRD_AURUM
+3846911000006113,Talonavicular bar,,82785005,CPRD_AURUM
+4580571000006116,On examination - hands - arachnodactyly,,164453002,CPRD_AURUM
+6594911000006115,Clubfoot - congenital,,397932003,CPRD_AURUM
+2935361000006119,Tarsal bar,,27173008,CPRD_AURUM
+4829711000006115,Macrodactyly of toes - fatty nerve tumour,,205343003,CPRD_AURUM
+2970601000006115,Congenital streblodactyly,,29271008,CPRD_AURUM
+4828471000006114,Osseous syndactyly of fingers - 1st web,,205142003,CPRD_AURUM
+5504021000006111,Constriction ring of upper limb with lymphoedema,,268264007,CPRD_AURUM
+3179591000006113,Congenital pes varus,,42162004,CPRD_AURUM
+3581571000006114,Congenital abnormality of upper limb and shoulder girdle,,66510004,CPRD_AURUM
+3993071000006110,Agenesis of calcaneus,,91872004,CPRD_AURUM
+3174861000006116,Synbrachydactyly of the fingers,,41878001,CPRD_AURUM
+4828811000006119,Transverse arrest phalangeal level third ray,,205189001,CPRD_AURUM
+4828461000006119,Osseous syndactyly of fingers - first web,,205142003,CPRD_AURUM
+5336321000006111,Congenital abnormality of foot and toes,,253966001,CPRD_AURUM
+5614341000006113,Congenital absence of both lower leg and foot,,278532000,CPRD_AURUM
+3645141000006114,Acrocephalosyndactyly type 5,,70410008,CPRD_AURUM
+3540751000006113,Hemimelia of upper limb,,64008009,CPRD_AURUM
+2876841000006112,ANN - Anonychia,,23610003,CPRD_AURUM
+3353031000006114,Distal arthrogryposis type 2A,,52616002,CPRD_AURUM
+7849901000006114,Sireniform foetus,,723973002,CPRD_AURUM
+4828851000006118,Transverse arrest phalangeal level fifth ray,,205191009,CPRD_AURUM
+6003091000006112,Longitudinal deficiency of phalanges of foot,,310800007,CPRD_AURUM
+3752261000006119,Congenital multiple arthrogryposis,,77016009,CPRD_AURUM
+2970571000006110,Streblodactyly,,29271008,CPRD_AURUM
+12484401000006115,Congenital talipes calcaneovarus,,30449003,CPRD_AURUM
+3518301000006118,Symphalangism syndrome,,62628008,CPRD_AURUM
+3574601000006112,Congenital undergrowth of whole of lower limb,,66078008,CPRD_AURUM
+12009571000006116,Intellectual disability, brachydactyly, Pierre Robin syndrome,null,763744009,CPRD_AURUM
+14154541000006116,Agenesis of calcaneum,null,1003571002,CPRD_AURUM
+14154871000006112,Congenital clinodactyly of little finger,null,1003621009,CPRD_AURUM
+14160241000006116,Congenital subluxation of left hip joint,null,1010215007,CPRD_AURUM
+2557771000006110,Transverse deficiency of upper limb,,3699000,CPRD_AURUM
+5336281000006117,Phocomelia of the lower limb,,253963009,CPRD_AURUM
+2945341000006119,Vertebral anomalies/dysgenesis, anal atresia, tracheo-esophageal fistula, oesophageal atresia, renal anomalies, radial dysplasia (VATER) association,,27742002,CPRD_AURUM
+3343341000006116,Ulnar hemimelia,,52022007,CPRD_AURUM
+3876101000006114,Syndactyly of multiple digits,,84598000,CPRD_AURUM
+5336021000006113,Congenital abnormality of lower limb AND/OR pelvic girdle,,253937004,CPRD_AURUM
+3179581000006110,Talipes varus,,42162004,CPRD_AURUM
+3511391000006115,Dolichostenomelia,,62250003,CPRD_AURUM
+12451181000006114,Talipes cavus,,205091006,CPRD_AURUM
+4831941000006116,CCA - Congenital contractural arachnodactyly,,205821003,CPRD_AURUM
+6003081000006114,Brachyphalangia of toe,,310800007,CPRD_AURUM
+2970591000006111,Congenital camptodactylia,,29271008,CPRD_AURUM
+3878821000006111,Congenital deformity of lower limb,,84773003,CPRD_AURUM
+4828631000006114,Transverse deficiency of arm, upper arm level - long,,205164007,CPRD_AURUM
+2542661000006113,Congenital deformity of hip,,2749000,CPRD_AURUM
+3118111000006112,Poland anomalad,,38371006,CPRD_AURUM
+6610321000006111,Chondrodysplasia punctata, Conradi-Hünermann type,,398719004,CPRD_AURUM
+4829231000006119,Macrodactyly of fingers - simple,,205261005,CPRD_AURUM
+3239801000006116,Reduction deformity of arm,,45806008,CPRD_AURUM
+3482361000006112,Congenital deformity of limb,,60475009,CPRD_AURUM
+2803081000006114,Atriodigital dysplasia type 1,,19092004,CPRD_AURUM
+4828451000006116,Simple syndactyly of fingers - 2nd to 4th web,,205140006,CPRD_AURUM
+2970141000006113,Metaphyseal chondrodysplasia, Schmid type,,29248006,CPRD_AURUM
+3193711000006118,Ectromelia,,43036001,CPRD_AURUM
+6350531000006116,Acheiria,,371199008,CPRD_AURUM
+3911621000006118,Congenital ankylosis of elbow,,86818009,CPRD_AURUM
+5335911000006114,Phocomelia of the upper limb,,253926000,CPRD_AURUM
+2803071000006111,Heart-hand syndrome type 1,,19092004,CPRD_AURUM
+2945301000006116,VATER anomalad,,27742002,CPRD_AURUM
+7763411000006110,Brachymelia of lower limb,,717850006,CPRD_AURUM
+3530981000006119,Ulnar dimelia,,63391007,CPRD_AURUM
+3595451000006116,Brachymelia,,67341007,CPRD_AURUM
+2945311000006118,VATER syndrome,,27742002,CPRD_AURUM
+3296441000006116,Brachymetapodia,,49226005,CPRD_AURUM
+3645131000006116,Pfeiffer-type acrocephalosyndactyly,,70410008,CPRD_AURUM
+4541491000006119,History of congenital dislocation of hip,,161577005,CPRD_AURUM
+4692951000006113,Centralization of carpus for correction of congenital deformity of forearm,,180073002,CPRD_AURUM
+12722301000006116,Certain congenital musculoskeletal deformities,,268238001,CPRD_AURUM
+12731681000006112,Other specified correction of congenital deformity of hand,,565191000000104,CPRD_AURUM
+394614010,Correction of congenital absence of radius,7L0E500,265743005,CPRD_AURUM
+314698015,Transverse deficiency lower limb - through femur,PF31600,205206003,CPRD_AURUM
+164031000006116,Riordan correction of congenital absence of radius,7L0E511,265743005,CPRD_AURUM
+111749018,Sympus,PKy7411,723973002,CPRD_AURUM
+3482371000006117,Congenital abnormality of the limb,,60475009,CPRD_AURUM
+3595441000006118,Limb reduction defect,,67341007,CPRD_AURUM
+4692991000006119,Radialization correction for radial club hand,,180078006,CPRD_AURUM
+3059621000006119,Congenital absence of skin on scalp with limb-reduction anomaly,,34748004,CPRD_AURUM
+6350501000006112,Agenesis of foot,,371197005,CPRD_AURUM
+4689611000006112,Syndactylization of lesser toes,,179470008,CPRD_AURUM
+2863981000006114,Phocomelic dwarf,,22841008,CPRD_AURUM
+7849871000006114,Sirenomelus,,723973002,CPRD_AURUM
+4831951000006119,Beal's syndrome,,205821003,CPRD_AURUM
+3595431000006111,Reduction deformity of limb,,67341007,CPRD_AURUM
+2970581000006113,Congenital campylodactyly,,29271008,CPRD_AURUM
+3752271000006114,AMC - Arthrogryposis multiplex congenita,,77016009,CPRD_AURUM
+6610371000006112,Chondrodysplasia punctata, Conradi-Hunermann type,,398719004,CPRD_AURUM
+2970611000006117,Congenital camptodactyly,,29271008,CPRD_AURUM
+5276331000006117,Webbed fingers of hand,,249769001,CPRD_AURUM
+4828491000006110,Osseous syndactyly of fingers - 2nd to 4th web,,205143008,CPRD_AURUM
+2945321000006114,Vertebral anomalies/dysgenesis, anal atresia, tracheo-esophageal fistula, esophageal atresia, renal anomalies, radial dysplasia (VATER) association,,27742002,CPRD_AURUM
+4828311000006110,Mesoaxial polydactyly of fingers,,205130008,CPRD_AURUM
+2539761000006112,Complex syndactyly of fingers,,2560006,CPRD_AURUM
+4829561000006113,Transverse deficiency of arm, shoulder level,,205306000,CPRD_AURUM
+2945351000006117,Vertebral anomalies/dysgenesis, anal atresia, tracheo-esophageal fistula, esophageal atresia, renal anomalies, radial dysplasia association,,27742002,CPRD_AURUM
+7849891000006110,Sireniform fetus,,723973002,CPRD_AURUM
+314742014,Ectromelia of unspecified limb,PF42.00,43036001,CPRD_AURUM
+314722017,Agenesis of other metatarsal,PF38600,91899002,CPRD_AURUM
+314561010,Radial polydactyly Wassel 7,PF01600,205129003,CPRD_AURUM
+4830461000006118,Hypochondrodysplasia,,205468002,CPRD_AURUM
+3125391000006117,Complex syndactyly of toes,,38859008,CPRD_AURUM
+4403401000006113,Longitudinal deficiency of foot,,128061008,CPRD_AURUM
+3828671000006114,Transverse hemimelia of lower limb,,81700000,CPRD_AURUM
+3993841000006111,Congenital absence of tarsal bone,,91914007,CPRD_AURUM
+4829721000006111,Macrodactyly of toes - fatty nerve tumor,,205343003,CPRD_AURUM
+2893151000006117,Metaphyseal chondrodysplasia, Jansen type,,24629003,CPRD_AURUM
+4829251000006114,Macrodactyly of fingers- fatty nerve tumor,,205262003,CPRD_AURUM
+6380731000006116,Syndactylia,,373413006,CPRD_AURUM
+3511401000006118,Congenital arachnodactyly,,62250003,CPRD_AURUM
+6686831000006118,Acrocephalopolysyndactyly type II,,403767009,CPRD_AURUM
+5616651000006111,Chondrodysplasia punctata (stippled epiphyses) group,,278715001,CPRD_AURUM
+3850861000006116,Acrocephalosyndactyly, type III,,83015004,CPRD_AURUM
+6686851000006113,Acrocephalopolysyndactyly type 2,,403767009,CPRD_AURUM
+3572941000006111,CLCD - Cleidocranial dysplasia,,65976001,CPRD_AURUM
+314621017,Transverse deficiency of arm, unspecified,PF21000,3699000,CPRD_AURUM
+3336801000006117,Congenital absence of all fingers,,51635000,CPRD_AURUM
+79513018,Proximal phocomelia of upper limb,PF24.11,47713000,CPRD_AURUM
+123287018,Agenesis of fibula,PF37.00,74245009,CPRD_AURUM
+4829571000006118,Amelia of upper limb,,205306000,CPRD_AURUM
+596461000006115,Correction of congenital deformity shoulder or upper arm OS,7L0Dy00,180065006,CPRD_AURUM
+733591000006110,Ludloff open reduction of congenital deformity of hip,7L0G012,180102009,CPRD_AURUM
+4829131000006113,Congenital absence of fourth and fifth toes,,205230001,CPRD_AURUM
+4828621000006111,Transverse deficiency of arm, upper arm level - short,,205163001,CPRD_AURUM
+11998021000006110,Talipes plantaris,,36755004,CPRD_AURUM
+3993061000006115,Congenital absence of calcaneus,,91872004,CPRD_AURUM
+2945331000006112,Vertebral anomalies/dysgenesis, anal atresia, tracheo-oesophageal fistula, oesophageal atresia, renal anomalies, radial dysplasia (VATER) association,,27742002,CPRD_AURUM
+4828791000006118,Transverse arrest phalangeal level second ray,,205188009,CPRD_AURUM
+2964031000006115,Vogt cephalosyndactyly,,28861008,CPRD_AURUM
+2970551000006117,Camptodactylia,,29271008,CPRD_AURUM
+4828431000006111,Simple syndactyly of fingers- 1st web,,205139009,CPRD_AURUM
+3993821000006116,Congenital absence of talus,,91913001,CPRD_AURUM
+6380711000006110,Syndactylus,,373413006,CPRD_AURUM
+12720711000006118,Amputation of supernumerary finger NEC,,559211000000107,CPRD_AURUM
+12704151000006117,Apert's syndrome,,268262006,CPRD_AURUM
+4828831000006113,Transverse arrest phalangeal level fourth ray,,205190005,CPRD_AURUM
+4828571000006113,Osseous syndactyly of toes first web space,,205148004,CPRD_AURUM
+7532181000006111,Ulnar-mammary syndrome,,700211007,CPRD_AURUM
+141374014,Congenital hammer toe,PF66200,85280007,CPRD_AURUM
+314865010,Other congenital hip joint deformity,PF63.00,2749000,CPRD_AURUM
+314500014,Other deformities of feet,PE7..00,229844004,CPRD_AURUM
+493219017,Congenital talipes varus,PE50.00,42162004,CPRD_AURUM
+314954018,Congenital anomaly of unspecified limb NOS,PFz..00,60475009,CPRD_AURUM
+400900015,Syndactyly NOS,PF1z.00,373413006,CPRD_AURUM
+314516011,Congenital talipes equinus,PE7y200,205097005,CPRD_AURUM
+210201000006110,Primary correction of club foot,7L0J.11,275098006,CPRD_AURUM
+314888011,Other toe anomalies NOS,PF66z00,9989000,CPRD_AURUM
+277721015,Syndactylisation of lesser toes,7K51200,179470008,CPRD_AURUM
+3355821000006119,Congenital hip dysplasia,,52781008,CPRD_AURUM
+571231000006111,Coalition of calcaneous,PF67200,126762003,CPRD_AURUM
+278554019,Correction of congenital deformity of hand,7L0F.00,180081001,CPRD_AURUM
+372614016,Webbed fingers,PF11.11,249769001,CPRD_AURUM
+278695013,Amputation of supernumerary toe,7L0L200,180157006,CPRD_AURUM
+69878012,Symbrachydactyly,PF5r700,41878001,CPRD_AURUM
+314511018,Congenital claw foot,PE73.00,205092004,CPRD_AURUM
+440811000006117,Accessory tarsal bones,PF67700,95301008,CPRD_AURUM
+103454012,Arachnodactyly,PKy7500,62250003,CPRD_AURUM
+124261012,Congenital coxa vara,PF62.00,74820003,CPRD_AURUM
+215491000006114,Polysyndactyly,PF15.00,84598000,CPRD_AURUM
+400899013,Syndactyly of fingers without bone fusion,PF11.00,268251006,CPRD_AURUM
+40221000006116,Osteotomy of ilium correction of congenital deformity of hip,7L0G500,180108008,CPRD_AURUM
+400901016,Congenital shortening of arm, unspecified,PF20.00,45806008,CPRD_AURUM
+314835017,Brachydactyly of fingers, unspecified,PF5r100,310798000,CPRD_AURUM
+314647014,Hypoplastic thumb-Blauth 1,PF26400,205174005,CPRD_AURUM
+378024015,Hypoplasia of limb NOS,PF4z.13,67341007,CPRD_AURUM
+278630017,Open reduction congenital dislocation of patella,7L0H800,180126006,CPRD_AURUM
+405674013,Deformity of humerus,N36y500,271086008,CPRD_AURUM
+475240010,Congenital absence part of arm,PF21.11,45806008,CPRD_AURUM
+314899013,Anomalies of foot NEC NOS,PF67z00,253966001,CPRD_AURUM
+180641000006111,Release pantalar joints correction congenital deformity foot,7L0J000,265750009,CPRD_AURUM
+621711000006117,Dillwyn operation for club foot,7L0J211,180149008,CPRD_AURUM
+48019011,Metaphyseal chondrodysplasia,PG4D.00,28681006,CPRD_AURUM
+454941000006116,Acrosyndactyly,PF5E200,253925001,CPRD_AURUM
+314758012,Other upper limb and shoulder anomaly,PF5..00,66510004,CPRD_AURUM
+314648016,Hypoplastic thumb-Blauth 2,PF26500,205175006,CPRD_AURUM
+278700018,Reduction of macrodactyly of toe,7L0L500,180160004,CPRD_AURUM
+314734013,Other specified reduction deformities of lower limb,PF3y.00,77595004,CPRD_AURUM
+314948019,Other lower limb and pelvic girdle anomaly NOS,PF6yz00,253937004,CPRD_AURUM
+732031000006112,Macrodactyly - simple,PF57000,205261005,CPRD_AURUM
+345779013,Congenital spastic foot,F233.11,230779009,CPRD_AURUM
+314920019,Brachymetapodia of 4th metatarsal,PF6C400,205379006,CPRD_AURUM
+100361000006118,Thrombocytopenic purpura with absent radius,D313200,85589009,CPRD_AURUM
+411315014,Adactyly,PF47.11,275348004,CPRD_AURUM
+278611017,Colonna osteotomy for congenital deformity of hip,7L0GB00,180113007,CPRD_AURUM
+400909019,Reduction deformity of unspecified limb NOS,PF4z.00,67341007,CPRD_AURUM
+8230681000006117,On examination right dysplastic hip,,750341000000105,CPRD_AURUM
+1231009015,Transverse deficiency of arm, phalangeal level, all fingers,PF21100,51635000,CPRD_AURUM
+314784018,Windblown hand,PF59000,205269007,CPRD_AURUM
+314728018,Congenital absence of 5th toe,PF39100,205228003,CPRD_AURUM
+314694018,Amelia - lower limb,PF31311,205203006,CPRD_AURUM
+3059611000006110,Type 2 aplasia cutis,,34748004,CPRD_AURUM
+278571018,Correction of clinodactyly with reversed wedge osteotomy,7L0FE00,180095003,CPRD_AURUM
+314640011,Rudimentary arm,PF22100,205168005,CPRD_AURUM
+314726019,Congenital absence of great toe,PF39000,205227008,CPRD_AURUM
+314558014,Radial polydactyly Wassel 6,PF01500,205127001,CPRD_AURUM
+314605010,Osseous syndactyly of toes 1st web space,PF14000,205148004,CPRD_AURUM
+437121000006117,Aberrant intrinsic muscles,PF59300,271542005,CPRD_AURUM
+91331000006113,Transverse arrest of carpals and metacarpals,PF28.11,205183000,CPRD_AURUM
+4828401000006115,Preaxial polydactyly,,205135003,CPRD_AURUM
+5336391000006113,Bifid digit,,253971008,CPRD_AURUM
+4828421000006113,Simple syndactyly of fingers - first web,,205139009,CPRD_AURUM
+314731017,Congenital absence of 4th and 5th toes,PF39300,205230001,CPRD_AURUM
+578741000006116,Congen overgrowth of whole lower limb,PF6B300,205373007,CPRD_AURUM
+314641010,Longitudinal deficiency of arm NEC NOS,PF22z00,45806008,CPRD_AURUM
+314702016,Transverse deficiency of leg NOS,PF31z00,66078008,CPRD_AURUM
+5335991000006116,Hypoplasia of thumb,null,253936008,CPRD_AURUM
+5488631000006115,Proximal femoral osteotomy for correction of congenital dislocation of the hip,null,265746002,CPRD_AURUM
+92876015,Complete phocomelia of lower limb,PF33.11,55852007,CPRD_AURUM
+314882012,Brachyphalangia of other toes,PF66700,310800007,CPRD_AURUM
+2535121000006116,Repair of cleft hand,,2270007,CPRD_AURUM
+314783012,Other failure of differentiation of soft tissue of arm,PF59.00,66510004,CPRD_AURUM
+314932015,Constriction ring syndrome of lower limb with amputation,PF6D300,205387007,CPRD_AURUM
+3787691000006118,Tibial hemimelia,,79177001,CPRD_AURUM
+3528316019,Bilateral congenital trigger thumb of hand,null,16004071000119104,CPRD_AURUM
+2876831000006119,Congenital absent nails,,23610003,CPRD_AURUM
+80525019,Congenital dislocation of hip,PE30.00,48334007,CPRD_AURUM
+314880016,Congenital curly toes,PF66500,205348007,CPRD_AURUM
+112761000006119,Syndactyly - webbing of digits,PF1..00,373413006,CPRD_AURUM
+478096011,Clinodactyly,PF5r300,17268007,CPRD_AURUM
+17705012,Bilateral congenital dislocation of hip,PE30100,10155006,CPRD_AURUM
+210241000006112,Primary correction of talipes,7L0J.12,265749009,CPRD_AURUM
+45444013,Tarsal coalitions,PF67400,27173008,CPRD_AURUM
+278609014,Salter osteotomy for congenital deformity of hip,7L0G800,180111009,CPRD_AURUM
+394620011,Primary correction of congenital deformity of foot,7L0J.00,265749009,CPRD_AURUM
+131285010,Sprengel's deformity,PF52.11,79120002,CPRD_AURUM
+440821000006113,Accessory thumbs,PF03.00,205135003,CPRD_AURUM
+484592016,Congenital talipes calcaneovarus,PE5y000,30449003,CPRD_AURUM
+314844016,Other anomaly of fingers NOS,PF5rz00,20948006,CPRD_AURUM
+315761019,[X]Other congenital deformities of feet,Pyu8300,302297009,CPRD_AURUM
+314569012,Accessory little toe,PF02100,205133005,CPRD_AURUM
+314577011,Syndactyly of multiple digits, unspecified,PF10.00,373413006,CPRD_AURUM
+378077013,Hypoplasia of lower limb,PF3z.11,253959002,CPRD_AURUM
+132671012,Congenital hallux varus,PF66100,79969004,CPRD_AURUM
+712461000006119,Medial release of joints of foot for correction of club foot,7L0J213,265751008,CPRD_AURUM
+278709017,Cranio-orbital remodelling, unspecified,7L0N200,180166005,CPRD_AURUM
+314764017,Proximal radioulnar synostosis,PF53000,205253000,CPRD_AURUM
+484295015,Pemberton osteotomy for congenital deformity of hip,7L0G900,29437002,CPRD_AURUM
+6668111000006116,Melanonychia,,402633003,CPRD_AURUM
+40738012,Distal arthrogryposis syndrome,PFy3.00,24269006,CPRD_AURUM
+314891011,Split foot,PF3A.00,205358006,CPRD_AURUM
+314862013,Upper limb or shoulder anomaly NOS,PF5z.00,66510004,CPRD_AURUM
+400908010,Congenital absence of digits NOS,PF47.00,275348004,CPRD_AURUM
+278690015,Other correction of congenital deformity of foot NOS,7L0Kz00,239632008,CPRD_AURUM
+278570017,Correction of clinodactyly with closing wedge osteotomy,7L0FD00,180094004,CPRD_AURUM
+278665017,Primary correction of congenital deformity of foot NOS,7L0Jz00,239632008,CPRD_AURUM
+314905013,Congenital overgrowth of lower limb,PF6B.00,205369009,CPRD_AURUM
+3830051000006110,Polydactyly of fingers,,81793007,CPRD_AURUM
+314532014,Congenital flexion contracture of knee,PE8y800,205110009,CPRD_AURUM
+1490863014,Symphalangism,PF1z.12,373413006,CPRD_AURUM
+574621000006112,Combined posteromedial + posterolateral release of clubfoot,7L0J500,180136003,CPRD_AURUM
+2803051000006118,Holt-Oram syndrome,,19092004,CPRD_AURUM
+541961000006112,Centralisation carpus- correctn congenital deformity forearm,7L0E200,180073002,CPRD_AURUM
+91641000006113,Transverse deficiency of arm, wrist level(hemimelia),PF21600,371199008,CPRD_AURUM
+314847011,Other congenital anomalies of forearm,PF5u.00,66510004,CPRD_AURUM
+314745011,Congenital amputation of unspecified limb,PF45.00,60475009,CPRD_AURUM
+197091000006114,Radialialization correction for radial club hand,7L0E600,180078006,CPRD_AURUM
+315766012,[X]Other reduction defects of lower limb(s),Pyu8800,77595004,CPRD_AURUM
+541841000006115,Central polydactyly,PF01700,205130008,CPRD_AURUM
+314746012,Longitudinal reduction deformity of unspecified limb,PF46.00,67341007,CPRD_AURUM
+314553017,Radial polydactyly Wassel 1,PF01000,205122007,CPRD_AURUM
+314619010,Unspecified congenital shortening of arm NOS,PF20z00,45806008,CPRD_AURUM
+559641000006119,Clinodactyly, no delta phalanx,PF5rB00,205316008,CPRD_AURUM
+314716014,Agenesis of tarsals and metatarsals,PF38.00,205219004,CPRD_AURUM
+621781000006112,DIP joint symphalangism,PF5A500,205281006,CPRD_AURUM
+588811000006117,Congenital undergrowth of distal part of limb,PF6C100,67341007,CPRD_AURUM
+4828531000006110,Simple syndactyly of toes, first web space,,205145001,CPRD_AURUM
+314456010,Congenital dislocation of knee grade II,PE41100,205065005,CPRD_AURUM
+314774019,Acrocephalopolysyndactyly,PF55200,205260006,CPRD_AURUM
+8230691000006119,O/E right dysplastic hip,,750341000000105,CPRD_AURUM
+314729014,Congenital absence of other lesser toe,PF39200,849651000000105,CPRD_AURUM
+91341000006115,Transverse arrest of phalanges,PF29.12,51635000,CPRD_AURUM
+558121000006113,Clavicle agenesis,PF51.11,92964003,CPRD_AURUM
+314674010,Transverse arrest phalangeal level 5th ray,PF29400,205191009,CPRD_AURUM
+5335891000006112,Acrosyndactyly of the fingers,,253925001,CPRD_AURUM
+5336331000006114,Congenital malformation of foot and toes,,253966001,CPRD_AURUM
+131384012,Agenesis of tibia,PF36.00,79177001,CPRD_AURUM
+2551985013,Developmental dysplasia of the hip,PF63111,52781008,CPRD_AURUM
+314429013,Congenital dislocation and subluxation of the hip,PE3..00,48334007,CPRD_AURUM
+314445010,Bilateral dysplastic hip,PE34100,205057007,CPRD_AURUM
+378075017,Clubfoot NOS,PE70.11,397932003,CPRD_AURUM
+214611000006118,Polydactyly - supernumerary digits,PF0..00,367506006,CPRD_AURUM
+314519016,Feet deformities NOS,PE7z.00,229844004,CPRD_AURUM
+315780017,[X]Congenital deformity of hip, unspecified,Pyu8N00,2749000,CPRD_AURUM
+135689018,Accessory fingers,PF01.00,81793007,CPRD_AURUM
+314596010,Webbed toes,PF13.11,205144002,CPRD_AURUM
+251807015,H/O: cong. dislocation - hip,14H5.00,161577005,CPRD_AURUM
+158130015,Congenital claw toe,PE71.11,95465002,CPRD_AURUM
+394624019,Other correction of congenital deformity of foot,7L0K.00,239632008,CPRD_AURUM
+314878010,Congenital crossed toes,PF66400,205347002,CPRD_AURUM
+314547017,Other congenital limb anomalies,PF...00,60475009,CPRD_AURUM
+314508019,Talipes cavus,PE71.00,205091006,CPRD_AURUM
+13784591000006110,Arthrogryposis multiplex congenita,null,111246005,CPRD_AURUM
+405680017,Deformity of femur,N36yC00,271092002,CPRD_AURUM
+1209896018,Congenital absence of hand,PF21613,371199008,CPRD_AURUM
+581201000006114,Congenital club hand,PE8y000,16603000,CPRD_AURUM
+314471014,Other specified varus feet deformity,PE5y.00,42162004,CPRD_AURUM
+128794018,Reduction deformity of lower limb,PF3..00,77595004,CPRD_AURUM
+654331000006111,Excision of radial digit & skeletal repair for polydactyly,7L0FG00,180097006,CPRD_AURUM
+314626010,Congenital amputation of upper limb,PF21400,205161004,CPRD_AURUM
+581191000006111,Congenital club fingers,PE8y011,16603000,CPRD_AURUM
+636371000006115,Ectrodactyly of finger,PF29.11,51635000,CPRD_AURUM
+314951014,Arthrogryposis, unspecified,PFy2.00,111246005,CPRD_AURUM
+2990441000006114,Talipes calcaneovarus,,30449003,CPRD_AURUM
+255921012,O/E - arachnodactyly,2G24.11,164453002,CPRD_AURUM
+501784018,Congenital absence of both forearm and hand,PF5F.00,71084008,CPRD_AURUM
+140794011,Congenital absence of radius,PF26.11,84918006,CPRD_AURUM
+314676012,Congenital absence finger NOS,PF29z00,51635000,CPRD_AURUM
+4396014,Distal phocomelia of upper limb,PF25.11,1967001,CPRD_AURUM
+486401000006111,Anterior release foot joints correction congenital deformity,7L0J300,180134000,CPRD_AURUM
+314846019,Other congenital anomalies of wrist,PF5t.00,34111000,CPRD_AURUM
+649721000006110,Evans operation for club foot,7L0J212,180149008,CPRD_AURUM
+278522011,Correction of congenital deformity of shoulder or upper arm,7L0D.00,180065006,CPRD_AURUM
+109572014,Cleidocranial dysplasia,PF5y011,65976001,CPRD_AURUM
+314897010,Naviculocuneiform bar,PF67900,205361007,CPRD_AURUM
+400904012,Reduction deformity of upper limb NOS,PF2z.00,66510004,CPRD_AURUM
+314721012,Agenesis of 5th metatarsal,PF38500,205223007,CPRD_AURUM
+314598011,Simple syndactyly of toes 1st web space,PF13000,205145001,CPRD_AURUM
+315764010,[X]Other specified congenital musculoskeletal deformities,Pyu8600,73573004,CPRD_AURUM
+314766015,Distal radioulnar synostosis,PF53200,205255007,CPRD_AURUM
+581951000006115,Congenital dislocation one hip with subluxation other hip,PE32.00,2749000,CPRD_AURUM
+142171000006118,Simple syndactyly - 1st web,PF11000,205139009,CPRD_AURUM
+4828371000006118,Postaxial polydactyly of toe,,205133005,CPRD_AURUM
+1222954014,Correction of cleft hand,7L0F800,2270007,CPRD_AURUM
+1228951011,Acheiria,PF21611,371199008,CPRD_AURUM
+314924011,Constriction ring syndrome of lower limb,PF6D.00,205382001,CPRD_AURUM
+1235174017,Total elbow synostosis,PF5y600,86818009,CPRD_AURUM
+3820971000006116,Ectrodactyly,,81208006,CPRD_AURUM
+407871000006117,[X]Other congen malform upper limb(s), incl shoulder girdle,Pyu8A00,66510004,CPRD_AURUM
+314859010,Humeroradial synostosis,PF5y400,205329008,CPRD_AURUM
+278712019,Correction of oblique facial cleft,7L0N500,180172005,CPRD_AURUM
+314917010,Congenital undergrowth of foot,PF6C200,128061008,CPRD_AURUM
+30628014,Congenital deformity of sacroiliac joint,PF6y200,18132009,CPRD_AURUM
+315616012,Hanhart syndrome,PKy7611,205817005,CPRD_AURUM
+314765016,Radioulnar synostosis and dislocation of radial head,PF53100,205254006,CPRD_AURUM
+3878811000006115,Congenital anomaly of lower limb,,84773003,CPRD_AURUM
+1231790017,Congenital absence of lower leg only,PF35.00,58010002,CPRD_AURUM
+579431000006111,Congenital absence of nails,PH50.11,23610003,CPRD_AURUM
+314650012,Hypoplastic thumb-Blauth 4,PF26700,205177003,CPRD_AURUM
+590271000006114,Constriction ring with acrosyndactyly and amputation,PF5E400,205304002,CPRD_AURUM
+28060014,Congenital spade-like hand,PE8y400,16585004,CPRD_AURUM
+400902011,Transverse deficiency of arm NOS,PF21z00,3699000,CPRD_AURUM
+91601000006111,Transverse deficiency of arm, shoulder level(amelia),PF21300,205306000,CPRD_AURUM
+314752013,Other reduction deformity of unspecified limb NOS,PF4yz00,67341007,CPRD_AURUM
+4829551000006111,Congenital complete absence of upper limb,,205306000,CPRD_AURUM
+167951000006116,Revisn release radius- correctn congenital deformity forearm,7L0E300,180074008,CPRD_AURUM
+682861000006114,Myotonic chondrodysplasia,PG42100,29145002,CPRD_AURUM
+314860017,Humeroulnar synostosis,PF5y500,205330003,CPRD_AURUM
+2278801000000111,Schinzel syndrome,PJ54.11,700211007,CPRD_AURUM
+314533016,Congenital short quadriceps,PE8y900,205111008,CPRD_AURUM
+746751000006117,Intra-uterine amputation,PF5E300,205161004,CPRD_AURUM
+7136961000006113,VACTERL syndrome,,431395004,CPRD_AURUM
+12012401000006117,Symbrachydactyly of digit of hand,,764106001,CPRD_AURUM
+460911000006117,Adams correction of congenital dislocation of hip,7L0Gz11,180102009,CPRD_AURUM
+2539751000006110,Syndactyly of fingers with fusion of bones,,2560006,CPRD_AURUM
+314669019,Transverse arrest phalangeal level 2nd ray,PF29100,205188009,CPRD_AURUM
+596451000006117,Correction of congenital deformity shoulder or upper arm NOS,7L0Dz00,180065006,CPRD_AURUM
+596371000006119,Correction of congenital deformity of forearm OS,7L0Ey00,180070004,CPRD_AURUM
+3139981000006115,Ectrodactyly-ectodermal dysplasia-clefting syndrome,null,39788007,CPRD_AURUM
+2803061000006116,Holt Oram syndrome,,19092004,CPRD_AURUM
+4828771000006119,Transverse arrest phalangeal level first ray,,205187004,CPRD_AURUM
+3049411000006110,Congenital abnormality of hand and digits,,34111000,CPRD_AURUM
+1786015010,Congenital talipes equinovarus,PE51.00,397932003,CPRD_AURUM
+668711000006115,Femoral osteotomy for correction congenital deformity of hip,7L0G600,180109000,CPRD_AURUM
+314450016,Congenital dislocation of hip NOS,PE3z.00,48334007,CPRD_AURUM
+314839011,Camptodactyly-little finger,PF5r800,205313000,CPRD_AURUM
+314791015,Congenital trigger thumb,PF59600,205274004,CPRD_AURUM
+314955017,Other congenital musculoskeletal anomalies,PG...00,73573004,CPRD_AURUM
+221131000006113,Poland's syndrome,PGy0100,38371006,CPRD_AURUM
+581851000006112,Congenital dislocation of hip NOS,PE30z00,48334007,CPRD_AURUM
+205511000006117,Primary osteotomy pelvis correction congenital deformity hip,7L0G100,265744004,CPRD_AURUM
+712451000006116,Medial release foot joints- correction congenital deformity,7L0J200,265751008,CPRD_AURUM
+26511000006110,Other musc skeletal deformity,PE9..00,73573004,CPRD_AURUM
+3615451000006114,Talipes planovalgus,,68557006,CPRD_AURUM
+493220011,Congenital clubfoot - varus,PE50.12,42162004,CPRD_AURUM
+314551015,Supernumerary digits, unspecified,PF00.00,367506006,CPRD_AURUM
+314600017,Simple syndactyly lesser toes,PF13100,205146000,CPRD_AURUM
+278574014,Excision of ulnar digit and skeletal repair for polydactyly,7L0FH00,180098001,CPRD_AURUM
+314686013,Hemimelia of lower limb NOS,PF30100,81700000,CPRD_AURUM
+314833012,Other congenital anomalies of fingers,PF5r.00,20948006,CPRD_AURUM
+581631000006116,Congenital deformity of hip, unspecified,PF63X00,2749000,CPRD_AURUM
+11998001000006117,Talipes cavus,,36755004,CPRD_AURUM
+492481000006116,Arthrogryposis multiplex congenita.,N233011,77016009,CPRD_AURUM
+372668014,Pes varus,PE50.11,249809005,CPRD_AURUM
+405550017,Congenital instability of hip joint,PE31014,271015004,CPRD_AURUM
+131284014,Congenital elevation of scapula,PF52.00,79120002,CPRD_AURUM
+315105018,Chondrodysplasia punctata,PG4C.00,278715001,CPRD_AURUM
+142181000006115,Simple syndactyly - 2nd to 4th web,PF11100,205140006,CPRD_AURUM
+216731000006112,Post release foot joints for correction congenital deformity,7L0J100,180132001,CPRD_AURUM
+314531019,Congenital abduction contracture of hip,PE8y700,205109004,CPRD_AURUM
+147131000006119,Shelf procedure for correction congenital deformity of hip,7L0GC00,180114001,CPRD_AURUM
+278681010,Separation of tarsal coalition,7L0K300,180146001,CPRD_AURUM
+34231000006110,Other congenital musculoskeletal deformity,PE9..11,73573004,CPRD_AURUM
+315763016,[X]Other congenital deformities of chest,Pyu8500,8649001,CPRD_AURUM
+23251014,Congenital cleft hand,PF58.00,13624003,CPRD_AURUM
+439961000006119,Absent thumb,PF26300,302218003,CPRD_AURUM
+503623011,Leg reduction deformity,PF3..11,77595004,CPRD_AURUM
+1490679012,Conjoined toes,PF14.12,38859008,CPRD_AURUM
+314818016,Constriction ring syndrome of upper limb,PF5E.00,205299003,CPRD_AURUM
+314781014,Cleft hand with syndactyly,PF58200,205266000,CPRD_AURUM
+110187012,Congenital absence of toe,PF39.00,66345008,CPRD_AURUM
+314898017,Complex tarsal coalition,PF67A00,205362000,CPRD_AURUM
+4828391000006117,Radial polydactyly,,205135003,CPRD_AURUM
+255920013,O/E - hands - arachnodactyly,2G24.00,164453002,CPRD_AURUM
+5503991000006110,Simple syndactyly of fingers,,268251006,CPRD_AURUM
+278538017,Correction of congenital deformity of forearm,7L0E.00,180070004,CPRD_AURUM
+83541000006114,Turco soft tissue release for club foot,7L0J011,265750009,CPRD_AURUM
+2160668013,Deformity of pelvis,N36yB00,88577008,CPRD_AURUM
+314869016,Other congenital hip joint deformity NOS,PF63z00,2749000,CPRD_AURUM
+12704311000006115,Congenital anomaly of foot,,253966001,CPRD_AURUM
+314796013,Other carpal synostosis,PF5A300,253930002,CPRD_AURUM
+477632013,Congenital flexion contractures of leg,PE8y300,16071000,CPRD_AURUM
+12079017,Congenital absence of patella,PF64000,6688006,CPRD_AURUM
+314871016,Congenital knee joint deformity NOS,PF64z00,61293001,CPRD_AURUM
+129479011,Complete phocomelia of upper limb,PF23.11,78018008,CPRD_AURUM
+588641000006119,Congenital thoracic wall deformity NEC,PE8y111,75511006,CPRD_AURUM
+127858012,Arthrogryposis multiplex congenita,PFy0.00,77016009,CPRD_AURUM
+2887291000006110,Distal arthrogryposis,,24269006,CPRD_AURUM
+39647017,Anonychia,PH50.00,23610003,CPRD_AURUM
+314904012,Duplication of lower limb bone,PF6A.00,205368001,CPRD_AURUM
+314743016,Hemimelia of unspecified limb,PF43.00,33076008,CPRD_AURUM
+2674419015,Reconstruction of radial club hand,7L0FK00,426588004,CPRD_AURUM
+314849014,Other congenital anomaly forearm NOS,PF5uz00,66510004,CPRD_AURUM
+5336031000006111,Congenital abnormality of lower limb and pelvic girdle,,253937004,CPRD_AURUM
+1228950012,Agenesis of hand,PF21z11,371199008,CPRD_AURUM
+315051015,Chondrodysplasia, unspecified,PG40.00,205465004,CPRD_AURUM
+314654015,Ulnar and humeroulnar synostosis,PF27200,205330003,CPRD_AURUM
+140361000006110,Short-rib/polydactyly syndrome,PG4B300,205484001,CPRD_AURUM
+378025019,Withered limb,PF4z.12,253914005,CPRD_AURUM
+314780010,Cleft hand - central,PF58100,205265001,CPRD_AURUM
+3048321000006115,Syndactyly of fingers,,34048007,CPRD_AURUM
+314658017,Transverse arrest carpal level,PF28000,205183000,CPRD_AURUM
+2530121000006111,Longitudinal absence of radius AND ulna,,1967001,CPRD_AURUM
+2278791000000112,Ulnar mammary syndrome,PJ54.00,700211007,CPRD_AURUM
+579921000006118,Congenital absence upper arm and forearm with hand present,PF23.00,78018008,CPRD_AURUM
+314909019,Congenital overgrowth of foot,PF6B200,205372002,CPRD_AURUM
+314782019,Cleft hand with polydactyly,PF58300,205267009,CPRD_AURUM
+4693131000006110,Correction of camptodactyly,,180092000,CPRD_AURUM
+314696016,Transverse deficiency lower limb - metatarsal level,PF31400,205204000,CPRD_AURUM
+314779012,Cleft hand - first cleft,PF58000,205264002,CPRD_AURUM
+41041000006112,Osseous syndactyly - 1st web,PF12000,205142003,CPRD_AURUM
+506281014,Total radial absence,PF26200,84918006,CPRD_AURUM
+6594901000006118,TEV - Talipes equinovarus,,397932003,CPRD_AURUM
+12297411000006114,Equinovarus deformity,,397932003,CPRD_AURUM
+4828481000006112,Osseous syndactyly of fingers - second to fourth web,,205143008,CPRD_AURUM
+4830531000006114,Short rib polydactyly syndrome,,205484001,CPRD_AURUM
+6571391000006118,Correction of congenital talipes equinovarus,,396557009,CPRD_AURUM
+5931191000006114,Metaphyseal chondrodysplasia, McKusick type with associated immunodeficiency,null,304576008,CPRD_AURUM
+314919013,Brachymetapodia of 1st metatarsal,PF6C300,205378003,CPRD_AURUM
+4828301000006112,Central polydactyly of fingers,,205130008,CPRD_AURUM
+5336311000006115,Congenital deformity and malformation of feet and toes,,253966001,CPRD_AURUM
+3256771000006113,Ostectomy, excision of tarsal coalition,null,46809006,CPRD_AURUM
+315107014,Chondrodysplasia OS,PG4y.00,205465004,CPRD_AURUM
+3495901000006118,Congenital malformation of knee,,61293001,CPRD_AURUM
+87820017,Congenital hip dysplasia,PF63100,52781008,CPRD_AURUM
+89488011,Congenital hallux valgus,PF66000,53842005,CPRD_AURUM
+400878010,Certain congenital musculoskeletal deformities,PE...00,73573004,CPRD_AURUM
+461325018,[V]Screening for congenital dislocation of hip,ZV7y300,312851005,CPRD_AURUM
+178465011,Arthrogryposis,N233000,111246005,CPRD_AURUM
+48985010,Camptodactyly,PF5r200,29271008,CPRD_AURUM
+224201000000118,Other operations for club foot,7L0K.11,239632008,CPRD_AURUM
+55971012,Unilateral congenital dislocation of hip,PE30000,48334007,CPRD_AURUM
+221121000006110,Poland's syndrome,PF59400,38371006,CPRD_AURUM
+314513015,Other specified foot deformity,PE7y.00,302297009,CPRD_AURUM
+7798017,Madelung's deformity,PF54.00,4530000,CPRD_AURUM
+314458011,Congenital dislocation of patella,PF64400,205067002,CPRD_AURUM
+314595014,Syndactyly of toes without bone fusion,PF13.00,205144002,CPRD_AURUM
+314518012,Other specified foot deformity NOS,PE7yz00,302297009,CPRD_AURUM
+278559012,Amputation of duplicate thumb,7L0F400,180086006,CPRD_AURUM
+190131000006110,Radio-ulnar synostosis,PF53.00,33313004,CPRD_AURUM
+278699019,Correction of congenital crossed toes,7L0L400,180159009,CPRD_AURUM
+394626017,Wedge tarsectomy for correction congenital deformity of foot,7L0K100,265754000,CPRD_AURUM
+109571019,Cleidocranial dysostosis,PF5y000,65976001,CPRD_AURUM
+405678011,Deformity of metacarpal,N36y900,271090005,CPRD_AURUM
+400911011,Apert's syndrome,PF55.11,268262006,CPRD_AURUM
+314864014,Lower limb anomaly, unspecified,PF60.00,253937004,CPRD_AURUM
+378026018,Brachydactyly NOS,PF4z.11,43476002,CPRD_AURUM
+56352011,Congenital coxa valga,PF61.00,33754009,CPRD_AURUM
+498975014,Congenital knee joint deformity,PF64.00,61293001,CPRD_AURUM
+405675014,Deformity of radius,N36y600,271087004,CPRD_AURUM
+16845016,Congenital dislocation of radial head,PE8yA00,9634000,CPRD_AURUM
+314441018,Congenital subluxation of hip NOS,PE31z00,36172001,CPRD_AURUM
+299763015,Angina decubitus NOS,G330z00,59021001,CPRD_AURUM
+877271000006119,Syndactyly correction,7L0F299,180084009,CPRD_AURUM
+314738011,Reduction deformity of unspecified limb,PF4..00,67341007,CPRD_AURUM
+314940014,Congenital angulation of tibia,PF6y000,205395006,CPRD_AURUM
+23252019,Lobster-claw hand,PF58.11,13624003,CPRD_AURUM
+112811000006114,Syndactyly of toes with bone fusion,PF14.00,38859008,CPRD_AURUM
+3611121000006112,Talipes equinovalgus,,68284008,CPRD_AURUM
+33791000006118,Other correction of congenital deformity of foot OS,7L0Ky00,239632008,CPRD_AURUM
+460730010,[V]Deficiencies of limbs problems,ZV49000,413350009,CPRD_AURUM
+314744010,Phocomelia of unspecified limb,PF44.00,22841008,CPRD_AURUM
+315758015,[X]Other congenital deformities of hip,Pyu8000,2749000,CPRD_AURUM
+126152016,Brachymetacarpia,PF5D200,75950002,CPRD_AURUM
+400916018,Other congenital anomalies of shoulder,PF5w.00,66510004,CPRD_AURUM
+378041018,Congenital deformity of scapula NEC,PF5w.11,440391004,CPRD_AURUM
+486599010,Transverse deficiency of arm,PF21.00,3699000,CPRD_AURUM
+359825012,Osteochondrodysplasia,PG5z.11,240190009,CPRD_AURUM
+76674014,Congenital shortening of tendon,PGyy100,45987002,CPRD_AURUM
+314530018,Congenital flexion contracture of hip,PE8y600,205108007,CPRD_AURUM
+400906014,Longitudinal reduction deformity of lower limb NEC,PF32.00,77595004,CPRD_AURUM
+314690010,Congenital absence of leg and foot,PF31200,767001002,CPRD_AURUM
+378085016,Phocomelia of lower limb NOS,PF32.11,253963009,CPRD_AURUM
+3032441000006116,Hemimelia,,33076008,CPRD_AURUM
+278713012,Correction of complex craniofacial deformity NOS,7L0Nz00,180166005,CPRD_AURUM
+78812012,Proximal phocomelia of lower limb,PF34.11,47276000,CPRD_AURUM
+91571000006116,Transverse deficiency of arm, elbow level(hemimelia),PF21500,33076008,CPRD_AURUM
+140262019,Polysyndactyly,PF1z.11,84598000,CPRD_AURUM
+314903018,Congenital synostosis of lower limb bones,PF69000,205367006,CPRD_AURUM
+407831000006115,[X]Other congen malform lower limb(s), includ pelvic girdle,Pyu8B00,253937004,CPRD_AURUM
+156991000006118,Secndry arthroplasty hip for correctn congenital deformity,7L0G200,265745003,CPRD_AURUM
+314807016,Other overgrowth of upper limb,PF5C.00,253920006,CPRD_AURUM
+314935018,Other congenital anomalies of upper leg,PF6w.00,84773003,CPRD_AURUM
+3595421000006113,Longitudinal deficiency of limb,,67341007,CPRD_AURUM
+378078015,Brachymelia of leg,PF30.11,717850006,CPRD_AURUM
+314857012,Other upper limb and shoulder anomaly OS,PF5y.00,66510004,CPRD_AURUM
+314843010,Brachymesophalangia,PF5rC00,205317004,CPRD_AURUM
+2887281000006112,Distal arthrogryposis syndrome,,24269006,CPRD_AURUM
+314617012,Ectromelia of upper limb NOS,PF20100,45806008,CPRD_AURUM
+315767015,[X]Other reduction defects of unspecified limb(s),Pyu8900,67341007,CPRD_AURUM
+4829211000006113,Apert syndrome,,205258009,CPRD_AURUM
+4829241000006112,Macrodactyly of fingers- fatty nerve tumour,,205262003,CPRD_AURUM
+3495891000006117,Congenital deformity of knee joint,,61293001,CPRD_AURUM
+314809018,Overgrowth of partial upper limb,PF5C100,205292007,CPRD_AURUM
+314666014,Transverse arrest phalangeal level 1st ray,PF29000,205187004,CPRD_AURUM
+5336351000006119,Simple syndactyly of toes second to fourth web,,253968000,CPRD_AURUM
+5335831000006113,Hemihypertrophy of upper limb,,253920006,CPRD_AURUM
+315050019,Chondrodysplasia,PG42.13,205465004,CPRD_AURUM
+3125371000006118,Osseous syndactyly of toes,,38859008,CPRD_AURUM
+314750017,Other specified reduction deformities of unspecified limb,PF4y.00,67341007,CPRD_AURUM
+4692981000006117,Radialisation correction for radial club hand,,180078006,CPRD_AURUM
+314792010,Other failure of differentiation, skeletal tissues of arm,PF5A.00,66510004,CPRD_AURUM
+2970561000006115,Campylodactyly,,29271008,CPRD_AURUM
+1777523015,Talipes equinovarus,PE51.99,397932003,CPRD_AURUM
+314444014,Unilateral dysplastic hip,PE34000,205056003,CPRD_AURUM
+761871000006117,Flexion deformity of fingers,PF5r400,203554005,CPRD_AURUM
+278557014,Correction of syndactyly of fingers using skin graft,7L0F200,180084009,CPRD_AURUM
+314575015,Polydactyly NOS,PF0z.00,367506006,CPRD_AURUM
+278578012,Correction of congenital deformity of hip,7L0G.00,180102009,CPRD_AURUM
+34486013,Calcaneonavicular bar,PF67100,20491006,CPRD_AURUM
+60357013,Congenital subluxation of hip,PE31.00,36172001,CPRD_AURUM
+314889015,Congenital anomalies of foot NEC,PF67.00,253966001,CPRD_AURUM
+314687016,Unspecified congenital leg shortening NOS,PF30z00,66078008,CPRD_AURUM
+278657015,Posteromedial release of clubfoot,7L0J400,180135004,CPRD_AURUM
+154301010,Congenital short femur,PF34100,93255008,CPRD_AURUM
+405684014,Deformity of calcaneum,N36yG00,271096004,CPRD_AURUM
+1488614011,Congenital malformation of thumb,PF5rD00,394910004,CPRD_AURUM
+278617018,Correction of congenital deformity of leg,7L0H.00,180117008,CPRD_AURUM
+98163016,Congenital dislocation of knee,PE41.00,59068006,CPRD_AURUM
+314639014,Phocomelia of upper limb NOS,PF22000,253926000,CPRD_AURUM
+278610016,Chiari osteotomy for congenital deformity of hip,7L0GA00,180112002,CPRD_AURUM
+80475019,Congenital absence of finger,PF29.00,48301005,CPRD_AURUM
+278706012,Correction of complex craniofacial deformity,7L0N.00,180166005,CPRD_AURUM
+314790019,Thumb in palm deformity,PF59500,205273005,CPRD_AURUM
+315759011,[X]Other congenital varus deformities of feet,Pyu8100,42162004,CPRD_AURUM
+92062017,Congenital pseudarthrosis of tibia,PF6y600,55379003,CPRD_AURUM
+314707010,Proximal femoral focal deficiency,PF34000,205211001,CPRD_AURUM
+2535881015,Beals syndrome,PKy7A11,205821003,CPRD_AURUM
+893371000006111,Syndactyly - webbed digits,PF1..99,373413006,CPRD_AURUM
+932271000006110,Congenital club foot,PE51.98,397932003,CPRD_AURUM
+314939012,Other lower limb anomalies,PF6y.00,84773003,CPRD_AURUM
+590211000006117,Constriction ring,PF5E000,205299003,CPRD_AURUM
+314834018,Triphalangeal thumb,PF5r000,205308004,CPRD_AURUM
+314739015,Congenital absence of limb NOS,PF40.00,67341007,CPRD_AURUM
+5137471000006113,Correction of congenital hallux valgus,,239640002,CPRD_AURUM
+577321000006111,Complex varus foot deformities,PE5x.00,205073001,CPRD_AURUM
+893361000006116,Polydactyly-supernumary digits,PF0..99,367506006,CPRD_AURUM
+158451000006119,Rudimentary hand,PF21612,371199008,CPRD_AURUM
+400915019,Congenital anomalies of elbow and upper arm,PF5v.00,268265008,CPRD_AURUM
+210231000006119,Primary correction of congenital deformity of foot OS,7L0Jy00,239632008,CPRD_AURUM
+3118101000006114,Poland anomaly,,38371006,CPRD_AURUM
+314556013,Radial polydactyly Wassel 4,PF01300,205125009,CPRD_AURUM
+576261000006112,Complete subtalar release of clubfoot,7L0J800,180139005,CPRD_AURUM
+494359012,Arm reduction deformity,PF2..11,45806008,CPRD_AURUM
+494826019,Transverse deficiency of leg,PF31.00,66078008,CPRD_AURUM
+3574571000006117,Congenital shortening of leg,,66078008,CPRD_AURUM
+3017161000006116,Syndactyly of toes,,32113001,CPRD_AURUM
+314872011,Macrodactyly of toes - simple,PF65000,205342008,CPRD_AURUM
+35047011,Congenital cubitus varus,PF5y200,20834007,CPRD_AURUM
+278633015,Correction of congenital deformity of leg NOS,7L0Hz00,180117008,CPRD_AURUM
+405155016,Agenesis of carpals and metacarpals,PF28.00,270518001,CPRD_AURUM
+41071000006116,Osseous syndactyly of fingers,PF12.12,2560006,CPRD_AURUM
+314607019,Osseous syndactyly lesser toes,PF14100,205149007,CPRD_AURUM
+278567016,Realignment of congenital ulnar drift,7L0FA00,180091007,CPRD_AURUM
+190121000006112,Radio-ulnar dysostosis,PF5u000,205322004,CPRD_AURUM
+2804651000006110,Repair of syndactyly,,19199006,CPRD_AURUM
+102151000006117,Tibiofibular synostosis for congenital deformity,7L0H900,180127002,CPRD_AURUM
+415481018,Transverse deficiency lower limb - knee level,PF31500,278532000,CPRD_AURUM
+315765011,[X]Other reduction defects of upper limb(s),Pyu8700,45806008,CPRD_AURUM
+314555012,Radial polydactyly Wassel 3,PF01200,205124008,CPRD_AURUM
+315108016,Chondrodysplasia NOS,PG4z.00,17818006,CPRD_AURUM
+314949010,Other specified anomalies of unspecified limb,PFy..00,60475009,CPRD_AURUM
+167961000006119,Revisn release ulna- correction congenital deformity forearm,7L0E400,180075009,CPRD_AURUM
+137332014,Astragaloscaphoid synostosis,PF67000,82785005,CPRD_AURUM
+3125361000006113,Syndactyly of toes with fusion of bones,,38859008,CPRD_AURUM
+314661016,Transverse arrest metacarpal other,PF28200,302957001,CPRD_AURUM
+4054191000006113,Supernumerary tarsal bone,,95301008,CPRD_AURUM
+111753016,Sirenomelia,PKy7400,723973002,CPRD_AURUM
+1230510012,Congenital absence of upper arm only,PF24.00,47713000,CPRD_AURUM
+474201000006111,Aglossia - adactyly syndrome,PKy7600,205817005,CPRD_AURUM
+14149071000006118,Bilateral talipes equinovarus,null,897575007,CPRD_AURUM
+3891261000006118,TAR - Thrombocytopenia with absent radius syndrome,,85589009,CPRD_AURUM
+314688014,Transverse deficiency lower limb - unspecified,PF31000,66078008,CPRD_AURUM
+5503921000006113,Congenital unilateral subluxation of hip,,268242003,CPRD_AURUM
+314660015,Transverse arrest metacarpal 1st ray,PF28100,205184006,CPRD_AURUM
+552451000006110,Chondrodysplasia with haemangioma,PG42013,46041001,CPRD_AURUM
+3048331000006117,Webbing of fingers,,34048007,CPRD_AURUM
+506280010,Agenesis of radial ray,PF26.00,84918006,CPRD_AURUM
+3572931000006118,CCD - Cleidocranial dysplasia,,65976001,CPRD_AURUM
+3881041000006114,Radial hemimelia,,84918006,CPRD_AURUM
+400893014,Talipes, unspecified,PE70.00,398309008,CPRD_AURUM
+35209010,Congenital postural scoliosis,PE22.00,20944008,CPRD_AURUM
+1220676010,Congenital anteversion of femoral neck,PF63000,1239002,CPRD_AURUM
+206600012,Open reduction of congenital dislocation of hip,7L0G000,128314003,CPRD_AURUM
+314875013,Other congenital anomalies of toe,PF66.00,9989000,CPRD_AURUM
+278608018,Pelvic osteotomy for congenital deformity of hip,7L0G700,180110005,CPRD_AURUM
+314845015,Other congenital anomalies of hand,PF5s.00,34111000,CPRD_AURUM
+87941000006112,Triple arthrodesis for correction of congenital deformity,7L0K400,180147005,CPRD_AURUM
+405682013,Deformity of tibia,N36yE00,271094001,CPRD_AURUM
+1490678016,Fused toes,PF14.11,32113001,CPRD_AURUM
+581921000006112,Congenital dislocation of patella,PE41300,205067002,CPRD_AURUM
+4828501000006119,Simple syndactyly of toes,,205144002,CPRD_AURUM
+1210251018,Congenital dislocation of elbow,PE8y200,371629001,CPRD_AURUM
+827091000006113,Holt - Oram syndrome,PKy7100,19092004,CPRD_AURUM
+2157514012,Deformity of scapula,N36y400,405735008,CPRD_AURUM
+46444019,VATER association,PKy9600,27742002,CPRD_AURUM
+16254011,Congenital bowing of tibia AND fibula,PE43.00,9252005,CPRD_AURUM
+278572013,Correction of radial polydactyly,7L0FF00,180096002,CPRD_AURUM
+314571012,Other accessory toe,PF02200,62218008,CPRD_AURUM
+314896018,Talocalcaneal bar,PF67800,126762003,CPRD_AURUM
+400907017,Reduction deformity of lower limb NOS,PF3z.00,77595004,CPRD_AURUM
+314945016,Congenital varus ankle,PF6y400,205397003,CPRD_AURUM
+583951000006116,Congenital musculoskeletal deformities,PE...11,73573004,CPRD_AURUM
+278661014,Lateral release for congenital deformity of foot,7L0J600,180137007,CPRD_AURUM
+314840013,Camptodactyly-other or multiple,PF5r900,29271008,CPRD_AURUM
+14109018,Congenital deformity of clavicle,PF51.00,7921007,CPRD_AURUM
+378043015,Hypoplasia of upper limb,PF2z.11,253929007,CPRD_AURUM
+405676010,Deformity of ulna,N36y700,271088009,CPRD_AURUM
+314472019,Other specified varus foot deformity NOS,PE5yz00,42162004,CPRD_AURUM
+112781000006112,Syndactyly of fingers with bone fusion,PF12.00,2560006,CPRD_AURUM
+314841012,Clinodactyly with delta phalanx,PF5rA00,205315007,CPRD_AURUM
+55063010,Greig cephalopolysyndactyly syndrome,PJ33500,32985001,CPRD_AURUM
+141878016,TAR syndrome,D313211,85589009,CPRD_AURUM
+137333016,Talonavicular synostosis,PF67300,82785005,CPRD_AURUM
+42981000006110,Open reduction of congenital dislocation of knee,7L0H000,180118003,CPRD_AURUM
+314795012,Scaphoid-lunate synostosis,PF5A200,205278001,CPRD_AURUM
+314877017,Brachydactyly of toes,PF66300,205346006,CPRD_AURUM
+405677018,Deformity of carpal bone,N36y800,271089001,CPRD_AURUM
+314773013,Acrocephalosyndactyly (Pfeiffer),PF55100,70410008,CPRD_AURUM
+668801000006114,Ferguson open reduction of congenital deformity of hip,7L0G011,180102009,CPRD_AURUM
+314622012,Transverse deficiency of arm, forearm level,PF21200,64008009,CPRD_AURUM
+314732012,Congenital absence of other multiple toes,PF39400,302958006,CPRD_AURUM
+8230701000006119,On examination left dysplastic hip,,750351000000108,CPRD_AURUM
+3510821000006118,Polydactyly of toes,,62218008,CPRD_AURUM
+13763871000006112,Macrodactyly of toe,null,4136000,CPRD_AURUM
+278613019,Other specified correction of congenital deformity of hip,7L0Gy00,180102009,CPRD_AURUM
+314925012,Constriction ring of lower limb,PF6D000,205382001,CPRD_AURUM
+314856015,Other congenital anomalies of whole arm,PF5x.00,66510004,CPRD_AURUM
+415482013,Hemimelia - knee level,PF31511,278532000,CPRD_AURUM
+314806013,Duplication of limb NOS,PF5Bz00,205284003,CPRD_AURUM
+581251000006113,Congenital complete absence of upper limb(s),PF5G.00,205306000,CPRD_AURUM
+552401000006111,Chondrodysplasia calcificans congenita,PG56000,398719004,CPRD_AURUM
+7613651000006119,Longitudinal melanonychia,,707196007,CPRD_AURUM
+3718131000006111,Camptomelic dysplasia,,74928006,CPRD_AURUM
+314649012,Hypoplastic thumb-Blauth 3,PF26600,205176007,CPRD_AURUM
+314741019,Amelia of unspecified limb,PF41.00,67341007,CPRD_AURUM
+314858019,Congenital humeral varus,PF5y300,205328000,CPRD_AURUM
+4828351000006111,Preaxial polydactyly of toe,,205132000,CPRD_AURUM
+314557016,Radial polydactyly Wassel 5,PF01400,205126005,CPRD_AURUM
+4828441000006118,Simple syndactyly of fingers - second to fourth web,,205140006,CPRD_AURUM
+314815018,Undergrowth of whole limb,PF5D000,67341007,CPRD_AURUM
+524161000006110,Brachymelia of arm,PF20.11,45806008,CPRD_AURUM
+314837013,Brachydactyly-all 3 phalanges,PF5r500,205311003,CPRD_AURUM
+314643013,Partial radial absence,PF26100,205171002,CPRD_AURUM
+1228948016,Transverse deficiency lower limb - ankle level,PF31100,371197005,CPRD_AURUM
+314886010,Triphalangeal great toe,PF66B00,205354008,CPRD_AURUM
+408441000006111,[X]Other congenital malforms of the musculoskeletal system,Pyu8M00,73573004,CPRD_AURUM
+3653151000006114,Longitudinal deficiency of upper limb,null,70902004,CPRD_AURUM
+314817014,Other undergrowth of limb NOS,PF5Dz00,74370006,CPRD_AURUM
+314816017,Undergrowth of whole hand,PF5D100,205297001,CPRD_AURUM
+314884013,Perodactylia of lesser toe,PF66900,205352007,CPRD_AURUM
+8230711000006116,O/E left dysplastic hip,null,750351000000108,CPRD_AURUM
+732021000006114,Macrodactyly - fatty nerve tumor,PF57100,205262003,CPRD_AURUM
+314670018,Transverse arrest phalangeal level 3rd ray,PF29200,205189001,CPRD_AURUM
+3296431000006114,Brachymetapody,,49226005,CPRD_AURUM
+496186016,Total absence of ulna,PF27100,52022007,CPRD_AURUM
+314673016,Transverse arrest phalangeal level 4th ray,PF29300,205190005,CPRD_AURUM
+314751018,Brachymelia NOS,PF4y000,67341007,CPRD_AURUM
+1786542016,Chondrodysplasia calcificans congenita,PG56011,398719004,CPRD_AURUM
+91631000006115,Transverse deficiency of arm, upper arm level-short,PF21700,205163001,CPRD_AURUM
+7568711000006114,Talipes equinocavovarus,null,702957008,CPRD_AURUM
+12050861000006114,Congenital dislocation of left hip co-occurrent with congenital subluxation of right hip,null,767004005,CPRD_AURUM
+633361000006118,Dysplastic hip,PE34.00,52781008,CPRD_AURUM
+312303013,Persistent femoral anteversion,N363400,203561009,CPRD_AURUM
+400905013,Congenital shortening of leg, unspecified,PF30.00,66078008,CPRD_AURUM
+611201000006119,Deformity of clavicle,N36y300,111271008,CPRD_AURUM
+2694858012,Congenital acetabular dysplasia,PF63200,52781008,CPRD_AURUM
+987141000006115,Bipartite patella,PF64500,79214007,CPRD_AURUM
+278560019,Amputation of supernumerary finger NEC,7L0F500,90722001,CPRD_AURUM
+33811000006119,Other correction of talipes,7L0K.12,239632008,CPRD_AURUM
+278694012,Release of syndactyly of toes,7L0L100,180156002,CPRD_AURUM
+611321000006117,Deformity of phalanx of finger/thumb,N36yA00,271091009,CPRD_AURUM
+79161000006110,Ulnar polydactyly,PF01800,205131007,CPRD_AURUM
+621741000006118,Dilwyn Evans proc for correction of congenital deformity,7L0K500,180149008,CPRD_AURUM
+314772015,Acrocephalosyndactyly (Apert),PF55000,205258009,CPRD_AURUM
+346620014,Congenital talipes calcaneus,PE7y100,231250005,CPRD_AURUM
+405681018,Deformity of patella,N36yD00,271093007,CPRD_AURUM
+46489018,Congenital deformity of ankle joint,PF6y100,27774009,CPRD_AURUM
+314863015,Other lower limb and pelvic girdle anomalies,PF6..00,253937004,CPRD_AURUM
+278558016,Correction of syndactyly of fingers using skin expander,7L0F300,180085005,CPRD_AURUM
+8382012,Macrodactylia of toes,PF65.00,4136000,CPRD_AURUM
+314759016,Upper limb anomaly, unspecified,PF50.00,66510004,CPRD_AURUM
+552381000006111,Chondrodysplasia,PG4..00,205465004,CPRD_AURUM
+1222343013,Congenital absence of forearm only,PF25.00,1967001,CPRD_AURUM
+76388017,Reduction deformity of upper limb,PF2..00,45806008,CPRD_AURUM
+400910012,Acrocephalosyndactyly,PF55.00,268262006,CPRD_AURUM
+732001000006116,Macrodactylia (fingers),PF57.00,69381005,CPRD_AURUM
+55957016,Congenital bowing of femur,PE42.00,33534005,CPRD_AURUM
+405683015,Deformity of fibula,N36yF00,271095000,CPRD_AURUM
+278577019,Correction of congenital deformity of hand NOS,7L0Fz00,180081001,CPRD_AURUM
+314934019,Other congenital anomalies of lower leg,PF6v.00,60475009,CPRD_AURUM
+57998012,Adams-Oliver syndrome,PKy0200,34748004,CPRD_AURUM
+315622015,Congenital contractural arachnodactyly,PKy7A00,205821003,CPRD_AURUM
+314618019,Hemimelia of upper limb NOS,PF20200,45806008,CPRD_AURUM
+2773911000006114,Congenital clinodactyly,,17268007,CPRD_AURUM
+596691000006114,Correction of macrodactyly,7L0FJ00,180099009,CPRD_AURUM
+10927012,Congenital fusion of sacroiliac joint,PF6y300,5968001,CPRD_AURUM
+314892016,Lobster claw foot,PF67500,205358006,CPRD_AURUM
+314642015,Hypoplasia of radius,PF26000,205170001,CPRD_AURUM
+278576011,Other specified correction of congenital deformity of hand,7L0Fy00,180081001,CPRD_AURUM
+1493079010,Syndactyly of toes with bone fusion,PF14.13,38859008,CPRD_AURUM
+533181000006117,Camptomelia dysplasia,PG4B400,74928006,CPRD_AURUM
+315770016,[X]Other specified congenital malformations of limb(s),Pyu8C00,60475009,CPRD_AURUM
+314936017,Other congenital anomalies of pelvis,PF6x.00,78626001,CPRD_AURUM
+183911000006110,Reduction of Sprengel deformity,7L0D000,10907007,CPRD_AURUM
+394619017,Correction of congenital deformity of hip NOS,7L0Gz00,180102009,CPRD_AURUM
+314810011,Other overgrowth of limb NOS,PF5Cz00,93180003,CPRD_AURUM
+278569018,Correction of clinodactyly with osteotomy and bone graft,7L0FC00,180093005,CPRD_AURUM
+440421000006111,Accesory hallux,PF02000,205132000,CPRD_AURUM
+278632013,Other specified correction of congenital deformity of leg,7L0Hy00,180117008,CPRD_AURUM
+314800019,Other duplication of limb,PF5B.00,205284003,CPRD_AURUM
+226111000006110,PIP joint symphalangism,PF5A400,205280007,CPRD_AURUM
+3510861000006112,Polydactyly of foot,,62218008,CPRD_AURUM
+314554011,Radial polydactyly Wassel 2,PF01100,205123002,CPRD_AURUM
+314677015,Other specified reduction deformities of upper limb,PF2y.00,66510004,CPRD_AURUM
+820061000006116,Hemimelia - ankle level,PF31112,371197005,CPRD_AURUM
+314911011,Congenital undergrowth of lower limb,PF6C.00,66078008,CPRD_AURUM
+378042013,Cubitus NOS,PF5v.11,66510004,CPRD_AURUM
+314638018,Longitudinal deficiency of arm NEC,PF22.00,45806008,CPRD_AURUM
+314838015,Brachydactyly-missing phalanx,PF5r600,205312005,CPRD_AURUM
+314922010,Brachymetapodia of other metatarsal,PF6C500,49226005,CPRD_AURUM
+229161000006115,Perkins operation for club foot,7L0J214,396558004,CPRD_AURUM
+3628291000006119,Macrodactylia of fingers,,69381005,CPRD_AURUM
+314952019,Other arthrogryposis syndromes,PFy4.00,111246005,CPRD_AURUM
+314685012,Ectromelia of lower limb NOS,PF30000,52474000,CPRD_AURUM
+41051000006114,Osseous syndactyly - 2nd to 4th web,PF12100,205143008,CPRD_AURUM
+314794011,Capitate-hamate synostosis,PF5A100,205277006,CPRD_AURUM
+314953012,Other anomaly of unspecified limb NOS,PFyz.00,60475009,CPRD_AURUM
+314883019,Perodactylia of great toe,PF66800,205351000,CPRD_AURUM
+437141000006112,Aberrant muscle of lower limb,PF68000,205365003,CPRD_AURUM
+4830061000006110,Brachymetapodia of fourth metatarsal,,205379006,CPRD_AURUM
+4828341000006114,Postaxial polydactyly of fingers,,205131007,CPRD_AURUM
+744801000006115,Intraartic soft tiss proced correct congenital deformity hip,7L0G300,180106007,CPRD_AURUM
+314699011,Transverse deficiency lower limb - through tibia/fibula,PF31700,205207007,CPRD_AURUM
+3528317011,Congenital trigger thumb of bilateral hands,,16004071000119105,CPRD_AURUM
+314724016,Agenesis of 4th and 5th metatarsals,PF38700,205225000,CPRD_AURUM
+314651011,Hypoplastic thumb-Blauth 5,PF26800,205178008,CPRD_AURUM
+4829191000006112,Acrocephalosyndactyly type I,,205258009,CPRD_AURUM
+314929018,Constriction ring of lower limb with lymphoedema,PF6D100,205385004,CPRD_AURUM
+3891221000006112,Radial aplasia-thrombocytopenia syndrome,,85589009,CPRD_AURUM
+7304631000006115,Polydactyly of thumb,,445216006,CPRD_AURUM
+3953931000006117,Metaphyseal chondrodysplasia, Shwachman type,,89454001,CPRD_AURUM
+6380741000006114,Syndactylism,,373413006,CPRD_AURUM
+2935351000006116,Tarsal coalitions,,27173008,CPRD_AURUM
+3017181000006114,Syndactyly of the toes,,32113001,CPRD_AURUM
+4830041000006111,Brachymetapodia of first metatarsal,,205378003,CPRD_AURUM
+4829111000006119,Congenital absence of fifth toe,,205228003,CPRD_AURUM
+14160211000006116,Congenital dysplasia of left hip,null,1010212005,CPRD_AURUM

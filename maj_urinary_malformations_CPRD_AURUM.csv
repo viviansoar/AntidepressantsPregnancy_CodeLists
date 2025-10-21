@@ -1,0 +1,158 @@
+MEDICAL_CODE_ID,DESCRIPTION,READ_CODE,SNOMED_CT_CODE,DATABASE
+867061000006111,Ureter excision/repair,7B10.99,108028005,CPRD_AURUM
+414351000006113,[X]Other specified congenital malform of urinary system,Pyu7600,253859003,CPRD_AURUM
+5091971000006114,Revision of male epispadias repair,,236277002,CPRD_AURUM
+3637282015,Left renal agenesis,,762907005,CPRD_AURUM
+3339491000006117,Congenital abnormality of ureter,,51794008,CPRD_AURUM
+3222631000006115,Malposition of ureter,,44796002,CPRD_AURUM
+5335641000006116,Congenital posterior urethral valve,,253900005,CPRD_AURUM
+5567921000006118,Male epispadias repair,,274941008,CPRD_AURUM
+4827391000006118,Renal dysplasia,,204949001,CPRD_AURUM
+2738311000006115,Repair of urinary bladder exstrophy,,15044006,CPRD_AURUM
+5091841000006111,Epispadias repair in female - primary procedure,null,236265007,CPRD_AURUM
+3176381000006111,Renal agenesis syndrome,,41962002,CPRD_AURUM
+4670481000006115,TUUI - Transurethral ureteric incision,,176098003,CPRD_AURUM
+3819241000006119,Congenital bladder diverticulum,,81107006,CPRD_AURUM
+3832961000006114,Repair of urethral meatus,,81977006,CPRD_AURUM
+3765151000006114,Ureteric agenesis,,77761000,CPRD_AURUM
+3176361000006118,Potter syndrome,,41962002,CPRD_AURUM
+12721471000006113,Other specified incision of ureter,,542441000000100,CPRD_AURUM
+499141015,Segmental renal hypoplasia,PD03200,61852001,CPRD_AURUM
+3765141000006112,Agenesis of ureter,,77761000,CPRD_AURUM
+5090561000006119,Reconnection and repair of ureter,,236164001,CPRD_AURUM
+12725881000006111,Urethra or bladder neck atresia or stenosis NOS,,669451000000107,CPRD_AURUM
+272520010,Other connection of ureter NOS,7B13z00,236164001,CPRD_AURUM
+4151701000006112,Ureter excision,,108028005,CPRD_AURUM
+3336261000006115,Total excision of ureter,,51607004,CPRD_AURUM
+1848371000006113,Unilat renal agenesis with contralat hypoplasia/dysplasia,PD00200,204942005,CPRD_AURUM
+3503371000006117,Exstrophy of urinary bladder,,61758007,CPRD_AURUM
+12718561000006115,Other open operation on ureter NOS,,552461000000101,CPRD_AURUM
+314302019,Other specified congenital cystic kidney disease,PD1y.00,82525005,CPRD_AURUM
+2158128010,Epispadias,PC61.00,406476007,CPRD_AURUM
+9696016,Prune belly syndrome,PG72.00,5187006,CPRD_AURUM
+272540015,Other open operation on ureter NOS,7B16z00,387749002,CPRD_AURUM
+1231080018,Excision of segment of ureter,7B10100,52149005,CPRD_AURUM
+893191000006110,Hypospadias/epispadias,PC6..99,204886001,CPRD_AURUM
+314359019,Exstrophy of urinary bladder NOS,PD5z.00,61758007,CPRD_AURUM
+1234595013,Partial excision of kidney,7B02.11,81516001,CPRD_AURUM
+212651000006111,Potter's syndrome,PD03011,41962002,CPRD_AURUM
+272522019,Other specified repair of ureter,7B14y00,176031007,CPRD_AURUM
+314387011,Anomalies of urachus NOS,PD7z.00,205016000,CPRD_AURUM
+829501000006117,Hutch replantation of ureter,7B12.12,387701008,CPRD_AURUM
+4058991000006118,Megaloureter,,95576001,CPRD_AURUM
+4317018,Congenital absence of urethra,PDy1.00,1922008,CPRD_AURUM
+272519016,Other specified other connection of ureter,7B13y00,236164001,CPRD_AURUM
+304223015,Diverticulum of bladder,K163.00,197866008,CPRD_AURUM
+314187015,Hypospadias and epispadias,PC6..00,204886001,CPRD_AURUM
+377976016,Cystic kidney disease NEC,PD11z11,236439005,CPRD_AURUM
+378009012,Congenital posterior urethral valves,PD67.00,253900005,CPRD_AURUM
+314300010,Multicystic renal dysplasia,PD13.00,737562008,CPRD_AURUM
+88674011,Repair of urethra,7B41.00,53328006,CPRD_AURUM
+304229016,Diverticulum of bladder NOS,K163z00,197866008,CPRD_AURUM
+273041017,Repair of urethra NOS,7B41z00,302364006,CPRD_AURUM
+7772911000006118,Congenital megaloureter,,718485003,CPRD_AURUM
+315751014,[X]Other obstructive defects of renal pelvis and ureter,Pyu7100,253859003,CPRD_AURUM
+643301000006115,Endoscopic destruction of posterior urethral valve,7B43500,176358009,CPRD_AURUM
+273084016,Hook ablation of posterior urethral valve,7B45600,176374004,CPRD_AURUM
+315752019,[X]Other congenital malformations of ureter,Pyu7200,51794008,CPRD_AURUM
+5611831000006110,Duplex ureter structure,,278309003,CPRD_AURUM
+4789901000006110,Bladder diverticulum,,197866008,CPRD_AURUM
+272523012,Repair of ureter NOS,7B14z00,176031007,CPRD_AURUM
+272539017,Other specified other open operation on ureter,7B16y00,387749002,CPRD_AURUM
+3528307018,Multicystic dysplastic kidney,,737562008,CPRD_AURUM
+272508019,Other connection of ureter,7B13.00,236164001,CPRD_AURUM
+3503361000006112,Exstrophy of bladder sequence,,61758007,CPRD_AURUM
+56331000006114,Young-Dees epispadias repair,7B41113,274941008,CPRD_AURUM
+5335631000006114,PUV - Posterior urethral valve,,253900005,CPRD_AURUM
+3503401000006119,Exstrophy of bladder,,61758007,CPRD_AURUM
+3819231000006112,Congenital diverticulum of bladder,,81107006,CPRD_AURUM
+2738291000006119,Repair of bladder exstrophy,,15044006,CPRD_AURUM
+272333017,Excision of half of horseshoe kidney,7B01311,175908001,CPRD_AURUM
+5095461000006114,Prune belly syndrome with pulmonic stenosis, mental retardation and deafness,,236529001,CPRD_AURUM
+5091951000006116,First stage of two-stage epispadias repair,,236275005,CPRD_AURUM
+514411000006114,Bischoff replantation ureter,7B12.11,387701008,CPRD_AURUM
+136885015,Congenital cystic kidney disease,PD1..00,82525005,CPRD_AURUM
+314251019,Renal agenesis, unspecified,PD00.00,204942005,CPRD_AURUM
+80881000006114,Unilateral renal agenesis,PD00100,204942005,CPRD_AURUM
+272625014,Other specified operations on ureter,7B1y.00,387749002,CPRD_AURUM
+580701000006113,Congenital bladder diverticulum,PDy4.00,81107006,CPRD_AURUM
+588071000006119,Congenital stenosis of ureter,PD22.11,74919005,CPRD_AURUM
+1221157015,Closure of exstrophy of bladder,7B23400,15044006,CPRD_AURUM
+1492220014,Replantation of ureter,7B12.14,387701008,CPRD_AURUM
+273038014,Other specified repair of urethra,7B41y00,302364006,CPRD_AURUM
+314393015,Epispadias, female,PDyz000,205026007,CPRD_AURUM
+893221000006115,Renal agenesis/dysgenesis,PD0..99,204938007,CPRD_AURUM
+3026091000006117,Renal hypoplasia,,32659003,CPRD_AURUM
+314252014,Renal agenesis, unspecified NOS,PD00z00,204942005,CPRD_AURUM
+272531019,Other specified incision of ureter,7B15y00,10255001,CPRD_AURUM
+1938961000006114,H/O: total excision of left kidney,,1938961000006105,CPRD_AURUM
+314271011,Bilateral renal dysplasia,PD04000,204950001,CPRD_AURUM
+272329012,Total excision of kidney,7B01.11,175905003,CPRD_AURUM
+314360012,Urethra and bladder neck atresia and stenosis,PD6..00,204998005,CPRD_AURUM
+354550018,Renal dysplasia and retinal aplasia,PD04200,236531005,CPRD_AURUM
+37633010,Congenital absence of bladder,PDy0.00,22421007,CPRD_AURUM
+4827441000006119,Congenital renal dysplasia,,204949001,CPRD_AURUM
+3637284019,Right renal agenesis,,762908000,CPRD_AURUM
+314250018,Renal agenesis and dysgenesis,PD0..00,204938007,CPRD_AURUM
+1230734016,Duplication of ureter,PD44.11,49496001,CPRD_AURUM
+314307013,Congenital cystic kidney disease NOS,PD1z.00,82525005,CPRD_AURUM
+4827421000006114,Dysplastic kidney,,204949001,CPRD_AURUM
+314275019,Renal agenesis or dysgenesis NOS,PD0z.00,204938007,CPRD_AURUM
+512199016,Megaloureter - congenital,PD26.00,95576001,CPRD_AURUM
+314200013,Hypospadias or epispadias NOS,PC6z.00,204886001,CPRD_AURUM
+2674354014,Excision of duplex ureter,7B10400,426023002,CPRD_AURUM
+314306016,Other congenital cystic kidney disease NOS,PD1yz00,82525005,CPRD_AURUM
+272532014,Incision of ureter NOS,7B15z00,10255001,CPRD_AURUM
+314386019,Other specified anomalies of urachus,PD7y.00,205016000,CPRD_AURUM
+272462017,Other specified excision of ureter,7B10y00,108028005,CPRD_AURUM
+5335341000006114,Duplex kidney with reflux in one ureter,,253873007,CPRD_AURUM
+1938971000006119,H/O: total excision of right kidney,,1938971000006103,CPRD_AURUM
+5335351000006111,Duplex kidney with reflux in both ureters,,253874001,CPRD_AURUM
+6728281000006115,Epispadias, male,,406477003,CPRD_AURUM
+3718001000006119,Congenital ureteric stenosis,,74919005,CPRD_AURUM
+314380013,Urethra or bladder neck atresia or stenosis NOS,PD6z.00,253859003,CPRD_AURUM
+643761000006118,Endoscopic incision of ureterocele,7B1D300,176100003,CPRD_AURUM
+17862018,Incision of ureter,7B15.00,10255001,CPRD_AURUM
+484691000006113,Anomalies of urachus,PD7..00,205016000,CPRD_AURUM
+314379010,Other specified urethra or bladder neck atresia or stenosis,PD6y.00,253859003,CPRD_AURUM
+272334011,Heminephrectomy for horseshoe kidney,7B01300,175908001,CPRD_AURUM
+50663014,Accessory kidney,PD30.00,30275001,CPRD_AURUM
+3301091000006118,Duplex ureter,,49496001,CPRD_AURUM
+315755017,[X]Other congenital malformations of bladder and urethra,Pyu7500,253859003,CPRD_AURUM
+272463010,Excision of ureter NOS,7B10z00,108028005,CPRD_AURUM
+378010019,Congenital urethral posterior valvular stricture,PD62.12,253901009,CPRD_AURUM
+5906001000006116,Repair of male urethra,,302364006,CPRD_AURUM
+5335651000006119,Posterior urethral valve,,253900005,CPRD_AURUM
+526751000006119,Browne-Denis epispadias repair,7B41111,274941008,CPRD_AURUM
+3345261000006111,Partial excision of ureter,,52149005,CPRD_AURUM
+250201000006118,Paquin replantation of ureter,7B12.13,387701008,CPRD_AURUM
+7694961000006114,Endoscopic incision of ureterocoele,,712755002,CPRD_AURUM
+27586014,Congenital hydronephrosis,PD23.00,16297002,CPRD_AURUM
+27933019,Ectopic kidney,PD35.00,16507009,CPRD_AURUM
+314267013,Dysplasia of kidney,PD04.00,204949001,CPRD_AURUM
+315750010,[X]Other cystic kidney diseases,Pyu7000,236439005,CPRD_AURUM
+315753012,[X]Other specified congenital malformations of kidney,Pyu7300,44513007,CPRD_AURUM
+655091000006111,Excision of ureter,7B10.00,108028005,CPRD_AURUM
+314264018,Unilateral renal hypoplasia,PD03100,32659003,CPRD_AURUM
+314274015,Dysplasia of kidney NOS,PD04z00,204949001,CPRD_AURUM
+272521014,Repair of ureter,7B14.00,176031007,CPRD_AURUM
+400869016,Bilateral renal hypoplasia,PD03000,268232000,CPRD_AURUM
+315754018,[X]Other atresia and stenosis of urethra and bladder neck,Pyu7400,253859003,CPRD_AURUM
+511401000006113,Bilateral renal agenesis,PD00000,41962002,CPRD_AURUM
+867241000006119,Ureter excision/repair NOS,7B16z99,552461000000101,CPRD_AURUM
+4827761000006110,Malformation of urachus,,205016000,CPRD_AURUM
+103716013,Division of isthmus of horseshoe kidney,7B02100,62400008,CPRD_AURUM
+612991000006111,Denis-Browne epispadias repair,7B41112,274941008,CPRD_AURUM
+3842501000006117,Multicystic dysplastic kidney,,82525005,CPRD_AURUM
+69611010,Horseshoe kidney,PD38.00,41729002,CPRD_AURUM
+314272016,Unilateral renal dysplasia,PD04100,204949001,CPRD_AURUM
+893231000006117,Cystic kidney disease,PD1..99,82525005,CPRD_AURUM
+102628016,Exstrophy of urinary bladder,PD5..00,61758007,CPRD_AURUM
+405093011,Epispadias repair,7B41100,270481000,CPRD_AURUM
+584681000006118,Congenital posterior urethral valves,PD62.11,253900005,CPRD_AURUM
+272533016,Other open operations on ureter,7B16.00,387749002,CPRD_AURUM
+1550171000006112,Endoscopic incision of ureterocele,7B1D600,176100003,CPRD_AURUM
+4672021000006114,Endoscopic resection of posterior urethral valve,,176358009,CPRD_AURUM
+315749010,[X]Congenital malformations of the urinary system,Pyu7.00,253859003,CPRD_AURUM
+866791000006116,Kidney - local excision,7B02.99,81516001,CPRD_AURUM
+5091961000006119,Second stage of two-stage epispadias repair,,236276006,CPRD_AURUM

@@ -1,0 +1,71 @@
+MEDICAL_CODE_ID,DESCRIPTION,READ_CODE,SNOMED_CT_CODE,DATABASE
+89691,Agenesis of lung NOS,P853z00,null,CPRD_GOLD
+15639,Lung cyst,P843.11,null,CPRD_GOLD
+48818,Congenital stenosis of trachea,P833100,null,CPRD_GOLD
+50991,Fusion of lobes of lung,P85y000,null,CPRD_GOLD
+52664,Aplasia of lung,P850.00,null,CPRD_GOLD
+54384,Congenital absence of lung,P853.11,null,CPRD_GOLD
+56901,Imperforate pharynx,PA27000,null,CPRD_GOLD
+59273,Congenital stenosis of larynx, trachea and bronchus,P833.00,null,CPRD_GOLD
+63288,Atresia of trachea,P832300,null,CPRD_GOLD
+64802,Other specified congenital cystic lung,P84y.00,null,CPRD_GOLD
+66643,Choanal atresia, unspecified,P800.00,null,CPRD_GOLD
+68268,Congenital absence of lung fissures,P853000,null,CPRD_GOLD
+70193,Other anomaly of trachea,P83yx00,null,CPRD_GOLD
+71893,Congenital stenosis of bronchus,P833200,null,CPRD_GOLD
+72001,Atresia of larynx and trachea,P832.00,null,CPRD_GOLD
+96542,[X]Congenital malformations of the respiratory system,Pyu3.00,null,CPRD_GOLD
+97185,Congenital absence of lobe of lung,P853100,null,CPRD_GOLD
+98860,Cong.absence of oesophagus with tracheo-oesophageal fistula,PA36.00,null,CPRD_GOLD
+99799,Other specified lung agenesis, hypoplasia or dysplasia,P85y.00,null,CPRD_GOLD
+103042,Other anomaly of larynx, trachea or bronchus NOS,P83yz00,null,CPRD_GOLD
+107040,[X]Other congenital malformations of bronchus,Pyu3300,null,CPRD_GOLD
+110010,[X]Other specified congen malformation respiratory system,Pyu3500,null,CPRD_GOLD
+112703,Congenital diverticulum of bronchus,P83y400,null,CPRD_GOLD
+112752,[X]Other congenital malformations of trachea,Pyu3200,null,CPRD_GOLD
+113113,Atresia of the anterior nares,P801.00,null,CPRD_GOLD
+113402,Atresia of larynx or trachea NOS,P832z00,null,CPRD_GOLD
+10047,Pulmonary arterio-venous malformation,P736.12,null,CPRD_GOLD
+10699,Congenital cystic lung,P84..00,null,CPRD_GOLD
+11845,Congenital bronchomalacia,P83yB00,null,CPRD_GOLD
+23874,Hypoplasia of lung,P851.00,null,CPRD_GOLD
+26838,Lung agenesis, hypoplasia and dysplasia,P85..00,null,CPRD_GOLD
+29373,Other anomalies of larynx, trachea and bronchus,P83..00,null,CPRD_GOLD
+31027,Choanal atresia,P80..00,null,CPRD_GOLD
+31820,Congenital polycystic lung,P841.00,null,CPRD_GOLD
+32416,Other specified respiratory system anomaly NOS,P8yz.00,null,CPRD_GOLD
+32600,Congenital bronchogenic cyst,P843.12,null,CPRD_GOLD
+32883,Congenital cyst of mediastinum,P8y3.00,null,CPRD_GOLD
+33655,Atresia of oesophagus with tracheo-oesophageal fistula,PA37.00,null,CPRD_GOLD
+33804,Congenital cystic lung NOS,P84z.00,null,CPRD_GOLD
+35661,Sequestration of lung,P852.00,null,CPRD_GOLD
+36606,Scimitar syndrome,P74z600,null,CPRD_GOLD
+36779,Other anomalies of larynx, trachea or bronchus NOS,P83z.00,null,CPRD_GOLD
+37835,Congenital dilatation of trachea,P83y100,null,CPRD_GOLD
+38769,Single lung cyst,P843.00,null,CPRD_GOLD
+39900,Anomaly, pleural folds,P8y1.00,null,CPRD_GOLD
+44347,Congenital pulmonary lymphangiectasis,P8y4.00,null,CPRD_GOLD
+46392,Other specified repair of pharynx,7422y00,null,CPRD_GOLD
+46397,Respiratory system anomaly NOS,P8z..00,null,CPRD_GOLD
+46398,Respiratory system congenital anomalies,P8...00,null,CPRD_GOLD
+50980,Multiple congenital bronchogenic cysts,P841.12,null,CPRD_GOLD
+52894,Atresia of nasopharynx,P8y2.00,null,CPRD_GOLD
+55062,Anomaly of laryngeal or tracheal cartilage NOS,P831z00,null,CPRD_GOLD
+55656,Rudimentary tracheal bronchus,P83y800,null,CPRD_GOLD
+56427,Congenital bronchiectasis,P861.00,null,CPRD_GOLD
+56810,Congenital chylothorax,P7yz100,null,CPRD_GOLD
+57330,Multiple lung cysts,P841.11,null,CPRD_GOLD
+59444,Agenesis of lung,P853.00,null,CPRD_GOLD
+60514,Choanal atresia NOS,P80z.00,null,CPRD_GOLD
+63530,Anomaly of laryngeal and tracheal cartilage,P831.00,null,CPRD_GOLD
+63637,Other anomaly of larynx, trachea and bronchus,P83y.00,null,CPRD_GOLD
+66223,Congenital cystic lung disease, unspecified,P840.00,null,CPRD_GOLD
+66951,Congenital honeycomb lung,P842.00,null,CPRD_GOLD
+68606,Atresia of the posterior nares,P802.00,null,CPRD_GOLD
+93008,Lung agenesis, hypoplasia or dysplasia NOS,P85z.00,null,CPRD_GOLD
+96586,Congenital cystic adenomatoid malformation of the lung,P844.00,null,CPRD_GOLD
+99683,Congenital diverticulum of trachea,P83y500,null,CPRD_GOLD
+100037,Other lung agenesis, hypoplasia or dysplasia NOS,P85yz00,null,CPRD_GOLD
+101623,[X]Other congenital malformations of lung,Pyu3400,null,CPRD_GOLD
+104555,Congenital laryngomalacia,P831700,null,CPRD_GOLD
+104976,Other anomaly of bronchus,P83yy00,null,CPRD_GOLD

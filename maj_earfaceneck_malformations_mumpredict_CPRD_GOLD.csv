@@ -1,0 +1,64 @@
+MEDICAL_CODE_ID,DESCRIPTION,READ_CODE,SNOMED_CT_CODE,DATABASE
+23467,Maxillary micrognathism,J040800,null,CPRD_GOLD
+29900,Absence of ear NOS,P401011,null,CPRD_GOLD
+35942,Congenital absence of chin,P4y4.00,null,CPRD_GOLD
+37784,Congenital anomaly of face NOS,P4z1.00,null,CPRD_GOLD
+53456,Pattee reconstruction of external auditory canal,7306111,null,CPRD_GOLD
+60570,Ear auricle and external auditory canal absent,P401200,null,CPRD_GOLD
+67353,Absence of external auditory canal,P401100,null,CPRD_GOLD
+72932,Congenital absence ear auricle,P401211,null,CPRD_GOLD
+73496,Absence of external ear NOS,P401z00,null,CPRD_GOLD
+101739,Congenital stenosis of eustachian tube,P423100,null,CPRD_GOLD
+103542,[X]Malformation of ear with impairment of hearing, unspec,Pyu1B00,null,CPRD_GOLD
+108733,Insertion of fixtures for auricular prosthesis Stage 2,7308100,null,CPRD_GOLD
+111422,[X]Other congenital malformations of middle ear,Pyu1900,null,CPRD_GOLD
+111850,Reduction of soft tissue for auricular prosthesis,7308200,null,CPRD_GOLD
+112661,Attachment of auricular prosthesis NOS,7308z00,null,CPRD_GOLD
+114452,Other specified attachment of auricular prosthesis,7308y00,null,CPRD_GOLD
+108732,Insertion of fixtures for auricular prosthesis Stage 1,7308000,null,CPRD_GOLD
+1379,Congenital ear anomaly NOS,P43..00,null,CPRD_GOLD
+5016,Ear anomalies with hearing impairment,P40..00,null,CPRD_GOLD
+14846,Congenital ear lobe absence,P420.00,null,CPRD_GOLD
+15363,Micrognathism,J040.15,null,CPRD_GOLD
+15968,Middle ear anomaly, excluding ossicles,P403.00,null,CPRD_GOLD
+16271,Other specified face and neck anomalies NOS,P4yz.00,null,CPRD_GOLD
+25819,Atresia of external auditory canal,P402000,null,CPRD_GOLD
+27313,Other and unspecified ear anomaly with hearing impaired,P40z.00,null,CPRD_GOLD
+29316,Mandibular micrognathism,J040300,null,CPRD_GOLD
+29327,Eustachian tube anomalies,P423.00,null,CPRD_GOLD
+31374,Deafness due to congenital anomaly NEC,P40z.11,null,CPRD_GOLD
+35256,Mid-facial hypoplasia,P4y5.00,null,CPRD_GOLD
+35616,Congenital webbing of neck,P45..00,null,CPRD_GOLD
+35677,Congenital absence of ear NOS,P40z000,null,CPRD_GOLD
+35784,Other specified ear anomalies NOS,P42z.00,null,CPRD_GOLD
+36169,Other ear anomalies NOS,P42zz00,null,CPRD_GOLD
+36354,Reconstruction of external auditory canal,7306100,null,CPRD_GOLD
+39033,Other specified ear anomalies,P42..00,null,CPRD_GOLD
+40461,Middle ear anomaly NEC NOS,P403z00,null,CPRD_GOLD
+41037,Anomaly of ossicles,P404.00,null,CPRD_GOLD
+41206,Inner ear anomalies,P405.00,null,CPRD_GOLD
+43777,Congenital absence of external ear, unspecified,P401000,null,CPRD_GOLD
+46122,Congenital absence of external ear,P401.00,null,CPRD_GOLD
+48460,Anomaly of ossicles NOS,P404z00,null,CPRD_GOLD
+50016,Ear anomalies with hearing impaired, unspecified,P400.00,null,CPRD_GOLD
+52137,[X]Congenital malformations of eye, ear, face and neck,Pyu1.00,null,CPRD_GOLD
+52802,Other external ear anomaly with hearing impairment,P402.00,null,CPRD_GOLD
+57053,Ear anomaly with hearing impaired NOS,P40zz00,null,CPRD_GOLD
+57367,Release of webbing of neck,7K6T000,null,CPRD_GOLD
+57556,Ear, face and neck congenital anomalies,P4...00,null,CPRD_GOLD
+58011,Pterygium colli,P451.00,null,CPRD_GOLD
+59565,Other specified face and neck anomalies,P4y..00,null,CPRD_GOLD
+63603,Inner ear anomalies NOS,P405z00,null,CPRD_GOLD
+70139,Congenital absence of auricle,P401300,null,CPRD_GOLD
+70982,Congenital face or neck anomaly NOS,P4z..00,null,CPRD_GOLD
+71280,Eustachian tube anomalies NOS,P423z00,null,CPRD_GOLD
+72789,[X]Other specified congenital malformations of ear,Pyu1D00,null,CPRD_GOLD
+72933,Other external ear anomaly with hearing impairment NOS,P402z00,null,CPRD_GOLD
+73596,Ear osseous meatus atresia,P403000,null,CPRD_GOLD
+91987,Attachment of auricular prosthesis,7308.00,null,CPRD_GOLD
+93198,Congenital anomaly of neck NOS,P4z0.00,null,CPRD_GOLD
+93483,Congenital fusion of ear ossicles,P404000,null,CPRD_GOLD
+94199,Attention to fixtures for auricular prosthesis,7308300,null,CPRD_GOLD
+95850,Micrognathism unspecified,J040B00,null,CPRD_GOLD
+97357,[X]Congenital malformation of inner ear,Pyu1A00,null,CPRD_GOLD
+99458,Congenital webbing of neck NOS,P45z.00,null,CPRD_GOLD

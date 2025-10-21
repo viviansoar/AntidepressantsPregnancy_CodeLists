@@ -1,0 +1,1295 @@
+MEDICAL_CODE_ID,DESCRIPTION,READ_CODE,SNOMED_CT_CODE,DATABASE
+4831701000006116,Isolated levocardia,,205769006,CPRD_AURUM
+271320014,Open operations for combined abnormality of great vessels,7A00.00,175205008,CPRD_AURUM
+313426011,Cor triloculare,P6yy800,204397009,CPRD_AURUM
+313475012,Aplasia of aorta,P722100,204433005,CPRD_AURUM
+313355016,Congenital fusion of pulmonary valve segment,P602100,204346001,CPRD_AURUM
+313428012,Hemicardia,P6yyA00,204399007,CPRD_AURUM
+377724010,Preductal hypoplasia of aorta,P711.11,253674003,CPRD_AURUM
+377728013,Postductal interruption of aorta,P712.12,253677005,CPRD_AURUM
+505081012,Duroziez's disease,P65..11,82458004,CPRD_AURUM
+511821000000113,Transluminal repair of defect of septum,790L.11,224071000000102,CPRD_AURUM
+511461000000119,Revision of repair of defect of interatrial septum,7907411,174848002,CPRD_AURUM
+865001000006118,Make heart septal defect,790A199,304926002,CPRD_AURUM
+1626161000006110,Fetus with cardiovascular abnormality,,1626161000006106,CPRD_AURUM
+1664161000006111,Congenital dextroposition of the heart,,1664161000006107,CPRD_AURUM
+29950011,Persistent ostium primum,P561.11,17718000,CPRD_AURUM
+270877012,Creation of valved cardiac conduit NOS,790Dz00,174880000,CPRD_AURUM
+271359017,Other connection from aorta to pulmonary artery NOS,7A04z00,233224003,CPRD_AURUM
+271381010,Other connection to pulmonary artery NOS,7A07z00,26495009,CPRD_AURUM
+271341015,Transluminal operation on abnormality of great vessel NOS,7A02z00,175217005,CPRD_AURUM
+313443014,Anomalous bands of heart NOS,P6z1z00,204407002,CPRD_AURUM
+1222309016,Tricuspid stenosis and incompetence, cause unspecified,G140511,49915006,CPRD_AURUM
+33551000006115,Other connection from subclavian art to pulmonary art OS,7A06y00,233226001,CPRD_AURUM
+180961000006115,Removal anastomosis between vena cava and pulmonary artery,7A07100,175250005,CPRD_AURUM
+182131000006113,Removal of obstruction from struct adjacent heart valve OS,791Ay00,174994000,CPRD_AURUM
+229861000006114,Persistent truncus arteriosus,P500.11,61959006,CPRD_AURUM
+355461000000111,Excision of valve of heart NOS,791Dz00,87123001,CPRD_AURUM
+356101000000113,Open operations on both pulmonary arteries NOS,7A0Bz00,425603008,CPRD_AURUM
+377061000000111,Repair of double outlet ventricle NOS,790Kz00,427318004,CPRD_AURUM
+511481000000111,Repair of defect of interatrial septum NOS,7907z11,233037005,CPRD_AURUM
+511891000000111,Transluminal repair of defect of septum NOS,790Lz11,224071000000102,CPRD_AURUM
+599851000006110,Create interpos tube prosth shunt subclav art to pulm a NOS,7A05z00,175236000,CPRD_AURUM
+600031000006111,Creation interpos tube prosth shunt asc aorta to main pulm a,7A03000,175221003,CPRD_AURUM
+599961000006116,Creation anastomosis descending aorta to left pulm art NEC,7A04300,233224003,CPRD_AURUM
+599861000006112,Create interpos tube prosth shunt subclav art to pulm art OS,7A05y00,175236000,CPRD_AURUM
+815941000006116,Hanlon creation of defect in atrial septum,790B012,48268004,CPRD_AURUM
+1546321000006114,Left ventricle aorta tunnel right ventricle pul art val con,7904200,224181000000101,CPRD_AURUM
+1548071000006111,Percut translumin stent major systemic pulmon collateral art,7A0C400,223521000000106,CPRD_AURUM
+1546821000006118,Radical aortopulmonary recon rig vent pulmon art valvel cond,790M300,429616001,CPRD_AURUM
+1548091000006112,Operations major systemic pulmonary collateral arteries NOS,7A0Cz00,233114002,CPRD_AURUM
+1587221000006113,Repair defect of interatrial septum using prosthetic patch,7907011,174844000,CPRD_AURUM
+1587531000006114,Percut translum repair defect unspecified septum us prosth,790L411,237231000000103,CPRD_AURUM
+1587241000006118,Repair defect of interatrial septum using tissue graft NEC,7907211,233037005,CPRD_AURUM
+1701671000006115,Perc transl ins stent into maj system pulmon collater artery,7A0C500,223521000000106,CPRD_AURUM
+507003013,Pulmonary artery agenesis,P731.00,86252004,CPRD_AURUM
+511881000000114,Other specified transluminal repair of defect of septum,790Ly11,224071000000102,CPRD_AURUM
+89821000006119,Transluminal operation on abnormality of great vessel OS,7A02y00,175217005,CPRD_AURUM
+355861000000113,Other specified excision of valve of heart,791Dy00,87123001,CPRD_AURUM
+511541000000116,Revision of repair of defect of interventricular septum,7908411,174854001,CPRD_AURUM
+356081000000119,Other specified open operations on both pulmonary arteries,7A0By00,425603008,CPRD_AURUM
+3056501000006117,Creation of shunt of ascending aorta to pulmonary artery,,34564005,CPRD_AURUM
+4664521000006116,Repair of partial anomalous pulmonary venous drainage,,174900004,CPRD_AURUM
+5044201000006115,Correction of scimitar syndrome,,232984000,CPRD_AURUM
+5333171000006116,Interrupted aortic arch distal to left subclavian artery,,253681005,CPRD_AURUM
+7510911000006110,Balloon dilation of coarctation of aorta,,698643003,CPRD_AURUM
+5329491000006110,Atrioventricular septal defect - isolated ventricular component,,253415001,CPRD_AURUM
+2684861000006115,Congenital pulmonary vein stenosis,,11614003,CPRD_AURUM
+5980711000006118,Resection of interrupted aortic arch,,308679001,CPRD_AURUM
+3219531000006119,Right ventricular outflow tract,,44627009,CPRD_AURUM
+2890351000006110,Structure of ostium secundum,,24467006,CPRD_AURUM
+3648291000006116,Pseudocoarctation of aorta,,70602002,CPRD_AURUM
+4320421000006112,Vein transposition,,119821002,CPRD_AURUM
+7574001000006114,Aortic valve regurgitation secondary to aortic dilation,,703323003,CPRD_AURUM
+7364951000006115,Tricuspid but functionally bicuspid aortic valve,,449116007,CPRD_AURUM
+3703631000006112,Isolated dextrocardia,,74034002,CPRD_AURUM
+5590581000006114,Pulmonary hypertension with occult mitral stenosis,,276793003,CPRD_AURUM
+7572651000006112,Non-rheumatic aortic valve stenosis with regurgitation,,703236000,CPRD_AURUM
+7510901000006112,Percutaneous closure of patent ductus arteriosus,,698642008,CPRD_AURUM
+5333531000006111,Anomalous origin of coronary artery from left pulmonary artery,,253708008,CPRD_AURUM
+3883261000006116,Repair of common arterial trunk using right ventricle to pulmonary trunk conduit,,85041007,CPRD_AURUM
+5045371000006118,Operation on the right ventricular outflow tract,,233064006,CPRD_AURUM
+7278931000006116,Percutaneous insertion of stent into right ventricular outflow tract using fluoroscopic guidance,,443532008,CPRD_AURUM
+3339391000006110,Congenital malposition of cardiac apex,null,51789008,CPRD_AURUM
+3521241000006114,Total repair of tetralogy of Fallot,null,62820003,CPRD_AURUM
+3623041000006114,Replacement of pulmonary heart valve in total repair of tetralogy of Fallot,null,69051005,CPRD_AURUM
+3659251000006115,Coronary sinus ostium,null,71271007,CPRD_AURUM
+3726161000006114,Anomalous origin of coronary artery,null,75398000,CPRD_AURUM
+4014291000006111,Congenital enlarged aortic valve,null,93069000,CPRD_AURUM
+4181331000006111,Aortic and mitral valves, CS,null,110551008,CPRD_AURUM
+3610151000006111,Partial anomalous pulmonary venous return,,68237008,CPRD_AURUM
+4194051000006115,Pulmonary vein abnormality,,111322000,CPRD_AURUM
+4664051000006119,TAVPR - Total anomalous pulmonary venous return operation,,174830006,CPRD_AURUM
+3903231000006116,Subpulmonic stenosis, ventricular septal defect, overriding aorta, AND right ventricular hypertrophy,,86299006,CPRD_AURUM
+4666021000006119,Transluminal closure of ductus arteriosus with device,,175218000,CPRD_AURUM
+3151061000006112,Heart valve incompetence,,40445007,CPRD_AURUM
+5041911000006111,Autograft aortic valve replacement,null,232838006,CPRD_AURUM
+5058151000006118,Stenosis of thoracic aorta,null,233965009,CPRD_AURUM
+4824511000006114,ASD II - Secundum atrial septal defect,,204315000,CPRD_AURUM
+5560091000006116,Heart valve disorders - non-rheumatic,,274097009,CPRD_AURUM
+3506871000006117,Common truncus arteriosus,,61959006,CPRD_AURUM
+2799321000006111,Ostium vaginae,,18857001,CPRD_AURUM
+3711971000006119,Kommerells diverticulum,,74561007,CPRD_AURUM
+4666101000006111,Construction of aortopulmonary window,,175228009,CPRD_AURUM
+5503451000006110,Hypoplastic aorta syndrome,,268184003,CPRD_AURUM
+6462381000006112,Aneurysmectomy of sinus of Valsalva,,386815009,CPRD_AURUM
+3308141000006119,TS - Tricuspid stenosis,,49915006,CPRD_AURUM
+4664781000006112,Pericardial pulmonary valve replacement,,174945000,CPRD_AURUM
+4664491000006118,PAPVR - Partial anomalous pulmonary venous return operation,,174900004,CPRD_AURUM
+3288531000006110,Mitral insufficiency,,48724000,CPRD_AURUM
+2709701000006119,Congenital anomaly of heart,,13213009,CPRD_AURUM
+5294061000006112,Bicuspid doming of aortic cusp,null,250983006,CPRD_AURUM
+5327781000006114,Double inlet ventricle,null,253281003,CPRD_AURUM
+5328931000006111,Primum atrial septal defect,null,253373002,CPRD_AURUM
+5046221000006116,DORV - Repair of double outlet right ventricle,,233126007,CPRD_AURUM
+4664041000006116,Repair of total anomalous pulmonary venous return,,174830006,CPRD_AURUM
+4664661000006111,Replacement of aortic valve with prosthesis,,174929002,CPRD_AURUM
+2618281000006118,Congenital atresia of aorta,,7438000,CPRD_AURUM
+2984921000006116,Transluminal prosthetic closure of atrial septal defect,,30123000,CPRD_AURUM
+5331651000006116,Muscular ventricular septal defect in central trabecular septum,null,253564006,CPRD_AURUM
+3487501000006116,Tubular hypoplasia of aortic arch,,60787001,CPRD_AURUM
+4776901000006112,Tricuspid valve stenosis, nonrheumatic,,194991001,CPRD_AURUM
+3494421000006117,Closure of aorticopulmonary fistula or fenestration,,61192001,CPRD_AURUM
+2540081000006113,Remnants of valves of sinus venosus,,2583009,CPRD_AURUM
+6558161000006116,Operation for transposition of great vessels,,395723006,CPRD_AURUM
+11927251000006117,Aortic stenosis,,60573004,CPRD_AURUM
+3853931000006111,Brock operation for pulmonary valvotomy,,83187002,CPRD_AURUM
+4019651000006118,Congenital narrowed aortic arch,,93384001,CPRD_AURUM
+5570501000006114,Disc valve tricuspid valve replacement,null,275204006,CPRD_AURUM
+5489281000006111,Operation on the arterial duct,,265859004,CPRD_AURUM
+3581201000006117,Pulmonary agenesis,,66489009,CPRD_AURUM
+5972751000006113,Incision of heart valve,,307799000,CPRD_AURUM
+6582591000006112,TA - Repair of truncus arteriosus,,397153008,CPRD_AURUM
+3814451000006117,Congenital pulmonary hypoplasia,,80825009,CPRD_AURUM
+3833261000006112,Absence of atrial AND ventricular septa,,81990004,CPRD_AURUM
+3183591000006116,Bronchiectasis, chronic sinusitis AND dextrocardia syndrome,,42402006,CPRD_AURUM
+7087901000006111,Percutaneous transluminal ablation of congenital malformation of heart,,428391009,CPRD_AURUM
+4824751000006118,Fallot trilogy,,204351007,CPRD_AURUM
+2540091000006111,Atrial anomalous bands,,2583009,CPRD_AURUM
+3285001000006119,Congenital atresia of cardiac vein,,48520006,CPRD_AURUM
+2619011000006113,Transposition of great vessels, interventricular septal defect AND overriding aorta,,7484005,CPRD_AURUM
+3082001000006117,PA - Pulmonary artery abnormality,,36110001,CPRD_AURUM
+3494431000006119,Obliteration of aortopulmonary septal defect,,61192001,CPRD_AURUM
+5060411000006116,Congenital abnormality of great veins and coronary sinus,,234132006,CPRD_AURUM
+7088221000006113,Aortopulmonary reconstruction with systemic-to-pulmonary arterial shunt,,428411007,CPRD_AURUM
+2716621000006113,Blalock-Taussig operation, subclavian-pulmonary anastomosis,,13662000,CPRD_AURUM
+3422481000006118,PS - Pulmonary valve stenosis,,56786000,CPRD_AURUM
+3640341000006116,Interatrial septal defect,,70142008,CPRD_AURUM
+5046261000006110,DOLV - Repair of double outlet left ventricle,,233128008,CPRD_AURUM
+6476441000006116,Pulmonary operation,,387714009,CPRD_AURUM
+7100821000006119,Take-down of anastomosis from aorta to pulmonary artery,,429270005,CPRD_AURUM
+7494371000006117,Percutaneous transluminal balloon dilatation of interposition tube prosthesis between pulmonary artery and aorta,,609187003,CPRD_AURUM
+5489251000006115,Operation on the ductus arteriosus,,265859004,CPRD_AURUM
+6213771000006116,Endocardial cushion defect, complete type,,360481003,CPRD_AURUM
+6558181000006114,TGV - Operation for transposition of great vessels,,395723006,CPRD_AURUM
+2671991000006112,Congenital malposition of heart,,10818008,CPRD_AURUM
+2770271000006116,APW - Aortopulmonary window,,17024001,CPRD_AURUM
+3234331000006116,Absence of interventricular septum,,45503006,CPRD_AURUM
+4824661000006113,Congenital malformation of pulmonary valve,,204339005,CPRD_AURUM
+2544091000006118,Uhl disease,,2829000,CPRD_AURUM
+2748161000006119,Müller operation for banding of pulmonary artery,,15648005,CPRD_AURUM
+2770261000006111,Aorticopulmonary window,,17024001,CPRD_AURUM
+5982241000006114,Entire truncus arteriosus of fetus,null,308828009,CPRD_AURUM
+5980491000006119,Repair of pulmonary valve with tissue graft,null,308665009,CPRD_AURUM
+4664481000006116,Repair of partial anomalous pulmonary venous return,,174900004,CPRD_AURUM
+4665121000006111,LVOTO - Operations for left ventricular outflow tract obstruction,,174997007,CPRD_AURUM
+6213781000006118,Atrioventricular canal type ventricular septal defect,,360481003,CPRD_AURUM
+2568551000006116,TV - Congenital tricuspid valve abnormality,,4374004,CPRD_AURUM
+2770291000006115,Aortopulmonary septal defect,,17024001,CPRD_AURUM
+5999661000006118,Suturing of aortopulmonary window,null,310413009,CPRD_AURUM
+5999671000006113,Patching of aortopulmonary window,null,310414003,CPRD_AURUM
+4777641000006119,Make heart septal defect,,195137008,CPRD_AURUM
+5045821000006110,TL - Transluminal closure of ventricular septal defect,,233100002,CPRD_AURUM
+4664131000006110,Repair of total anomalous pulmonary venous connection to coronary sinus,,174832003,CPRD_AURUM
+5045391000006117,Right ventricular outflow tract muscle resection,,233065007,CPRD_AURUM
+2716641000006118,Creation of subclavian-pulmonary shunt,,13662000,CPRD_AURUM
+3813041000006110,Closure of ventricular septal defect using patch,,80733000,CPRD_AURUM
+3863431000006110,Transposition of great vessels with ventricular inversion,,83799000,CPRD_AURUM
+2830291000006115,Anastomosis of inferior vena cava and portal vein,,20767001,CPRD_AURUM
+3234321000006119,Cor triloculare biatriatum,,45503006,CPRD_AURUM
+4776791000006119,Aortic valve regurgitation, nonrheumatic,,194983005,CPRD_AURUM
+4664801000006111,Replacement of pulmonary valve with prosthesis,,174946004,CPRD_AURUM
+7111971000006119,Family history of stenosis of aortic valve,null,429952000,CPRD_AURUM
+7306461000006117,Atrioventricular septal defect with additional muscular ventricular septal defect,null,445334007,CPRD_AURUM
+7348841000006112,Number of ventricular septal defects,null,448021003,CPRD_AURUM
+7348911000006118,Supravalvar pulmonary trunk stenosis,null,448027004,CPRD_AURUM
+7369781000006110,Double aortic arch with right arch dominant and left arch patent,null,449427004,CPRD_AURUM
+7495151000006113,Percutaneous closure of cardiac septal defect,null,609234009,CPRD_AURUM
+8234361000006112,Atrioventricular septal defect with balanced ventricles,null,759551000000105,CPRD_AURUM
+8248521000006116,Primary closure of atrial septal defect,null,789561000000101,CPRD_AURUM
+13936851000006112,Mild aortic valve stenosis,null,836480008,CPRD_AURUM
+13936861000006112,Mild stenosis of aortic valve,null,836480008,CPRD_AURUM
+13936881000006116,Moderate stenosis of aortic valve,null,836481007,CPRD_AURUM
+13936891000006116,Severe aortic valve stenosis,null,836482000,CPRD_AURUM
+13939391000006120,Mild mitral valve stenosis,null,838448003,CPRD_AURUM
+13939401000006116,Moderate mitral valve stenosis,null,838449006,CPRD_AURUM
+13940571000006116,Mild aortic valve regurgitation,null,838544003,CPRD_AURUM
+13940581000006120,Moderate aortic valve regurgitation,null,838545002,CPRD_AURUM
+5328981000006112,Congenital abnormality of atrioventricular valves in atrioventricular septal defect,null,253374008,CPRD_AURUM
+7350151000006119,Atrioventricular septal defect with atrioventricular valve regurgitation,null,448119006,CPRD_AURUM
+7844271000006114,Pterygia, heart anomaly, autosomal recessive inheritance, vertebral defect, ear anomaly, radial defect syndrome,null,723453002,CPRD_AURUM
+5503471000006117,SVAS - Supravalvar aortic stenosis,,268185002,CPRD_AURUM
+4019641000006115,Congenital stenosis of aortic arch,,93384001,CPRD_AURUM
+2617191000006111,DOLV - Double outlet left ventricle,,7368005,CPRD_AURUM
+3513081000006115,Congenital stenosis of inferior vena cava,,62335009,CPRD_AURUM
+3988881000006113,Fused commissures of mitral valve,,91634006,CPRD_AURUM
+4214491000006116,Repair of atrial septum of heart,,112811009,CPRD_AURUM
+2716631000006111,Shunt of subclavian to pulmonary artery,,13662000,CPRD_AURUM
+7398181000006119,Anomalous origin of coronary artery from aorta,,461105005,CPRD_AURUM
+4825141000006118,Congenital aplasia of aorta,,204433005,CPRD_AURUM
+2568561000006119,Congenital tricuspid valve abnormality,,4374004,CPRD_AURUM
+4664511000006112,PAPVC - Partial anomalous pulmonary venous connection operation,,174900004,CPRD_AURUM
+3483911000006115,AS - Aortic stenosis,,60573004,CPRD_AURUM
+3610171000006118,PAPVC - Partial anomalous pulmonary venous connection,,68237008,CPRD_AURUM
+2830301000006119,Anastomosis of portal vein to inferior vena cava,,20767001,CPRD_AURUM
+3579831000006118,Vascular ring - disorder,,66403007,CPRD_AURUM
+12220771000006115,Atrial septal defect due to and following acute myocardial infarction,,194863005,CPRD_AURUM
+5330971000006110,Ventricular septal defect in Fallot tetralogy,,253515003,CPRD_AURUM
+4664451000006112,Repair of sinus venosus defect,,174899009,CPRD_AURUM
+2770281000006118,AP - Aortopulmonary window,,17024001,CPRD_AURUM
+4762711000006119,Polycythemia due to cyanotic heart disease,,191372008,CPRD_AURUM
+4824911000006116,Subvalvular pulmonic stenosis,,204370002,CPRD_AURUM
+2504431000006119,Disorder of heart valve,,368009,CPRD_AURUM
+2744141000006110,Stricture of pulmonary vessel,,15386007,CPRD_AURUM
+4666111000006114,APW - Construction of aortopulmonary window,,175228009,CPRD_AURUM
+4824931000006110,Congenital stenosis of coronary artery,,204379001,CPRD_AURUM
+5056521000006115,Defect of ventricular septum following myocardial infarction,,233846000,CPRD_AURUM
+7352841000006111,Correction of tetralogy of Fallot using right ventricular outflow conduit,,448302004,CPRD_AURUM
+4824641000006114,PV - Congenital pulmonary valve abnormality,,204339005,CPRD_AURUM
+3234141000006111,Congenital stenosis of superior vena cava,,45492009,CPRD_AURUM
+3959921000006117,Repair of ventricular septal defect with prosthesis,,89814007,CPRD_AURUM
+5489241000006117,Persistent ductus arteriosus operation,,265859004,CPRD_AURUM
+3506901000006117,Truncus arteriosus communis,,61959006,CPRD_AURUM
+12490331000006113,Other repair of transposition of great arteries,,395723006,CPRD_AURUM
+2739271000006114,Congenital insufficiency of pulmonary valve,,15096009,CPRD_AURUM
+2960381000006114,Congenital aortic insufficiency,,28656008,CPRD_AURUM
+3643561000006117,Congenital heart valve abnormality,,70320004,CPRD_AURUM
+4664111000006116,Repair of total anomalous pulmonary venous connection to supracardiac vessel,,174831005,CPRD_AURUM
+7065981000006111,Combined atrial switch and arterial switch operation,,426902005,CPRD_AURUM
+5489231000006110,Patent ductus arteriosus operation,,265859004,CPRD_AURUM
+3643551000006119,Cardiac valvular malformation,,70320004,CPRD_AURUM
+2748171000006114,Muller operation for banding of pulmonary artery,,15648005,CPRD_AURUM
+3721851000006114,Aortic stricture,,75145007,CPRD_AURUM
+4777011000006111,Pulmonary valve stenosis, nonrheumatic,,194997002,CPRD_AURUM
+4666061000006113,Percutaneous prosthetic closure of ductus arteriosus,,175218000,CPRD_AURUM
+3506891000006116,Common aortopulmonary trunk,,61959006,CPRD_AURUM
+12728751000006119,Heart bulb or septal closure defects NOS,,692861000000104,CPRD_AURUM
+12717041000006110,Multiple mitral and aortic valve involvement,,194737007,CPRD_AURUM
+12722101000006119,Other specified operations on heart wall, septum or chamber,,595141000000106,CPRD_AURUM
+12726491000006117,Tricuspid valve disease NEC,,639491000000105,CPRD_AURUM
+12722061000006117,Primary closure of defect of septum of heart NEC,,594311000000108,CPRD_AURUM
+271027017,Other specified closed incision of valve of heart,7917y00,174973003,CPRD_AURUM
+271052015,Therapeutic transluminal operation on heart valve NOS,7919z00,73544002,CPRD_AURUM
+45491000006113,Operation on structure adjacent to heart valve OS,791By00,73544002,CPRD_AURUM
+893011000006116,Pulmonary agenesis,P85..99,204572006,CPRD_AURUM
+989091000006116,Mitral + aortic valve disease,G13y.99,194737007,CPRD_AURUM
+12759331000006115,Repair of valve of heart NEC,,585591000000109,CPRD_AURUM
+12759351000006110,Primary repair of defect of septum of heart NEC,,594311000000108,CPRD_AURUM
+12726471000006118,Mitral valve disease NOS,,639451000000102,CPRD_AURUM
+271326015,Open operation for combined abnormality of great vessels NOS,7A00z00,175205008,CPRD_AURUM
+270868017,Therapeutic transluminal operation on septum of heart NOS,790Cz00,265469000,CPRD_AURUM
+313388011,Obstructive heart anomaly NEC NOS,P6y3z00,13213009,CPRD_AURUM
+511641000000117,Repair of defect of unspecified septum of heart NOS,7909z11,77371000,CPRD_AURUM
+511601000000115,Repair of defect of septum of heart using tissue graft NEC,7909211,77371000,CPRD_AURUM
+597061000006114,Correction of total anomalous pulmonary venous connection OS,7905y00,174830006,CPRD_AURUM
+1546231000006116,Rep tetralog Fallot valved right ventricular outflow conduit,7902011,174815002,CPRD_AURUM
+1701661000006110,Per trans occlus interpos tub pros bet pulm art subclav art,7A05400,441634008,CPRD_AURUM
+1546241000006114,Rep tetralogy Fallot right ventricular outflow conduit NEC,7902111,448302004,CPRD_AURUM
+5047231000006116,PA - Pulmonary artery operation,,233207009,CPRD_AURUM
+2781221000006118,Persistent ostium primum,,17718000,CPRD_AURUM
+3082011000006119,Pulmonary artery abnormality,,36110001,CPRD_AURUM
+4824321000006111,TGV - Transposition of great vessels,,204296002,CPRD_AURUM
+2960401000006114,AR - Congenital aortic regurgitation,,28656008,CPRD_AURUM
+4664681000006118,Allograft tricuspid valve replacement,,174935002,CPRD_AURUM
+4541421000006116,History of cardiac anomaly,,161573009,CPRD_AURUM
+4666051000006111,Transluminal prosthetic closure of ductus arteriosus,,175218000,CPRD_AURUM
+3081991000006119,Pulmonary artery congenital abnormality,,36110001,CPRD_AURUM
+4824651000006111,Congenital anomaly of pulmonary valve,,204339005,CPRD_AURUM
+5047521000006116,Creation of anastomosis from subclavian artery to pulmonary artery,,233226001,CPRD_AURUM
+5332621000006115,Intrapulmonary arteriovenous fistula,,253639004,CPRD_AURUM
+5327731000006113,Congenital absence of atrial septum,,253276007,CPRD_AURUM
+4824741000006115,Fallot triad,,204351007,CPRD_AURUM
+2672021000006116,Congenital abnormality of cardiac position,,10818008,CPRD_AURUM
+4664081000006110,TAVVD - Total anomalous pulmonary venous drainage operation,,174830006,CPRD_AURUM
+2672001000006114,Congenital malpositioned heart,,10818008,CPRD_AURUM
+2924311000006116,Anastomosis of systemic to pulmonary artery,,26495009,CPRD_AURUM
+3056541000006115,Anastomosis of ascending aorta to right pulmonary artery,,34564005,CPRD_AURUM
+2619001000006110,Taussig-Bing defect,,7484005,CPRD_AURUM
+7519971000006113,Microphthalmia, cataract, radiculomegaly and septal heart defect,,699300009,CPRD_AURUM
+12704371000006112,Congenital stricture of pulmonary artery,,95441000,CPRD_AURUM
+313331014,Other specified endocardial cushion defects,P56y.00,15459006,CPRD_AURUM
+313332019,Endocardial cushion defects NOS,P56zz00,15459006,CPRD_AURUM
+313375013,Congenital mitral stenosis, unspecified,P650.00,82458004,CPRD_AURUM
+271003019,Revision of plastic repair of valve of heart NOS,7915z00,174959007,CPRD_AURUM
+33541000006117,Other connection from subclavian art to pulmonary art NOS,7A06z00,233226001,CPRD_AURUM
+4668451000006119,Anastomosis of mesenteric vein to vena cava,,175793006,CPRD_AURUM
+6582581000006114,CAT - Repair of common arterial trunk,,397153008,CPRD_AURUM
+3487511000006118,Tubular aortic arch hypoplasia,,60787001,CPRD_AURUM
+4666041000006114,TL - Transluminal closure of ductus arteriosus with prosthesis,,175218000,CPRD_AURUM
+3564411000006118,EFE - Endocardial fibroelastosis,,65457005,CPRD_AURUM
+2984911000006112,Percutaneous prosthetic closure of atrial septal defect,,30123000,CPRD_AURUM
+3841301000006115,MS - Congenital mitral stenosis,,82458004,CPRD_AURUM
+3494451000006114,Repair of aorticopulmonary window,,61192001,CPRD_AURUM
+3084011000006113,Congenital stenosis of tricuspid valve,,36233006,CPRD_AURUM
+5330941000006119,Dextraposition of aorta in Fallot tetralogy,,253514004,CPRD_AURUM
+4194061000006118,PV - Pulmonary vein abnormality,,111322000,CPRD_AURUM
+3807441000006114,Roger disease,,80387009,CPRD_AURUM
+4193501000006113,Pulmonary arteriovenous fistula,,111289009,CPRD_AURUM
+2919561000006117,Excision and replacement of aortic valve,,26212005,CPRD_AURUM
+3807411000006110,Asymptomatic ventricular septal defect,,80387009,CPRD_AURUM
+5330951000006117,Dextroposition of aorta in tetralogy of Fallot,,253514004,CPRD_AURUM
+4664571000006115,Allograft mitral valve replacement,,174918001,CPRD_AURUM
+4824591000006116,Lutembacher syndrome,,204319006,CPRD_AURUM
+4825731000006112,Abnormal pericardiopleural communication,,204589003,CPRD_AURUM
+3056521000006110,Waterston operation for aorta-right pulmonary artery anastomosis,,34564005,CPRD_AURUM
+884311000006117,Non-rheum. tricuspid stenosis,G542199,194991001,CPRD_AURUM
+2693780012,Revision of plastic repair of truncal valve,7915400,429359000,CPRD_AURUM
+377550012,Left ventricular outflow tract obstruction,,253546004,CPRD_AURUM
+182121000006110,Removal of obstruction from struct adjacent heart valve NOS,791Az00,174994000,CPRD_AURUM
+5517391000006118,Pulmonary arteriovenous aneurysm,,270512000,CPRD_AURUM
+4824421000006117,Eisenmenger complex,,204311009,CPRD_AURUM
+356521000000110,Takedown of anastomosis to pulmonary artery from aorta,7A04600,429270005,CPRD_AURUM
+1548081000006114,OS operations major systemic pulmonary collateral arteries,7A0Cy00,233114002,CPRD_AURUM
+1587191000006118,OS atrial inversion op for transposition of great arteries,7903y11,265467003,CPRD_AURUM
+1587321000006118,Repair defect interventricular septum us tissue graft NEC,7908211,80733000,CPRD_AURUM
+3494441000006112,Aorticopulmonary window operation,,61192001,CPRD_AURUM
+5332111000006119,Aortic valve ring hypoplasia,,253601007,CPRD_AURUM
+3084021000006117,TS - Congenital tricuspid stenosis,,36233006,CPRD_AURUM
+4664741000006118,Repair of Ebstein anomaly of tricuspid valve,,174939008,CPRD_AURUM
+3056511000006119,Shunt of ascending aorta to pulmonary artery by Waterston operation,,34564005,CPRD_AURUM
+4214471000006117,Correction of atrial septal defect,,112811009,CPRD_AURUM
+5489271000006113,Patent ductus arteriosus repair,,265859004,CPRD_AURUM
+5047221000006119,Operation on the pulmonary trunk and arteries,,233207009,CPRD_AURUM
+4824391000006113,Incomplete transposition of great vessels,,204300001,CPRD_AURUM
+7100781000006113,Transseptal catheterization of left side of heart by atrial puncture,,429267006,CPRD_AURUM
+8087541000006111,History of heart valve repair with prosthesis,,285701000119108,CPRD_AURUM
+4824481000006118,Ostium secundum defect,,204315000,CPRD_AURUM
+12722071000006112,Other open operations on septum of heart,,594341000000109,CPRD_AURUM
+271064011,Operation on structure adjacent to valve of heart NOS,791Bz00,64915003,CPRD_AURUM
+2478795011,Vascular ring,P721211,66403007,CPRD_AURUM
+400800019,Atrial septal defect NOS,P550.00,70142008,CPRD_AURUM
+1222315016,Aortic regurgitation alone, cause unspecified,G541212,60234000,CPRD_AURUM
+270949019,Replacement of aortic valve NEC,7911300,26212005,CPRD_AURUM
+40351000006119,Ostium secundum atrial septal defect,P55..00,204315000,CPRD_AURUM
+299610017,Mitral and aortic incompetence,G133.00,194736003,CPRD_AURUM
+313356015,Congenital pulmonary stenosis NOS,P602z00,67278007,CPRD_AURUM
+45431000006114,Operation on pulmonary vein,7A6A100,175840003,CPRD_AURUM
+313351013,Congenital atresia of the pulmonary valve,P601.00,204342004,CPRD_AURUM
+488351000006119,Aortic arch anomalies,P721.00,448742006,CPRD_AURUM
+376942019,Closure of defect of interatrial septum,7907.00,112811009,CPRD_AURUM
+299608019,Mitral regurgitation and aortic stenosis,G132.13,194735004,CPRD_AURUM
+270837016,Other specified closure of defect of interventricular septum,7908y00,52930005,CPRD_AURUM
+496490010,Closure of defect of interventricular septum,7908.00,52930005,CPRD_AURUM
+405241000000114,Congenital heart condition monitoring,66g..00,247611000000109,CPRD_AURUM
+270935011,Plastic repair of mitral valve NOS,7910z00,265472007,CPRD_AURUM
+313450013,Hypoplasia of aortic arch, unspecified,P710.00,60787001,CPRD_AURUM
+349153018,Atrial septostomy NEC,790A111,233043007,CPRD_AURUM
+193401000006117,Pulmonary arterio-venous malformation,P736.12,303070000,CPRD_AURUM
+411513018,Blue baby,P6z3.11,275521001,CPRD_AURUM
+271029019,Other open operations on valve of heart,7918.00,73544002,CPRD_AURUM
+50694014,Interventricular septal defect,P541.00,30288003,CPRD_AURUM
+515241000006111,Blalock anastomosis of subclavian artery to pulmonary artery,7A06211,13662000,CPRD_AURUM
+2692588013,Replacement of valved cardiac conduit,790D700,428893001,CPRD_AURUM
+299997015,Tricuspid stenosis, non-rheumatic,G542100,194991001,CPRD_AURUM
+788771000006118,Hypoplasia of the pulmonary artery,P734.00,54682008,CPRD_AURUM
+5056141000006116,Persistent pulmonary hypertension of the newborn,,233815004,CPRD_AURUM
+465641000000110,Primary repair of defect of atrioventricular septum NEC,7906411,174836000,CPRD_AURUM
+184060010,Division of patent ductus arteriosus,7A01000,122487007,CPRD_AURUM
+569661000006114,Closure defect of interatrial septum using pericardial patch,7907100,174845004,CPRD_AURUM
+3695691000006118,Operation on heart valve,,73544002,CPRD_AURUM
+299862018,Aneurysm of pulmonary artery,G421.00,194892009,CPRD_AURUM
+596881000006110,Correction of persistent sinus venosus,790F000,174899009,CPRD_AURUM
+6460761000006119,Repair of pulmonary valve,,386749005,CPRD_AURUM
+271390015,Removal of band from pulmonary artery,7A09200,175261002,CPRD_AURUM
+270916011,Heart wall, septum and chamber operations NOS,790z.00,265466007,CPRD_AURUM
+641961000006119,Endocardial cushion defects,P56..00,15459006,CPRD_AURUM
+2748181000006112,Pulmonary artery banding,,15648005,CPRD_AURUM
+349283018,Repair of double outlet right ventricle,790K200,233126007,CPRD_AURUM
+3378561000006116,Sinus of Valsalva aneurysm,,54160000,CPRD_AURUM
+126241000006115,Stenosis of inferior vena cava,P74z200,62335009,CPRD_AURUM
+4664031000006114,Repair of total anomalous pulmonary venous connection,,174830006,CPRD_AURUM
+559831000006111,Close defect interventricular septum using pericardial patch,7908100,174851009,CPRD_AURUM
+637121000000110,Congenital dextroposition of heart,P6y8.00,341751000000103,CPRD_AURUM
+559811000006117,Close defect atrioventric septum using dual prosthetic patch,7906000,174837009,CPRD_AURUM
+313364014,Other pulmonary valve anomaly NOS,P60zz00,204339005,CPRD_AURUM
+229851000006112,Persistent truncus arteriosus,P50..13,61959006,CPRD_AURUM
+511611000000118,Primary repair of defect of septum of heart NEC,7909311,447748008,CPRD_AURUM
+1547941000006118,Pulmonary artery ligation,7A09500,425437006,CPRD_AURUM
+58851000006111,Waterson anastomosis ascending aorta to right pulmonary art,7A04211,34564005,CPRD_AURUM
+2675459014,Biventricular repair of hypoplastic left heart syndrome,790M400,427585005,CPRD_AURUM
+1546741000006118,Percutan transluminal closure defect interatrial septum NEC,790L300,30123000,CPRD_AURUM
+299611018,Mitral and aortic insufficiency,G133.11,194736003,CPRD_AURUM
+270915010,Other specified operations on heart wall, septum or chamber,790y.00,265466007,CPRD_AURUM
+270858010,Other specified closed operation on septum of heart,790By00,174870004,CPRD_AURUM
+2675832010,Repair of tetralogy of Fallot with absent pulmonary valve,7902500,425785006,CPRD_AURUM
+2675458018,Repair of univentricular heart,790M.00,425654008,CPRD_AURUM
+4664751000006116,Homograft pulmonary valve replacement,,174944001,CPRD_AURUM
+271028010,Closed incision of valve of heart NOS,7917z00,174973003,CPRD_AURUM
+123842010,Kommerell's diverticulum,P721300,74561007,CPRD_AURUM
+5777016,Uhl's disease,P6y3000,2829000,CPRD_AURUM
+1546841000006113,Takedown of total cavopulmonary connection,790M500,233138003,CPRD_AURUM
+818401000006115,Heart and cardiac apex malposition,P6y6.00,10818008,CPRD_AURUM
+439931000006111,Absent septum between aorta and pulmonary artery,P500.00,61959006,CPRD_AURUM
+1701611000006112,Aortopulm reconstruct with systemic to pulmon arterial shunt,790M700,378121000000101,CPRD_AURUM
+2569411000006110,Structure of ductus arteriosus,,4432005,CPRD_AURUM
+377306010,Interauricular septal defect,P550.13,253366007,CPRD_AURUM
+424311000006118,[X]Pulmonary valve disorders in diseases CE,Gyu5C00,76267008,CPRD_AURUM
+271375019,Other connection to pulmonary artery,7A07.00,26495009,CPRD_AURUM
+2507871000006112,Ventricular septum,,589001,CPRD_AURUM
+5044761000006113,Fontan operation with conduit from right atrium to pulmonary artery,,233022006,CPRD_AURUM
+377101000000113,Transluminal closure of defect of septum NOS,790Lz00,224071000000102,CPRD_AURUM
+377170014,Congenital insufficiency of heart valve NEC,P6yy.13,13213009,CPRD_AURUM
+5329511000006116,Atrioventricular septal defect: atrial and ventricular components,null,253416000,CPRD_AURUM
+13940591000006116,Severe aortic valve regurgitation,null,838546001,CPRD_AURUM
+5331991000006118,Pulmonary atresia with ventricular septal defect,,253591008,CPRD_AURUM
+3096611000006112,Ligation of arteriovenous fistula of coronary artery,,37034001,CPRD_AURUM
+313514015,Supradiaphragmatic total anomalous pulmonary venous return,P741100,204457005,CPRD_AURUM
+4666231000006114,Adjustment of pulmonary artery band,,175260001,CPRD_AURUM
+4824801000006113,Ebstein's malformation of tricuspid valve,,204357006,CPRD_AURUM
+271383013,Repair of pulmonary artery using prosthesis,7A08000,175254001,CPRD_AURUM
+4194041000006117,Congenital anomaly of pulmonary veins,,111322000,CPRD_AURUM
+3288511000006116,MI - Mitral incompetence,,48724000,CPRD_AURUM
+4776911000006110,Non-rheumatic tricuspid valve stenosis with insufficiency,,194992008,CPRD_AURUM
+376601000000116,Repair of univentricular heart NOS,790Mz00,425654008,CPRD_AURUM
+5330891000006115,Congenital abnormality of ventricles and ventricular septum,,253511007,CPRD_AURUM
+6909991000006118,Family history of pulmonary infundibular stenosis,,417648007,CPRD_AURUM
+270995014,Other specified plastic repair of unspecified valve of heart,7914y00,73544002,CPRD_AURUM
+7264551000006117,Closure of atrial septal defect using septal occluder device,,442456000,CPRD_AURUM
+2619021000006117,DORV - Double outlet right ventricle,,7484005,CPRD_AURUM
+12321891000006112,Intellectual disability, congenital heart disease, blepharophimosis, blepharoptosis and hypoplastic teeth,,412787009,CPRD_AURUM
+271357015,Revision of anastomosis from aorta to pulmonary artery,7A04500,175233008,CPRD_AURUM
+8227681000006115,Tricuspid valve atresia,,727021000000102,CPRD_AURUM
+2688731000006112,MVD - Mitral valve disease,,11851006,CPRD_AURUM
+2890361000006112,Ostium secundum,null,24467006,CPRD_AURUM
+2903301000006111,TVR - Tricuspid valve replacement,,25236004,CPRD_AURUM
+5042001000006116,Composite aortic root operation,,232843004,CPRD_AURUM
+5045401000006115,Infundibulectomy,,233065007,CPRD_AURUM
+7351221000006111,Closure of defect of septum of heart using pericardial patch,null,448195001,CPRD_AURUM
+5327801000006113,Double inlet right ventricle,null,253282005,CPRD_AURUM
+4664461000006114,Repair of persistent sinus venosus,,174899009,CPRD_AURUM
+4664501000006114,PAPVD - Partial anomalous pulmonary venous drainage operation,,174900004,CPRD_AURUM
+1232103019,Aortic stenosis,G541500,60573004,CPRD_AURUM
+270993019,Replacement of valve of heart NEC,7914300,34068001,CPRD_AURUM
+204071000006116,Prosthetic replacement of aortic valve,7911200,174929002,CPRD_AURUM
+13062015,Coarctation of aorta,P71..00,7305005,CPRD_AURUM
+465571000000117,Mitral valve repair NEC,7910411,384641003,CPRD_AURUM
+270917019,Valves of heart and adjacent structures operations,791..00,174916002,CPRD_AURUM
+103185010,Hypoplastic left heart syndrome,P67..00,62067003,CPRD_AURUM
+299591014,Mitral stenosis with insufficiency,G112.00,194726006,CPRD_AURUM
+251802014,H/O: cardiac anomaly,14H1.00,161573009,CPRD_AURUM
+313336016,Common atrioventricular-type ventricular septal defect,P56z200,204330009,CPRD_AURUM
+299994010,Tricuspid incompetence, non-rheumatic,G542000,194990000,CPRD_AURUM
+270779017,Repair of tetralogy of Fallot,7902.11,174814003,CPRD_AURUM
+465381000000114,Aortic valve repair NEC,7911411,112816004,CPRD_AURUM
+905441000006115,[RFC] Congenital heart disease,,905441000006104,CPRD_AURUM
+465521000000116,Tricuspid valve repair NEC,7912511,384643000,CPRD_AURUM
+313492015,Pulmonary artery atresia,P732.00,204443008,CPRD_AURUM
+313343010,Heart bulb or septal closure defects NOS,P5z..00,268174004,CPRD_AURUM
+271066013,Heart valve and adjacent structures operations NOS,791z.00,73544002,CPRD_AURUM
+1175191000000116,History of ventricular septal defect,14AV.00,473118009,CPRD_AURUM
+313327015,Ostium secundum atrial septal defect NOS,P55z.00,204318003,CPRD_AURUM
+2504401000006110,Heart valve disorder,,368009,CPRD_AURUM
+299592019,Mitral stenosis with regurgitation,G112.13,194726006,CPRD_AURUM
+270839018,Closure of defect of unspecified septum of heart,7909.00,77371000,CPRD_AURUM
+400796013,Bulbus cordis and cardiac septal closure anomalies,P5...00,268174004,CPRD_AURUM
+1222306011,Tricuspid incompetence, cause unspecified,G140412,111287006,CPRD_AURUM
+452187019,Truncus arteriosus,P500.12,61959006,CPRD_AURUM
+2675440012,Repair of interrupted aortic arch,7A18600,426869003,CPRD_AURUM
+2675833017,Atrial septectomy,790A300,426541003,CPRD_AURUM
+271006010,Open incision of heart valve,7916.00,174966008,CPRD_AURUM
+400802010,Right hypoplastic heart syndrome,P603.00,268180007,CPRD_AURUM
+394279019,Plastic repair of pulmonary valve,7913.00,265475009,CPRD_AURUM
+313564010,Arteriovenous malformation of precerebral vessels,P77..00,204493007,CPRD_AURUM
+313322014,Persistent ostium secundum,P552.00,204318003,CPRD_AURUM
+270847018,Other open operations on septum of heart,790A.00,77371000,CPRD_AURUM
+81192010,Mitral valve insufficiency,G540.12,48724000,CPRD_AURUM
+92274014,Cor triatriatum,P6y1.00,55510008,CPRD_AURUM
+270800010,Repositioning of transposed great vessels,7904000,174826008,CPRD_AURUM
+148461000006119,Senning correction for transposition of great vessels,7903.12,174822005,CPRD_AURUM
+4824461000006111,ASD2 - Secundum atrial septal defect,,204315000,CPRD_AURUM
+818791000006118,Heart septum operations,790..13,77371000,CPRD_AURUM
+377307018,Interatrial septal defect NEC,P550.12,70142008,CPRD_AURUM
+510302016,Stenosis of aortic arch,P713.11,93384001,CPRD_AURUM
+315688018,[X]Other congenital malformations of pulmonary artery,Pyu2700,36110001,CPRD_AURUM
+80189019,Congenital cardiomegaly,P6yy200,48121000,CPRD_AURUM
+271378017,Creation of anastomosis from vena cava to pulmonary artery,7A07000,175249005,CPRD_AURUM
+136773016,Congenital mitral stenosis,P65..00,82458004,CPRD_AURUM
+3807431000006116,Small ventricular septal defect,,80387009,CPRD_AURUM
+313486014,Other anomalies of aorta NOS,P72z.00,59877000,CPRD_AURUM
+515251000006113,Blalock creation of defect in atrial septum,790B011,48268004,CPRD_AURUM
+400797016,Other specified transposition of great vessels,P51y.00,204296002,CPRD_AURUM
+478039018,Aortopulmonary window,P501.11,17024001,CPRD_AURUM
+865131000006110,Heart valve operations,791..99,73544002,CPRD_AURUM
+313507017,Pulmonary artery anomaly NOS,P73z.00,36110001,CPRD_AURUM
+394280016,Plastic repair of unspecified valve of heart,7914.00,73544002,CPRD_AURUM
+1546281000006115,Repair Fallot-type pulmonary atresia aortopulmonary collater,7902600,232921000000108,CPRD_AURUM
+3358311000006110,VSD - Closure of ventricular septal defect,,52930005,CPRD_AURUM
+454060019,Repair of pulmonary artery using patch,7A08100,310478006,CPRD_AURUM
+28815012,Aortic septal defect,P501.00,17024001,CPRD_AURUM
+301001000000113,Transfer of care from paediatric congenital heart service,9RD0.00,199221000000102,CPRD_AURUM
+511491000000113,Repair of defect of interventricular septum,7908.11,52930005,CPRD_AURUM
+1587161000006114,Atrial inversion operations for transposition of great art,7903.13,265467003,CPRD_AURUM
+4824451000006114,Ostium secundum type atrial septal defect,,204315000,CPRD_AURUM
+596071000006117,Correct Fallot tetralogy- right ventricular outflow patch,7902200,174817005,CPRD_AURUM
+597091000006118,Correction total anomalous pulmonary venous connection NOS,7905z00,174830006,CPRD_AURUM
+271039013,Other open operation on valve of heart NOS,7918z00,73544002,CPRD_AURUM
+583691000006118,Congenital malformation of tricuspid valve, unspecified,P6X..00,4374004,CPRD_AURUM
+4214511000006110,Repair of defect of atrial septum,,112811009,CPRD_AURUM
+376661000000117,Operations on aortic root NOS,791Cz00,232816009,CPRD_AURUM
+865121000006112,Heart valve operation NOS,791..98,73544002,CPRD_AURUM
+596061000006112,Correct Fallot tetralogy- right ventric outflow conduit NEC,7902100,448302004,CPRD_AURUM
+271333015,Other specified open correction of patent ductus arteriosus,7A01y00,175211006,CPRD_AURUM
+4214621000006115,Repair of aortic valve,,112816004,CPRD_AURUM
+596081000006119,Correct Fallot tetralogy- valved right ventr outflow conduit,7902000,174815002,CPRD_AURUM
+4665971000006110,Ligation of patent ductus arteriosus,,175212004,CPRD_AURUM
+107511000006111,Taussig anastomosis of subclavian artery to pulmonary artery,7A06212,13662000,CPRD_AURUM
+377247010,Anomalous termination of right pulmonary vein,P742.11,253321003,CPRD_AURUM
+1587361000006112,Repair interventricular septal defect us intraop trans pros,7908611,428818006,CPRD_AURUM
+271388016,Other open operations on pulmonary artery,7A09.00,233207009,CPRD_AURUM
+193391000006119,Pulmonary arterio-venous fistula,P736.11,253639004,CPRD_AURUM
+270878019,Creation of other cardiac conduit,790E.00,233143005,CPRD_AURUM
+356361000000114,Pulmonary unifocalisation,7A0C100,223611000000101,CPRD_AURUM
+349010016,Replacement of truncal valve,7914600,232948007,CPRD_AURUM
+297501000006112,Nonrheumatic tricuspid valve stenosis with insufficiency,G542200,194992008,CPRD_AURUM
+60777016,Transposition of pulmonary veins,P74z700,36422005,CPRD_AURUM
+2535810014,Congenital insufficiency of the pulmonary valve,P60z000,15096009,CPRD_AURUM
+3422451000006114,Pulmonary valve stenosis,,56786000,CPRD_AURUM
+14671000006119,Other specified closure of defect unspecified heart septum,7909y00,77371000,CPRD_AURUM
+5056721000006112,Senile aortic stenosis,,233863001,CPRD_AURUM
+193381000006117,Pulmonary arterio-venous aneurysm,P736.00,270512000,CPRD_AURUM
+270830019,Revision of closure of defect of interatrial septum,7907400,174848002,CPRD_AURUM
+271335010,Transluminal operations on abnormality of great vessel,7A02.00,175217005,CPRD_AURUM
+4194101000006115,TAPVD - Total anomalous pulmonary venous drainage,,111323005,CPRD_AURUM
+4824341000006116,TGA - Transposition of great arteries,,204296002,CPRD_AURUM
+4824431000006119,Ventricular septal defect between left ventricle and right atrium,,204312002,CPRD_AURUM
+313427019,Congenital epicardial cyst,P6yy900,204398004,CPRD_AURUM
+313525012,Absence of superior vena cava,P74z100,204464007,CPRD_AURUM
+864981000006110,Heart septum operation NOS,790A.99,594341000000109,CPRD_AURUM
+4042771000006116,Muscular ventricular septal defect,,94706008,CPRD_AURUM
+5999941000006114,Closure of atrial septal defect using patch,null,310443006,CPRD_AURUM
+3263061000006119,Repair of ostium primum defect,,47195003,CPRD_AURUM
+3219491000006119,Structure of outflow tract of right ventricle,,44627009,CPRD_AURUM
+271405016,Other specified transluminal operation on pulmonary artery,7A0Ay00,175266007,CPRD_AURUM
+357781000000119,Percutaneous transluminal atrial septum fenestration,790C300,224321000000104,CPRD_AURUM
+585311000006117,Congenital stenosis of ascending aorta,P722411,268185002,CPRD_AURUM
+7360241000006116,Double outlet right ventricle with subpulmonary ventricular septal defect,,448794008,CPRD_AURUM
+3711951000006112,Diverticulum of Kommerell,,74561007,CPRD_AURUM
+313378010,Congenital mitral stenosis NOS,P65z.00,82458004,CPRD_AURUM
+5056501000006113,Post-infarction ventricular septal defect,,233846000,CPRD_AURUM
+25281016,Abdominal heart,P6y6400,14886009,CPRD_AURUM
+1546951000006118,Myotomy of left ventricular outflow tract,790N600,233091008,CPRD_AURUM
+3378551000006118,Congenital aneurysm of sinus of Valsalva,,54160000,CPRD_AURUM
+2918441000006112,Transposition of the great arteries,,26146002,CPRD_AURUM
+600091000006110,Creation of aortopulmonary window,7A04000,175228009,CPRD_AURUM
+1587311000006114,Repair defect interventricular septum us pericardial patch,7908111,174851009,CPRD_AURUM
+1546351000006117,Rep defect atrioventricular septum dual prosthetic patches,7906011,174837009,CPRD_AURUM
+4013611000006117,Congenital atresia of inferior vena cava,,93031005,CPRD_AURUM
+5331211000006115,RVOTO - Right ventricular outflow tract obstruction,,253530007,CPRD_AURUM
+5329481000006112,AVSD - Atrioventricular septal defect,null,253414002,CPRD_AURUM
+2478726018,Atresia of cardiac vein,P6yy000,48520006,CPRD_AURUM
+3725681000006119,Congenital anomaly of mitral valve,,75372006,CPRD_AURUM
+271365017,Other connection from subclavian artery to pulmonary artery,7A06.00,233226001,CPRD_AURUM
+5095461000006114,Prune belly syndrome with pulmonic stenosis, mental retardation and deafness,,236529001,CPRD_AURUM
+3443651000006116,Interatrial septum,,58095006,CPRD_AURUM
+511561000000115,Repair of defect of interventricular septum NOS,7908z11,52930005,CPRD_AURUM
+313512016,Unspecified anomaly of the great veins, NOS,P740z00,204451006,CPRD_AURUM
+4666251000006119,Pulmonary artery debanding,,175261002,CPRD_AURUM
+4777621000006114,Acquired cardiac septal defect,,195137008,CPRD_AURUM
+4824811000006111,Ebstein anomaly of tricuspid valve,,204357006,CPRD_AURUM
+4910451000006118,IAA - Interrupted aortic arch,,218728005,CPRD_AURUM
+1587501000006118,Percutaneous translum repair defect intervent septum NEC,790L111,52930005,CPRD_AURUM
+5330901000006116,Tetralogy of Fallot with pulmonary stenosis,null,253512000,CPRD_AURUM
+1546811000006114,Radical aortopulmonary reconstr systemic-to-pulmon art shunt,790M200,428411007,CPRD_AURUM
+270902018,Refashioning of atrium NOS,790Fz00,174898001,CPRD_AURUM
+7357041000006116,Obstruction of ventricular outflow tract,null,448581008,CPRD_AURUM
+3478251000006112,Aortic valve insufficiency,,60234000,CPRD_AURUM
+4349271000006116,Division of patent ductus arteriosus,,122487007,CPRD_AURUM
+4193421000006119,Tricuspid valve incompetence,,111287006,CPRD_AURUM
+2507861000006117,Interventricular septum,,589001,CPRD_AURUM
+4664351000006117,ASD - Open enlargement of atrial septal defect,,174866007,CPRD_AURUM
+4664141000006117,Correction of total anomalous pulmonary venous connection to infracardiac vessel,,174833008,CPRD_AURUM
+299988019,Aortic stenosis, non-rheumatic,G541100,194984004,CPRD_AURUM
+120221015,Bicuspid aortic valve,P641.00,72352009,CPRD_AURUM
+580501000006119,Congenital aortic valve stenosis,P63..00,18546004,CPRD_AURUM
+582721000006116,Congenital heart anomaly NOS,P6z..00,13213009,CPRD_AURUM
+299991019,Aortic valve stenosis with insufficiency,G541400,194987006,CPRD_AURUM
+376721000000119,Aortic root replacement,791C400,428179006,CPRD_AURUM
+271331018,Closure of patent ductus arteriosus NEC,7A01200,265859004,CPRD_AURUM
+299614014,Mitral and aortic valve disease NOS,G13z.00,194732001,CPRD_AURUM
+300011010,Pulmonary valve stenosis with insufficiency,G543400,195000004,CPRD_AURUM
+1908831000006118,Left ventricular outflow tract obstruction,P69..00,253546004,CPRD_AURUM
+2899653018,Spontaneous closure of ventricular septal defect,24M..00,123714004,CPRD_AURUM
+315547010,Complete situs inversus with dextrocardia,PK33.00,205768003,CPRD_AURUM
+884051000006118,Mitral + aortic valve disease,G13..99,194732001,CPRD_AURUM
+270798015,Other correction of transposition of great vessels,7904.00,395723006,CPRD_AURUM
+377267018,Isomerism of atrial appendages,P59..00,253335001,CPRD_AURUM
+116861000006111,Supra-valvular aortic stenosis,P722400,268185002,CPRD_AURUM
+581261000006110,Congenital complete atrio-ventricular heart block,P6y5100,204383001,CPRD_AURUM
+11131000006110,Other specified heart anomalies,P6y..00,13213009,CPRD_AURUM
+270832010,Closure of defect of interatrial septum NOS,7907z00,233037005,CPRD_AURUM
+884001000006117,RH. mitral stenosis + insuffic,G112.99,194726006,CPRD_AURUM
+31287015,Congenital aortic stenosis,P63..99,18546004,CPRD_AURUM
+270838014,Closure of defect of interventricular septum NOS,7908z00,52930005,CPRD_AURUM
+313294017,Tetralogy of Fallot NOS,P52z.00,86299006,CPRD_AURUM
+400801015,Other specified ostium secundum atrial septal defect,P55y.00,204318003,CPRD_AURUM
+313353011,Congenital atresia of pulmonary valve NOS,P601z00,204342004,CPRD_AURUM
+271382015,Repair of pulmonary artery,7A08.00,175253007,CPRD_AURUM
+892941000006112,Bicuspid aortic valve - congen,P641.99,72352009,CPRD_AURUM
+271138015,Transposition of coronary artery NEC,7927300,384678000,CPRD_AURUM
+482711000006116,Aneurysm of sinus of Valsalva,P72z000,54160000,CPRD_AURUM
+313472010,Aortic arch anomalies NOS,P721z00,79439001,CPRD_AURUM
+270934010,Other specified plastic repair of mitral valve,7910y00,265472007,CPRD_AURUM
+300222019,Cardiac septal defect, acquired,G5y9.00,195137008,CPRD_AURUM
+270831015,Other specified closure of defect of interatrial septum,7907y00,233037005,CPRD_AURUM
+126391000006118,Stenosis of superior vena cava,P74z300,45492009,CPRD_AURUM
+1547161000006116,Repair of aortic sinus of Valsalva aneurysm,791B500,386815009,CPRD_AURUM
+299621014,Tricuspid stenosis, cause unspecified,G140300,49915006,CPRD_AURUM
+358161000000111,Operations on individual pulmonary veins,7A6K.00,175840003,CPRD_AURUM
+299860014,Pulmonary artery aneurysm,P737.00,194892009,CPRD_AURUM
+478031000006116,Allograft replacement of pulmonary valve,7913000,174944001,CPRD_AURUM
+569881000006117,Closure of defect of heart septum using prosthetic patch NEC,7909000,77371000,CPRD_AURUM
+313403016,Congenital heart block NOS,P6y5z00,27885002,CPRD_AURUM
+13148012,Double outlet left ventricle,P58..00,7368005,CPRD_AURUM
+313485013,Atresia or stenosis of aorta NOS,P722z00,204431007,CPRD_AURUM
+313510012,Anomaly of the pulmonary veins, unspecified,P740000,111322000,CPRD_AURUM
+299593012,Mitral stenosis with incompetence,G112.12,194726006,CPRD_AURUM
+478011000006110,Allograft replacement of mitral valve,7910000,174918001,CPRD_AURUM
+270859019,Closed operation on septum of heart NOS,790Bz00,174870004,CPRD_AURUM
+3387281000006117,Pulmonary artery hypoplasia,,54682008,CPRD_AURUM
+129847011,Ectopia cordis,P6y6300,78250005,CPRD_AURUM
+1222308012,Tricuspid stenosis and regurgitation, cause unspecified,G140514,49915006,CPRD_AURUM
+313368012,Congenital tricuspid atresia or stenosis NOS,P61z.00,36233006,CPRD_AURUM
+383061000000112,Other repair of transposition of great arteries NOS,790Jz00,395723006,CPRD_AURUM
+2475972010,Common atrium,P56z000,253276007,CPRD_AURUM
+270968016,Plastic repair of tricuspid valve NOS,7912z00,265474008,CPRD_AURUM
+3422491000006115,Pulmonary stenosis,,56786000,CPRD_AURUM
+1222314017,Aortic insufficiency alone, cause unspecified,G541211,60234000,CPRD_AURUM
+511801000000116,Repair of multiple interventricular septal defects,7908511,428759006,CPRD_AURUM
+313280018,Incomplete great vessel transposition,P511200,204300001,CPRD_AURUM
+2675456019,Repair of double outlet ventricle,790K.00,427318004,CPRD_AURUM
+600041000006118,Creation interposition tube prosth shunt aorta to pulm art,7A03.00,175221003,CPRD_AURUM
+315548017,Situs inversus with levocardia,PK34.00,205769006,CPRD_AURUM
+143042017,Congenital absence of pulmonary artery,P731.11,86252004,CPRD_AURUM
+3807401000006112,Roger's disease,,80387009,CPRD_AURUM
+2675442016,Repair of pulmonary arterial sling,7A08300,426436008,CPRD_AURUM
+313442016,Anomalous ventricular bands,P6z1100,204409004,CPRD_AURUM
+272190014,Transposition of valve of vein,7A65000,175808002,CPRD_AURUM
+2959001000006118,Congenital anomaly of coronary artery,,28574005,CPRD_AURUM
+1587491000006114,Percutan transluminal repair defect intervent sept us pros,790L011,233100002,CPRD_AURUM
+377498018,Dextraposition of aorta in Fallot's tetralogy,P520.12,253514004,CPRD_AURUM
+313374012,Congenital aortic valve insufficiency NOS,P64z.00,28656008,CPRD_AURUM
+313397010,Congenital stricture of coronary artery,P6y4600,204379001,CPRD_AURUM
+1548021000006110,Operation on major systemic to pulmonary collateral arteries,7A0C.00,233114002,CPRD_AURUM
+270853018,Other specified other open operation on septum of heart,790Ay00,77371000,CPRD_AURUM
+247141000006114,Overriding aorta,P721111,63934006,CPRD_AURUM
+406233012,Dextraposition of aorta,P721100,204299009,CPRD_AURUM
+313423015,Congenital anomaly of myocardium,P6yy500,204394002,CPRD_AURUM
+3856041000006114,Patent arterial duct,,83330001,CPRD_AURUM
+377218015,Transposition of arterial trunk NEC,P51z.11,204296002,CPRD_AURUM
+3610161000006113,PAPVD - Partial anomalous pulmonary venous drainage,,68237008,CPRD_AURUM
+105301000006111,Therapeutic transluminal operation on heart valve OS,7919y00,73544002,CPRD_AURUM
+2716611000006117,Anastomosis of pulmonary-subclavian artery by Blalock-Taussig operation,,13662000,CPRD_AURUM
+271356012,Creation of anastomosis from aorta to pulmonary artery NEC,7A04400,233224003,CPRD_AURUM
+599801000006111,Create interpos tube prosth shunt aorta to pulm artery NOS,7A03z00,233224003,CPRD_AURUM
+1547901000006115,Closure prosthetic shunt pulmonary artery subclavian artery,7A05200,427193001,CPRD_AURUM
+3524871000006115,Congenital atresia of tricuspid valve,,63042009,CPRD_AURUM
+5331461000006116,LVOTO - Left ventricular outflow tract obstruction,,253546004,CPRD_AURUM
+384121000000119,Other specified repair of univentricular heart,790My00,425654008,CPRD_AURUM
+5329461000006119,Atrioventricular septal defect and common atrioventricular junction,,253414002,CPRD_AURUM
+3443641000006118,Interatrial septum structure,,58095006,CPRD_AURUM
+5590561000006116,Isolated aortic stenosis,,276790000,CPRD_AURUM
+1227681015,[V]State following aortopulmonary bypass,ZV45y12,251275002,CPRD_AURUM
+105341000006113,Therapeutic transluminal operation on septum of heart OS,790Cy00,265469000,CPRD_AURUM
+384081000000117,Other specified repair of double outlet ventricle,790Ky00,427318004,CPRD_AURUM
+270983014,Plastic repair of pulmonary valve NOS,7913z00,265475009,CPRD_AURUM
+4664771000006114,Xenograft pulmonary valve replacement,,174945000,CPRD_AURUM
+299623012,Tricuspid stenosis and insufficiency, cause unspecified,G140500,49915006,CPRD_AURUM
+3813031000006117,Closure of ventricular septal defect with patch,,80733000,CPRD_AURUM
+349286014,Repair of double outlet left ventricle,790K300,233128008,CPRD_AURUM
+5056161000006117,PPHN - Persistent pulmonary hypertension in newborn,,233815004,CPRD_AURUM
+3263091000006110,Repair of atrioventricular septal defect: atrial component,,47195003,CPRD_AURUM
+270876015,Other specified creation of valved cardiac conduit,790Dy00,174880000,CPRD_AURUM
+4053821000006115,Sinus venosus atrial septal defect,null,95268002,CPRD_AURUM
+599981000006114,Creation anastomosis right subclav art to right pulm art NEC,7A06000,233226001,CPRD_AURUM
+270901013,Other specified refashioning of atrium,790Fy00,174898001,CPRD_AURUM
+271002012,Other specified revision of plastic repair of valve of heart,7915y00,174959007,CPRD_AURUM
+5947221000006112,Open atrial septectomy,,305928009,CPRD_AURUM
+171151000006115,Revision anastomosis subclavian artery to pulmonary artery,7A06300,175245004,CPRD_AURUM
+2981761000006110,Congenital insufficiency of mitral valve,,29928006,CPRD_AURUM
+4664671000006116,Homograft tricuspid valve replacement,,174935002,CPRD_AURUM
+5332341000006117,Pulmonary atresia with absent pulmonary artery,,253625004,CPRD_AURUM
+271016019,Other specified open specified incision of valve of heart,7916y00,174966008,CPRD_AURUM
+5046031000006111,MAPCA - Major aortopulmonary collateral artery operation,,233114002,CPRD_AURUM
+3641311000006110,Congenital anomaly of superior vena cava,,70195006,CPRD_AURUM
+5560081000006119,Non-rheumatic heart valve disorder,,274097009,CPRD_AURUM
+5331971000006119,Pulmonary atresia with intact ventricular septum,,253590009,CPRD_AURUM
+5047511000006112,Subclavian to pulmonary artery shunt operation,,233226001,CPRD_AURUM
+6426491000006114,VSD - Repair of pulmonary atresia with ventricular septal defect,,384648009,CPRD_AURUM
+5517361000006114,Anomalous communication of coronary artery,,270510008,CPRD_AURUM
+6582601000006116,Repair of common arterial trunk,,397153008,CPRD_AURUM
+7359231000006110,Abnormality of abdominal aorta,null,448722002,CPRD_AURUM
+1701651000006113,Per trans bal dil interpos tub pros bet pulm art subclav art,7A05300,442251008,CPRD_AURUM
+1546311000006118,Left ventricle aorta tun right vent pulm trunk direct anast,7904100,224291000000109,CPRD_AURUM
+12126011000006114,Congenital anomaly of cardiac chamber,null,15964981000119104,CPRD_AURUM
+3841271000006117,Congenital stenosis of mitral valve,,82458004,CPRD_AURUM
+313329017,Endocardial cushion defects, unspecified,P560.00,15459006,CPRD_AURUM
+149796015,Congenital absence of aorta,P722000,90383006,CPRD_AURUM
+574811000006115,Common aorto-pulmonary trunk NOS,P50z.00,17024001,CPRD_AURUM
+2712611000006116,Outflow tract of left ventricle,null,13418002,CPRD_AURUM
+12075111000006112,Congenital ventricular septal defect,null,768552007,CPRD_AURUM
+299990018,Aortic stenosis alone, cause unspecified,G541300,60573004,CPRD_AURUM
+81191015,Mitral valve incompetence,G540.00,48724000,CPRD_AURUM
+219511000000113,Mitral valve diseases,G11..00,11851006,CPRD_AURUM
+299612013,Mitral and aortic regurgitation,G133.12,194736003,CPRD_AURUM
+270932014,Replacement of mitral valve NEC,7910300,53059001,CPRD_AURUM
+299981013,Mitral incompetence, cause unspecified,G540100,48724000,CPRD_AURUM
+3794881000006112,Mitral valve stenosis,,79619009,CPRD_AURUM
+313448017,Congenital heart anomaly NOS,P6zz.00,13213009,CPRD_AURUM
+569861000006110,Closure of defect of atrioventricular septum,7906.00,174836000,CPRD_AURUM
+137888010,Eisenmenger's complex,P543.00,204311009,CPRD_AURUM
+193991000006118,Pulmonary valve disorders,G543.00,76267008,CPRD_AURUM
+588751000006110,Congenital tricuspid atresia,P610.00,63042009,CPRD_AURUM
+384161000000110,Aortic root replacement using mechanical prosthesis,791C300,427731007,CPRD_AURUM
+270980012,Replacement of pulmonary valve NEC,7913300,88045004,CPRD_AURUM
+238611000006116,Percut translum prosth occlus patent ductus arteriosus (PDA),7A02011,175218000,CPRD_AURUM
+3478271000006119,Aortic regurgitation,,60234000,CPRD_AURUM
+429571000006116,[X]Tricuspid valve disorders/diseases CE,Gyu5B00,20721001,CPRD_AURUM
+300012015,Pulmonary valve disorders NOS,G543z00,76267008,CPRD_AURUM
+377524013,Right ventricular outflow tract obstruction,P6y3100,253530007,CPRD_AURUM
+313439010,Unspecified anomaly of heart valve,P6z0.00,70320004,CPRD_AURUM
+394270015,Heart wall, septum and chamber operations,790..00,265466007,CPRD_AURUM
+193971000006119,Pulmonary valve anomalies,P60..00,204339005,CPRD_AURUM
+193441000006115,Pulmonary artery anomalies,P73..00,36110001,CPRD_AURUM
+597051000006112,Correction of total anomalous pulmonary venous connection,7905.00,174830006,CPRD_AURUM
+270963013,Replacement of tricuspid valve NEC,7912300,25236004,CPRD_AURUM
+113349011,Partial anomalous pulmonary venous return,P742.00,68237008,CPRD_AURUM
+377639017,Anomalies of the aorta excluding coarction,P72..11,253615009,CPRD_AURUM
+204241000006119,Prosthetic replacement of tricuspid valve,7912200,174937005,CPRD_AURUM
+315681012,[X]Other congenital malformations of pulmonary valve,Pyu2200,204339005,CPRD_AURUM
+129848018,Ectopic heart,P6y6.11,78250005,CPRD_AURUM
+497741000006115,Atresia of pulmonary vein,P74z800,204467000,CPRD_AURUM
+313506014,Other specified anomaly of pulmonary artery,P73y.00,36110001,CPRD_AURUM
+4164071000006111,Perimembranous ventricular septal defect,,109428005,CPRD_AURUM
+313349014,Pulmonary valve anomaly, unspecified,P600.00,204339005,CPRD_AURUM
+864971000006112,Close heart septal defect,7909399,594311000000108,CPRD_AURUM
+375271000000119,Repair of tetralogy of Fallot using transannular patch,7902400,83698002,CPRD_AURUM
+315698012,[X]Congenital malformation of tricuspid valve, unspecified,Pyu2G00,4374004,CPRD_AURUM
+1228749019,Repair of arteriovenous fistula of coronary artery,7927000,37034001,CPRD_AURUM
+330941000006115,[SO]Septum of ventricle of heart,7N41100,589001,CPRD_AURUM
+1232187015,Closure of aortopulmonary window,7A00300,61192001,CPRD_AURUM
+2694082015,Total cavopulmonary connection with lateral atrial tunnel,790M100,427886002,CPRD_AURUM
+3640351000006119,ASD - Atrial septal defect,,70142008,CPRD_AURUM
+1546441000006110,Closure interventricular septal defect us intraop trans pros,7908600,428818006,CPRD_AURUM
+892921000006117,Congenital pulmonary atresia,P601.99,204342004,CPRD_AURUM
+569641000006110,Closure defect atrioventricular septum using tissue graft,7906200,174839007,CPRD_AURUM
+313360017,Other pulmonary valve anomalies,P60z.00,204339005,CPRD_AURUM
+4666171000006117,Anastomosis of vena cava to pulmonary artery,,175249005,CPRD_AURUM
+377171013,Hypoplasia of heart NOS,P6yy.12,13213009,CPRD_AURUM
+313508010,Anomalies of great veins,P74..00,204451006,CPRD_AURUM
+6582571000006111,Repair of truncus arteriosus,,397153008,CPRD_AURUM
+4042761000006111,Muscular ventricular septum defect,,94706008,CPRD_AURUM
+488481000006118,Aortic septal defect,P50..11,17024001,CPRD_AURUM
+271387014,Repair of pulmonary artery NOS,7A08z00,175253007,CPRD_AURUM
+313524011,Absence of inferior vena cava,P74z000,204463001,CPRD_AURUM
+4824881000006116,Infundibular pulmonic stenosis,,204370002,CPRD_AURUM
+465591000000118,Other specified repair of tetralogy of Fallot,7902y11,174814003,CPRD_AURUM
+5044961000006111,Atrial septation operation,,233036001,CPRD_AURUM
+3288481000006112,Mitral valve incompetence,,48724000,CPRD_AURUM
+4664441000006110,Repair of sinus venosus,,174899009,CPRD_AURUM
+313435016,Other specified heart anomalies NOS,P6yyz00,13213009,CPRD_AURUM
+1587511000006115,Percutan translum repair defect interatr septum us prosth,790L211,429761006,CPRD_AURUM
+270982016,Other specified plastic repair of pulmonary valve,7913y00,265475009,CPRD_AURUM
+511571000000110,Repair of defect of unspecified septum of heart,7909.11,77371000,CPRD_AURUM
+6426311000006114,MVR - Mitral valve repair,,384641003,CPRD_AURUM
+494775013,Repair of persistent ostium primum,7906311,47195003,CPRD_AURUM
+1547441000006113,Percutaneous transluminal ablation congenit heart malformat,7934700,428391009,CPRD_AURUM
+498111000006119,Atrium reconstruction atrial wall for transpos great vessels,7903100,174822005,CPRD_AURUM
+1587901000006110,Percut transluminal insertion of stent into pulmonary vein,7A6K400,425990003,CPRD_AURUM
+313387018,Obstructive heart anomaly NEC,P6y3.00,13213009,CPRD_AURUM
+106259013,Overriding aorta,P721700,63934006,CPRD_AURUM
+315680013,[X]Other congenital malformations of cardiac septa,Pyu2100,13213009,CPRD_AURUM
+2918401000006110,Complete transposition of great vessels,null,26146002,CPRD_AURUM
+313460016,Anomalous origin of the aortic arch,P721000,204423002,CPRD_AURUM
+5333731000006118,Congenital coronary artery calcification,,253725005,CPRD_AURUM
+354871000000117,Open atrial septum fenestration,790A200,233041009,CPRD_AURUM
+3863421000006112,Corrected transposition of great vessels,,83799000,CPRD_AURUM
+5045051000006114,Atrial septostomy operation,,233043007,CPRD_AURUM
+7368571000006113,Replacement of aortic root using pulmonary valve autograft and replacement of pulmonary valve,,449338000,CPRD_AURUM
+377798017,Congenital absence of pericardium,P6yy411,253732001,CPRD_AURUM
+4666011000006110,Transluminal closure of ductus arteriosus with prosthesis,,175218000,CPRD_AURUM
+271000016,Revision of plastic repair of tricuspid valve,7915200,174962005,CPRD_AURUM
+465781000000110,Revision of repair of tetralogy of Fallot,7902311,174818000,CPRD_AURUM
+270891018,Refashioning of atrium,790F.00,174898001,CPRD_AURUM
+1547151000006118,Closure of aortic sinus of Valsalva fistula,791B400,91592003,CPRD_AURUM
+5327821000006115,Double inlet left ventricle,,253283000,CPRD_AURUM
+377727015,Postductal aortic stenosis,P712.13,253676001,CPRD_AURUM
+1235697018,Fused commissure of the mitral valve,P651.00,91634006,CPRD_AURUM
+3387271000006115,Congenital hypoplasia of pulmonary artery,,54682008,CPRD_AURUM
+599841000006113,Create interpos tube prosth shunt R subclavian a to R pulm a,7A05000,175237009,CPRD_AURUM
+313323016,Lutembacher's syndrome,P553.00,204319006,CPRD_AURUM
+313278012,Double outlet right ventricle, unspecified,P511000,7484005,CPRD_AURUM
+465771000000113,Revision of repair of defect of atrioventricular septum,7906511,174841008,CPRD_AURUM
+511531000000113,Primary repair of defect of interventricular septum NEC,7908311,52930005,CPRD_AURUM
+3863451000006115,Discordant ventriculoarterial connection with discordant atrioventricular connection,,83799000,CPRD_AURUM
+599831000006115,Create interpos tube prosth shunt L subclavian a to L pulm a,7A05100,175238004,CPRD_AURUM
+13940521000006118,Moderate pulmonary valve stenosis,null,838539005,CPRD_AURUM
+270889014,Other specified creation of other cardiac conduit,790Ey00,233143005,CPRD_AURUM
+1587451000006115,Other specified repair of defect of unspecified septum heart,7909y11,77371000,CPRD_AURUM
+3468611000006118,Anomalous pulmonary venous drainage,,59631007,CPRD_AURUM
+4663911000006117,Correction of Fallot's tetralogy,,174814003,CPRD_AURUM
+5045021000006117,Open atrial fenestration,,233041009,CPRD_AURUM
+3219541000006112,RVOT - Right ventricular outflow tract,null,44627009,CPRD_AURUM
+5042111000006119,Pulmonary valve operation,,232854009,CPRD_AURUM
+313411014,Heart or cardiac apex malposition NOS,P6y6z00,10818008,CPRD_AURUM
+1546641000006112,Repair double outlet right ventricle intraventricular tunnel,790K000,427188004,CPRD_AURUM
+5041981000006116,Replacement of implanted aortic valve,null,232842009,CPRD_AURUM
+4349281000006118,Division of ductus arteriosus,,122487007,CPRD_AURUM
+5043291000006112,Repair of truncal valve,,232931004,CPRD_AURUM
+3191111000006116,Congenital coronary artery sclerosis,null,42866003,CPRD_AURUM
+4664761000006119,Allograft pulmonary valve replacement,,174944001,CPRD_AURUM
+5045831000006113,Transluminal closure of ventricular septal defect using device,,233100002,CPRD_AURUM
+4824501000006111,Atrial septal defect of fossa ovalis,,204315000,CPRD_AURUM
+5293311000006113,Right ventricular outflow,null,250940000,CPRD_AURUM
+3884031000006118,Dextrocardia/situs inversus finding,null,85090007,CPRD_AURUM
+4824441000006112,Gerbode defect,,204312002,CPRD_AURUM
+3508651000006113,HLH - Hypoplastic left heart syndrome,,62067003,CPRD_AURUM
+7396801000006118,Dilation of right atrioventricular (not morphologically tricuspid) valve in double inlet ventricle,null,460602002,CPRD_AURUM
+2781231000006115,Atrial septum primum defect,,17718000,CPRD_AURUM
+3308121000006114,Tricuspid valve stenosis,,49915006,CPRD_AURUM
+43909016,Replacement of aortic valve,7911.12,26212005,CPRD_AURUM
+299622019,Tricuspid insufficiency, cause unspecified,G140400,111287006,CPRD_AURUM
+88255012,Replacement of mitral valve,7910.12,53059001,CPRD_AURUM
+394277017,Plastic repair of aortic valve,7911.00,265473002,CPRD_AURUM
+143123019,Tetralogy of Fallot,P52..00,86299006,CPRD_AURUM
+299603011,Mitral and aortic stenosis,G130.00,194733006,CPRD_AURUM
+77703015,Congenital heart block,P6y5.00,46619002,CPRD_AURUM
+271330017,Ligation of patent ductus arteriosus,7A01100,175212004,CPRD_AURUM
+400805012,Cyanotic congenital heart disease NOS,P6z3.00,12770006,CPRD_AURUM
+400798014,Great vessel transposition NOS,P51z.00,204296002,CPRD_AURUM
+270952010,Plastic repair of aortic valve NOS,7911z00,265473002,CPRD_AURUM
+483917014,Coronary artery anomaly,P6y4.00,28574005,CPRD_AURUM
+145956019,Replacement of pulmonary valve,7913.12,88045004,CPRD_AURUM
+13341010,Double outlet right ventricle,P511.00,7484005,CPRD_AURUM
+355941000000115,Operations on aortic root,791C.00,232816009,CPRD_AURUM
+6426361000006112,Repair of tricuspid valve,,384643000,CPRD_AURUM
+374182012,Dilatation of pulmonary artery,P737.11,251047005,CPRD_AURUM
+66470013,Scimitar syndrome,P74z600,39905002,CPRD_AURUM
+377499014,Ventricular septal defect in Fallot's tetralogy,P520.11,253515003,CPRD_AURUM
+588121000000114,Fetus with cardiovascular abnormality,L258.00,321411000000108,CPRD_AURUM
+596841000006116,Correction of partial anomalous pulmonary venous drainage,790F100,174900004,CPRD_AURUM
+2132891000000115,Ostium secundum atrial septal defect resolved,2126800,818681000000104,CPRD_AURUM
+498001000006116,Atrial inversion ops for transposition of great vessels,7903.00,265467003,CPRD_AURUM
+596891000006113,Correction of persistent truncus arteriosus,7A00000,397153008,CPRD_AURUM
+271334014,Open correction of patent ductus arteriosus NOS,7A01z00,175211006,CPRD_AURUM
+569671000006119,Closure defect of interatrial septum using prosthetic patch,7907000,174844000,CPRD_AURUM
+405146019,Anomalous coronary artery communication,P6y4400,270510008,CPRD_AURUM
+75863013,Common ventricle,P53..00,45503006,CPRD_AURUM
+1587671000006111,Percut transluminal insertion of stent into pulmonary artery,7A0A700,427503001,CPRD_AURUM
+1547881000006117,Percutaneous transluminal stent implantation arterial duct,7A02100,223681000000108,CPRD_AURUM
+315686019,[X]Other specified congenital malformations of the heart,Pyu2500,13213009,CPRD_AURUM
+270996010,Plastic repair of unspecified valve of heart NOS,7914z00,73544002,CPRD_AURUM
+313362013,Fallot's trilogy,P60z100,204351007,CPRD_AURUM
+313277019,Total great vessel transposition,P510.00,204297006,CPRD_AURUM
+461520010,[X]Presence of other heart valve replacement,ZVu6e00,285701000119108,CPRD_AURUM
+585851000006114,Nonrheumatic mitral valve stenosis,G113.00,194727002,CPRD_AURUM
+270967014,Other specified plastic repair of tricuspid valve,7912y00,265474008,CPRD_AURUM
+313352018,Hypoplasia of pulmonary valve,P601000,204343009,CPRD_AURUM
+570261000006114,Closure of persistent ostium primum,7906300,47195003,CPRD_AURUM
+892881000006113,Septal defect NOS,P5...98,268174004,CPRD_AURUM
+271385018,Repair of anomalous pulmonary artery NEC,7A08200,175253007,CPRD_AURUM
+313511011,Anomaly of the vena cava, unspecified,P740100,234132006,CPRD_AURUM
+4665101000006118,Operations on the left ventricular outflow tract,,174997007,CPRD_AURUM
+745331000006115,Levocardia,P6y6100,205769006,CPRD_AURUM
+574801000006118,Common aorto-pulmonary trunk,P50..00,17024001,CPRD_AURUM
+270787016,Revision of correction of tetralogy of Fallot,7902300,174818000,CPRD_AURUM
+748971000006111,Left ventricle to right atrial communication,P542.00,41893002,CPRD_AURUM
+498031000006112,Atrial septal defect/curr comp folow acut myocardal infarct,G361.00,194863005,CPRD_AURUM
+1547541000006114,Catheterisation left side heart atrial transeptal puncture,7939300,429267006,CPRD_AURUM
+5559461000006116,Repair of coarctation of aorta,,274022008,CPRD_AURUM
+4664171000006113,AVSD - Atrioventricular septal defect repair,,174836000,CPRD_AURUM
+270802019,Other correction of transposition of great vessels NOS,7904z00,395723006,CPRD_AURUM
+376521000000112,Other specified operations on aortic root,791Cy00,232816009,CPRD_AURUM
+270846010,Closure of defect of unspecified septum of heart NOS,7909z00,77371000,CPRD_AURUM
+67081000006119,Ventric septal defect/curr comp fol acut myocardal infarctn,G362.00,233846000,CPRD_AURUM
+28728012,Congenital aneurysm of aorta,P72z100,16972009,CPRD_AURUM
+355821000000117,Relief of left ventricular outflow tract obstruction,790N400,223341000000109,CPRD_AURUM
+102980010,Persistent truncus arteriosus,P502.00,61959006,CPRD_AURUM
+270854012,Other open operation on septum of heart NOS,790Az00,77371000,CPRD_AURUM
+270842012,Closure of defect of septum of heart using tissue graft NEC,7909200,77371000,CPRD_AURUM
+6000321000006115,Patch repair of pulmonary artery,,310478006,CPRD_AURUM
+1546731000006111,Percutan translum closure defect interatr septum us prosth,790L200,429761006,CPRD_AURUM
+271062010,Other operations on structure adjacent to valve of heart,791B.00,73544002,CPRD_AURUM
+4824781000006114,Ebstein's anomaly,,204357006,CPRD_AURUM
+511471000000114,Other specified repair of defect of interatrial septum,7907y11,233037005,CPRD_AURUM
+4824831000006117,Parachute malformation of mitral valve,,204362007,CPRD_AURUM
+599871000006117,Create interpos tube prosth shunt subclavian art to pulm art,7A05.00,175236000,CPRD_AURUM
+1587401000006119,Repair defect of septum of heart using prosthetic patch NEC,7909011,77371000,CPRD_AURUM
+313509019,Anomaly of great veins, unspecified,P740.00,204451006,CPRD_AURUM
+377041000000110,Other specified transluminal closure of defect of septum,790Ly00,224071000000102,CPRD_AURUM
+3706511000006111,Anomalous origin of coronary artery from pulmonary trunk,,74218008,CPRD_AURUM
+377194014,Cor triloculare biventriculare,P56z011,253276007,CPRD_AURUM
+497991000006114,Atrial inversion op for transposition of great vessels OS,7903y00,265467003,CPRD_AURUM
+408041000006117,[X]Other congenital malformations of aortic & mitral valves,Pyu2400,70320004,CPRD_AURUM
+271380011,Other specified other connection to pulmonary artery,7A07y00,26495009,CPRD_AURUM
+271348014,Other connection from aorta to pulmonary artery,7A04.00,233224003,CPRD_AURUM
+1546721000006113,Percutaneous translum closure defect intervent septum NEC,790L100,52930005,CPRD_AURUM
+28816013,Aorticopulmonary septal defect,P501.12,17024001,CPRD_AURUM
+3234161000006110,Congenital superior vena cava stenosis,,45492009,CPRD_AURUM
+5059531000006110,Pulmonary vein stenosis,,234062003,CPRD_AURUM
+3535951000006117,Cardiopulmonary bypass operation,,63697000,CPRD_AURUM
+599821000006118,Create interpos tube prosth shunt fr aorta to pulm artery OS,7A03y00,233224003,CPRD_AURUM
+2930791000006118,Coronary ostium stenosis,,26900001,CPRD_AURUM
+4193451000006111,TI - Tricuspid incompetence,,111287006,CPRD_AURUM
+1546711000006117,Percutan transluminal closure defect intervent sept us pros,790L000,233100002,CPRD_AURUM
+5047101000006119,Closure of patent ductus arteriosus,,233199008,CPRD_AURUM
+272193011,Other specified repair of valve of vein,7A65y00,175807007,CPRD_AURUM
+254601000006112,Open operation for combined abnormality of great vessels OS,7A00y00,175205008,CPRD_AURUM
+3346961000006113,Biological aortic valve replacement,,52247003,CPRD_AURUM
+3506861000006112,Common arterial trunk (truncus arteriosus),,61959006,CPRD_AURUM
+5331661000006119,Muscular ventricular septal defect in apical trabecular septum,,253565007,CPRD_AURUM
+7520931000006111,Mechanical heart valve replacement,null,699347000,CPRD_AURUM
+5489261000006118,PDA - Patent ductus arteriosus operation,,265859004,CPRD_AURUM
+6426371000006117,TVR - Tricuspid valve repair,,384643000,CPRD_AURUM
+313440012,Anomalous bands of heart,P6z1.00,204407002,CPRD_AURUM
+5331441000006115,LVOT - Left ventricular outflow tract abnormality,null,253545000,CPRD_AURUM
+5327651000006111,Congenital abnormality of cardiac connection,null,253272009,CPRD_AURUM
+4664691000006115,Xenograft tricuspid valve replacement,,174936001,CPRD_AURUM
+3826471000006110,Congenital anomaly of inferior vena cava,,81577001,CPRD_AURUM
+2544031000006117,Uhl's disease,,2829000,CPRD_AURUM
+5046371000006112,Completion of total cavopulmonary connection,,233137008,CPRD_AURUM
+270890017,Creation of other cardiac conduit NOS,790Ez00,233143005,CPRD_AURUM
+5047491000006118,Central aortopulmonary shunt operation,,233224003,CPRD_AURUM
+6558171000006111,TGA - Operation for transposition of great arteries,,395723006,CPRD_AURUM
+4664071000006112,Repair of total anomalous pulmonary venous drainage,,174830006,CPRD_AURUM
+7512571000006110,PHACES (Posterior fossa brain malformation, haemaniogma, arterial anomaly, cardiac defect and aortic coarctation, eye abnormality synodrome and sternal anomaly) syndrome,null,698766008,CPRD_AURUM
+2507851000006119,Interventricular septum structure,,589001,CPRD_AURUM
+7303961000006115,Congenital dilation of ascending aorta,,445176007,CPRD_AURUM
+3594351000006110,Congenital valvular pulmonic stenosis,,67278007,CPRD_AURUM
+3794891000006110,MS - Mitral stenosis,,79619009,CPRD_AURUM
+2544051000006112,Uhl's anomaly,,2829000,CPRD_AURUM
+3422461000006111,PVS - Pulmonary valve stenosis,,56786000,CPRD_AURUM
+3711961000006114,Kommerell diverticulum,,74561007,CPRD_AURUM
+3902341000006112,Agenesis of pulmonary artery,,86252004,CPRD_AURUM
+299980014,Mitral incompetence, non-rheumatic,G540000,194978002,CPRD_AURUM
+394276014,Plastic repair of mitral valve,7910.00,265472007,CPRD_AURUM
+22613011,Congenital heart disease,P68..00,13213009,CPRD_AURUM
+126311000006111,Stenosis of pulmonary artery,P735.00,95441000,CPRD_AURUM
+270780019,Correction of tetralogy of Fallot,7902.00,174814003,CPRD_AURUM
+313273015,Transposition of great vessels,P51..00,204296002,CPRD_AURUM
+55891000006112,Xenograft replacement of aortic valve,7911100,174928005,CPRD_AURUM
+377305014,Other specified atrial septal defect,P55y.11,70142008,CPRD_AURUM
+300010011,Pulmonary stenosis, cause unspecified,G543311,56786000,CPRD_AURUM
+299616011,Tricuspid valve disease NEC,G140.00,20721001,CPRD_AURUM
+313458018,Anomaly of aorta, unspecified,P720.00,59877000,CPRD_AURUM
+271057014,Repair of subaortic stenosis,791A200,174997007,CPRD_AURUM
+75422012,Congenital dilatation of aorta,P72z111,45237002,CPRD_AURUM
+561331000006111,Closed enlargement of defect of atrial septum,790B000,48268004,CPRD_AURUM
+375371000000112,Other repair of transposition of great arteries,790J.00,395723006,CPRD_AURUM
+818851000006118,Heart valve or adjacent structures operations OS,791y.00,73544002,CPRD_AURUM
+299604017,Mitral stenosis and aortic insufficiency,G131.00,194734000,CPRD_AURUM
+581341000006116,Congenital coronary arterio-venous fistula,P6y4411,253720000,CPRD_AURUM
+232841000006119,Percutaneous transluminal balloon atrial septostomy,790C000,271411002,CPRD_AURUM
+313515019,Total anomalous pulmonary venous return NOS,P741z00,111323005,CPRD_AURUM
+600011000006117,Creation Glenn anastomosis from vena cava to pulmonary art,7A07011,175249005,CPRD_AURUM
+376701000000111,Aortic root replacement using homograft,791C200,428182001,CPRD_AURUM
+271022011,Closed incision of heart valve,7917.00,174973003,CPRD_AURUM
+511451000000117,Primary repair of defect of interatrial septum NEC,7907311,233037005,CPRD_AURUM
+3610141000006114,Partial anomalous pulmonary venous connection,,68237008,CPRD_AURUM
+299613015,Multiple mitral and aortic valve involvement,G13y.00,194732001,CPRD_AURUM
+580471000006114,Congenital aortic valve insufficiency,P64..00,28656008,CPRD_AURUM
+294491014,Polycythaemia due to cyanotic heart disease,D410200,191372008,CPRD_AURUM
+271502016,Release of vascular ring of aorta,7A18300,175341006,CPRD_AURUM
+2919571000006112,AVR - Aortic valve replacement,,26212005,CPRD_AURUM
+313444015,Acyanotic congenital heart disease NOS,P6z2.00,13213009,CPRD_AURUM
+270855013,Closed operations on septum of heart,790B.00,174870004,CPRD_AURUM
+300863016,[X]Other mitral valve diseases,Gyu1000,11851006,CPRD_AURUM
+4825241000006110,Pulmonary vein atresia,,204467000,CPRD_AURUM
+559841000006118,Close defect interventricular septum using prosthetic patch,7908000,89814007,CPRD_AURUM
+133392011,Roger's disease,P545.00,80387009,CPRD_AURUM
+465691000000117,Repair of defect of atrioventricular septum NOS,7906z11,174836000,CPRD_AURUM
+299607012,Mitral incompetence and aortic stenosis,G132.12,194735004,CPRD_AURUM
+13936871000006118,Moderate aortic valve stenosis,null,836481007,CPRD_AURUM
+300865011,[X]Other tricuspid valve diseases,Gyu1200,20721001,CPRD_AURUM
+271386017,Other specified repair of pulmonary artery,7A08y00,175253007,CPRD_AURUM
+559821000006113,Close defect atrioventric septum using prosthetic patch NEC,7906100,174836000,CPRD_AURUM
+394282012,Open incision of valve of heart NOS,7916z00,174966008,CPRD_AURUM
+1587201000006115,Atrial inversion op for transposition of great arteries NOS,7903z11,265467003,CPRD_AURUM
+465721000000114,Repair of tetralogy of Fallot NOS,7902z11,174814003,CPRD_AURUM
+313381017,Other specified heart anomalies,P6yy.00,13213009,CPRD_AURUM
+120034011,Postductal coarctation of aorta,P712.00,72242008,CPRD_AURUM
+478051000006111,Allograft replacement of tricuspid valve,7912000,174935002,CPRD_AURUM
+377501000000118,Other specified operations on individual pulmonary veins,7A6Ky00,450593005,CPRD_AURUM
+315687011,[X]Other congenital malformations of aorta,Pyu2600,59877000,CPRD_AURUM
+5045061000006111,Balloon atrial septostomy by pull-back,,233044001,CPRD_AURUM
+313400018,Congenital heart block, unspecified,P6y5000,27885002,CPRD_AURUM
+693591000006110,Mustard interatrial tr venous return,7903.11,40250003,CPRD_AURUM
+299987012,Aortic insufficiency, non-rheumatic,G541011,194983005,CPRD_AURUM
+50085019,Congenital mitral insufficiency,P66..00,29928006,CPRD_AURUM
+4664471000006119,Repair of partial anomalous pulmonary venous connection,,174900004,CPRD_AURUM
+3263081000006112,ASD - Repair of primum atrial septal defect,,47195003,CPRD_AURUM
+497981000006111,Atrial inversion op for transposition of great vessels NOS,7903z00,265467003,CPRD_AURUM
+1587521000006111,Percutan transluminal repair defect interatrial septum NEC,790L311,30123000,CPRD_AURUM
+1546551000006113,Repair of cor triatriatum,790F200,233033009,CPRD_AURUM
+349252017,Repair of Fallot-type double outlet right ventricle,790K100,233112003,CPRD_AURUM
+1777491013,Congenital pericardial defect,P6yy400,397830005,CPRD_AURUM
+4665981000006113,Ligation of ductus arteriosus,,175212004,CPRD_AURUM
+371601000006119,[X]Congenital malformation of aortic and mitral valves unsp,Pyu2H00,70320004,CPRD_AURUM
+461681000006111,Adjustment of band to pulmonary artery,7A09100,175260001,CPRD_AURUM
+596101000006110,Correct total anomal pulm venous connect to coronary sinus,7905100,174832003,CPRD_AURUM
+3443661000006119,Atrial septum,,58095006,CPRD_AURUM
+1233859018,Congenital left ventricular diverticulum,P6yy300,75270000,CPRD_AURUM
+271398010,Transluminal operations on pulmonary artery,7A0A.00,175266007,CPRD_AURUM
+23643015,Preductal coarctation of aorta,P711.00,13867009,CPRD_AURUM
+4775551000006111,Non-rheumatic mitral valve stenosis,,194727002,CPRD_AURUM
+354891000000118,Truncal valve repair,7914500,232931004,CPRD_AURUM
+55911000006114,Xenograft replacement of pulmonary valve,7913100,174945000,CPRD_AURUM
+511551000000118,Other specified repair of defect of interventricular septum,7908y11,52930005,CPRD_AURUM
+499251000000112,Surgical atrial septation,790A600,233036001,CPRD_AURUM
+271397017,Other open operation on pulmonary artery NOS,7A09z00,233207009,CPRD_AURUM
+2748151000006116,Banding of pulmonary artery,,15648005,CPRD_AURUM
+313282014,Double outlet right ventricle NOS,P511z00,7484005,CPRD_AURUM
+3329771000006111,Correction of transposition of great vessels,null,51201009,CPRD_AURUM
+270866018,Percutaneous transluminal atrial septostomy NEC,790C100,233043007,CPRD_AURUM
+271054019,Infundibulectomy of heart using patch,791A000,174995004,CPRD_AURUM
+270844013,Revision of closure of septum of heart NEC,7909400,77371000,CPRD_AURUM
+270997018,Revision of plastic repair of valve of heart,7915.00,174959007,CPRD_AURUM
+583181000006114,Congenital incomplete atrio-ventricular heart block,P6y5200,204384007,CPRD_AURUM
+270869013,Creation of valved cardiac conduit,790D.00,174880000,CPRD_AURUM
+400812015,Other great vein anomalies,P74z.00,204451006,CPRD_AURUM
+4664721000006113,Repair of Ebstein's anomaly of tricuspid valve,,174939008,CPRD_AURUM
+1587411000006116,Repair defect of heart septum using pericardial patch NEC,7909111,77371000,CPRD_AURUM
+377722014,Preductal aortic stenosis,P711.13,253672004,CPRD_AURUM
+5057251000006113,Right ventricular outflow tract ventricular tachycardia,,233909000,CPRD_AURUM
+596111000006113,Correct total anomal pulm venous connect to infradiaph vess,7905200,174833008,CPRD_AURUM
+271396014,Other specified other open operation on pulmonary artery,7A09y00,233207009,CPRD_AURUM
+569681000006116,Closure defect of interatrial septum using tissue graft NEC,7907200,233037005,CPRD_AURUM
+1587231000006111,Repair defect of interatrial septum using pericardial patch,7907111,174845004,CPRD_AURUM
+356121000000116,Major systemic to pulmonary collateral artery occlusion,7A0C000,223491000000108,CPRD_AURUM
+2675888018,Repair of anomalous caval vein connection,7A63500,426791002,CPRD_AURUM
+313279016,Dextratransposition of aorta,P511100,204299009,CPRD_AURUM
+5331501000006116,Multiple ventricular septal defects,,253550006,CPRD_AURUM
+3268641000006118,Coloboma, congenital heart disease, choanal atresia, growth retardation, genital hypoplasia, ear and hearing anomaly syndrome,,47535005,CPRD_AURUM
+12705141000006118,Left ventricular outflow tract myectomy,,428553005,CPRD_AURUM
+599811000006114,Create interpos tube prosth shunt asc aorta to right pulm a,7A03100,175223000,CPRD_AURUM
+752431000006116,Laevocardia,P6y6111,205769006,CPRD_AURUM
+1547921000006113,Perc translu occlusion anast pulmonary artery subclavian art,7A06600,707826003,CPRD_AURUM
+8228121000006110,Fenestrated atrial septal defect within oval fossa,null,728471000000108,CPRD_AURUM
+271321013,Application of band to persistent truncus arteriosus,7A00100,175206009,CPRD_AURUM
+313530011,Other great vein anomaly NOS,P74zz00,204451006,CPRD_AURUM
+356041000000110,Open operations on both pulmonary arteries,7A0B.00,425603008,CPRD_AURUM
+2709711000006116,CHD - Congenital heart disease,,13213009,CPRD_AURUM
+5046341000006116,Total cavopulmonary connection,null,233136004,CPRD_AURUM
+5982531000006118,Entire ostium primum,null,308852002,CPRD_AURUM
+3268621000006113,Coloboma, heart malformation, choanal atresia, retardation of growth and development, genital abnormalities, and ear malformations association,,47535005,CPRD_AURUM
+4824961000006118,Congenital incomplete atrioventricular heart block,,204384007,CPRD_AURUM
+33531000006110,Other connection from aorta to pulmonary artery OS,7A04y00,233224003,CPRD_AURUM
+2694102019,Open enlargement of defect of interventricular septum,790A500,429582002,CPRD_AURUM
+4664061000006117,TAPVC - Total anomalous pulmonary venous connection operation,,174830006,CPRD_AURUM
+4214481000006119,Repair of atrial septal defect,,112811009,CPRD_AURUM
+5999931000006116,Closure of atrial septal defect using sutures,null,310442001,CPRD_AURUM
+5499431000006110,Labour and delivery complicated by foetal heart rate anomaly,,267257007,CPRD_AURUM
+5328951000006116,Partial atrioventricular septal defect,,253373002,CPRD_AURUM
+5046011000006117,DORV - Repair of Fallot-type double outlet right ventricle,,233112003,CPRD_AURUM
+3711921000006115,Kommerell's diverticulum,,74561007,CPRD_AURUM
+3308131000006112,Tricuspid stenosis,,49915006,CPRD_AURUM
+4664701000006115,Pericardial tricuspid valve replacement,,174936001,CPRD_AURUM
+4355081000006114,Ventricular septal defect, spontaneous closure,,123714004,CPRD_AURUM
+50693015,Ventricular septal defect,P54..00,30288003,CPRD_AURUM
+1234383014,Mitral stenosis,G110.00,79619009,CPRD_AURUM
+193911000006111,Pulmonary stenosis, cause unspecified,G543300,56786000,CPRD_AURUM
+204181000006117,Prosthetic replacement of mitral valve,7910200,431339008,CPRD_AURUM
+394281017,Prosthetic replacement of valve of heart NEC,7914200,307279007,CPRD_AURUM
+313344016,Other congenital heart anomalies,P6...00,13213009,CPRD_AURUM
+300008014,Pulmonary stenosis, non-rheumatic,G543100,194997002,CPRD_AURUM
+313369016,Ebstein's anomaly,P62..00,204357006,CPRD_AURUM
+313386010,Pulmonary infundibular stenosis,P6y2.00,204370002,CPRD_AURUM
+313302010,Ventricular septal defect NOS,P54z.00,30288003,CPRD_AURUM
+313382012,Subaortic stenosis,P6y0.00,204368006,CPRD_AURUM
+313296015,Ventricular septal defect, unspecified,P540.00,30288003,CPRD_AURUM
+270944012,Allograft replacement of aortic valve,7911000,174927000,CPRD_AURUM
+313301015,Other specified ventricular septal defect,P54y.00,30288003,CPRD_AURUM
+818841000006115,Heart valve disorders - non rheumatic,G54..11,274097009,CPRD_AURUM
+394278010,Plastic repair of tricuspid valve,7912.00,265474008,CPRD_AURUM
+270817015,Repair of defect of the atrioventricular septum,7906.11,174836000,CPRD_AURUM
+271328019,Open correction of patent ductus arteriosus (PDA),7A01.11,175211006,CPRD_AURUM
+596141000006112,Corrected great vessel transposition,P512.00,83799000,CPRD_AURUM
+251803016,H/O: heart anomaly,14H1.11,161573009,CPRD_AURUM
+377189014,Cardiac septal defects,P5...11,253273004,CPRD_AURUM
+1235125018,Fallot's tetralogy,P52..99,86299006,CPRD_AURUM
+300895015,[X]Other pulmonary valve disorders,Gyu5800,76267008,CPRD_AURUM
+560631000006111,Closed atrial septostomy,790B100,48268004,CPRD_AURUM
+18184019,Double aortic arch,P721200,10451007,CPRD_AURUM
+96991000006117,Total anomalous pulmonary venous return - TAPVR,P741.00,111323005,CPRD_AURUM
+238661000006118,Percut transluminal prosth occlusion patent ductus arterios,7A02000,175218000,CPRD_AURUM
+815331000006113,Hamilton repair coarctation of aorta using subclavian flap,7A18111,175339005,CPRD_AURUM
+270789018,Correction of tetralogy of Fallot NOS,7902z00,174814003,CPRD_AURUM
+270825018,Closure of defect of atrioventricular septum NOS,7906z00,174836000,CPRD_AURUM
+354881000000115,Atrial septation procedure,790A400,233036001,CPRD_AURUM
+108752010,Endocardial fibroelastosis,G553.00,65457005,CPRD_AURUM
+270822015,Primary closure of defect of atrioventricular septum NEC,7906400,174836000,CPRD_AURUM
+313365010,Congenital tricuspid atresia and stenosis,P61..00,204354004,CPRD_AURUM
+221871000000110,Interruption of aortic arch,P713.00,218728005,CPRD_AURUM
+447337015,Open atrial septostomy,790A100,304926002,CPRD_AURUM
+270829012,Primary closure of defect of interatrial septum NEC,7907300,233037005,CPRD_AURUM
+1546491000006118,Percutaneous transluminal atrial septum fenes closure pros,790C200,233831000000107,CPRD_AURUM
+204211000006118,Prosthetic replacement of pulmonary valve,7913200,174946004,CPRD_AURUM
+502717019,Detection of cardiac shunt,33B8.00,65913002,CPRD_AURUM
+349159019,Rashkind balloon atrial septostomy,790C011,233044001,CPRD_AURUM
+355881000000116,Percutaneous transluminal pulmonary valve replacement,7919600,429248007,CPRD_AURUM
+65931000006114,Vascular ring, aorta,P721600,66403007,CPRD_AURUM
+465651000000113,Pulmonary valve repair NEC,7913411,386749005,CPRD_AURUM
+787901000006111,Hypoplastic aortic orifice or valve,P6yy.11,253601007,CPRD_AURUM
+270988017,Xenograft replacement of valve of heart NEC,7914100,73544002,CPRD_AURUM
+270835012,Primary closure of defect of interventricular septum NEC,7908300,52930005,CPRD_AURUM
+4824331000006114,Transposition of great arteries,,204296002,CPRD_AURUM
+599991000006112,Creation anastomosis subclavian artery to pulmonary art NEC,7A06200,233226001,CPRD_AURUM
+13343013,Taussig-Bing syndrome,P511300,7484005,CPRD_AURUM
+2675866018,Repair of pulmonary vein stenosis,7A6K000,426751000,CPRD_AURUM
+377308011,Auricular septal defect NOS,P550.11,253366007,CPRD_AURUM
+270824019,Other specified closure of defect of atrioventricular septum,7906y00,174836000,CPRD_AURUM
+583621000006115,Congenital malformation of aortic and mitral valves unsp,P6W..00,70320004,CPRD_AURUM
+270788014,Other specified correction of tetralogy of Fallot,7902y00,174814003,CPRD_AURUM
+313491010,Pulmonary artery anomaly, unspecified,P730.00,36110001,CPRD_AURUM
+271332013,Revision of correction of patent ductus arteriosus,7A01300,175214003,CPRD_AURUM
+105381000006119,Therapeutic transluminal operations on valve of heart,7919.00,386727004,CPRD_AURUM
+1546611000006113,OS other repair of transposition of great arteries,790Jy00,395723006,CPRD_AURUM
+1228441015,Congenital tricuspid stenosis,P611.00,36233006,CPRD_AURUM
+476311019,Common atrioventricular canal,P56z100,360481003,CPRD_AURUM
+33841000006115,Other correction of transposition of great vessels OS,7904y00,395723006,CPRD_AURUM
+250411000006119,Parachute deformity of the mitral valve,P652.00,204362007,CPRD_AURUM
+3478301000006117,AR - Aortic regurgitation,,60234000,CPRD_AURUM
+355549012,Congenital heart disease in pregnancy,L185.11,237227006,CPRD_AURUM
+313342017,Other heart bulb and septal closure defect,P5y..00,268174004,CPRD_AURUM
+313373018,Congenital aortic valve insufficiency, unspecified,P640.00,28656008,CPRD_AURUM
+260391000006110,Open enlargement of defect of atrial septum,790A000,174866007,CPRD_AURUM
+884031000006113,RH. aortic stenosis + insuffic,G122.99,17759006,CPRD_AURUM
+270874017,Revision of valved cardiac conduit,790D400,174885005,CPRD_AURUM
+399361000000112,Myectomy of left ventricular outflow tract,790N500,428553005,CPRD_AURUM
+55921000006118,Xenograft replacement of tricuspid valve,7912100,174936001,CPRD_AURUM
+299995011,Tricuspid insufficiency, non-rheumatic,G542011,194990000,CPRD_AURUM
+271001017,Revision of plastic repair of pulmonary valve,7915300,174963000,CPRD_AURUM
+313320018,Patent ostium secundum,P552.11,204318003,CPRD_AURUM
+13940511000006114,Mild pulmonary valve stenosis,null,838538002,CPRD_AURUM
+4824471000006116,Atrial septal defect within oval fossa,,204315000,CPRD_AURUM
+376940010,Repair of defect of interatrial septum,7907.11,112811009,CPRD_AURUM
+599951000006118,Creation anastomosis ascending aorta to right pulm art NEC,7A04200,34564005,CPRD_AURUM
+892891000006111,Bulbus/septum heart anomalies,P5...99,268174004,CPRD_AURUM
+2673881000006115,Congenital atresia of pulmonary artery,null,10930001,CPRD_AURUM
+300896019,[X]Mitral valve disorders in diseases classified elsewhere,Gyu5900,11851006,CPRD_AURUM
+315682017,[X]Other congenital malformations of tricuspid valve,Pyu2300,4374004,CPRD_AURUM
+5524281000006112,Transluminal balloon atrial septostomy,,271411002,CPRD_AURUM
+574911000006110,Common truncus,P50..12,17024001,CPRD_AURUM
+176251000006117,Remove obstruction from structure adjacent to valve of heart,791A.00,174994000,CPRD_AURUM
+2475496010,Pulmonary vessel stricture,G42y200,15386007,CPRD_AURUM
+1547911000006117,Perc trans ball dilat anas bet pulmon artery subclav artery,7A06500,428901006,CPRD_AURUM
+5331511000006118,Restrictive ventricular septal defect,,253551005,CPRD_AURUM
+7368581000006111,Replacement of aortic root using pulmonary valve autograft and replacement of pulmonary valve (Ross procedure),,449338000,CPRD_AURUM
+4664341000006119,Open enlargement of atrial septal defect,,174866007,CPRD_AURUM
+5333301000006113,Major aortopulmonary collateral artery,,253689007,CPRD_AURUM
+7475721000006114,Heart failure due to end stage congenital heart disease,,471880001,CPRD_AURUM
+5526281000006117,Congenital abnormality of thoracic aorta and pulmonary arteries,,271573009,CPRD_AURUM
+5293971000006115,Aortic cusp regurgitation,,250976004,CPRD_AURUM
+1587301000006111,Repair defect interventricular septum us prosthetic patch,7908011,89814007,CPRD_AURUM
+377638013,Tubular hypoplasia of aorta,P722211,253614008,CPRD_AURUM
+5329691000006113,Abnormality of common atrioventricular valve in atrioventricular septal defect,,253428008,CPRD_AURUM
+599971000006111,Creation anastomosis left subclav art to left pulm art NEC,7A06100,233226001,CPRD_AURUM
+437481000006113,Abnormal pericardio-pleural communication,P8y0.00,204589003,CPRD_AURUM
+40341000006116,Ostium primum type interauricular septal defect,P561.12,17718000,CPRD_AURUM
+3791981000006115,Congenital anomaly of aortic arch,,79439001,CPRD_AURUM
+5329471000006114,Atrioventricular septal defect,,253414002,CPRD_AURUM
+3903241000006114,TOF - Tetralogy of Fallot,,86299006,CPRD_AURUM
+3852711000006112,Congenital insufficiency of tricuspid valve,,83119008,CPRD_AURUM
+377723016,Preductal interruption of aorta,P711.12,253673009,CPRD_AURUM
+1546851000006110,Conversion atrial pulmonary anastomosis total pulmon connect,790M600,224161000000105,CPRD_AURUM
+3571851000006114,Cardiac shunt detection,,65913002,CPRD_AURUM
+3513101000006111,Congenital inferior vena cava stenosis,,62335009,CPRD_AURUM
+600021000006113,Creation interpos tube prosth shunt asc aorta to left pulm a,7A03200,175224006,CPRD_AURUM
+7316021000006117,Eisenmenger syndrome,null,445928005,CPRD_AURUM
+5046431000006119,Construction of a cardiac conduit,,233143005,CPRD_AURUM
+5046351000006119,TCPC - Total cavopulmonary connection operations,null,233136004,CPRD_AURUM
+3422471000006116,Pulmonic stenosis,,56786000,CPRD_AURUM
+5327831000006117,DILV - Double inlet left ventricle,null,253283000,CPRD_AURUM
+2960391000006112,Congenital aortic regurgitation,,28656008,CPRD_AURUM
+2739281000006112,Congenital pulmonary regurgitation,,15096009,CPRD_AURUM
+4824521000006118,2 ASD - Secundum atrial septal defect,,204315000,CPRD_AURUM
+4825251000006112,PA - Pulmonary vein atresia,,204467000,CPRD_AURUM
+3478311000006119,Aortic insufficiency,,60234000,CPRD_AURUM
+4193431000006116,Tricuspid valve insufficiency,,111287006,CPRD_AURUM
+4194091000006114,TAPVC - Total anomalous pulmonary venous connection,,111323005,CPRD_AURUM
+138208019,Patent ductus arteriosus,P70..00,83330001,CPRD_AURUM
+299986015,Aortic regurgitation, non-rheumatic,G541012,194983005,CPRD_AURUM
+584801000006111,Congenital pulmonary stenosis,P602.00,67278007,CPRD_AURUM
+299596016,Mitral valve disease NOS,G11z.00,11851006,CPRD_AURUM
+299602018,Diseases of mitral and aortic valves,G13..00,194732001,CPRD_AURUM
+46258015,Dextrocardia,P6y6000,27637000,CPRD_AURUM
+884271000006117,Non-rheum. mitral incompetence,G540099,194978002,CPRD_AURUM
+271327012,Open correction of patent ductus arteriosus,7A01.00,175211006,CPRD_AURUM
+270843019,Primary closure of defect of septum of heart NEC,7909300,447748008,CPRD_AURUM
+316833010,Congenital cardiac failure,Q48y100,206586007,CPRD_AURUM
+313505013,Atresia of pulmonary artery with septal defect,P738.00,204448004,CPRD_AURUM
+313454016,Coarctation of aorta NOS,P71z.00,7305005,CPRD_AURUM
+400806013,Other anomalies of aorta,P72..00,59877000,CPRD_AURUM
+300016017,Combined disorders of mitral, aortic and tricuspid valves,G544200,195005009,CPRD_AURUM
+299605016,Mitral stenosis and aortic regurgitation,G131.14,194734000,CPRD_AURUM
+4214531000006116,ASD - Repair of atrial septal defect,,112811009,CPRD_AURUM
+270999015,Revision of plastic repair of aortic valve,7915100,174961003,CPRD_AURUM
+4214461000006112,Closure of atrial septal defect,,112811009,CPRD_AURUM
+299609010,Mitral insufficiency and aortic stenosis,G132.00,194735004,CPRD_AURUM
+42309019,Replacement of tricuspid valve,7912.11,25236004,CPRD_AURUM
+270998011,Revision of plastic repair of mitral valve,7915000,174960002,CPRD_AURUM
+377190017,Heart septal defects,P5...13,253273004,CPRD_AURUM
+1221217011,Application of band to pulmonary artery,7A09000,15648005,CPRD_AURUM
+357761000000111,Atrial switch and arterial switch,7904300,426902005,CPRD_AURUM
+569651000006112,Closure defect of heart septum using pericardial patch NEC,7909100,77371000,CPRD_AURUM
+300021019,Incompetence of unspecified heart valve,G54z000,40445007,CPRD_AURUM
+377172018,Congenital heart disease, septal and bulbar anomalies,P5...12,253264007,CPRD_AURUM
+178510014,Arteriovenous fistula of pulmonary vessels,G420.00,111289009,CPRD_AURUM
+850841000006111,Truncus arteriosus,P502.11,61959006,CPRD_AURUM
+270951015,Other specified plastic repair of aortic valve,7911y00,265473002,CPRD_AURUM
+2645983015,Myocardial bridge of coronary artery,P6y7.00,424045003,CPRD_AURUM
+583791000006113,Congenital malforms of cardiac chambers+connections unsp,P5X..00,363660007,CPRD_AURUM
+400799018,Tetralogy of Fallot, unspecified,P520.00,86299006,CPRD_AURUM
+313398017,Coronary artery anomaly NOS,P6y4z00,28574005,CPRD_AURUM
+865851000006110,Coarctation of aorta correct,7A18.99,175337007,CPRD_AURUM
+29949011,Ostium primum defect,P561.00,17718000,CPRD_AURUM
+37921000006114,Other anomaly of aorta NOS,P72zz00,59877000,CPRD_AURUM
+28030016,Mesocardia,P6y6200,16567006,CPRD_AURUM
+400807016,Hypoplasia of aorta,P722200,268184003,CPRD_AURUM
+55901000006111,Xenograft replacement of mitral valve,7910100,174919009,CPRD_AURUM
+371771000006115,[X]Congenital malforms of cardiac chambers+connections unsp,Pyu2F00,363660007,CPRD_AURUM
+865141000006117,Heart valve replacement-graft,7914099,553061000000101,CPRD_AURUM
+465751000000116,Repair of valve of heart NEC,7914411,275212003,CPRD_AURUM
+355741000000117,Relief of right ventricular outflow tract obstruction,790N000,223301000000106,CPRD_AURUM
+377219011,Transposition of aorta,P51y.11,253297008,CPRD_AURUM
+465581000000115,Other specified repair of defect of atrioventricular septum,7906y11,174836000,CPRD_AURUM
+2987731000006110,VSD - Ventricular septal defect,,30288003,CPRD_AURUM
+1547091000006111,Percutaneous transluminal pulmonary valve perfor dilation,7919500,384441000000101,CPRD_AURUM
+1546791000006110,Total cavopulmonary con extrac inf cav vein pulmon art con,790M000,224111000000108,CPRD_AURUM
+357281000000112,Transluminal closure of defect of septum,790L.00,224071000000102,CPRD_AURUM
+172601000006117,Repair of supraaortic stenosis,791A300,174998002,CPRD_AURUM
+313473017,Atresia and stenosis of aorta,P722.00,204431007,CPRD_AURUM
+299606015,Mitral stenosis and aortic incompetence,G131.13,194734000,CPRD_AURUM
+271055018,Infundibulectomy of heart NEC,791A100,233065007,CPRD_AURUM
+801451000006114,Gerbode's defect,P544.00,204312002,CPRD_AURUM
+394273018,Therapeutic transluminal operations on septum of heart,790C.00,265469000,CPRD_AURUM
+2675432018,Repair of double chambered right ventricle,790N100,426911005,CPRD_AURUM
+2675862016,Repair of coronary sinus abnormality,790F300,425895009,CPRD_AURUM
+384641000000119,Operations on individual pulmonary veins NOS,7A6Kz00,450593005,CPRD_AURUM
+377121000000116,Closure of multiple interventricular septal defects,7908500,428759006,CPRD_AURUM
+3346981000006115,Tissue aortic valve replacement,,52247003,CPRD_AURUM
+596121000006117,Correct total anomal pulm venous connect to supracard vessel,7905000,174831005,CPRD_AURUM
+313396018,Congenital coronary aneurysm,P6y4500,204378009,CPRD_AURUM
+271038017,Other specified other open operation on valve of heart,7918y00,73544002,CPRD_AURUM
+512130019,Congenital stricture of pulmonary artery,P735.11,95441000,CPRD_AURUM
+3856031000006116,PDA - Patent ductus arteriosus,,83330001,CPRD_AURUM
+1547871000006115,Repair anomalous pulmonary artery origin ascending aorta,7A00400,427138007,CPRD_AURUM
+271322018,Repair of hemitruncus arteriosus,7A00200,175207000,CPRD_AURUM
+313293011,Pentalogy of Fallot,P521.00,204306007,CPRD_AURUM
+270823013,Revision of closure of defect of atrioventricular septum,7906500,174841008,CPRD_AURUM
+124807019,Stricture of aorta,P722300,75145007,CPRD_AURUM
+315691018,[X]Other congenital malformations of great veins,Pyu2900,204451006,CPRD_AURUM
+7075031000006117,Critical stenosis of aortic valve,,427515002,CPRD_AURUM
+1546361000006115,Repair defect atrioventricular septum prosthetic patch NEC,7906111,174836000,CPRD_AURUM
+407821000006118,[X]Other cong malformatn of cardiac chambers & connections,Pyu2000,13213009,CPRD_AURUM
+270836013,Revision of closure of defect of interventricular septum,7908400,174854001,CPRD_AURUM
+4664791000006110,Mechanical prosthetic pulmonary valve replacement,,174946004,CPRD_AURUM
+2616351000006116,Aortic coarctation,,7305005,CPRD_AURUM
+559851000006116,Close defect interventricular septum using tissue graft NEC,7908200,80733000,CPRD_AURUM
+313513014,Subdiaphragmatic total anomalous pulmonary venous return,P741000,204456001,CPRD_AURUM
+313424014,Congenital aneurysm of heart,P6yy600,204395001,CPRD_AURUM
+511621000000112,Revision of repair of septum of heart NEC,7909411,77371000,CPRD_AURUM
+4664711000006117,Mechanical prosthetic tricuspid valve replacement,,174937005,CPRD_AURUM
+13501811000006118,Repair of supravalvar aortic stenosis,null,771348000,CPRD_AURUM
+271406015,Transluminal operation on pulmonary artery NOS,7A0Az00,175266007,CPRD_AURUM
+13936901000006118,Severe stenosis of aortic valve,null,836482000,CPRD_AURUM
+5047401000006113,AVF - Pulmonary arteriovenous fistula operation,,233219001,CPRD_AURUM
+4014091000006115,Congenital dilatation of pulmonary artery,,93059006,CPRD_AURUM
+465681000000119,Repair defect of atrioventricular septum using tissue graft,7906211,174839007,CPRD_AURUM
+400803017,Pseudotruncus arteriosus,P603.11,268180007,CPRD_AURUM
+5333251000006118,Delayed closure of patent arterial duct,,253685001,CPRD_AURUM
+483059013,Anomalous atrial bands,P6z1000,2583009,CPRD_AURUM
+641971000006114,Endocardial cushion defects NOS,P56z.00,15459006,CPRD_AURUM
+2675365010,Repair of arteriovenous malformation of coronary artery,792B200,427109009,CPRD_AURUM
+600051000006116,Creation of anastomosis ascending aorta to main pulm art NEC,7A04100,233224003,CPRD_AURUM
+4666071000006118,Construction of central aortopulmonary interposition shunt,,175221003,CPRD_AURUM
+5889511000006111,Atrial septal defect murmur,,301130004,CPRD_AURUM
+5524291000006110,BAS - Balloon atrial septostomy,,271411002,CPRD_AURUM
+4663901000006115,Repair of Fallot's tetralogy,,174814003,CPRD_AURUM
+1546751000006116,Percut translum closure defect unspecified septum us prosth,790L400,237231000000103,CPRD_AURUM
+5042601000006113,Repair of atrioventricular valve,,232882002,CPRD_AURUM
+4193461000006113,Tricuspid insufficiency,,111287006,CPRD_AURUM
+9771010,Congenital absence of coronary artery,P6y4000,5230009,CPRD_AURUM
+4663891000006119,TOF - Repair of tetralogy of Fallot,,174814003,CPRD_AURUM
+6426481000006111,Repair of pulmonary atresia with ventricular septal defect,,384648009,CPRD_AURUM
+5328811000006112,Abnormality of atrial septum,,253363004,CPRD_AURUM
+5471901000006117,Entire outflow tract of left ventricle,,264070001,CPRD_AURUM
+5331171000006117,Right ventricular outflow tract abnormality,,253529002,CPRD_AURUM
+1547261000006111,Excision of valve of heart,791D.00,87123001,CPRD_AURUM
+377731014,Postductal hypoplasia of aorta,P712.11,253680006,CPRD_AURUM
+7397441000006116,Anomalous origin of right coronary artery from left coronary artery aortic sinus and anomalous origin of left coronary artery from right coronary artery aortic sinus,null,460944005,CPRD_AURUM
+3494461000006111,APW - Closure of aortopulmonary window,,61192001,CPRD_AURUM
+5333651000006115,Congenital coronary arteriovenous fistula,,253720000,CPRD_AURUM
+313429016,Supernumerary heart valve cusps NEC,P6yyB00,13213009,CPRD_AURUM
+4824821000006115,Ebsteins anomaly,,204357006,CPRD_AURUM
+3508661000006110,HLHS - Hypoplastic left heart syndrome,,62067003,CPRD_AURUM
+4776311000006111,PA - Pulmonary artery aneurysm,,194892009,CPRD_AURUM

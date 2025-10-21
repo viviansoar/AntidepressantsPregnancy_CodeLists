@@ -1,0 +1,605 @@
+MEDICAL_CODE_ID,DESCRIPTION,READ_CODE,SNOMED_CT_CODE,DATABASE
+137582015,Agenesis of pancreas,PB71.00,82949000,CPRD_AURUM
+140204016,Double tongue,PA13.12,84557007,CPRD_AURUM
+143464017,Agenesis of gallbladder,PB63011,86507001,CPRD_AURUM
+313994013,Transposition of caecum,PB53200,204762005,CPRD_AURUM
+313935011,Congenital stricture of rectum with fistula,PB25000,204728005,CPRD_AURUM
+313912013,Atresia of appendix,PB21300,204715003,CPRD_AURUM
+313902018,Congenital absence of rectum with fistula,PB20400,204709003,CPRD_AURUM
+313924018,Congenital occlusion of anus with fistula,PB23000,204721004,CPRD_AURUM
+313883010,Congenital absence of ileum,PB11200,204697003,CPRD_AURUM
+377852013,Congenital stenosis of appendix,PB22.12,253770002,CPRD_AURUM
+411380011,Stenosis large intestine,PB2..12,275402007,CPRD_AURUM
+486468012,Congenital absence of liver,total,PB63400,3650004,CPRD_AURUM
+1233067010,Hypoplasia of pancreas,PB72.00,68591005,CPRD_AURUM
+1234504016,Congenital floating gallbladder,PB6y200,80700005,CPRD_AURUM
+1235293013,Megalogastria,PA75.00,88035001,CPRD_AURUM
+313903011,Congenital absence of large intestine NOS,PB20z00,59514009,CPRD_AURUM
+313783017,Other mouth and pharynx anomalies NOS,PA2z.00,253750008,CPRD_AURUM
+314083018,Digestive system anomalies NOS,PBz..00,69518005,CPRD_AURUM
+314082011,Other specified digestive system anomalies NOS,PByz.00,69518005,CPRD_AURUM
+315727016,[X]Other congenital malformations of gallbladder,Pyu5C00,235913009,CPRD_AURUM
+161771000006119,Sawaguchi roux-en-y procedure for biliary atresia,7824411,265451009,CPRD_AURUM
+580031000006119,Congenital agenesis of liver lobe,PB63111,13630003,CPRD_AURUM
+580021000006117,Congenital agenesis liver,total,PB63411,3650004,CPRD_AURUM
+1551361000006110,Percut insertion trach plug cong diaphragmatic hernia fetus,7F03500,429613009,CPRD_AURUM
+1551331000006118,Fetoscopic insert tracheal plug congen diaphragmatic hernia,7F00100,426503005,CPRD_AURUM
+504130013,Congenital displacement of oesophagus,PA41.00,79510004,CPRD_AURUM
+12626101000006114,Fetal diaphragmatic hernia,,1110701000000107,CPRD_AURUM
+5083151000006115,Oesophageal web / ring,,235622007,CPRD_AURUM
+314059014,Other congenital anomaly of gallbladder,PB6yx00,49714001,CPRD_AURUM
+4826021000006116,Tracheo-esophageal fistula with atresia of esophagus,,204659003,CPRD_AURUM
+3094811000006115,Division of web of esophagus,,36917004,CPRD_AURUM
+3630691000006118,Congenital malformation of the digestive system,,69518005,CPRD_AURUM
+5334001000006114,Congenital anomalies of tongue, mouth and pharynx,,253750008,CPRD_AURUM
+4826621000006110,Short segment Hirschsprung disease,,204741009,CPRD_AURUM
+2547061000006116,Congenital dilatation of esophagus,,3004001,CPRD_AURUM
+3616091000006115,Congenital hypoplasia of pancreas,,68591005,CPRD_AURUM
+3793071000006116,Congenital malpositioned oesophagus,,79510004,CPRD_AURUM
+2678761000006110,Congenital malformation of pharynx,,11223009,CPRD_AURUM
+3872361000006112,Repair of tracheoesophageal fistula,,84354004,CPRD_AURUM
+5334181000006116,Congenital stenosis of esophagus,,253760004,CPRD_AURUM
+5571361000006111,Congenital anomaly of upper digestive tract,,275262008,CPRD_AURUM
+4826381000006119,Congenital atresia of appendix,,204715003,CPRD_AURUM
+2813241000006110,Repair esophageal atresia,,19725004,CPRD_AURUM
+2919011000006112,OA - Oesophageal atresia,,26179002,CPRD_AURUM
+2813251000006112,OA - Repair esophageal atresia,,19725004,CPRD_AURUM
+5334671000006111,Aplasia of gallbladder,null,253806000,CPRD_AURUM
+3490761000006111,Congenital esophagotracheal fistula,,60983006,CPRD_AURUM
+4826671000006111,Malrotation of colon and cecum,,204750006,CPRD_AURUM
+5568671000006111,Soave endorectal pull-through operation for Hirschsprung disease,,275014009,CPRD_AURUM
+3793061000006111,Congenital malpositioned esophagus,,79510004,CPRD_AURUM
+5571351000006114,Congenital abnormality of upper alimentary tract,,275262008,CPRD_AURUM
+2509661000006114,Congenital adhesions of tongue,,703000,CPRD_AURUM
+2509671000006119,Congenital adhesion of tongue,,703000,CPRD_AURUM
+3838701000006112,Repair of stricture of esophagus,,82293009,CPRD_AURUM
+3872411000006116,TOF - Closure of tracheoesophageal fistula,,84354004,CPRD_AURUM
+3634471000006112,Congenital abnormality of oesophagus,,69771008,CPRD_AURUM
+4017301000006117,Congenital hypoplasia of gallbladder,,93259002,CPRD_AURUM
+3410041000006113,Congenital duplication of biliary duct,,56013008,CPRD_AURUM
+5571341000006112,Congenital anomaly of upper alimentary tract,,275262008,CPRD_AURUM
+5913591000006114,Congenital macrocolon, not aganglionic,null,302951000,CPRD_AURUM
+2919021000006116,OA - Esophageal atresia,,26179002,CPRD_AURUM
+5334191000006118,Congenital esophageal ring,,253760004,CPRD_AURUM
+5334391000006116,Congenital functional disorders of the colon,,253778009,CPRD_AURUM
+3634461000006117,Congenital malformation of the esophagus,,69771008,CPRD_AURUM
+12220931000006116,Congenital cyst of pancreas,,204808002,CPRD_AURUM
+2678751000006113,Congenital abnormality of pharynx,,11223009,CPRD_AURUM
+3680321000006119,Repair of diaphragmatic hernia by transthoracic approach,,72583007,CPRD_AURUM
+3760701000006115,BA - Biliary atresia,,77480004,CPRD_AURUM
+2887681000006114,Congenital megacolon,,24291004,CPRD_AURUM
+7060101000006112,Foetoscopic tracheal occlusion for congenital diaphragmatic hernia,,426503005,CPRD_AURUM
+4826371000006117,Congenital atresia of anus,,204712000,CPRD_AURUM
+7060061000006114,Fetal endoscopic tracheal occlusion for congenital diaphragmatic hernia,,426503005,CPRD_AURUM
+3952781000006111,Congenital malpositioned stomach,,89378007,CPRD_AURUM
+3182201000006116,Congenital duplication of caecum,,42324007,CPRD_AURUM
+8270681000006115,Repair of long gap oesophageal atresia by Foker technique,null,823291000000101,CPRD_AURUM
+12273041000006120,Embryonic pharyngeal pouch structure,null,361019008,CPRD_AURUM
+14128221000006116,Agenesis of pancreas,null,204806003,CPRD_AURUM
+3094771000006115,Incision of esophageal web,,36917004,CPRD_AURUM
+5088091000006115,Congenital anomaly of pancreas,,235977001,CPRD_AURUM
+2549491000006112,Repair of salivary gland fistula,,3166003,CPRD_AURUM
+2945341000006119,Vertebral anomalies/dysgenesis, anal atresia, tracheo-esophageal fistula, oesophageal atresia, renal anomalies, radial dysplasia (VATER) association,,27742002,CPRD_AURUM
+3680311000006110,Repair of diaphragmatic hernia by transpleural approach,,72583007,CPRD_AURUM
+3634481000006110,Congenital malformation of the oesophagus,,69771008,CPRD_AURUM
+5088081000006118,Congenital abnormality of pancreas,,235977001,CPRD_AURUM
+7060081000006116,Fetoscopic tracheal occlusion for congenital diaphragmatic hernia,,426503005,CPRD_AURUM
+3304681000006110,Congenital anomaly of gallbladder,,49714001,CPRD_AURUM
+4826051000006113,Tracheo-esophageal fistula with atresia of oesophagus,,204659003,CPRD_AURUM
+2986481000006117,Closure of esophageal fistula,,30215008,CPRD_AURUM
+5088071000006116,Congenital malformation of pancreas,,235977001,CPRD_AURUM
+5334201000006115,Congenital stricture of esophagus,,253760004,CPRD_AURUM
+2715961000006115,Congenital absence of lobe of liver,,13630003,CPRD_AURUM
+3634451000006119,Congenital abnormality of esophagus,,69771008,CPRD_AURUM
+2772751000006118,CDH - Congenital diaphragmatic hernia,,17190001,CPRD_AURUM
+3973481000006111,Congenital diverticulum of stomach,,90669003,CPRD_AURUM
+4826041000006111,Esophageal atresia with tracheoesophageal fistula,,204659003,CPRD_AURUM
+12220841000006116,Secondary congenital megacolon,,197140007,CPRD_AURUM
+7577261000006113,Hirschsprung disease-mental retardation syndrome,,703535000,CPRD_AURUM
+3486021000006117,Congenital abnormality of stomach,,60699003,CPRD_AURUM
+3793081000006118,Congenital malposition of oesophagus,,79510004,CPRD_AURUM
+3838671000006111,Repair of esophageal stricture,,82293009,CPRD_AURUM
+2565901000006119,Congenital duplication of anus,,4195003,CPRD_AURUM
+4825911000006115,Congenital fistula of salivary gland,,204635008,CPRD_AURUM
+2556931000006111,Congenital absence of liver,,3650004,CPRD_AURUM
+2813211000006111,Correction of esophageal atresia,,19725004,CPRD_AURUM
+2976581000006110,Congenital atresia of pharynx,,29632002,CPRD_AURUM
+12726101000006118,Other congenital upper alimentary tract anomalies,,672041000000104,CPRD_AURUM
+12725141000006113,Other specified digestive system anomalies,,630251000000108,CPRD_AURUM
+12722471000006119,Oesophageal stricture and stenosis,,307503005,CPRD_AURUM
+12721051000006113,Repair of diaphragmatic hernia using thoracic approach NEC,,537571000000105,CPRD_AURUM
+12725151000006110,Digestive system anomalies NOS,,630281000000102,CPRD_AURUM
+315729018,[X]Other congenital malformations of bile ducts,Pyu5D00,268213006,CPRD_AURUM
+12718121000006118,[X]Congenital absence, atresia and stenosis of large intestine, part unspecified,,452001000000101,CPRD_AURUM
+12719381000006113,[X]Congenital absence, atresia and stenosis of other parts of large intestine,,440201000000105,CPRD_AURUM
+12731571000006110,Repair of diaphragmatic hernia using abdominal approach NEC,,564111000000109,CPRD_AURUM
+313996010,Transposition of intestine NOS,PB53z00,39719008,CPRD_AURUM
+313980012,Other specified intestinal fixation anomaly,PB4y.00,69248007,CPRD_AURUM
+377861013,Congenital giant colon NEC,PB31.11,253778009,CPRD_AURUM
+473521000006118,Aganglionic macrocolon,PB33.11,204745000,CPRD_AURUM
+585381000006112,Congenital stenosis of large intestine,PB22.11,57265009,CPRD_AURUM
+3686251000006119,Fibrocystic disease of liver,,72925005,CPRD_AURUM
+4785281000006114,Irreducible diaphragmatic hernia,,196904003,CPRD_AURUM
+4826601000006117,Long segment Hirschsprung disease,,204740005,CPRD_AURUM
+4825961000006117,Congenital esophageal fistula,,204652007,CPRD_AURUM
+7106031000006113,Percutaneous insertion of tracheal plug for congenital diaphragmatic hernia of foetus,,429613009,CPRD_AURUM
+3490781000006118,TOF - Congenital tracheoesophageal fistula,,60983006,CPRD_AURUM
+3686321000006116,Congenital cystic liver,,72925005,CPRD_AURUM
+2866551000006119,Repair of esophagus,,22997007,CPRD_AURUM
+3984451000006113,Congenital atresia of rectum,,91375006,CPRD_AURUM
+3847441000006119,Congenital atresia of extrahepatic bile duct,,82821008,CPRD_AURUM
+3025421000006119,Microglossia - congenital,,32614006,CPRD_AURUM
+3838691000006112,Thal operation, repair of oesophageal stricture,,82293009,CPRD_AURUM
+3086271000006116,Congenital absence of esophagus,,36376006,CPRD_AURUM
+12359591000006114,Hirschsprung disease-intellectual disability syndrome,,703535000,CPRD_AURUM
+4166201000006117,Congenital malformation of lips,,109549008,CPRD_AURUM
+2945321000006114,Vertebral anomalies/dysgenesis, anal atresia, tracheo-esophageal fistula, esophageal atresia, renal anomalies, radial dysplasia (VATER) association,,27742002,CPRD_AURUM
+3949431000006113,Congenital malformation of liver,,89166001,CPRD_AURUM
+3135091000006118,Congenital rectal stenosis,,39476006,CPRD_AURUM
+2986471000006115,Repair of esophageal fistula,,30215008,CPRD_AURUM
+5503581000006115,Hirschsprung disease and allied congenital conditions,,268208007,CPRD_AURUM
+2945351000006117,Vertebral anomalies/dysgenesis, anal atresia, tracheo-esophageal fistula, esophageal atresia, renal anomalies, radial dysplasia association,,27742002,CPRD_AURUM
+3258161000006116,Congenital duplication of gallbladder,,46907007,CPRD_AURUM
+3793051000006114,Congenital malposition of esophagus,,79510004,CPRD_AURUM
+12720671000006117,Other intestine anomalies NOS,,558751000000108,CPRD_AURUM
+313993019,Transposition of intestine, unspecified,PB53000,39719008,CPRD_AURUM
+313945013,Imperforate rectum NOS,PB27z00,91375006,CPRD_AURUM
+475370015,Duplication of stomach,PA74.00,13568007,CPRD_AURUM
+377899018,Trilobular liver,PB6yw13,253812005,CPRD_AURUM
+314041011,Congenital absence of liver and gallbladder,PB63.00,204787003,CPRD_AURUM
+137581010,Congenital absence of pancreas,PB70.00,82949000,CPRD_AURUM
+4825991000006113,Congenital absence of esophagus with tracheoesophageal fistula,,204658006,CPRD_AURUM
+4826081000006117,Congenital esophageal pouch,,204667006,CPRD_AURUM
+4407471000006110,Congenital malformation of palate,,128336000,CPRD_AURUM
+3793041000006112,Congenital displacement of esophagus,,79510004,CPRD_AURUM
+7060091000006118,Foetal endoscopic tracheal occlusion for congenital diaphragmatic hernia,,426503005,CPRD_AURUM
+3094781000006117,Dewebbing of esophagus,,36917004,CPRD_AURUM
+5503551000006111,Esophageal atresia, stenosis and fistula,,268201001,CPRD_AURUM
+7060491000006113,Fiberoptic endoscopic dilation of web of esophagus,,426532008,CPRD_AURUM
+2549501000006116,Closure of salivary fistula,,3166003,CPRD_AURUM
+3840261000006117,Giant esophagus,,82393007,CPRD_AURUM
+4826761000006113,Congenital absence of liver and/or gallbladder,,204787003,CPRD_AURUM
+3025411000006110,Congenital hypoplasia of tongue,,32614006,CPRD_AURUM
+3094791000006119,Dewebbing of oesophagus,,36917004,CPRD_AURUM
+2986491000006119,Repair of oesophageal fistula,,30215008,CPRD_AURUM
+3686241000006116,Congenital polycystic disease of liver,,72925005,CPRD_AURUM
+3952771000006113,Congenital malposition of stomach,,89378007,CPRD_AURUM
+4826031000006118,Esophageal atresia with tracheo-esophageal fistula,,204659003,CPRD_AURUM
+3847461000006115,EHBA - Extrahepatic biliary atresia,,82821008,CPRD_AURUM
+314074011,Congenital absence of digestive system NOS,PBy0.00,849631000000103,CPRD_AURUM
+3872421000006112,Closure of tracheoesophageal fistula,,84354004,CPRD_AURUM
+2856851000006112,Esophageal body web,,22395006,CPRD_AURUM
+4826511000006115,Congenital imperforate anus,,204731006,CPRD_AURUM
+4825981000006110,Congenital absence of esophagus with tracheo-esophageal fistula,,204658006,CPRD_AURUM
+2856861000006114,Webbed esophagus,,22395006,CPRD_AURUM
+5334681000006114,Intrahepatic biliary atresia,,253807009,CPRD_AURUM
+492441012,Macrocolon,PB32.00,367495003,CPRD_AURUM
+48723010,Congenital absence of small intestine,PB11.00,29110005,CPRD_AURUM
+86812014,Universal mesentery,PB42.00,52159006,CPRD_AURUM
+377816014,Ectopic digestive organs NOS,PBy2.11,69518005,CPRD_AURUM
+3010381000006110,Congenital abnormality of intestine,,31686000,CPRD_AURUM
+3486011000006113,Congenital malformation of the stomach,,60699003,CPRD_AURUM
+2728671000006115,Congenital stricture of small intestine,,14430002,CPRD_AURUM
+2918961000006118,Congenital atresia of esophagus,,26179002,CPRD_AURUM
+3587211000006114,Congenital duplication of esophagus,,66865009,CPRD_AURUM
+7068891000006113,Dilation of web of esophagus using rigid esophagoscope,,427093004,CPRD_AURUM
+2945331000006112,Vertebral anomalies/dysgenesis, anal atresia, tracheo-oesophageal fistula, oesophageal atresia, renal anomalies, radial dysplasia (VATER) association,,27742002,CPRD_AURUM
+3616121000006116,Pancreatic hypoplasia,,68591005,CPRD_AURUM
+3838681000006114,Thal operation, repair of esophageal stricture,,82293009,CPRD_AURUM
+2714941000006115,Congenital duplication of stomach,,13568007,CPRD_AURUM
+2918981000006111,Esophageal atresia,,26179002,CPRD_AURUM
+3723771000006114,Salivary gland fistula,,75260002,CPRD_AURUM
+4826091000006119,Congenital diverticulum of esophagus,,204667006,CPRD_AURUM
+12731061000006113,Other congenital digestive system anomaly,,659481000000107,CPRD_AURUM
+12722201000006112,Upper alimentary tract anomalies NOS,,596951000000100,CPRD_AURUM
+12758601000006112,Esophageal stricture and stenosis,,307503005,CPRD_AURUM
+3630681000006116,Congenital deformity of digestive system,,69518005,CPRD_AURUM
+12721041000006111,Closure of fistula of oesophagus NEC,,537541000000104,CPRD_AURUM
+450784010,Oesophageal stricture and stenosis,J103.00,63305008,CPRD_AURUM
+396373018,Stricture of intestine NOS,J50z300,56226004,CPRD_AURUM
+313780019,Other anomalies of lip,PA2A.00,90678009,CPRD_AURUM
+361137011,Diverticulum of pharynx,PA26.00,111328001,CPRD_AURUM
+570351000006118,Closure of tracheooesophageal fistula,7606000,84354004,CPRD_AURUM
+15166017,Congenital diverticulum of colon,PB50.00,8587003,CPRD_AURUM
+2478718014,Bile duct anomalies,PB6..11,4711003,CPRD_AURUM
+400823016,Other mouth anomalies,PA25.00,282041002,CPRD_AURUM
+2476672018,Atresia of jejunum,PB10300,360491009,CPRD_AURUM
+596331000006117,Correction of congenital atresia of oesophagus,7606200,19725004,CPRD_AURUM
+396355016,Unspecified diaphragmatic hernia,J34y.00,39839004,CPRD_AURUM
+199499010,Congenital dilatation of oesophagus,PA40.00,3004001,CPRD_AURUM
+269036015,Repair of diaphragmatic hernia NOS,760Kz00,112977000,CPRD_AURUM
+314073017,Other specified digestive system anomalies,PBy..00,69518005,CPRD_AURUM
+314051012,Congenital dilation of bile duct,PB6y700,204797007,CPRD_AURUM
+314016016,Gallbladder anomaly, unspecified,PB60100,49714001,CPRD_AURUM
+313998011,Congenital anal fistula,PB59.00,253774006,CPRD_AURUM
+497361000006117,Atresia and stenosis of large intestine/rectum/anal canal,PB2..00,268205005,CPRD_AURUM
+619651000006118,Diaphragmatic hernia with obstruction,J341.00,196903009,CPRD_AURUM
+124994019,Fistula of salivary gland,J074.00,75260002,CPRD_AURUM
+377898014,Abnormal liver lobulation,PB6yw12,253811003,CPRD_AURUM
+1230264011,Congenital achalasia of cardia,PA70.11,45798009,CPRD_AURUM
+303305019,Stenosis of rectum and anus NOS,J572z00,23065003,CPRD_AURUM
+302207019,Fistula of parotid gland,J074000,196495004,CPRD_AURUM
+313914014,Atresia of anus with fistula,PB21400,204716002,CPRD_AURUM
+400824010,Other congenital anomaly of palate,PA25y00,66948001,CPRD_AURUM
+1767014,Congenital hepatomegaly,PB6y100,407000,CPRD_AURUM
+269203010,Repair of congenital atresia of pylorus,761B100,173790006,CPRD_AURUM
+31039019,Microcolon,PB57.00,18389004,CPRD_AURUM
+268777015,Other specified repair of oesophagus,7606y00,22997007,CPRD_AURUM
+2918951000006115,Congenital atresia of oesophagus,,26179002,CPRD_AURUM
+221941000000113,Atresia of bile duct,PB61400,77480004,CPRD_AURUM
+197274016,Malrotation of caecum,PB41100,37528004,CPRD_AURUM
+140331000006118,Short tongue,PA15.12,32614006,CPRD_AURUM
+313875016,Small intestine atresia and stenosis,PB1..00,204691002,CPRD_AURUM
+313854012,Other specified upper alimentary tract anomaly,PAy..00,275262008,CPRD_AURUM
+313876015,Atresia of small intestine, unspecified,PB10000,84296002,CPRD_AURUM
+654981000006113,Excision of tracheooesophageal fistula,7606011,84354004,CPRD_AURUM
+115963013,Congenital occlusion of anus,PB23.00,69817007,CPRD_AURUM
+407881000006119,[X]Other congen malformation of pancreas & pancreatic duct,Pyu5F00,235977001,CPRD_AURUM
+1233140018,Intestinal fixation anomalies,PB4..00,69248007,CPRD_AURUM
+315716018,[X]Other congenital malformations of mouth,Pyu5200,282041002,CPRD_AURUM
+229731000006113,Persistent omphalomesenteric duct,PB0..11,37373007,CPRD_AURUM
+481191000006117,Anal septum,PB23.11,69817007,CPRD_AURUM
+893091000006114,Congen. oesophageal web,PA34.99,22395006,CPRD_AURUM
+6213881000006111,Congenital atresia of jejunum,,360491009,CPRD_AURUM
+95245010,Congenital obstruction of large intestine,PB22.00,57265009,CPRD_AURUM
+313997018,Megaloduodenum,PB56.00,235699006,CPRD_AURUM
+188682010,Glossopexy,7523500,112854004,CPRD_AURUM
+313988017,Duplication of intestine, unspecified,PB52000,3845008,CPRD_AURUM
+5728861000006114,Imperforate anus repair,,287991005,CPRD_AURUM
+2648351000006111,Repair of diaphragmatic hiatal hernia,,9292007,CPRD_AURUM
+98849013,Congenital absence of large intestine,PB20.00,59514009,CPRD_AURUM
+581481000006118,Congenital cystic liver disease,PB62.00,72925005,CPRD_AURUM
+314065014,Anomalies of pancreas,PB7..00,204805004,CPRD_AURUM
+584201000006112,Congenital oesophageal stricture,PA31.00,253760004,CPRD_AURUM
+314053010,Liver hyperplasia,PB6y900,204799005,CPRD_AURUM
+196241011,Repair of oesophagus,7606.00,22997007,CPRD_AURUM
+400838015,Other intestine anomalies NOS,PB5z.00,31686000,CPRD_AURUM
+313960011,Hirschsprung's disease NOS,PB30z00,204739008,CPRD_AURUM
+400840013,Liver and biliary system anomalies,PB6..00,268213006,CPRD_AURUM
+394251013,Roux-en-Y procedure for biliary atresia,7824400,265451009,CPRD_AURUM
+410939017,Duhamel Hirschsprung abdoperin,7726y11,76062007,CPRD_AURUM
+314017013,Bile duct anomaly, unspecified,PB60200,4711003,CPRD_AURUM
+269030014,Repair of diaphragmatic hernia using thoracic approach NEC,760K100,72583007,CPRD_AURUM
+313958014,Long segment Hirschsprung's disease,PB30000,204740005,CPRD_AURUM
+313796016,Congenital oesophageal fistula,PA32.00,204652007,CPRD_AURUM
+1219801012,Freeing of adhesions of tongue,7523200,112855003,CPRD_AURUM
+314047010,Other liver and biliary anomalies,PB6y.00,268213006,CPRD_AURUM
+5568661000006116,Soave endorectal pull-through operation for Hirschsprung's disease,,275014009,CPRD_AURUM
+140203010,Bifid tongue,PA13.11,84557007,CPRD_AURUM
+313775011,Other pharynx anomalies NOS,PA27z00,11223009,CPRD_AURUM
+2987401000006112,Repair of congenital hernia of diaphragm,,30273008,CPRD_AURUM
+126135015,Congenital absence of anus,PB20000,75937003,CPRD_AURUM
+3686231000006114,Congenital cystic disease of liver,,72925005,CPRD_AURUM
+400842017,Other congenital anomaly of liver,PB6yw00,89166001,CPRD_AURUM
+2982691000006117,Congenital malrotation of intestine,,29980002,CPRD_AURUM
+54446013,Microglossia,PA15.00,32614006,CPRD_AURUM
+42153017,Congenital absence of uvula,PA25000,25148007,CPRD_AURUM
+62351017,Persistent vitelline duct,PB03.11,37373007,CPRD_AURUM
+43511015,Congenital absence of rectum,PB20200,25972003,CPRD_AURUM
+315730011,[X]Other congenital malformations of liver,Pyu5E00,89166001,CPRD_AURUM
+315733013,[X]Congenital malformation of intestine, unspecified,Pyu5H00,31686000,CPRD_AURUM
+3838661000006116,Repair of oesophageal stricture,,82293009,CPRD_AURUM
+313915010,Atresia of rectum with fistula,PB21500,204717006,CPRD_AURUM
+1234856019,Microgastria,PA76.00,83714006,CPRD_AURUM
+4826581000006110,Hirschsprung disease,,204739008,CPRD_AURUM
+400843010,Other congenital anomaly of hepatic or bile ducts,PB6yy00,235913009,CPRD_AURUM
+302210014,Fistula of salivary gland NOS,J074z00,75260002,CPRD_AURUM
+313886019,Congenital stenosis of jejunum,PB13100,204699000,CPRD_AURUM
+124203013,Aglossia,PA11.00,74788000,CPRD_AURUM
+502824012,Anal fusion,PB58.11,74829002,CPRD_AURUM
+313759013,Congenital salivary gland fistula,PA23.00,204635008,CPRD_AURUM
+275281016,Other specified other repair of diaphragm,7H0Dy00,69455007,CPRD_AURUM
+144507018,Congenital absence of appendix,PB20100,87142002,CPRD_AURUM
+1216613015,Duplication of caecum,PB52300,42324007,CPRD_AURUM
+5568681000006114,Duhamel Hirschsprung abdoperin,,275016006,CPRD_AURUM
+3871521000006116,Congenital atresia of small intestine,,84296002,CPRD_AURUM
+4826251000006116,Congenital jejunal stenosis,,204699000,CPRD_AURUM
+486432019,Congenital absence of oesophagus,PA35.00,36376006,CPRD_AURUM
+3094761000006110,Incision of oesophageal web,,36917004,CPRD_AURUM
+5334251000006116,Congenital absence, atresia and stenosis of small intestine,,253764008,CPRD_AURUM
+3634441000006116,Congenital anomaly of esophagus,,69771008,CPRD_AURUM
+67185017,Diaphragmatic hernia,J34..00,39839004,CPRD_AURUM
+184656013,Repair of diaphragmatic hernia,760K.00,112977000,CPRD_AURUM
+302413013,Oesophageal stricture and stenosis NOS,J103z00,63305008,CPRD_AURUM
+128627011,Biliary atresia,PB61.00,77480004,CPRD_AURUM
+313839018,Congenital oesophageal pouch,PA45.00,204667006,CPRD_AURUM
+313743013,Anomaly of tongue, unspecified,PA10.00,60447007,CPRD_AURUM
+313863014,Other congenital digestive system anomaly,PB...00,69518005,CPRD_AURUM
+221921000000118,Congenital tracheo-oesophageal fistula,PA32111,60983006,CPRD_AURUM
+162901000006118,Riedel's lobe liver,PB63300,109559009,CPRD_AURUM
+313836013,Congenital diverticulum of oesophagus,PA42.00,204667006,CPRD_AURUM
+1234925011,Atresia of small intestine,PB10.00,84296002,CPRD_AURUM
+583671000006119,Congenital malformation of intestine, unspecified,PB5X.00,31686000,CPRD_AURUM
+313769019,Other mouth anomalies NOS,PA25z00,282041002,CPRD_AURUM
+3686311000006112,Cystic disease of liver,,72925005,CPRD_AURUM
+619621000006110,Diaphragmatic hernia - irreducible,J342.00,196904003,CPRD_AURUM
+313840016,Other specified oesophageal anomaly NOS,PA4z.00,69771008,CPRD_AURUM
+275278014,Other repair of diaphragm,7H0D.00,69455007,CPRD_AURUM
+885751000006119,Oesophageal diverticulum,J106.99,35563005,CPRD_AURUM
+3631015,Congenital stricture of bile duct,PB61300,1512006,CPRD_AURUM
+371711000006112,[X]Congenital malformations of palate, NEC,Pyu5100,128336000,CPRD_AURUM
+117439011,Accessory salivary gland,PA21.00,70705008,CPRD_AURUM
+229901000006119,Persistent vitelline duct,PB0..12,37373007,CPRD_AURUM
+2244010,Congenital adhesions of tongue,PA12.00,703000,CPRD_AURUM
+151386019,Imperforate rectum,PB27.00,91375006,CPRD_AURUM
+584191000006114,Congenital oesophageal stenosis,PA31.11,253760004,CPRD_AURUM
+302208012,Fistula of submandibular gland,J074100,196496003,CPRD_AURUM
+85041011,Congenital obstruction of bile duct,PB61200,51038004,CPRD_AURUM
+313930018,Congenital stricture of anus without mention of fistula,PB24100,529311000000103,CPRD_AURUM
+313955012,Aganglionosis,PB3..11,204739008,CPRD_AURUM
+313880013,Small intestine atresia NOS,PB10z00,84296002,CPRD_AURUM
+474001000006117,Agenesis of rectum with fistula,PB20411,204709003,CPRD_AURUM
+3268012,Congenital absence of bile duct,PB61000,1287007,CPRD_AURUM
+893121000006113,Congenital diverticulum -colon,PB50.99,8587003,CPRD_AURUM
+1231779010,Congenital omental adhesions,PB40000,57921006,CPRD_AURUM
+1235787018,Hypoplasia of gallbladder,PB6y500,93259002,CPRD_AURUM
+314006012,Congenital faecal fistula,PB5z000,204769001,CPRD_AURUM
+3579121000006110,Excision of choledochal cyst,,66361005,CPRD_AURUM
+1220989019,Congenital absence of liver lobe,PB63100,13630003,CPRD_AURUM
+3952761000006118,Congenital displacement of stomach,,89378007,CPRD_AURUM
+314044015,Liver and biliary duplication,PB64.00,204790009,CPRD_AURUM
+3486001000006110,Congenital anomaly of stomach,,60699003,CPRD_AURUM
+313957016,Hirschsprung's disease,PB30.00,204739008,CPRD_AURUM
+313940015,Imperforate anus,PB26.00,204731006,CPRD_AURUM
+501433018,Anal stenosis,J572111,69914001,CPRD_AURUM
+885731000006114,Oesophageal stricture/stenosis,J103.99,307503005,CPRD_AURUM
+29070015,Congenital diaphragmatic hernia,PG61.00,17190001,CPRD_AURUM
+303302016,Stenosis of rectum and anus,J572.00,197216007,CPRD_AURUM
+400835017,Idiopathic congenital megacolon,PB31.00,268209004,CPRD_AURUM
+886251000006118,Diaphragmatic hern.complicated,J34..98,39839004,CPRD_AURUM
+313856014,Unspecified anomalies of mouth and pharynx,PAz0.00,253750008,CPRD_AURUM
+477763019,Congenital stenosis of duodenum,PB13000,16376000,CPRD_AURUM
+497401000006110,Atresia of anus,PB21000,204712000,CPRD_AURUM
+4194191000006110,Congenital diverticulum of pharynx,,111328001,CPRD_AURUM
+266471000006116,Oesophagobronchial fistula,PA32000,235641005,CPRD_AURUM
+313848011,Other specified stomach anomalies,PA7..00,60699003,CPRD_AURUM
+2676213019,Dilation of web of oesophagus using rigid oesophagoscope,760G400,427093004,CPRD_AURUM
+1216516015,Division of web of oesophagus,7608200,36917004,CPRD_AURUM
+495721011,Fordyce's disease of mouth,PA25.11,50584008,CPRD_AURUM
+313821010,Other specified oesophageal atresia, stenosis or fistula,PA3y.00,268201001,CPRD_AURUM
+313970013,Congenital intestinal adhesions,PB40.00,204748003,CPRD_AURUM
+270695012,Division of annular pancreas,7838000,174746008,CPRD_AURUM
+130060018,Intrahepatic gallbladder,PB6y400,78372005,CPRD_AURUM
+32673011,Pancreatic heterotopia,PB76.00,19387007,CPRD_AURUM
+215591000000118,Atresia large intestine,PB2..11,204711007,CPRD_AURUM
+862881000006111,Abdom.repair diaphrag. hernia,760K399,564111000000109,CPRD_AURUM
+50988015,Dolichocolon,PB51.00,30468000,CPRD_AURUM
+400844016,Congenital malposition of digestive system NOS,PBy2.00,69518005,CPRD_AURUM
+3328461000006118,Congenital atresia of duodenum,,51118003,CPRD_AURUM
+400834018,Hirschsprung's disease and allied congenital conditions,PB3..00,268208007,CPRD_AURUM
+314014018,Liver and biliary system anomalies, unspecified,PB60.00,268213006,CPRD_AURUM
+371561000006119,[X]Cong absence/atresia/stenos oth spec parts small intest,Pyu5700,253764008,CPRD_AURUM
+24530017,Congenital stenosis of small intestine,PB13.00,14430002,CPRD_AURUM
+14128271000006116,Agenesis of gallbladder,null,302953002,CPRD_AURUM
+94252016,Diaphragmatic hernia with gangrene,J340.00,56676008,CPRD_AURUM
+275282011,Other repair of diaphragm NOS,7H0Dz00,69455007,CPRD_AURUM
+4826861000006115,Congenital pancreatic cyst,,204808002,CPRD_AURUM
+3680301000006112,Repair of diaphragmatic hernia by thoracic approach,,72583007,CPRD_AURUM
+3760691000006115,Atresia of bile ducts,,77480004,CPRD_AURUM
+313932014,Congenital stricture of anus NOS,PB24z00,204723001,CPRD_AURUM
+314078014,Duplication of digestive system NOS,PBy1.00,69518005,CPRD_AURUM
+2560311000006113,Congenital duplication of intestine,,3845008,CPRD_AURUM
+7237701000006113,Choledochal cyst,null,440471007,CPRD_AURUM
+5333991000006117,Congenital malformation of tongue, mouth and pharynx,,253750008,CPRD_AURUM
+314046018,Liver or biliary duplication NOS,PB64z00,204790009,CPRD_AURUM
+302209016,Fistula of sublingual gland,J074200,196497007,CPRD_AURUM
+6207961000006119,Repair of paraoesophageal diaphragmatic hernia,null,359908007,CPRD_AURUM
+12704171000006110,Congenital atresia of large intestine,,204711007,CPRD_AURUM
+5571331000006119,Congenital malformation of upper alimentary tract,,275262008,CPRD_AURUM
+2986461000006110,Closure of oesophageal fistula,,30215008,CPRD_AURUM
+313882017,Congenital absence of jejunum,PB11100,204696007,CPRD_AURUM
+6207971000006114,Repair of paraesophageal diaphragmatic hernia,,359908007,CPRD_AURUM
+4056611000006116,TOF - Tracheo-oesophageal fistula,,95435007,CPRD_AURUM
+302858011,Diaphragmatic hernia NOS,J34z.00,39839004,CPRD_AURUM
+313742015,Other tongue anomalies,PA1..00,60447007,CPRD_AURUM
+740781000006110,Liver anomalies,PB6..14,235856003,CPRD_AURUM
+377890019,Gallbladder anomalies,PB6..13,49714001,CPRD_AURUM
+719761000006119,Malrotation of gut,PB4z.12,29980002,CPRD_AURUM
+9640011,Ectopic anus,PB54.00,5153001,CPRD_AURUM
+502291018,Fibrocystic liver disease,PB62100,72925005,CPRD_AURUM
+2804981000006110,Oesophageal web,,19216006,CPRD_AURUM
+314015017,Liver anomaly, unspecified,PB60000,235856003,CPRD_AURUM
+313972017,Malrotation of colon and caecum,PB41.00,204750006,CPRD_AURUM
+124279011,Persistent cloaca,PB58.00,74829002,CPRD_AURUM
+314069015,Other specified anomalies of pancreas,PB7y.00,204805004,CPRD_AURUM
+313926016,Congenital stricture of anus,PB24.00,204723001,CPRD_AURUM
+660151000006116,Extrahepatic atresia of bile duct,PB61412,82821008,CPRD_AURUM
+63841017,Annular pancreas,PB74.00,40315008,CPRD_AURUM
+313927013,Congenital anal stricture,PB24.11,204723001,CPRD_AURUM
+492096013,Congenital rectal stricture,PB25.11,39476006,CPRD_AURUM
+497761000006116,Atresia of rectum,PB21200,91375006,CPRD_AURUM
+193061000006113,Reanastomosis rectum-anal canal correct cong rectal atresia,7733300,174349004,CPRD_AURUM
+400836016,Intestinal fixation anomaly NOS,PB4z.00,69248007,CPRD_AURUM
+1229431010,Duplication of intestine,PB52.00,3845008,CPRD_AURUM
+6852691000006119,Oesophageal diverticulum,,414133009,CPRD_AURUM
+863991000006111,Imperforate anus repair,7733299,265432003,CPRD_AURUM
+497371000006112,Atresia and stenosis of large intestine/rectum/anus NOS,PB2z.00,268205005,CPRD_AURUM
+313894014,Small intestine atresia or stenosis NOS,PB1z.00,204691002,CPRD_AURUM
+3760671000006116,Congenital biliary atresia,,77480004,CPRD_AURUM
+862871000006113,Thoracic repair diaphr.hernia,760K199,537571000000105,CPRD_AURUM
+1227974013,Hypoplasia of tongue,PA15.11,32614006,CPRD_AURUM
+76377011,Congenital cardiospasm,PA70.00,45798009,CPRD_AURUM
+4826461000006118,Congenital anal stenosis,,204723001,CPRD_AURUM
+1226383015,Congenital peritoneal adhesions,PB40200,29642000,CPRD_AURUM
+249511000006112,Pancreatic cyst, congenital,PB77.00,204808002,CPRD_AURUM
+313931019,Congenital stenosis of anus without mention of fistula,PB24111,529311000000103,CPRD_AURUM
+313807013,Congenital oesophageal fistula NOS,PA32z00,204652007,CPRD_AURUM
+234461000006112,Perinatal jaundice due to congenital obstruction bile duct,Q435000,206469004,CPRD_AURUM
+1216114010,Exteriorisation of pouch of oesophagus,7607000,20880009,CPRD_AURUM
+3626131000006113,Congenital malformation of intestinal fixation,,69248007,CPRD_AURUM
+494677011,Duplication of gallbladder,PB64200,46907007,CPRD_AURUM
+2813201000006113,Correction of oesophageal atresia,,19725004,CPRD_AURUM
+313936012,Congenital stenosis of rectum with fistula,PB25011,204728005,CPRD_AURUM
+313971012,Congenital intestinal adhesions NOS,PB40z00,28941001,CPRD_AURUM
+3090291000006118,Congenital duplication of cystic duct,,36619004,CPRD_AURUM
+3872381000006119,TOF - Closure of tracheo-oesophageal fistula,,84354004,CPRD_AURUM
+588101000006112,Congenital stomach displacement,PA72.00,89378007,CPRD_AURUM
+5721281000006111,Complicated diaphragmatic hernia,,286972004,CPRD_AURUM
+5083501000006114,Mid-oesophageal diverticulum,,235637006,CPRD_AURUM
+3847451000006117,Extrahepatic biliary atresia,,82821008,CPRD_AURUM
+481333012,Webbed oesophagus,PA34.00,22395006,CPRD_AURUM
+497721000006110,Atresia of oesophagus with tracheo-oesophageal fistula,PA37.00,204659003,CPRD_AURUM
+502288018,Congenital hepatic cyst,PB62.11,72925005,CPRD_AURUM
+1777751014,Congenital choledochal cyst,PB6y000,398197009,CPRD_AURUM
+313756018,Other tongue anomalies NOS,PA1z.00,60447007,CPRD_AURUM
+313857017,Unspecified anomalies of oesophagus,PAz1.00,69771008,CPRD_AURUM
+313847018,Congenital pyloric obstruction NOS,PA5z.00,204671009,CPRD_AURUM
+313850015,Ectopic gastric mucosa,PA78.00,204676004,CPRD_AURUM
+313825018,Other specified oesophageal anomalies,PA4..00,69771008,CPRD_AURUM
+303104010,Stenosis of intestine NOS,J50z200,23065003,CPRD_AURUM
+400826012,Oesophageal atresia, stenosis and fistula,PA3..00,268201001,CPRD_AURUM
+497511000006114,Atresia of colon,PB21100,37054000,CPRD_AURUM
+11743018,Malrotation of colon,PB41000,6477005,CPRD_AURUM
+269035016,Other specified repair of diaphragmatic hernia,760Ky00,112977000,CPRD_AURUM
+377880010,Congenital redundant colon,PB52z12,253794002,CPRD_AURUM
+268771019,Closure of fistula of oesophagus NEC,7606100,30215008,CPRD_AURUM
+138101000006113,Soave endorectal pull through op for Hirschsprung's disease,7726y12,275014009,CPRD_AURUM
+314040012,Congenital cystic liver disease NOS,PB62z00,72925005,CPRD_AURUM
+313999015,Enterogenous cyst,PB5A.00,204766008,CPRD_AURUM
+313757010,Other specified mouth and pharynx anomalies,PA2..00,253750008,CPRD_AURUM
+2759621000006111,Congenital duodenal stenosis,,16376000,CPRD_AURUM
+400828013,Other specified stomach anomaly NOS,PA7z.00,60699003,CPRD_AURUM
+768541000006118,Intrahepatic atresia of bile duct,PB61411,253807009,CPRD_AURUM
+588111000006110,Congenital stomach diverticulum,PA73.00,90669003,CPRD_AURUM
+314063019,Other liver or biliary system anomalies NOS,PB6yz00,268213006,CPRD_AURUM
+1227818016,Closure of fistula of salivary gland,7543100,3166003,CPRD_AURUM
+400837013,Duplication of intestine NOS,PB52z00,3845008,CPRD_AURUM
+24531018,Congenital stricture of small intestine,PB13z11,14430002,CPRD_AURUM
+377829014,Malformation of throat,PAzz.11,253759009,CPRD_AURUM
+314034017,Atresia of hepatic ducts,PB61600,204782009,CPRD_AURUM
+44076018,Congenital obstruction of small intestine,PB12.00,26315009,CPRD_AURUM
+313977011,Malrotation of colon or caecum NOS,PB41z00,204750006,CPRD_AURUM
+2914441000006118,Congenital atresia of ileum,,25896009,CPRD_AURUM
+315725012,[X]Other congenital functional disorders of colon,Pyu5A00,253778009,CPRD_AURUM
+585281000006119,Congenital stenosis of anus with fistula,PB24011,204724007,CPRD_AURUM
+315717010,[X]Other congenital malformations of pharynx,Pyu5300,11223009,CPRD_AURUM
+314052017,Congenital diverticulum of bile duct,PB6y800,204798002,CPRD_AURUM
+313752016,Dislocation of tongue,PA16.00,204629008,CPRD_AURUM
+315720019,[X]Other specified congenital malformations of stomach,Pyu5500,60699003,CPRD_AURUM
+314032018,Congenital absence of hepatic ducts,PB61500,204781002,CPRD_AURUM
+313967014,Hirschsprung's disease and allied congenital conditions NOS,PB3z.00,268208007,CPRD_AURUM
+400829017,Anomalies of upper alimentary tract NOS,PAzz.00,275262008,CPRD_AURUM
+1226382013,Congenital peritoneal bands,PB40211,29642000,CPRD_AURUM
+313929011,Congenital stricture of anus with fistula,PB24000,204724007,CPRD_AURUM
+46898011,Jackson's membrane,PB40100,28016005,CPRD_AURUM
+371551000006116,[X]Cong absence/atresia/stenos of other parts large intest,Pyu5800,440201000000105,CPRD_AURUM
+3872371000006117,Ligation of tracheo-oesophageal fistula,,84354004,CPRD_AURUM
+313939017,Congenital stricture of rectum NOS,PB25z00,39476006,CPRD_AURUM
+103171017,Congenital hourglass stomach,PA71.00,62058003,CPRD_AURUM
+474201000006111,Aglossia - adactyly syndrome,PKy7600,205817005,CPRD_AURUM
+313808015,Imperforate oesophagus,PA33.00,26179002,CPRD_AURUM
+19235010,Congenital fistula of lip,PA24.00,11102005,CPRD_AURUM
+632271000006111,Duplication of biliary duct,PB64000,56013008,CPRD_AURUM
+313755019,Congenital plicated tongue,PA18.00,204631004,CPRD_AURUM
+5503601000006113,Congenital abnormality of liver and/or biliary tract,,268213006,CPRD_AURUM
+3358061000006111,Repair of diaphragmatic hernia by abdominal approach,,52917009,CPRD_AURUM
+377872015,Malfixation of gut NEC,PB4z.11,29980002,CPRD_AURUM
+313881012,Congenital absence of duodenum,PB11000,204695006,CPRD_AURUM
+313937015,Congenital stenosis of rectum without mention of fistula,PB25111,39476006,CPRD_AURUM
+4826011000006112,Tracheo-oesophageal fistula with atresia of oesophagus,,204659003,CPRD_AURUM
+2887671000006111,Congenital dilatation of colon,,24291004,CPRD_AURUM
+4826571000006112,HD - Hirschsprung's disease,,204739008,CPRD_AURUM
+497711000006119,Atresia of oesophagus,PA30.00,26179002,CPRD_AURUM
+313943018,Imperforate anus NOS,PB26z00,204731006,CPRD_AURUM
+400825011,Other anomalies of salivary glands or ducts,PA29.00,253755003,CPRD_AURUM
+302849016,Simple diaphragmatic hernia,J343.00,196905002,CPRD_AURUM
+1230945013,Atresia of duodenum,PB10100,51118003,CPRD_AURUM
+484455019,Malrotation of intestine,PB4z.13,29980002,CPRD_AURUM
+313822015,Oesophageal atresia, stenosis or fistula NOS,PA3z.00,268201001,CPRD_AURUM
+269033011,Repair of diaphragmatic hernia using abdominal approach NEC,760K300,52917009,CPRD_AURUM
+314035016,Biliary atresia NOS,PB61z00,77480004,CPRD_AURUM
+314070019,Anomalies of pancreas NOS,PB7z.00,204805004,CPRD_AURUM
+313959018,Short segment Hirschsprung's disease,PB30100,204741009,CPRD_AURUM
+313979014,Other anomalies of mesentery,PB43.00,52159006,CPRD_AURUM
+221911000000112,Oesophagotracheal fistula,PA32100,95435007,CPRD_AURUM
+313859019,Unspecified anomalies of stomach,PAz2.00,60699003,CPRD_AURUM
+32672018,Ectopic pancreas,PB75.00,19387007,CPRD_AURUM
+313773016,Other pharynx anomalies,PA27.00,11223009,CPRD_AURUM
+313846010,Other specified congenital pyloric obstruction,PA5y.00,204671009,CPRD_AURUM
+1228673018,Duplication of cystic duct,PB64100,36619004,CPRD_AURUM
+315714015,[X]Other congenital malformations of tongue,Pyu5000,60447007,CPRD_AURUM
+2813221000006115,Repair oesophageal atresia,,19725004,CPRD_AURUM
+313986018,Other anomalies of intestine,PB5..00,31686000,CPRD_AURUM
+410938013,Swenson Hirschsprung proctect,7726y13,174240003,CPRD_AURUM
+23120013,Fistula of lip,J085200,13538003,CPRD_AURUM
+143463011,Congenital absence of gallbladder,PB63000,86507001,CPRD_AURUM
+313901013,Congenital absence of anus with fistula,PB20300,204708006,CPRD_AURUM
+497911000006116,Atresia, salivary duct,PA22.00,23512004,CPRD_AURUM
+313904017,Atresia of large intestine,PB21.00,204711007,CPRD_AURUM
+578711000006115,Cong.absence of oesophagus with tracheo-oesophageal fistula,PA36.00,204658006,CPRD_AURUM
+500545018,Congenital duplication of oesophagus,PA43.00,66865009,CPRD_AURUM
+313965018,Total intestinal aganglionosis,PB33.00,204745000,CPRD_AURUM
+3096911000006118,Congenital atresia of colon,,37054000,CPRD_AURUM
+4826271000006114,Congenital ileal stenosis,,204700004,CPRD_AURUM
+315718017,[X]Other congenital malformations of oesophagus,Pyu5400,69771008,CPRD_AURUM
+2574091000006117,Congenital anomaly of bile ducts,,4711003,CPRD_AURUM
+4826781000006115,Congenital atrophy of left lobe of liver,,204788008,CPRD_AURUM
+37912016,Congenital absence of salivary gland,PA20.00,22589009,CPRD_AURUM
+3490751000006114,Congenital oesophagotracheal fistula,,60983006,CPRD_AURUM
+49566012,Imperforate pharynx,PA27000,29632002,CPRD_AURUM
+315726013,[X]Other specified congenital malformations of intestine,Pyu5B00,31686000,CPRD_AURUM
+5078271000006118,Correction of malrotation of intestine,,235296009,CPRD_AURUM
+511611000006113,Bile duct atresia,PB61.11,77480004,CPRD_AURUM
+4194241000006110,Congenital dilatation of lobar intrahepatic bile duct,,111331000,CPRD_AURUM
+313916011,Atresia of large intestine NOS,PB21z00,204711007,CPRD_AURUM
+66984012,Transposition of intestine,PB53.00,39719008,CPRD_AURUM
+5076371000006111,Primary repair of oesophageal atresia,,235173003,CPRD_AURUM
+400830010,Congenital stenosis of small intestine NOS,PB13z00,14430002,CPRD_AURUM
+313938013,Congenital stricture of rectum without mention of fistula,PB25100,39476006,CPRD_AURUM
+187741017,Pharyngeal pouch,PA26.11,111328001,CPRD_AURUM
+313741010,Other congenital upper alimentary tract anomalies,PA...00,69518005,CPRD_AURUM
+2672541019,Tracheo-oesophageal fistula,J10y200,95435007,CPRD_AURUM
+502290017,Congenital polycystic liver disease,PB62000,72925005,CPRD_AURUM
+313782010,Other anomaly of lip NOS,PA2Az00,109549008,CPRD_AURUM
+313942011,Imperforate anus with fistula,PB26000,204716002,CPRD_AURUM
+377891015,Biliary anomalies,PB6..12,253804002,CPRD_AURUM
+484531014,Repair of congenital diaphragmatic hernia,7H0D300,30273008,CPRD_AURUM
+197005012,Stenosis of oesophagus,J103.11,63305008,CPRD_AURUM
+100785015,Stenosis of rectum,J572000,60658009,CPRD_AURUM
+505006016,Repair of stricture of oesophagus,7607300,82293009,CPRD_AURUM
+483069019,Atresia of ileum,PB10200,25896009,CPRD_AURUM
+2918991000006114,Oesophageal atresia,,26179002,CPRD_AURUM
+377871010,Congenital volvulus,PB5z.11,253786009,CPRD_AURUM
+314064013,Liver or biliary system anomalies NOS,PB6z.00,268213006,CPRD_AURUM
+473991000006114,Agenesis of rectum,PB20211,25972003,CPRD_AURUM
+66213017,Congenital stricture of rectum,PB25.00,39476006,CPRD_AURUM
+419017014,Congenital stricture of common bile duct,PB61311,281095009,CPRD_AURUM
+2676208018,Fibreoptic endoscopic dilation of web of oesophagus,760D400,426532008,CPRD_AURUM
+62350016,Persistent omphalomesenteric duct,PB03.00,37373007,CPRD_AURUM
+498341000006117,Atrophy of left lobe of liver,PB6y600,204788008,CPRD_AURUM
+377824016,Displacement of Wharton's duct,PA29.11,253756002,CPRD_AURUM
+313855013,Upper alimentary tract anomalies NOS,PAz..00,275262008,CPRD_AURUM
+377879012,Congenital redundant rectal mucosa,PB52z11,253793008,CPRD_AURUM
+313888018,Congenital stenosis of ileum,PB13200,204700004,CPRD_AURUM
+15836014,Transposition of colon,PB53300,8986002,CPRD_AURUM
+268780019,Repair of oesophagus NOS,7606z00,22997007,CPRD_AURUM
+893081000006111,Congen. oesophagus atresia,PA30.99,26179002,CPRD_AURUM
+113108015,Congenital hypoplasia of bile duct,PB61100,68094008,CPRD_AURUM
+377832012,Congenital oesophageal ring,PA3..11,253760004,CPRD_AURUM
+5334151000006112,Congenital stenosis of oesophagus,,253760004,CPRD_AURUM
+303195018,Secondary megacolon - congenital,J527100,197140007,CPRD_AURUM
+313753014,Cleft tongue,PA17.00,204630003,CPRD_AURUM
+314018015,Unspecified liver and biliary system anomaly NOS,PB60z00,268213006,CPRD_AURUM
+90981000006118,Transposition of stomach,PA77.00,15135007,CPRD_AURUM
+1229811016,Duplication of anus,PB52100,4195003,CPRD_AURUM
+3872351000006110,Repair of tracheo-oesophageal fistula,,84354004,CPRD_AURUM
+10075016,Transposition of appendix,PB53100,5432003,CPRD_AURUM
+315713014,[X]Other congenital malformations of the digestive system,Pyu5.00,69518005,CPRD_AURUM
+2987391000006110,Repair of neonatal diaphragmatic hernia,,30273008,CPRD_AURUM
+313925017,Congenital occlusion of anus NOS,PB23z00,69817007,CPRD_AURUM
+131152013,Accessory pancreas,PB73.00,79037006,CPRD_AURUM
+313966017,Congenital aganglionic megacolon,PB33.12,204739008,CPRD_AURUM
+269217018,Incision of pylorus NOS,761Bz00,173788005,CPRD_AURUM
+4785271000006111,Obstructed diaphragmatic hernia,,196903009,CPRD_AURUM
+784401000006114,Imperforate rectum with fistula,PB27000,204717006,CPRD_AURUM
+505053018,Giant oesophagus,PA44.00,82393007,CPRD_AURUM
+2875311000006112,Atresia of salivary duct,,23512004,CPRD_AURUM
+313892013,Imperforate jejunum,PB14.00,204702007,CPRD_AURUM
+3634431000006114,Congenital anomaly of oesophagus,,69771008,CPRD_AURUM
+2813231000006117,OA - Repair oesophageal atresia,,19725004,CPRD_AURUM
+3626111000006119,Congenital anomaly of fixation of intestine,,69248007,CPRD_AURUM
+119154018,Accessory liver,PB64311,71728002,CPRD_AURUM
+221931000000116,Congenital dilatation colon,PB3..12,24291004,CPRD_AURUM
+371541000006118,[X]Cong abs, atresia & stenosis of large intest, part unsp,Pyu5900,452001000000101,CPRD_AURUM
+2739871000006110,Congenital transposition of stomach,,15135007,CPRD_AURUM
+5089001000006116,Sliding diaphragmatic hernia,,236053002,CPRD_AURUM

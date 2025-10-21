@@ -1,0 +1,386 @@
+MEDICAL_CODE_ID,DESCRIPTION,READ_CODE,SNOMED_CT_CODE,DATABASE
+97439016,Pseudoporencephaly,F280200,58638006,CPRD_AURUM
+102746015,Rachischisis,P11z.11,61819007,CPRD_AURUM
+130732014,Amyelia,P25y000,78784005,CPRD_AURUM
+312788016,Spinal hydromeningocele,P111.00,203967002,CPRD_AURUM
+312942019,Congenital adhesions of cerebral meninges,P245.00,204072001,CPRD_AURUM
+312795013,Cervical hydromyelocele,P112100,203974007,CPRD_AURUM
+376984010,Hydroencephalocele,P20..11,53776005,CPRD_AURUM
+376995016,Rachischisis with hydrocephalus,P102.14,253113003,CPRD_AURUM
+892761000006113,Anencephalus et al,P0...99,203922009,CPRD_AURUM
+903521000006110,Encephalocele repair,7031099,171702004,CPRD_AURUM
+1727681000006115,Congenital hypoplasia of cerebrum,,1727681000006104,CPRD_AURUM
+2329491000000117,Excision of syncipital encephalocele,700A311,905981000000107,CPRD_AURUM
+2328841000000118,Repair of post-traumatic meningoencephalocele,700A200,905671000000103,CPRD_AURUM
+312798010,Hydromyelocele NOS,P112z00,38116000,CPRD_AURUM
+312777010,Other spina bifida with hydrocephalus NOS,P10yz00,67531005,CPRD_AURUM
+312737019,Iniencephaly NOS,P02z.00,2438005,CPRD_AURUM
+312816018,Myelocystocele of unspecified site,P116000,203994003,CPRD_AURUM
+312738012,Anencephalus and similar anomalies NOS,P0z..00,89369001,CPRD_AURUM
+312880017,Aplasia of brain, part unspecified,P221.00,204032005,CPRD_AURUM
+312789012,Spinal hydromeningocele, unspecified,P111000,203967002,CPRD_AURUM
+400760014,Spina bifida without mention of hydrocephalus, unspecified,P110.00,67531005,CPRD_AURUM
+400759016,Spina bifida with hydrocephalus - closed NOS,P103z00,203946002,CPRD_AURUM
+255141000006118,Open iniencephaly,P021.00,203928008,CPRD_AURUM
+645271000006118,Enlarged brain,P241.12,9740002,CPRD_AURUM
+312785018,Thoracic spina bifida without mention of hydrocephalus,P110200,528711000000105,CPRD_AURUM
+312832015,Spina bifida without hydrocephalus - open NOS,P117z00,268146009,CPRD_AURUM
+377003010,Thoracolumbar spina bifida with hydrocephalus - closed,P103z11,253118007,CPRD_AURUM
+312827016,Unspecified spina bifida without hydrocephalus - open,P117000,67531005,CPRD_AURUM
+3200351000006114,Congenital hemiplegia,,43486001,CPRD_AURUM
+7560631000006114,Microcephaly-oculo-digito-oesophageal-duodenal syndrome,,702431004,CPRD_AURUM
+3937041000006116,Congenital malformation of the nervous system,,88425004,CPRD_AURUM
+3504541000006119,Rachischisis (neural tube birth defect),,61819007,CPRD_AURUM
+3018711000006116,Craniorachischisis (fissure skull/vertebral column),,32219008,CPRD_AURUM
+3834411000006112,Syringomyelocele,,82058009,CPRD_AURUM
+5614431000006110,Repair of spinal meningocele using distant flap,null,278540006,CPRD_AURUM
+7577251000006111,Microcephaly, mental retardation and distinct features, with or without Hirschsprung disease,,703535000,CPRD_AURUM
+2754211000006119,Congenital hypoplasia of cerebellum,,16026008,CPRD_AURUM
+3818281000006118,Congenital lesion of spinal cord,,81042008,CPRD_AURUM
+3142351000006117,Spastic congenital paraplegia,,39912006,CPRD_AURUM
+3781461000006119,Amyelia (congenital absence of spinal cord),,78784005,CPRD_AURUM
+11903421000006110,Suspected fetal anencephaly,,609416008,CPRD_AURUM
+3720631000006111,Amyelencephalus,,75076004,CPRD_AURUM
+7560621000006111,Microcephaly-oculo-digito-esophageal-duodenal syndrome,,702431004,CPRD_AURUM
+3298381000006119,Diastematomyelia (congenital defect of spinal cord),,49351009,CPRD_AURUM
+2578301000006115,Polymicrogyria,,4945003,CPRD_AURUM
+2748591000006115,Orbital encephalocele,,15671007,CPRD_AURUM
+4823041000006116,Lissencephaly syndrome,,204036008,CPRD_AURUM
+12010231000006112,Agenesis of corpus callosum and abnormal genitalia syndrome,null,763797003,CPRD_AURUM
+12035841000006116,Bilateral polymicrogyria,null,765757003,CPRD_AURUM
+13501631000006112,Polymicrogyria with optic nerve hypoplasia,null,771336003,CPRD_AURUM
+13792081000006112,Fetal spina bifida suspected,null,237152002,CPRD_AURUM
+14132561000006112,Bilateral megalencephaly,null,879919001,CPRD_AURUM
+3372001000006111,Hydrencephalocele,,53776005,CPRD_AURUM
+5326531000006117,Total agenesis of cerebellum,,253172000,CPRD_AURUM
+2998361000006116,Familial alobar holoprosencephaly,,30915001,CPRD_AURUM
+11925091000006113,Microgyria,,4945003,CPRD_AURUM
+7497601000006110,Suspected foetal anencephaly,,609416008,CPRD_AURUM
+3418411000006116,Congenital ulegyria,,56531003,CPRD_AURUM
+3371841000006110,Meningeorrhaphy for spinal meningocele,,53766007,CPRD_AURUM
+3937011000006115,Congenital disease of nervous system,,88425004,CPRD_AURUM
+5326711000006116,Arnold Chiari type 3,,253186001,CPRD_AURUM
+4822501000006117,Iniencephaly - open,,203928008,CPRD_AURUM
+3598571000006116,Posterior rachischisis,,67531005,CPRD_AURUM
+12731901000006113,Anencephalus and similar anomalies NOS,,568221000000103,CPRD_AURUM
+892771000006118,Anencephalus et al NOS,P0z..99,568221000000103,CPRD_AURUM
+376982014,Congenital endaural hernia,P20..14,253100009,CPRD_AURUM
+377001012,Fissured spine with hydrocephalus,P102.11,253116006,CPRD_AURUM
+312784019,Cervical spina bifida without mention of hydrocephalus,P110100,32232003,CPRD_AURUM
+3018891000006115,Spina bifida of cervical region,,32232003,CPRD_AURUM
+4823291000006117,Congenital hypoplasia of spinal cord,,204081007,CPRD_AURUM
+3372011000006114,Hydrocephalocele,,53776005,CPRD_AURUM
+4823031000006114,Lissencephaly pachygyria,,204036008,CPRD_AURUM
+3937021000006111,Congenital lesion of nervous system,,88425004,CPRD_AURUM
+3818271000006116,Congenital disease of spinal cord,,81042008,CPRD_AURUM
+3428721000006113,Congenital anomaly of brain,,57148006,CPRD_AURUM
+12729881000006114,Other nervous system congenital anomalies,,654891000000106,CPRD_AURUM
+312757015,Unspecified spina bifida with hydrocephalus - open,P102000,268143001,CPRD_AURUM
+2329481000000119,Excision of sincipital encephalocele,700A300,905981000000107,CPRD_AURUM
+508479016,Congenital absence of brain,P00..11,89369001,CPRD_AURUM
+671061000006116,Fetus with central nervous system malformation + a/n problem,L250200,267252001,CPRD_AURUM
+3937031000006114,Congenital deformity of nervous system,,88425004,CPRD_AURUM
+7560611000006115,Microcephaly-mesobrachyphalangy-tracheoesophageal fistula syndrome,,702431004,CPRD_AURUM
+2748581000006118,Encephalocele of orbit,,15671007,CPRD_AURUM
+2511651000006110,Late congenital syphilis, latent (positive serology - cerebrospinal fluid, 2 years OR more),,827006,CPRD_AURUM
+312764018,Unspecified spina bifida with hydrocephalus - closed,P103000,203946002,CPRD_AURUM
+312810012,Myelocele of unspecified site,P115000,82058009,CPRD_AURUM
+312820019,Myelocystocele NOS,P116z00,203994003,CPRD_AURUM
+3750581000006114,Cryptomerorachischisis,,76916001,CPRD_AURUM
+1805931000006112,Disorder of neuronal migration and differentiation,,253146009,CPRD_AURUM
+376997012,Hydromyelocele with hydrocephalus,P102.12,253115005,CPRD_AURUM
+312766016,Thoracic spina bifida with hydrocephalus - closed,P103200,203949009,CPRD_AURUM
+312735010,Iniencephaly - closed,P020.00,203927003,CPRD_AURUM
+106831000006116,Thoracic spinal hydromeningocele,P111200,415713009,CPRD_AURUM
+5103921000006117,Suspect foetal spina bifida,,237152002,CPRD_AURUM
+6382981000006119,Arnold Chiari type 2,,373587001,CPRD_AURUM
+3018901000006116,Cervical spina bifida,,32232003,CPRD_AURUM
+5657571000006110,Congenital hydrocephalus caused by toxoplasmosis,,281899002,CPRD_AURUM
+12731071000006118,Nervous system anomalies NOS,,659731000000100,CPRD_AURUM
+12718061000006113,Spina bifida without mention of hydrocephalus,,528691000000108,CPRD_AURUM
+196761000006117,Rachischisis,P117.12,61819007,CPRD_AURUM
+53817017,Craniorachischisis,P01..00,32219008,CPRD_AURUM
+149231000006119,Septo-optic dysplasia,P246.00,7611002,CPRD_AURUM
+312877018,Microcephalus NOS,P21z.00,1829003,CPRD_AURUM
+907421000006117,[RFC] Spina bifida,,907421000006101,CPRD_AURUM
+89369017,Closure of spinal meningocele,7043200,53766007,CPRD_AURUM
+377050018,Schizencephaly,P240200,253159001,CPRD_AURUM
+9257015,Microgyria,P226.00,4945003,CPRD_AURUM
+1780250018,Dysplasia of cerebral cortex,P247.00,253153000,CPRD_AURUM
+312762019,Spina bifida with hydrocephalus - open NOS,P102z00,268143001,CPRD_AURUM
+497600015,Congenital monoplegia,F233.00,56409008,CPRD_AURUM
+126061000006112,Stenosis of aqueduct of Sylvius,P230.12,50429003,CPRD_AURUM
+265956014,Repair of meningoencephalocele,7031000,171702004,CPRD_AURUM
+315656014,[X]Other specified congenital malformations of brain,Pyu0300,88425004,CPRD_AURUM
+215901000006110,Porencephaly,P243.00,38837006,CPRD_AURUM
+788511000006115,Hypoplasia of cerebellum,P22A100,16026008,CPRD_AURUM
+315657017,[X]Unspecified spina bifida with hydrocephalus,Pyu0400,53318002,CPRD_AURUM
+829841000006118,Hydrocephauls with anomaly of aqueduct of Sylvius,P230.11,253133004,CPRD_AURUM
+312760010,Lumbar spina bifida with hydrocephalus - open,P102300,203943005,CPRD_AURUM
+315659019,[X]Other specified congenital malformations of spinal cord,Pyu0600,81042008,CPRD_AURUM
+312800015,Spinal meningocele of unspecified site,P113000,171131006,CPRD_AURUM
+312879015,Agenesis of brain, part unspecified,P220.00,204032005,CPRD_AURUM
+306579019,Fetus with central nervous system malformation NOS,L250z00,267252001,CPRD_AURUM
+607741000006116,Dandy - Walker syndrome with spina bifida,P10y000,203957007,CPRD_AURUM
+312871017,Encephalocele NOS,P20z.00,55999004,CPRD_AURUM
+50237013,Hydranencephaly,P234.00,30023002,CPRD_AURUM
+377064018,Agenesis of cerebellum,P22A011,253172000,CPRD_AURUM
+315658010,[X]Other congenital cauda equina malformations,Pyu0500,935481000000105,CPRD_AURUM
+266441019,Congenital hernia of dura mater,P11z.14,172069000,CPRD_AURUM
+134831000006116,Spina bifida without hydrocephalus, site unspecified,P110000,67531005,CPRD_AURUM
+420058012,Congenital hydrocephalus due to toxoplasmosis,Q402311,281899002,CPRD_AURUM
+400761013,Spina bifida without hydrocephalus - open,P117.00,268146009,CPRD_AURUM
+376993011,Thoracolumbar spina bifida without hydrocephalus - closed,P118z11,253111001,CPRD_AURUM
+89382013,Encephalocystocele,P200.00,53776005,CPRD_AURUM
+829831000006111,Hydrocephalus with atresia of foramina of Magendie+Luschka,P233.12,14447001,CPRD_AURUM
+4822661000006115,Dandy-Walker syndrome with spina bifida,,203957007,CPRD_AURUM
+3952621000006116,Anencephaly,,89369001,CPRD_AURUM
+312829018,Thoracic spina bifida without hydrocephalus - open,P117200,204004001,CPRD_AURUM
+6206931000006113,Incomplete anencephaly,,359824007,CPRD_AURUM
+2580951000006111,ACC - Agenesis of corpus callosum,,5102002,CPRD_AURUM
+312790015,Cervical spinal hydromeningocele,P111100,203969004,CPRD_AURUM
+72531016,Congenital hemiplegia,F231.00,1593000,CPRD_AURUM
+312852019,Spina bifida NOS,P1z..00,67531005,CPRD_AURUM
+493453016,Closure of spinal myelomeningocele,7043100,42839003,CPRD_AURUM
+2478759015,Congenital brain anomaly,P2y0.00,57148006,CPRD_AURUM
+17037019,Macroencephaly,P241.00,9740002,CPRD_AURUM
+497571000006117,Atresia of foramina of Magendie and Luschka,P233.00,14447001,CPRD_AURUM
+312894016,Hypoplasia of corpus callosum,P228100,204043002,CPRD_AURUM
+312734014,Anencephalus NOS,P00z.00,89369001,CPRD_AURUM
+136110016,Myelocele,P115.00,82058009,CPRD_AURUM
+355472012,Suspect fetal spina bifida,L250.13,237152002,CPRD_AURUM
+42590014,Aqueduct of Sylvius anomaly,P230.00,25397008,CPRD_AURUM
+312883015,Agyria,P223.00,204036008,CPRD_AURUM
+315652011,[X]Congenital malformations of the nervous system,Pyu0.00,88425004,CPRD_AURUM
+2325911000000118,Excision of basal encephalocele,700A000,904371000000105,CPRD_AURUM
+20216019,Hemicephaly,P002.00,359824007,CPRD_AURUM
+400763011,Other specified spina bifida without hydrocephalus,P11y.00,67531005,CPRD_AURUM
+551481000000119,Congenital suprabulbar paresis,F23y511,716335003,CPRD_AURUM
+312759017,Thoracic spina bifida with hydrocephalus - open,P102200,203942000,CPRD_AURUM
+312892017,Anomaly of cerebrum NOS,P227z00,204039001,CPRD_AURUM
+312970017,Agenesis of nerve NEC,P2xz000,111338006,CPRD_AURUM
+312925013,Foramen of Luschka atresia,P232.00,204062004,CPRD_AURUM
+312833013,Spina bifida without hydrocephalus - closed,P118.00,204008003,CPRD_AURUM
+51767013,Arhinencephaly,P224.00,30915001,CPRD_AURUM
+312834019,Unspecified spina bifida without hydrocephalus - closed,P118000,204008003,CPRD_AURUM
+773321000006118,Insertion of Halber valve for spina bifida,7010111,82762009,CPRD_AURUM
+306348017,Hydrocephalic disproportion unspecified,L236000,199425009,CPRD_AURUM
+645281000006115,Enlarged brain,F28y200,9740002,CPRD_AURUM
+2998331000006113,Holoprosencephaly sequence,,30915001,CPRD_AURUM
+312773014,Spina bifida with hydrocephalus of late onset,P104.00,203954000,CPRD_AURUM
+315655013,[X]Other reduction deformities of brain,Pyu0200,204032005,CPRD_AURUM
+312837014,Thoracic spina bifida without hydrocephalus - closed,P118200,204011002,CPRD_AURUM
+3750591000006112,SBO - Spina bifida occulta,,76916001,CPRD_AURUM
+312794012,Hydromyelocele of unspecified site,P112000,38116000,CPRD_AURUM
+3818251000006114,Congenital anomaly of spinal cord,,81042008,CPRD_AURUM
+4159010,Microcephalus,P21..00,1829003,CPRD_AURUM
+546731000006111,Chiari's malformation,P6z..11,253184003,CPRD_AURUM
+312730017,Anencephalus and similar anomalies,P0...00,203922009,CPRD_AURUM
+1212054012,Chiari malformation type II,P101100,373587001,CPRD_AURUM
+2536429019,Congenital tethering of spinal cord,P252.00,70534000,CPRD_AURUM
+312898018,Anomalies of cerebellum,P22A.00,204047001,CPRD_AURUM
+19401010,Hydromyelia,P251.00,11197005,CPRD_AURUM
+312931011,Congenital hydrocephalus NOS,P23z.00,47032000,CPRD_AURUM
+490571000006116,Aqueduct of Sylvius stenosis,P230100,50429003,CPRD_AURUM
+297233015,Other congenital cerebral palsy,F23y.00,128188000,CPRD_AURUM
+236411000000112,Congenital dilated lateral ventricles of brain,P248.00,166071000000101,CPRD_AURUM
+315654012,[X]Other congenital hydrocephalus,Pyu0100,47032000,CPRD_AURUM
+400770011,Other specified anomalies of spinal cord,P25y.00,88425004,CPRD_AURUM
+377012012,Neuroenteric cyst,P25y.11,253127008,CPRD_AURUM
+312746013,Lumbar spina bifida with hydrocephalus,P100300,203936004,CPRD_AURUM
+312801016,Cervical spinal meningocele,P113100,203980004,CPRD_AURUM
+312786017,Lumbar spina bifida without mention of hydrocephalus,P110300,530041000000105,CPRD_AURUM
+892791000006117,Spina bifida -no hydrocephalus,P11..99,528691000000108,CPRD_AURUM
+312806014,Cervical meningomyelocele,P114100,203985009,CPRD_AURUM
+312809019,Meningomyelocele NOS,P114z00,414667000,CPRD_AURUM
+376988013,Nasofrontal encephalocele,P206.00,253106003,CPRD_AURUM
+134741000006119,Spina bifida with hydrocephalus NOS,P100z00,53318002,CPRD_AURUM
+306575013,Fetus with central nervous system malformation - delivered,L250100,199519007,CPRD_AURUM
+312819013,Lumbar myelocystocele,P116300,203998000,CPRD_AURUM
+312961015,Other specified nervous system anomalies,P2x..00,88425004,CPRD_AURUM
+312863016,Encephalomyelocele,P201.00,204021005,CPRD_AURUM
+2325991000000110,Excision of occipital encephalocele,700A100,904411000000109,CPRD_AURUM
+5179014,Iniencephaly,P02..00,2438005,CPRD_AURUM
+3371811000006111,Repair of spinal meningocele,,53766007,CPRD_AURUM
+312811011,Cervical myelocele,P115100,203990007,CPRD_AURUM
+312812016,Thoracic myelocele,P115200,203991006,CPRD_AURUM
+491958012,Myelatelia,P25y111,39150004,CPRD_AURUM
+312742010,Unspecified spina bifida with hydrocephalus,P100.00,53318002,CPRD_AURUM
+1009601000006110,Cause of learning disabilities: Congenital hydrocephalus,,1009601000006106,CPRD_AURUM
+312835018,Cervical spina bifida without hydrocephalus - closed,P118100,204010001,CPRD_AURUM
+78661000006114,Unspecified spina bifida without hydrocephalus NOS,P110z00,67531005,CPRD_AURUM
+400766015,Encephalocele of other specified site,P20z100,55999004,CPRD_AURUM
+312761014,Sacral spina bifida with hydrocephalus - open,P102400,203944004,CPRD_AURUM
+377065017,Congenital absence of cerebellum,P22A000,253172000,CPRD_AURUM
+312765017,Cervical spina bifida with hydrocephalus - closed,P103100,203948001,CPRD_AURUM
+312814015,Myelocele NOS,P115z00,82058009,CPRD_AURUM
+5326161000006117,Partial agenesis of corpus callosum,null,253140003,CPRD_AURUM
+306349013,Hydrocephalic disproportion - delivered,L236100,199427001,CPRD_AURUM
+13622071000006110,Diffuse cerebral and cerebellar atrophy, intractable seizures, progressive microcephaly syndrome,null,782737003,CPRD_AURUM
+312792011,Spinal hydromeningocele NOS,P111z00,203967002,CPRD_AURUM
+110447013,Spina bifida,P1...00,67531005,CPRD_AURUM
+411455012,Congenital quadriplegia,F232.00,275468009,CPRD_AURUM
+148177018,Anencephalus,P00..00,89369001,CPRD_AURUM
+928691000006113,Chiari malformation type I,P2x6.00,253185002,CPRD_AURUM
+2534752017,Meningomyelocele,P114.00,414667000,CPRD_AURUM
+32117016,Repair of spina bifida,7043.00,19054000,CPRD_AURUM
+398403014,Fetus with central nervous system malformation,L250.00,267252001,CPRD_AURUM
+312803018,Lumbar spinal meningocele,P113300,203982007,CPRD_AURUM
+355474013,Suspect fetal anencephaly,L250.11,609416008,CPRD_AURUM
+312853012,Other nervous system congenital anomalies,P2...00,88425004,CPRD_AURUM
+892781000006115,Spina bifida + hydrocephalus,P10..99,53318002,CPRD_AURUM
+2578291000006116,Microgyria,,4945003,CPRD_AURUM
+312744011,Cervical spina bifida with hydrocephalus,P100100,203934001,CPRD_AURUM
+400767012,Reduction deformities of brain NOS,P22z.00,204032005,CPRD_AURUM
+716511000006117,Maternal care for CNS malformation in fetus,L250400,173300003,CPRD_AURUM
+266010011,Other specified repair of spina bifida,7043y00,19054000,CPRD_AURUM
+312838016,Lumbar spina bifida without hydrocephalus - closed,P118300,204012009,CPRD_AURUM
+312891012,Agenesis of cerebrum,P227000,204040004,CPRD_AURUM
+312930012,Other specified congenital hydrocephalus,P23y.00,47032000,CPRD_AURUM
+312934015,Multiple congenital cerebral cysts,P240100,204068000,CPRD_AURUM
+3125111000006112,Acquired porencephaly,,38837006,CPRD_AURUM
+3559251000006111,Congenital spinal meningocele,,65144005,CPRD_AURUM
+377100010,Hypoplasia of brain gyri,P226.11,253203003,CPRD_AURUM
+312969018,Other specified nervous system anomalies NOS,P2xz.00,88425004,CPRD_AURUM
+312900016,Aplasia of cerebellum,P22A200,204049003,CPRD_AURUM
+312763012,Spina bifida with hydrocephalus - closed,P103.00,203946002,CPRD_AURUM
+94008017,Ulegyria,P244.00,56531003,CPRD_AURUM
+315653018,[X]Encephalocele of other sites,Pyu0000,55999004,CPRD_AURUM
+312745012,Thoracic spina bifida with hydrocephalus,P100200,203935000,CPRD_AURUM
+312958016,Spinal cord hypoplasia,P25y400,204081007,CPRD_AURUM
+297014018,Cerebral degeneration due to congenital hydrocephalus,F11x300,192814005,CPRD_AURUM
+312817010,Cervical myelocystocele,P116100,203996001,CPRD_AURUM
+136111017,Syringomyelocele,P11z.12,67531005,CPRD_AURUM
+312830011,Lumbar spina bifida without hydrocephalus - open,P117300,204005000,CPRD_AURUM
+377082015,Chiari malformation type III,P101200,253186001,CPRD_AURUM
+5722241000006113,Congenital anomaly of nervous system of head/neck,,287080001,CPRD_AURUM
+7740511000006113,Autosomal recessive primary microcephaly,,715981004,CPRD_AURUM
+306350013,Hydrocephalic disproportion with antenatal problem,L236200,199428006,CPRD_AURUM
+5325851000006115,Temporal encephalocele,null,253108002,CPRD_AURUM
+377083013,Chiari malformation type IV,P101300,253187005,CPRD_AURUM
+312797017,Lumbar hydromyelocele,P112300,203976009,CPRD_AURUM
+124694016,Amyelencephalus,P001.00,75076004,CPRD_AURUM
+312828014,Cervical spina bifida without hydrocephalus - open,P117100,204003007,CPRD_AURUM
+127701015,Spina bifida occulta,PG17.00,76916001,CPRD_AURUM
+93138018,Encephalocele,P20..00,55999004,CPRD_AURUM
+9538013,Agenesis of corpus callosum,P228011,5102002,CPRD_AURUM
+312799019,Spinal meningocele,P113.00,65144005,CPRD_AURUM
+82206012,Diastematomyelia,P250.00,49351009,CPRD_AURUM
+312901017,Anomaly of cerebellum NOS,P22Az00,253171007,CPRD_AURUM
+711701000006116,Megalencephaly,P241.11,9740002,CPRD_AURUM
+1234550018,Congenital spinal cord anomaly,P2y1.00,81042008,CPRD_AURUM
+312804012,Spinal meningocele NOS,P113z00,171131006,CPRD_AURUM
+2527721000006110,Microcephaly,,1829003,CPRD_AURUM
+740431000006115,Littles disease,F23..13,128188000,CPRD_AURUM
+312839012,Sacral spina bifida without hydrocephalus - closed,P118400,204013004,CPRD_AURUM
+5325991000006118,Myelodysplasia of spinal cord,,253124001,CPRD_AURUM
+306574012,Fetus with central nervous system malformation unspecified,L250000,267252001,CPRD_AURUM
+376996015,Myelocele with hydrocephalus,P102.13,253114009,CPRD_AURUM
+312807017,Thoracic meningomyelocele,P114200,203986005,CPRD_AURUM
+312878011,Reduction deformities of brain,P22..00,204032005,CPRD_AURUM
+312957014,Defective development of the cauda equina,P25y300,204080008,CPRD_AURUM
+266011010,Repair of spina bifida NOS,7043z00,19054000,CPRD_AURUM
+377099019,Agenesis of part of brain NEC,P22z.12,204032005,CPRD_AURUM
+38680016,Macrogyria,P242.00,23024003,CPRD_AURUM
+312815019,Myelocystocele,P116.00,203994003,CPRD_AURUM
+542541000006112,Cerebral atonia,F23..14,128188000,CPRD_AURUM
+312768015,Sacral spina bifida with hydrocephalus - closed,P103400,203951008,CPRD_AURUM
+400762018,Spina bifida without hydrocephalus - closed NOS,P118z00,204008003,CPRD_AURUM
+512151000006112,Billroth's disease,P11z.13,67531005,CPRD_AURUM
+306351012,Hydrocephalic disproportion NOS,L236z00,199425009,CPRD_AURUM
+7958391000006116,Microcephalus, glomerulonephritis, marfanoid habitus syndrome,null,733472005,CPRD_AURUM
+141955014,Hemianencephaly,P002.11,359824007,CPRD_AURUM
+312758013,Cervical spina bifida with hydrocephalus - open,P102100,203941007,CPRD_AURUM
+27132011,Cerebellar hypoplasia,P22z.11,16026008,CPRD_AURUM
+1009611000006113,Cause of learning disabilities: Microcephaly,,1009611000006109,CPRD_AURUM
+297223011,Congenital diplegia NOS,F230z00,58193001,CPRD_AURUM
+584241000006114,Congenital optic atrophy,P2xz100,26360005,CPRD_AURUM
+312960019,Spinal cord anomalies NOS,P25z.00,253124001,CPRD_AURUM
+312778017,Spina bifida with hydrocephalus NOS,P10z.00,53318002,CPRD_AURUM
+377062019,Hemimegalencephaly,P24A.00,253170008,CPRD_AURUM
+312881018,Hypoplasia of brain, part unspecified,P222.00,204032005,CPRD_AURUM
+711711000006118,Megalencephaly,Q48y500,9740002,CPRD_AURUM
+65150016,Porencephaly,F280111,38837006,CPRD_AURUM
+377098010,Hypoplasia of part of brain NEC,P22z.13,204032005,CPRD_AURUM
+306347010,Hydrocephalic disproportion,L236.00,199425009,CPRD_AURUM
+2621021000006112,Septo-optic dysplasia sequence,,7611002,CPRD_AURUM
+628881000006110,Drainage of hydrocephalus of fetus to facilitate delivery,7F1A300,90629004,CPRD_AURUM
+376994017,Fissured spine,P117.11,253112008,CPRD_AURUM
+907251000006113,[RFC] Spina bifida,,907251000006109,CPRD_AURUM
+400758012,Spina bifida with hydrocephalus - open,P102.00,268143001,CPRD_AURUM
+312733015,Other specified anencephalus,P00y.00,89369001,CPRD_AURUM
+13501161000006114,Severe neonatal onset encephalopathy with microcephaly,null,771303004,CPRD_AURUM
+5326691000006119,Arnold Chiari type 1,,253185002,CPRD_AURUM
+583261000006111,Congenital intracerebral cyst,P240.11,19276002,CPRD_AURUM
+312902012,Other specified reduction deformities of brain,P22y.00,204032005,CPRD_AURUM
+2754191000006115,Congenital cerebellar hypoplasia,,16026008,CPRD_AURUM
+312774015,Spina bifida with stenosis of aqueduct of Sylvius,P105.00,203955004,CPRD_AURUM
+312924012,Foramen of Magendie atresia,P231.00,204061006,CPRD_AURUM
+312831010,Sacral spina bifida without hydrocephalus - open,P117400,204006004,CPRD_AURUM
+312923018,Aqueduct of Sylvius anomaly NOS,P230z00,25397008,CPRD_AURUM
+7774181000006117,Achalasia microcephaly syndrome,null,718573009,CPRD_AURUM
+5013111000006119,Repair of encephalocele,,230835002,CPRD_AURUM
+3598561000006111,SB - Spina bifida,,67531005,CPRD_AURUM
+297239016,Congenital cerebral palsy NOS,F23z.00,128188000,CPRD_AURUM
+491021000006116,Arnold - Chiari syndrome,P10..11,253184003,CPRD_AURUM
+411454011,Congenital spastic cerebral palsy,F23..11,230773005,CPRD_AURUM
+312808010,Lumbar meningomyelocele,P114300,203987001,CPRD_AURUM
+312975010,Nervous system anomalies NOS,P2z..00,88425004,CPRD_AURUM
+70703017,Occipital encephalocele,P20z000,42376006,CPRD_AURUM
+377002017,Closed spina bifida with Arnold-Chiari malformation,P101.11,253117002,CPRD_AURUM
+377033015,Disorder of neuronal migration and differentiation,P26..00,253146009,CPRD_AURUM
+114171000006116,Syringomyelocele,P11y.11,67531005,CPRD_AURUM
+32517013,Congenital cerebral cyst,P240.00,19276002,CPRD_AURUM
+312963017,Brachial plexus displacement,P2x1.00,204086002,CPRD_AURUM
+84583018,Sinus pericranii,P20..15,50751005,CPRD_AURUM
+129569012,Hydromicrocephaly,P210.00,78071008,CPRD_AURUM
+376985011,Frontal encephalocele,P205.00,253103006,CPRD_AURUM
+312890013,Anomalies of cerebrum,P227.00,204039001,CPRD_AURUM
+93140011,Cephalocele,P20..12,55999004,CPRD_AURUM
+479039014,Spina bifida repair,7043.99,19054000,CPRD_AURUM
+76318012,Atelomyelia,P25y100,204081007,CPRD_AURUM
+312895015,Aplasia of corpus callosum,P228200,204044008,CPRD_AURUM
+13943811000006118,Congenital stenosis of spinal canal,null,840487004,CPRD_AURUM
+400764017,Spina bifida without mention of hydrocephalus NOS,P11z.00,67531005,CPRD_AURUM
+312805013,Meningomyelocele of unspecified site,P114000,414667000,CPRD_AURUM
+312796014,Thoracic hydromyelocele,P112200,203975008,CPRD_AURUM
+65676015,Congenital anomaly of spinal meninges,P25y200,39150004,CPRD_AURUM
+376983016,Congenital cerebral hernia,P20..13,253101008,CPRD_AURUM
+413741000006114,[X]Other specif congenital malformations of nervous system,Pyu0700,88425004,CPRD_AURUM
+81491000006115,Unspec nervous system anomaly of brain/cord/nervous system,P2y..00,88425004,CPRD_AURUM
+411453017,Congenital cerebral palsy,F23..00,128188000,CPRD_AURUM
+377081010,Chiari malformation type I,P101000,253185002,CPRD_AURUM
+78386013,Congenital hydrocephalus,P23..00,47032000,CPRD_AURUM
+88663019,Spina bifida with hydrocephalus,P10..00,53318002,CPRD_AURUM
+491031000006118,Arnold - Chiari syndrome,P101.00,253184003,CPRD_AURUM
+607731000006114,Dandy - Walker syndrome,P233.11,14447001,CPRD_AURUM
+312779013,Spina bifida without mention of hydrocephalus,P11..00,67531005,CPRD_AURUM
+345448013,Congenital facial nerve palsy,P2x7.00,230542008,CPRD_AURUM
+4161018,Micrencephaly,P211.00,1829003,CPRD_AURUM
+312882013,Lissencephaly,P223.11,204036008,CPRD_AURUM
+51766016,Holoprosencephaly,P225.00,30915001,CPRD_AURUM
+1230935011,Congenital absence of corpus callosum,P228000,5102002,CPRD_AURUM
+87078013,Meningoencephalocele,P204.00,52330001,CPRD_AURUM
+2645966012,Partial absence of septum pellucidum,P22y300,422474003,CPRD_AURUM
+312743017,Spina bifida with hydrocephalus, unspecified,P100000,53318002,CPRD_AURUM
+297221013,Congenital paraplegia,F230000,192949002,CPRD_AURUM
+17038012,Megalencephaly,P249.00,9740002,CPRD_AURUM
+312813014,Lumbar myelocele,P115300,203992004,CPRD_AURUM
+312802011,Thoracic spinal meningocele,P113200,203981000,CPRD_AURUM
+312767013,Lumbar spina bifida with hydrocephalus - closed,P103300,203950009,CPRD_AURUM
+312946016,Other specified spinal cord anomalies,P25..00,88425004,CPRD_AURUM
+3428711000006117,Congenital malformation of brain,,57148006,CPRD_AURUM
+683061000006111,Myelodysplasia of spinal cord,P25y112,253124001,CPRD_AURUM
+312959012,Other specified spinal cord anomalies NOS,P25yz00,253124001,CPRD_AURUM
+154287010,Congenital hypoplasia of cerebrum,P227100,93249003,CPRD_AURUM
+64724016,Hydromyelocele,P112.00,38116000,CPRD_AURUM
+3937001000006118,Congenital anomaly of nervous system,,88425004,CPRD_AURUM
+312935019,Congenital cerebral cyst NOS,P240z00,19276002,CPRD_AURUM
+312905014,Other reduction deformity of brain NOS,P22yz00,204032005,CPRD_AURUM
+3371801000006113,Repair of meninges of spinal meningocele,,53766007,CPRD_AURUM
+312962010,Agenesis of nerve, unspecified,P2x0.00,88425004,CPRD_AURUM
+5326471000006118,Familial megalencephaly,,253168004,CPRD_AURUM
+312974014,Unspecified nervous system anomaly NOS,P2yz.00,88425004,CPRD_AURUM
+312775019,Other specified spina bifida with hydrocephalus,P10y.00,67531005,CPRD_AURUM
+2998371000006111,HPE - Holoprosencephaly,,30915001,CPRD_AURUM
+312818017,Thoracic myelocystocele,P116200,203997005,CPRD_AURUM

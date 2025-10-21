@@ -1,0 +1,4 @@
+MEDICAL_CODE_ID,DESCRIPTION,READ_CODE,SNOMED_CT_CODE,DATABASE
+Q792,Exomphalos,Q79.2,,ICD10
+Q793,Gastroschisis,Q79.3,,ICD10
+Q795,Other congenital malformations of abdominal wall,Q79.5,,ICD10

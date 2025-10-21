@@ -1,0 +1,6 @@
+"MEDICAL_CODE_ID","DESCRIPTION","READ_CODE","SNOMED_CT_CODE","FREQUENCY","DATABASE"
+"C65","Operations following glaucoma surgery","C65",,"","HES-OPCSv4.9"
+"C654","Removal of releasable suture following glaucoma surgery","C65.4",,"","HES-OPCSv4.9"
+"C655","Laser suture lysis following glaucoma surgery","C65.5",,"","HES-OPCSv4.9"
+"C658","Other specified operations following glaucoma surgery","C65.8",,"","HES-OPCSv4.9"
+"C659","Unspecified operations following glaucoma surgery","C65.9",,"","HES-OPCSv4.9"

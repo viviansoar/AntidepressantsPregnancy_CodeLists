@@ -1,0 +1,14 @@
+MEDICAL_CODE_ID,DESCRIPTION,READ_CODE,SNOMED_CT_CODE,DATABASE
+O020,Blighted ovum and nonhydatidiform mole,O02.0,,ICD10
+O021,Missed abortion,O02.1,,ICD10
+O03,Spontaneous abortion,O03,,ICD10
+O030,Spontaneous abortion,O03.0,,ICD10
+O031,Spontaneous abortion,O03.1,,ICD10
+O032,Spontaneous abortion,O03.2,,ICD10
+O033,Spontaneous abortion,O03.3,,ICD10
+O034,Spontaneous abortion,O03.4,,ICD10
+O035,Spontaneous abortion,O03.5,,ICD10
+O036,Spontaneous abortion,O03.6,,ICD10
+O037,Spontaneous abortion,O03.7,,ICD10
+O038,Spontaneous abortion,O03.8,,ICD10
+O039,Spontaneous abortion,O03.9,,ICD10

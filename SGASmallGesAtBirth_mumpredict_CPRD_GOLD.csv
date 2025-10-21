@@ -1,0 +1,6 @@
+MEDICAL_CODE_ID,DESCRIPTION,READ_CODE,SNOMED_CT_CODE,DATABASE
+31219,Small-for-dates unspecified,L265000,null,CPRD_GOLD
+35139,Small-for-dates - delivered,L265100,null,CPRD_GOLD
+43004,Light for gestational age,Q13..00,null,CPRD_GOLD
+50704,Light for gestational age,Q113.00,null,CPRD_GOLD
+55820,Small-for-dates NOS,L265z00,null,CPRD_GOLD

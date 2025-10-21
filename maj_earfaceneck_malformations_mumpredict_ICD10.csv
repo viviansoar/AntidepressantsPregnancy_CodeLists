@@ -1,0 +1,13 @@
+MEDICAL_CODE_ID,DESCRIPTION,READ_CODE,SNOMED_CT_CODE,DATABASE
+Q16,Congenital malformations of ear causing impairment of hearing,Q16,,ICD10
+Q160,Congenital absence of (ear) auricle,Q16.0,,ICD10
+Q161,Congenital absence, atresia and stricture of auditory canal (external),Q16.1,,ICD10
+Q163,Congenital malformation of ear ossicles,Q16.3,,ICD10
+Q164,Other congenital malformations of middle ear,Q16.4,,ICD10
+Q165,Congenital malformation of inner ear,Q16.5,,ICD10
+Q169,Congenital malformation of ear causing impairment of hearing, unspecified,Q16.9,,ICD10
+Q17,Other congenital malformations of ear,Q17,,ICD10
+Q178,Other specified congenital malformations of ear,Q17.8,,ICD10
+Q179,Congenital malformation of ear, unspecified,Q17.9,,ICD10
+Q183,Webbing of neck,Q18.3,,ICD10
+Q873,Congenital malformation syndromes involving early overgrowth,Q87.3,,ICD10

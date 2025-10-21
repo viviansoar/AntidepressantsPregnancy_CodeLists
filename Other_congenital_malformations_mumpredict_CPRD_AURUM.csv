@@ -1,0 +1,668 @@
+MEDICAL_CODE_ID,DESCRIPTION,READ_CODE,SNOMED_CT_CODE,DATABASE
+312942019,Congenital adhesions of cerebral meninges,P245.00,204072001,CPRD_AURUM
+313622017,Congenital absence of larynx,P830111,204535000,CPRD_AURUM
+315187012,Orbinsky syndrome,PGy0212,205532005,CPRD_AURUM
+315585013,Single monster, specified type,PKy3.00,205796009,CPRD_AURUM
+315506012,Mis-shapen spleen,PK07.00,205736006,CPRD_AURUM
+315497012,Aberrant spleen,PK00.00,65146007,CPRD_AURUM
+361008014,Agenesis of nose,P811000,111317000,CPRD_AURUM
+490949011,Conjoined twins with two heads,PK41.11,38439000,CPRD_AURUM
+1222366014,Encephalocutaneous angiomatosis,PK61.12,19886006,CPRD_AURUM
+864871000006118,Accessory spleen excision,7840299,11973000,CPRD_AURUM
+1727681000006115,Congenital hypoplasia of cerebrum,,1727681000006104,CPRD_AURUM
+314539017,Nonteratogenic anomalies NOS,PE8z.00,66091009,CPRD_AURUM
+315560016,Other specified conjoined twins,PK4y.00,41337007,CPRD_AURUM
+489201000006115,Aplasia of adrenal gland,PK15.00,83190008,CPRD_AURUM
+117896012,Transposition of thoracic viscera,PK32.11,70978004,CPRD_AURUM
+278520015,Other specified separation of conjoined twins,7L0Cy00,51271008,CPRD_AURUM
+4057381000006118,Renal arteriovenous malformation,,95474000,CPRD_AURUM
+5326761000006118,Lumbosacral agenesis,,253190004,CPRD_AURUM
+4019741000006114,Congenital narrowed subclavian artery,,93388003,CPRD_AURUM
+3337041000006114,Congenital anomaly of skull,null,51655004,CPRD_AURUM
+3397191000006112,Laryngotomy with removal of laryngocele,null,55251006,CPRD_AURUM
+3397201000006110,Excision of laryngocele,null,55251006,CPRD_AURUM
+3654311000006114,Agenesis of rib,,70974002,CPRD_AURUM
+3114551000006110,Congenital anomaly of integument,,38164009,CPRD_AURUM
+5013991000006110,Excision of intracranial arteriovenous malformation,null,230905005,CPRD_AURUM
+5011571000006117,Subarachnoid hemorrhage due to ruptured arteriovenous malformation,null,230718007,CPRD_AURUM
+3679481000006112,Supernumerary rib in cervical region,,72535009,CPRD_AURUM
+4017131000006111,Congenital small cerebrum,,93249003,CPRD_AURUM
+2618931000006111,Congenital atresia of epiglottis,,7481002,CPRD_AURUM
+2638091000006119,Congenital musculoskeletal deformity of spine and chest,,8649001,CPRD_AURUM
+4825281000006116,Congenital absence of umbilical artery,,204470001,CPRD_AURUM
+3475861000006116,Congenital stricture of artery,,60091004,CPRD_AURUM
+3623851000006115,Poikiloderma congenitale,,69093006,CPRD_AURUM
+3787881000006117,Congenital anomaly of muscle AND/OR tendon,,79191007,CPRD_AURUM
+4668381000006118,Embolization of arteriovenous abnormality,,175786007,CPRD_AURUM
+5504171000006113,Congenital generalized alopecia,,268288009,CPRD_AURUM
+2628121000006118,Congenital anomaly of thyroid cartilage,,8032007,CPRD_AURUM
+3696201000006117,Congenital abnormality of musculoskeletal system,,73573004,CPRD_AURUM
+3818281000006118,Congenital lesion of spinal cord,,81042008,CPRD_AURUM
+2926551000006115,SBS - Short bowel syndrome,,26629001,CPRD_AURUM
+3429851000006115,Congenital ossification of sutures of skull,,57219006,CPRD_AURUM
+3334811000006112,Laryngocele,,51523009,CPRD_AURUM
+2546411000006112,Nevoid congenital alopecia,,2965006,CPRD_AURUM
+3289241000006112,Hernia through foramen of Morgagni,,48763007,CPRD_AURUM
+3088711000006119,Albright syndrome,,36517007,CPRD_AURUM
+3781461000006119,Amyelia (congenital absence of spinal cord),,78784005,CPRD_AURUM
+3008551000006114,Congenital atresia of artery,,31570000,CPRD_AURUM
+3298381000006119,Diastematomyelia (congenital defect of spinal cord),,49351009,CPRD_AURUM
+3675911000006111,Congenital deformity of larynx,,72292009,CPRD_AURUM
+2876841000006112,ANN - Anonychia,,23610003,CPRD_AURUM
+2983341000006114,Congenital absence of cerebral hemispheres,,30023002,CPRD_AURUM
+3993461000006112,Agenesis of lumbar vertebra,,91895008,CPRD_AURUM
+7050681000006118,Congenital cervical spondylolisthesis,null,425871007,CPRD_AURUM
+7522951000006115,Reconstruction of cranial defect with skull plate,null,699497002,CPRD_AURUM
+7858461000006112,Defect of vertebral endplate,null,724607005,CPRD_AURUM
+9482561000006120,Congenital cerebral ventriculomegaly,null,12275031000119106,CPRD_AURUM
+12009911000006120,Macrocephaly and developmental delay syndrome,null,763773007,CPRD_AURUM
+13624611000006120,Extensor tendons of finger anomalies,null,782937006,CPRD_AURUM
+3649651000006115,Congenital discoid lateral meniscus,,70690000,CPRD_AURUM
+2565731000006113,Congenital anomaly of endocrine gland,,4184009,CPRD_AURUM
+3717191000006114,Congenital anomaly of vertebral column,,74877002,CPRD_AURUM
+3696171000006116,Congenital deformity of musculoskeletal system,,73573004,CPRD_AURUM
+4830911000006113,Congenital localized alopecia,,205592008,CPRD_AURUM
+5339141000006114,Congenital vascular hamartoma,,254206003,CPRD_AURUM
+3717201000006112,Congenital spine malformation,,74877002,CPRD_AURUM
+2546391000006112,Congenital atrichosis,,2965006,CPRD_AURUM
+3088681000006115,Albright's disease of bone,,36517007,CPRD_AURUM
+3778881000006113,Congenital musculoskeletal abnormality of trunk,,78626001,CPRD_AURUM
+3118111000006112,Poland anomalad,,38371006,CPRD_AURUM
+3988281000006112,Congenital absence of artery,,91605000,CPRD_AURUM
+3831911000006117,Procedure for eventration of diaphragm,,81913003,CPRD_AURUM
+7623951000006117,Percutaneous transluminal venous embolization of arteriovenous malformation,,707812007,CPRD_AURUM
+5350191000006114,CMTC - Cutis marmorata telangiectatica congenita,,254778000,CPRD_AURUM
+3787891000006119,Congenital malformation of muscles and tendons,,79191007,CPRD_AURUM
+2910201000006112,Congenital fissure of sternum,,25642007,CPRD_AURUM
+3261121000006113,Congenital laryngeal web,,47070001,CPRD_AURUM
+3260351000006110,Congenital dilatation of cerebral ventricles,,47032000,CPRD_AURUM
+3675921000006115,Congenital malformation of larynx,,72292009,CPRD_AURUM
+3696181000006118,Congenital musculoskeletal abnormality,,73573004,CPRD_AURUM
+3672801000006111,Congenital malformation of nose,,72089000,CPRD_AURUM
+5517461000006115,Localized congenital skull defect,,270519009,CPRD_AURUM
+7624131000006111,Percutaneous transluminal arterial and venous embolization of arteriovenous malformation,,707827007,CPRD_AURUM
+6008271000006114,Total congenital alopecia,,311671002,CPRD_AURUM
+2546401000006114,Naevoid congenital alopecia,,2965006,CPRD_AURUM
+2690591000006119,Excision of ectopic spleen,,11973000,CPRD_AURUM
+12722731000006111,Circulatory system anomaly NOS,,627311000000101,CPRD_AURUM
+12733031000006115,Integument anomalies NOS,,582461000000106,CPRD_AURUM
+12722301000006116,Certain congenital musculoskeletal deformities,,268238001,CPRD_AURUM
+12733231000006113,Other congenital musculoskeletal anomalies,,584461000000103,CPRD_AURUM
+313543011,Atresia of vein NEC,P765.00,297222002,CPRD_AURUM
+12757971000006112,Congenital absence of coccyx,,91876001,CPRD_AURUM
+12761971000006111,Arteriovenous malformation,,234141001,CPRD_AURUM
+12716271000006111,Congenital absence of caudal vertebra,,91876001,CPRD_AURUM
+12757961000006117,Agenesis of caudal vertebra,,91876001,CPRD_AURUM
+12719661000006111,Diaxial (double) monster,,205777005,CPRD_AURUM
+361009018,Absent nose,P811.00,111317000,CPRD_AURUM
+315004017,Lumbar hemivertebra - balanced,PG14700,205431000,CPRD_AURUM
+439881000006117,Absent nose NOS,P811z00,111317000,CPRD_AURUM
+4823871000006117,Congenital arteriovenous anomaly of retina,,204188003,CPRD_AURUM
+3114561000006112,Congenital deformity of integument,,38164009,CPRD_AURUM
+5337111000006116,Congenital anomaly of sternum,,254041007,CPRD_AURUM
+2724331000006118,Cirsoid aneurysm,,14156004,CPRD_AURUM
+5904501000006119,RAS - Renal artery stenosis,,302233006,CPRD_AURUM
+5060571000006112,AV - Congenital arteriovenous anomaly,,234141001,CPRD_AURUM
+3059621000006119,Congenital absence of skin on scalp with limb-reduction anomaly,,34748004,CPRD_AURUM
+4823291000006117,Congenital hypoplasia of spinal cord,,204081007,CPRD_AURUM
+5837761000006116,Congenital anomaly of vein,,297222002,CPRD_AURUM
+3429831000006110,Premature closure of cranial sutures,,57219006,CPRD_AURUM
+5106301000006116,Excision of supernumerary breast,,237369007,CPRD_AURUM
+3818271000006116,Congenital disease of spinal cord,,81042008,CPRD_AURUM
+5915211000006117,Thyroglossal duct anomaly,,303138003,CPRD_AURUM
+4693711000006117,Cranio-orbital remodeling for trigonocephaly,,180168006,CPRD_AURUM
+3696211000006119,Congenital malformation of musculoskeletal system,,73573004,CPRD_AURUM
+12704371000006112,Congenital stricture of pulmonary artery,,95441000,CPRD_AURUM
+315553010,Craniopagus parasiticus,PK40300,205774003,CPRD_AURUM
+473891000006118,Agenesis of nose,P811.11,111317000,CPRD_AURUM
+3219421000006116,Congenital hypoplasia of umbilical artery,,44622003,CPRD_AURUM
+2511831000006116,Congenital absence of skull bone,,841002,CPRD_AURUM
+3859411000006112,Congenital malformation of breast,,83546008,CPRD_AURUM
+3931841000006117,Congenital hypertrophic nails,,88103004,CPRD_AURUM
+3323521000006115,Accessory skeletal muscle,,50847000,CPRD_AURUM
+2772471000006116,Twisted hair,,17170005,CPRD_AURUM
+3696191000006115,Congenital malformation and deformation of the musculoskeletal system,,73573004,CPRD_AURUM
+2692181000006110,Congenital stenosis of larynx,,12070002,CPRD_AURUM
+4017721000006114,Congenital hypoplasia of nose,,93278002,CPRD_AURUM
+4193921000006114,Congenital absence of nose,,111317000,CPRD_AURUM
+5060261000006119,Congenital anomaly of artery,,234119001,CPRD_AURUM
+315554016,Craniopagus NOS,PK40z00,74516008,CPRD_AURUM
+313533013,Absence or hypoplasia of the umbilical artery NOS,P75z.00,302945005,CPRD_AURUM
+314522019,Other nonteratogenic anomalies OS,PE8y.00,66091009,CPRD_AURUM
+2788641000006116,Ectopic breast,,18166000,CPRD_AURUM
+4830791000006117,Congenital pigmentary anomaly of skin,,205564003,CPRD_AURUM
+858341000006119,Aberrant thyroid gland excisn,7111.99,171976005,CPRD_AURUM
+5060271000006114,Congenital arterial malformation,,234119001,CPRD_AURUM
+502825013,Anal and urogenital canal fusion,PB58.12,74829002,CPRD_AURUM
+315002018,Thoracic hemivertebra- balanced,PG14500,205429009,CPRD_AURUM
+2468017,Congenital absence of skull bones,PG00.00,841002,CPRD_AURUM
+178682016,Conjoined twins causing disproportion,L237.11,111440002,CPRD_AURUM
+350768010,Other congenital anomalies of peripheral arteries,P76..11,9904008,CPRD_AURUM
+5517391000006118,Pulmonary arteriovenous aneurysm,,270512000,CPRD_AURUM
+3993201000006110,Agenesis of cervical vertebra,,91880006,CPRD_AURUM
+589151000006116,Congenitalcerebral hernia,P20..16,253101008,CPRD_AURUM
+414281000006110,[X]Other specified cong malformations of circulatory system,Pyu2E00,9904008,CPRD_AURUM
+2751291000006110,Agenesis of vertebra,,15843004,CPRD_AURUM
+4163931000006110,Interparietal craniosynostosis,,109418001,CPRD_AURUM
+5659061000006116,Congenital aneurysm,,282036005,CPRD_AURUM
+3993931000006111,Agenesis of thoracic vertebra,,91917000,CPRD_AURUM
+5060251000006116,Congenital abnormality of artery,,234119001,CPRD_AURUM
+3623841000006117,Poikiloderma congenitale syndrome,,69093006,CPRD_AURUM
+2950101000006113,Congenital lip pits,,28041003,CPRD_AURUM
+12729111000006112,Other congenital circulatory system anomalies,,698351000000109,CPRD_AURUM
+12719671000006116,Single monster, specified type,,205796009,CPRD_AURUM
+313541013,Absence of vein NEC,P763.00,234126001,CPRD_AURUM
+44594018,Short bowel syndrome,PB5z.12,26629001,CPRD_AURUM
+92245017,Congenital laryngeal stridor,P83y900,55490007,CPRD_AURUM
+315318019,Specified nail anomalies NOS,PH5z.00,17790008,CPRD_AURUM
+2157548013,Congenital kyphoscoliosis,PG18.11,405772002,CPRD_AURUM
+350804018,Congenital cerebral arteriovenous malformation,P7y0112,234142008,CPRD_AURUM
+400945016,Vascular hamartomas,PH31.00,268284006,CPRD_AURUM
+1235777017,Mis-shapen ribs,PG35.00,92943002,CPRD_AURUM
+400880016,Skull and face bone anomalies,PG0..12,268239009,CPRD_AURUM
+5060581000006110,Cerebral arteriovenous malformation,,234142008,CPRD_AURUM
+193401000006117,Pulmonary arterio-venous malformation,P736.12,303070000,CPRD_AURUM
+315045013,Other congenital anomalies of ribs,PG3x.00,123572006,CPRD_AURUM
+142651000006117,Single nostril,P81z.11,95266003,CPRD_AURUM
+146065018,Congenital onychauxis,PH54.00,88103004,CPRD_AURUM
+314546014,Congenital musculoskeletal deformity NOS,PEz..00,73573004,CPRD_AURUM
+495791019,Accessory muscle,PGy1.00,50847000,CPRD_AURUM
+893551000006114,Congenital anomalies NOS,Pz...97,587321000000109,CPRD_AURUM
+696461000006111,Multiple congenital anomalies NOS,PK7..00,66091009,CPRD_AURUM
+14686011,Caudal dysplasia sequence,PKy7700,8301004,CPRD_AURUM
+2707231000006114,Congenital ichthyosis of skin,,13059002,CPRD_AURUM
+486329018,Congenital deformity of nail,PHz2.11,35964007,CPRD_AURUM
+136511000006119,Skull, face and jaw congenital deformities,PE0..00,268239009,CPRD_AURUM
+400948019,Other congenital skin anomaly NOS,PH3yz00,199879009,CPRD_AURUM
+858371000006110,Thyroglossal duct excision,7112199,171982008,CPRD_AURUM
+2476631015,Congenital forehead deformity,PG02.00,33322003,CPRD_AURUM
+315330013,Other specified integument anomaly,PHy..00,66091009,CPRD_AURUM
+315549013,Situs inversus NOS,PK3z.00,43876007,CPRD_AURUM
+315659019,[X]Other specified congenital malformations of spinal cord,Pyu0600,81042008,CPRD_AURUM
+583641000006110,Congenital malformation of breast, unspecified,PH6X.00,83546008,CPRD_AURUM
+400939012,Other absent muscle,PGy0200,47880003,CPRD_AURUM
+315006015,Hemivertebra NOS,PG14z00,68359008,CPRD_AURUM
+476281000006114,Albright-Sternberg syndrome,PG5y000,36517007,CPRD_AURUM
+313604015,Congenital cleft nose,P813.00,204521002,CPRD_AURUM
+378167013,Congenital postural curvature of spine NOS,PE2z.11,254029000,CPRD_AURUM
+315169014,Other specified muscle, tendon and fascia anomaly,PGy..00,73573004,CPRD_AURUM
+439851000006113,Absent muscle or tendon NOS,PGy0z00,47880003,CPRD_AURUM
+315518015,Other endocrine gland anomalies,PK2..00,4184009,CPRD_AURUM
+893401000006114,Musculo-skeletal anomaly NOS,PG...99,584461000000103,CPRD_AURUM
+312933014,Single congenital cerebral cyst,P240000,204067005,CPRD_AURUM
+315703018,[X]Other congenital malformations of nose,Pyu3000,72089000,CPRD_AURUM
+400940014,Other specified other anomalies of muscle, tendon and fascia,PGyy.00,73573004,CPRD_AURUM
+3206301000006112,Situs inversus viscerum,,43876007,CPRD_AURUM
+313531010,Absence or hypoplasia of the umbilical artery,P75..00,204469002,CPRD_AURUM
+116221000006118,Supernumerary ribs,PG36.11,205460009,CPRD_AURUM
+108263014,Ectopic spleen,PK04.00,65146007,CPRD_AURUM
+313607010,Congenital perforation of the nasal sinus wall,P816.00,204524005,CPRD_AURUM
+579811000006119,Congenital absence of umbilical artery, unspecified,P750.00,204470001,CPRD_AURUM
+315531013,Aberrant parathyroid gland,PK27000,205757003,CPRD_AURUM
+411418012,Absent parathyroid gland,PK20.00,275436001,CPRD_AURUM
+315012013,Congenital partial fusion of spine - unbalanced,PG15200,205437001,CPRD_AURUM
+4019101000006113,Congenital malposition of subclavian artery,null,93353003,CPRD_AURUM
+21096015,Congenital absence of sternum,PG31.00,12252009,CPRD_AURUM
+314520010,Other specified nonteratogenic anomalies,PE8..00,66091009,CPRD_AURUM
+42976015,Congenital fissure of sternum,PG32.00,25642007,CPRD_AURUM
+315253011,Specified syndromes NEC involving skin anomalies,PH33.00,80659006,CPRD_AURUM
+5060541000006116,AV - Congenital arteriovenous malformation,,234141001,CPRD_AURUM
+5336921000006112,Unicoronal craniosynostosis,,254020001,CPRD_AURUM
+3557001000006113,Congenital atresia of larynx,,64981002,CPRD_AURUM
+3134441000006115,Pachyonychia congenita syndrome,,39427000,CPRD_AURUM
+439811000006112,Absent adrenal gland,PK11.00,83190008,CPRD_AURUM
+113535015,Accessory adrenal gland,PK12.00,68352004,CPRD_AURUM
+313645011,Congenital fissure of epiglottis,P83y600,204557007,CPRD_AURUM
+5336971000006113,Congenital abnormality of skull shape,,254023004,CPRD_AURUM
+1223245011,Accessory thymus gland,PK28200,24358005,CPRD_AURUM
+5060481000006111,Macrocephaly with multiple lipomas and haemangiomas,,234138005,CPRD_AURUM
+4012831000006119,Congenital absence of thyroid gland,,92978002,CPRD_AURUM
+2876831000006119,Congenital absent nails,,23610003,CPRD_AURUM
+3429871000006113,CSO - Craniosynostosis,,57219006,CPRD_AURUM
+580221000006114,Congenital anomalies,P....00,276654001,CPRD_AURUM
+400941013,Congenital musculoskeletal anomalies NOS,PGz..00,73573004,CPRD_AURUM
+585051000006118,Congenital scoliosis due to congenital bony malformation,PE23.00,205045003,CPRD_AURUM
+30680017,Accessory breast,PH62.00,18166000,CPRD_AURUM
+508371019,Hypoplasia of breast,PH66.00,8915006,CPRD_AURUM
+65134012,Congenital fusion of spine,PG15.00,38827001,CPRD_AURUM
+497906012,Anomalies of spleen,PK0..00,57497006,CPRD_AURUM
+315242017,Vascular hamartoma NOS,PH31z00,268284006,CPRD_AURUM
+315329015,Specified breast anomalies NOS,PH6z.00,83546008,CPRD_AURUM
+504497016,Congenital lumbosacral spondylolysis,PG11.00,80712009,CPRD_AURUM
+437757015,Retrosternal thyroid gland,PK25011,297267009,CPRD_AURUM
+133611000006112,Specified anomalies of breast,PH6..00,83546008,CPRD_AURUM
+379509010,Cutis marmorata telangiectasia congenita,PH7..00,254778000,CPRD_AURUM
+136421000006111,Skull and face bone anomalies,PG0..00,268239009,CPRD_AURUM
+313595015,Other anomalies of nose,P81..00,72089000,CPRD_AURUM
+154152016,Lumbar hemivertebra,PG14200,93167001,CPRD_AURUM
+313564010,Arteriovenous malformation of precerebral vessels,P77..00,204493007,CPRD_AURUM
+315198013,Unspecified anomaly of connective tissue,PGz4.00,363039000,CPRD_AURUM
+44747011,Persistent thyroglossal duct,PK22.00,26730002,CPRD_AURUM
+315020010,Congenital anomalies of cervical vertebrae NEC,PG1u.00,74877002,CPRD_AURUM
+313568013,Cerebrovascular system anomalies,P7y0.00,204497008,CPRD_AURUM
+400947012,Other congenital skin anomalies,PH3y.00,199879009,CPRD_AURUM
+315026016,Congenital sacrococcygeal anomalies NEC,PG1x.00,254040008,CPRD_AURUM
+400921015,Other anomaly of spine,PG1y.00,74877002,CPRD_AURUM
+313625015,Anomaly of cricoid cartilage,P831000,204538003,CPRD_AURUM
+2114771000000111,Lambdoid synostosis,PG03100,810491000000101,CPRD_AURUM
+3851191000006111,Chylothorax,,83035003,CPRD_AURUM
+315040015,Anomalies of spine NOS,PG1z.00,74877002,CPRD_AURUM
+315508013,Anomalies of spleen NOS,PK0z.00,57497006,CPRD_AURUM
+313449013,Other congenital circulatory system anomalies,P7...00,9904008,CPRD_AURUM
+3717181000006111,Congenital anomaly of spine,,74877002,CPRD_AURUM
+80103016,Oxycephaly,PG07.00,48069004,CPRD_AURUM
+31617017,Congenital koilonychia,PH52.00,18749008,CPRD_AURUM
+85811010,Congenital laryngocele,P83y300,51523009,CPRD_AURUM
+117888019,Congenital absence of rib,PG30.00,70974002,CPRD_AURUM
+157848011,Supernumerary lumbar vertebra,PG1w000,95298009,CPRD_AURUM
+315516016,Other congenital anomaly of adrenal gland NOS,PK1yz00,60637003,CPRD_AURUM
+2891781000006113,Arteriovenous malformation,,24551003,CPRD_AURUM
+43505018,Hypertrichosis lanuginosa,PH43.11,25967007,CPRD_AURUM
+377802016,Laryngeal hypoplasia,P831500,253736003,CPRD_AURUM
+315787019,[X]Other congenital malformations of breast,Pyu9300,83546008,CPRD_AURUM
+315023012,Congenital anomaly of thoracic vertebrae NEC NOS,PG1vz00,74877002,CPRD_AURUM
+40780011,Xiphopagus,PK44.00,24297000,CPRD_AURUM
+193381000006117,Pulmonary arterio-venous aneurysm,P736.00,270512000,CPRD_AURUM
+152232010,Congenital absence of lumbar vertebra,PG13200,91895008,CPRD_AURUM
+315692013,[X]Other congenital malformations of renal artery,Pyu2A00,234119001,CPRD_AURUM
+313638011,Congenital stenosis of larynx, trachea and bronchus,P833.00,204550009,CPRD_AURUM
+405555010,Absent tendon,PGy0000,271018002,CPRD_AURUM
+82437014,Aberrant adrenal gland,PK10.00,49494003,CPRD_AURUM
+312892017,Anomaly of cerebrum NOS,P227z00,204039001,CPRD_AURUM
+313567015,Other specified circulatory system anomalies,P7y..00,9904008,CPRD_AURUM
+313617017,Congenital web of larynx NOS,P82z.00,47070001,CPRD_AURUM
+1224877011,Transposition of viscera unspecified,PK30.11,43876007,CPRD_AURUM
+378182015,Ayala's disease,PGyy.11,65399007,CPRD_AURUM
+3378551000006118,Congenital aneurysm of sinus of Valsalva,,54160000,CPRD_AURUM
+400949010,Congenital generalised alopecia,PH40200,268288009,CPRD_AURUM
+4209012,Accessory nose,P812.00,1856001,CPRD_AURUM
+278521016,Separation of conjoined twins NOS,7L0Cz00,51271008,CPRD_AURUM
+315296018,Congenital alopecia, unspecified,PH40000,2965006,CPRD_AURUM
+129871000006117,Split notochord syndrome,P110.11,253098009,CPRD_AURUM
+82436017,Ectopic adrenal gland,PK14.00,49494003,CPRD_AURUM
+3557581000006114,Congenital malformation of hair and hair growth,,65033000,CPRD_AURUM
+5060601000006117,AVM - Cerebral arteriovenous malformation,,234142008,CPRD_AURUM
+313647015,Congenital fissure of larynx,P83yA00,204559005,CPRD_AURUM
+315001013,Cervical hemivertebra - unbalanced,PG14400,205428001,CPRD_AURUM
+7300741000006111,Hypoplasia of maxillary bone,null,444967008,CPRD_AURUM
+3022681000006111,Congenital anomaly of the thyroid gland,,32454003,CPRD_AURUM
+755561000006119,Kalischer's disease,PK61.11,19886006,CPRD_AURUM
+5350181000006111,Cutis marmorata telangiectatica congenita,,254778000,CPRD_AURUM
+5336931000006110,Bicoronal craniosynostosis,,254021002,CPRD_AURUM
+313642014,Congenital stenosis of larynx or trachea NOS,P833z00,204550009,CPRD_AURUM
+3124891000006111,Congenital anomaly of the thymus,,38824008,CPRD_AURUM
+3289231000006119,Parasternal hernia of Morgagni,,48763007,CPRD_AURUM
+3750591000006112,SBO - Spina bifida occulta,,76916001,CPRD_AURUM
+7861961000006117,Congenital venous malformation of skin,null,724842007,CPRD_AURUM
+3079351000006117,Congenital malformation of nails,,35964007,CPRD_AURUM
+3818251000006114,Congenital anomaly of spinal cord,,81042008,CPRD_AURUM
+118450012,Congenital kyphosis,PG18.00,71311003,CPRD_AURUM
+22650012,Congenital spondylolisthesis,PG12.00,13236000,CPRD_AURUM
+93151011,Congenital hemihypertrophy,PKyz600,205838004,CPRD_AURUM
+488390019,Congenital integument anomalies,PH...00,38164009,CPRD_AURUM
+893301000006117,Congenital lordosis/scoliosis,PE2..99,205043005,CPRD_AURUM
+235501000006111,Peripheral arterio-venous malformation,P766.11,275519006,CPRD_AURUM
+493697010,Situs inversus,PK3..00,43876007,CPRD_AURUM
+222151000000115,Absent spleen,PK01.00,300564004,CPRD_AURUM
+315547010,Complete situs inversus with dextrocardia,PK33.00,205768003,CPRD_AURUM
+400919013,Skull or face bone anomaly NOS,PG0z.00,268239009,CPRD_AURUM
+400922010,Other rib or sternum anomaly NOS,PG3z.00,8649001,CPRD_AURUM
+893411000006112,Spine anomaly - congenital,PG1..99,74877002,CPRD_AURUM
+2536429019,Congenital tethering of spinal cord,P252.00,70534000,CPRD_AURUM
+716861000006117,Mast cell disease,PH32111,78745000,CPRD_AURUM
+6582541000006115,Excision of thyroglossal duct cyst,null,397151005,CPRD_AURUM
+315514018,Other specified anomalies of adrenal gland,PK1y.00,60637003,CPRD_AURUM
+400770011,Other specified anomalies of spinal cord,P25y.00,88425004,CPRD_AURUM
+313542018,Anomaly of vein NEC,P764.00,297222002,CPRD_AURUM
+2660019,Congenital retinal aneurysm,P357000,943003,CPRD_AURUM
+315194010,Unspecified anomaly of muscle,PGz0.00,79191007,CPRD_AURUM
+94458019,Congenital hypertrichosis,PH42.00,56797000,CPRD_AURUM
+315196012,Unspecified anomaly of bones,PGz2.00,73573004,CPRD_AURUM
+582521000006113,Congenital foramen Morgagni hernia,PG62.00,48763007,CPRD_AURUM
+278708013,Cranio-orbital remodelling for trigonocephaly,7L0N100,180168006,CPRD_AURUM
+350577018,Cirsoid aneurysm,P767.11,233982006,CPRD_AURUM
+378107011,Defect of skull ossification,PG0y.11,253980008,CPRD_AURUM
+61305016,Congenital splenomegaly,PK03.00,36752001,CPRD_AURUM
+315022019,Congenital anomalies of thoracic vertebrae NEC,PG1v.00,74877002,CPRD_AURUM
+315158011,Other specified anomalies of diaphragm,PG6y.00,88386004,CPRD_AURUM
+437081000006119,Aber retro-oesophag subclavian artery causing dysphag lusori,P76E.00,311808009,CPRD_AURUM
+1548861000006111,Percut translumin venous embolisat arteriovenous malform,7A61600,707812007,CPRD_AURUM
+4057171000006118,Congenital perforation of nasal septum,,95466001,CPRD_AURUM
+254967015,O/E - muscle power absent,29A4.00,163697004,CPRD_AURUM
+315764010,[X]Other specified congenital musculoskeletal deformities,Pyu8600,73573004,CPRD_AURUM
+315548017,Situs inversus with levocardia,PK34.00,205769006,CPRD_AURUM
+5060531000006114,Congenital arteriovenous malformation,,234141001,CPRD_AURUM
+315561017,Conjoined twins NOS,PK4z.00,41337007,CPRD_AURUM
+313569017,Congenital anomaly of cerebral vessel, unspecified,P7y0000,204497008,CPRD_AURUM
+313577018,Cerebrovascular system anomaly NOS,P7y0z00,204497008,CPRD_AURUM
+315186015,Aplasia of muscle,PGyy400,205532005,CPRD_AURUM
+2536380019,Retrosternal hernia,J34..13,48763007,CPRD_AURUM
+49045010,Craniolacunia,PG0G.11,29307005,CPRD_AURUM
+315010017,Congenital complete fusion of spine,PG15000,205435009,CPRD_AURUM
+30628014,Congenital deformity of sacroiliac joint,PF6y200,18132009,CPRD_AURUM
+141941018,Craniopagus occipitalis,PK40100,85630009,CPRD_AURUM
+1230968016,Separation of conjoined twins,7L0C.00,51271008,CPRD_AURUM
+579431000006111,Congenital absence of nails,PH50.11,23610003,CPRD_AURUM
+313540014,Atresia of artery NEC,P762.00,31570000,CPRD_AURUM
+400814019,Congenital peripheral aneurysm,P767.00,268190004,CPRD_AURUM
+315005016,Lumbar hemivertebra - unbalanced,PG14800,205432007,CPRD_AURUM
+114137012,Transposition of abdominal viscera,PK31.11,68716001,CPRD_AURUM
+144753010,Supernumerary vertebra,PG1y100,87294007,CPRD_AURUM
+313614012,Congenital web of larynx, unspecified,P820.00,47070001,CPRD_AURUM
+2548388015,Four vessels in umbilical cord,P76y100,417426005,CPRD_AURUM
+578761000006117,Congenit partial fusion spine with hemivertebra, unbalanced,PG15400,205439003,CPRD_AURUM
+498061000006115,Atrichosis,PH40211,311671002,CPRD_AURUM
+354498012,Congenital renal artery aneurysm,G721100,236492003,CPRD_AURUM
+3561261000006119,Congenital anomaly of parathyroid glands,,65274008,CPRD_AURUM
+5441331000006111,Spinal arteriovenous malformation,null,261482004,CPRD_AURUM
+4830711000006110,Absent muscle,,205532005,CPRD_AURUM
+314999014,Congenital absence of vertebra NOS,PG13z00,15843004,CPRD_AURUM
+3880361000006119,Dural arteriovenous malformation,null,84873005,CPRD_AURUM
+215631000000118,Asplenia,PK01.11,707147002,CPRD_AURUM
+314955017,Other congenital musculoskeletal anomalies,PG...00,73573004,CPRD_AURUM
+221131000006113,Poland's syndrome,PGy0100,38371006,CPRD_AURUM
+140181000006119,Short Achilles tendon, congenital,PE74.00,205093009,CPRD_AURUM
+315041016,Other rib and sternum anomalies,PG3..00,8649001,CPRD_AURUM
+215501000000113,Parasternal hernia,J34..12,48763007,CPRD_AURUM
+483561000000110,Excision of accessory breast tissue,7131900,237369007,CPRD_AURUM
+315517013,Anomalies of adrenal gland NOS,PK1z.00,60637003,CPRD_AURUM
+313574013,Congenital brain aneurysm NEC,P7y0200,282036005,CPRD_AURUM
+40207012,Imperfect fusion of skull,PG06.00,23939000,CPRD_AURUM
+34231000006110,Other congenital musculoskeletal deformity,PE9..11,73573004,CPRD_AURUM
+580311000006110,Congenital anomaly NOS,PKzz.00,276654001,CPRD_AURUM
+117414019,Congenital discoid meniscus,N072.11,70690000,CPRD_AURUM
+315036012,Defect of vertebral segmentation,PG1y300,205455005,CPRD_AURUM
+378179013,Congenital lumbosacral fusion,PG15.11,254039006,CPRD_AURUM
+315310014,Specified hair anomalies NOS,PH4z.00,65033000,CPRD_AURUM
+301561000000115,Moulded baby syndrome,PKyH.00,423095007,CPRD_AURUM
+350767017,Other congenital anomalies of peripheral veins,P76..12,9904008,CPRD_AURUM
+375981000000113,Embolisation of arteriovenous abnormality NEC,7A61800,175786007,CPRD_AURUM
+189621000000119,Two umbilical vessels,P753.00,112881000000105,CPRD_AURUM
+371631000006110,[X]Congenital malformation of circulatory system, unspecif,Pyu2K00,9904008,CPRD_AURUM
+315529016,Anomalies of thyroglossal duct NEC,PK26.00,303138003,CPRD_AURUM
+153427015,Cervical hemivertebra,PG14000,92806000,CPRD_AURUM
+1548871000006116,Perc translum arterial venous embolis arteriovenous malform,7A61700,707827007,CPRD_AURUM
+315541011,Endocrine gland anomaly NOS,PK2z.00,4184009,CPRD_AURUM
+39647017,Anonychia,PH50.00,23610003,CPRD_AURUM
+407851000006110,[X]Other congen malform of spine, not assoc with scoliosis,Pyu8E00,74877002,CPRD_AURUM
+80102014,Acrocephaly,PG01.00,48069004,CPRD_AURUM
+400965011,Aberrant thyroid gland,PK25000,268302006,CPRD_AURUM
+4799931000006115,Congenital malformation of the skin,,199879009,CPRD_AURUM
+313556016,Anomaly of renal artery NEC NOS,P76Cz00,46395002,CPRD_AURUM
+121704017,Marshall-Smith syndrome,PKy0400,73284007,CPRD_AURUM
+831071000006116,Hyperplasia of spleen,PK03.11,36752001,CPRD_AURUM
+312934015,Multiple congenital cerebral cysts,P240100,204068000,CPRD_AURUM
+20801014,Congenital stenosis of larynx,P833000,12070002,CPRD_AURUM
+3559251000006111,Congenital spinal meningocele,,65144005,CPRD_AURUM
+77345015,Multiple renal arteries,P76B.00,46395002,CPRD_AURUM
+5659051000006118,Congenital arterial aneurysm,,282036005,CPRD_AURUM
+2478826011,Atresia of epiglottis,P832000,7481002,CPRD_AURUM
+297014018,Cerebral degeneration due to congenital hydrocephalus,F11x300,192814005,CPRD_AURUM
+3434311000006111,Congenital anomaly of spleen,,57497006,CPRD_AURUM
+315641017,Acardia,PKyz100,205834002,CPRD_AURUM
+2898801000006119,Congenital anomaly of sternocleidomastoid muscle,,24963004,CPRD_AURUM
+315033016,Congenital absence of spine NEC,PG1y200,254038003,CPRD_AURUM
+157843019,Supernumerary cervical vertebra,PG1u000,95293000,CPRD_AURUM
+152279010,Congenital absence of thoracic vertebra,PG13100,91917000,CPRD_AURUM
+315000014,Cervical hemivertebra- balanced,PG14300,205427006,CPRD_AURUM
+3884031000006118,Dextrocardia/situs inversus finding,null,85090007,CPRD_AURUM
+6633721000006113,Multiple congenital anomalies,,400038003,CPRD_AURUM
+127701015,Spina bifida occulta,PG17.00,76916001,CPRD_AURUM
+484581000006111,Anomalies of spine,PG1..00,74877002,CPRD_AURUM
+315809014,Congenital anomaly NOS,Pz...00,276654001,CPRD_AURUM
+585231000006115,Congenital spine deformity,PE2..00,205043005,CPRD_AURUM
+400878010,Certain congenital musculoskeletal deformities,PE...00,73573004,CPRD_AURUM
+133631000006118,Specified anomalies of nails,PH5..00,17790008,CPRD_AURUM
+221121000006110,Poland's syndrome,PF59400,38371006,CPRD_AURUM
+820201000006111,Hemivertebra,PG14.00,68359008,CPRD_AURUM
+3134881000006111,Thyroglossal duct cyst,,39462005,CPRD_AURUM
+315523015,Anomaly of pituitary gland NOS,PK24z00,74012004,CPRD_AURUM
+378106019,Skull congenital deformities,PE0..13,253979005,CPRD_AURUM
+9099012,Lichen spinulosus,PH3yz11,4859009,CPRD_AURUM
+6029017,Congenital alopecia,PH40.00,2965006,CPRD_AURUM
+153761017,Congenital absence of thyroid gland,PK25100,92978002,CPRD_AURUM
+315230010,Other specified skin anomalies,PH3..00,199879009,CPRD_AURUM
+1231701014,Premature cranial suture closure,PG09.00,57219006,CPRD_AURUM
+114136015,Situs inversus abdominalis,PK31.00,68716001,CPRD_AURUM
+1234550018,Congenital spinal cord anomaly,P2y1.00,81042008,CPRD_AURUM
+315530014,Anomalies of parathyroid gland NEC,PK27.00,65274008,CPRD_AURUM
+313615013,Congenital glottic web of larynx,P821.00,204529000,CPRD_AURUM
+49047019,Lacunar skull,PG0G.12,29307005,CPRD_AURUM
+220091000000111,Repair of deformity of palate,7525.11,265330007,CPRD_AURUM
+314413017,Skull, face or jaw congenital deformities NOS,PE0z.00,268239009,CPRD_AURUM
+400918017,Other specified skull or face bone anomaly,PG0y.00,268239009,CPRD_AURUM
+893471000006115,Congen.integument anomaly NOS,PHz..99,582461000000106,CPRD_AURUM
+313554018,Anomalies of renal artery NEC,P76C.00,46395002,CPRD_AURUM
+315038013,Hypoplasia of spine,PG1y400,205456006,CPRD_AURUM
+76674014,Congenital shortening of tendon,PGyy100,45987002,CPRD_AURUM
+315507015,Other specified anomalies of spleen,PK0y.00,57497006,CPRD_AURUM
+68950016,Conjoined twins,PK4..00,41337007,CPRD_AURUM
+315678019,[X]Congenital malformations of the circulatory system,Pyu2.00,9904008,CPRD_AURUM
+414321000006116,[X]Other specified congenit malformation skull & face bones,Pyu8D00,268239009,CPRD_AURUM
+583681000006116,Congenital malformation of larynx, unspecified,P83yX00,72292009,CPRD_AURUM
+893001000006119,Web of larynx,P82..99,47070001,CPRD_AURUM
+29038015,Twisted hair,PH44.00,17170005,CPRD_AURUM
+315786011,[X]Other specified congenital malformations of skin,Pyu9200,199879009,CPRD_AURUM
+313104016,Congenital arteriovenous malformation of retina,P357100,204188003,CPRD_AURUM
+743831000006113,Ligation of congenital arteriovenous malformation,7A61011,175787003,CPRD_AURUM
+400955017,Unspecified congenital anomalies of skin,PHz0.00,199879009,CPRD_AURUM
+500100010,Aberrant pituitary gland,PK24000,6537000,CPRD_AURUM
+315189010,Other anomaly of tendon, fascia or muscle NOS,PGyyz00,73573004,CPRD_AURUM
+141531012,Accessory renal artery,P76B.11,85383006,CPRD_AURUM
+1548851000006114,Percutan transluminal embolis arteriovenous malformation NEC,7A61500,175786007,CPRD_AURUM
+117895011,Situs inversus thoracis,PK32.00,70978004,CPRD_AURUM
+4353171000006111,Congenital anomaly of rib,,123572006,CPRD_AURUM
+315709019,[X]Congenital malformation of larynx, unspecified,Pyu3600,72292009,CPRD_AURUM
+313519013,Anomalous portal vein termination,P743.00,204460003,CPRD_AURUM
+2833201000006116,Congenital scoliosis,,20944008,CPRD_AURUM
+26844018,Congenital absence of vertebra,PG13.00,15843004,CPRD_AURUM
+5014101000006119,Stereotactic radiosurgery of intracranial arteriovenous malformation,,230912001,CPRD_AURUM
+315265010,Specified syndromes involving skin anomalies NEC NOS,PH33z00,80659006,CPRD_AURUM
+4016841000006111,Congenital hypoplasia of adrenal gland,,93235007,CPRD_AURUM
+968201000006114,Men ret congen heart dis blepharophim blepharop hypopl teeth,PKyG.00,412787009,CPRD_AURUM
+861191000006112,Laryngeal web division,7431z99,564271000000106,CPRD_AURUM
+5337101000006119,Congenital malformation of sternum,,254041007,CPRD_AURUM
+5982201000006112,Entire thyroglossal duct,,308822005,CPRD_AURUM
+2692191000006113,Congenital laryngeal stenosis,,12070002,CPRD_AURUM
+6614621000006113,Congenital melanocytic nevus of skin,null,398943008,CPRD_AURUM
+3812701000006115,Congenital spondylolysis of lumbosacral region,,80712009,CPRD_AURUM
+443820016,Renal artery stenosis,P769000,302233006,CPRD_AURUM
+731931000006117,Macrocephaly,P241.13,19410003,CPRD_AURUM
+272151010,Embolisation of arteriovenous abnormality,7A61200,175786007,CPRD_AURUM
+377803014,Congenital laryngomalacia,P831700,253737007,CPRD_AURUM
+649741000006115,Eventration of diaphragm,PG63.00,17128000,CPRD_AURUM
+314997011,Sacral agenesis,PG13311,205425003,CPRD_AURUM
+78462010,Congenital web of larynx,P82..00,47070001,CPRD_AURUM
+315243010,Congenital pigmentary skin anomalies,PH32.00,205564003,CPRD_AURUM
+1786206013,Persistent umbilical sinus,PD73.00,398316009,CPRD_AURUM
+215621000000115,Localised skull defects,PG0G.00,270519009,CPRD_AURUM
+133701000006119,Specified hair anomalies,PH4..00,65033000,CPRD_AURUM
+315562012,Other hamartoses NEC,PK6..00,66091009,CPRD_AURUM
+400886010,Congenital spine deformity NOS,PE2z.00,74877002,CPRD_AURUM
+268453010,Correction of deformity of palate NOS,7525z00,265330007,CPRD_AURUM
+312960019,Spinal cord anomalies NOS,P25z.00,253124001,CPRD_AURUM
+377897016,Liver hamartoma,PB6yw11,253810002,CPRD_AURUM
+235491000006115,Peripheral arterio-venous aneurysm,P766.00,234141001,CPRD_AURUM
+893431000006118,Musculo-skeletal anomaly NOS,PGz..99,73573004,CPRD_AURUM
+579621000006111,Congenital absence of sacrum,PG13300,205425003,CPRD_AURUM
+314992017,Other anomaly of skull or face bone NOS,PG0yz00,268239009,CPRD_AURUM
+315159015,Diaphragm anomalies NOS,PG6z.00,88386004,CPRD_AURUM
+315565014,Other specified hamartoses NEC,PK6y.00,66091009,CPRD_AURUM
+315197015,Unspecified anomaly of cartilage,PGz3.00,73573004,CPRD_AURUM
+315046014,Other congenital anomalies of sternum,PG3y.00,254041007,CPRD_AURUM
+143592013,Platybasia,PG08.00,86587003,CPRD_AURUM
+484641000006116,Anomalies of thymus,PK28.00,38824008,CPRD_AURUM
+315184017,Hypoplasia of muscle,PGyy200,205530002,CPRD_AURUM
+494944014,Congenital absence of muscle and tendon,PGy0.00,47880003,CPRD_AURUM
+350815011,Congenital arteriovenous fistula of brain,P7y0111,234149004,CPRD_AURUM
+893281000006116,Musculoskeletal congen anomal,PE...99,268238001,CPRD_AURUM
+770881000006116,Integument anomalies NOS,PH3z.00,66091009,CPRD_AURUM
+3118101000006114,Poland anomaly,,38371006,CPRD_AURUM
+315528012,Anomaly of thyroid gland NEC NOS,PK25z00,32454003,CPRD_AURUM
+315025017,Congenital anomaly of lumbar vertebra NEC NOS,PG1wz00,74877002,CPRD_AURUM
+315789016,[X]Other congenital malformations of nails,Pyu9500,35964007,CPRD_AURUM
+123249014,Congenital scar,PH3y100,74223008,CPRD_AURUM
+313579015,Congenital aneurysm NEC,P7yz000,282036005,CPRD_AURUM
+315536015,Anomaly of thymus gland NOS,PK28z00,38824008,CPRD_AURUM
+378174015,Congenital deformity of lumbosacral joint,PG1y.11,254034001,CPRD_AURUM
+893421000006116,Diaphragm anomaly,PG6..99,88386004,CPRD_AURUM
+3134471000006111,Pachyonychia congenita,,39427000,CPRD_AURUM
+5597281000006110,Ruptured cerebral arteriovenous malformation,,277299009,CPRD_AURUM
+5060241000006118,Arterial malformation,,234119001,CPRD_AURUM
+3274551000006118,Congenital absence of muscle AND/OR tendon,,47880003,CPRD_AURUM
+584371000006110,Congenital partial fusion spine with hemivertebra, balanced,PG15300,205438006,CPRD_AURUM
+583261000006111,Congenital intracerebral cyst,P240.11,19276002,CPRD_AURUM
+313610015,Congenital fissure of nose,P818.00,204526007,CPRD_AURUM
+2675888018,Repair of anomalous caval vein connection,7A63500,426791002,CPRD_AURUM
+313575014,Congenital stricture of cerebral artery,P7y0300,204501003,CPRD_AURUM
+123766012,Craniopagus,PK40.00,74516008,CPRD_AURUM
+4163821000006115,Metopic craniosynostosis,,109409003,CPRD_AURUM
+4057711000006114,Retinal arteriovenous malformation,,95501007,CPRD_AURUM
+315535016,Aberrant thymus gland,PK28000,17422006,CPRD_AURUM
+2937671000006111,Situs inversus,,27317008,CPRD_AURUM
+313538016,Absence of artery NEC,P760.00,91605000,CPRD_AURUM
+3036111000006111,Congenital deformity of forehead,,33322003,CPRD_AURUM
+108112019,Accessory parathyroid gland,PK27100,65048006,CPRD_AURUM
+152200010,Congenital absence of cervical vertebra,PG13000,91880006,CPRD_AURUM
+315522013,Accessory pituitary gland,PK24200,205750001,CPRD_AURUM
+313105015,Congenital stricture of retinal artery,P357200,204189006,CPRD_AURUM
+5014071000006112,Embolisation of intracranial arteriovenous malformation,,230910009,CPRD_AURUM
+7577211000006110,Capillary malformation-arteriovenous malformation syndrome,null,703533007,CPRD_AURUM
+579931000006115,Congenital accessory skin tags,PH3y000,84449007,CPRD_AURUM
+350802019,Arteriovenous malformation,P76D.00,234141001,CPRD_AURUM
+35209010,Congenital postural scoliosis,PE22.00,20944008,CPRD_AURUM
+66183019,Thyroglossal duct cyst,PK23.00,39462005,CPRD_AURUM
+95173018,Craniosynostosis,PG03.00,57219006,CPRD_AURUM
+400954018,Integument anomalies NOS,PHz..00,66091009,CPRD_AURUM
+726771000006113,Hypertrophic nails,PH55.11,30654002,CPRD_AURUM
+400815018,Circulatory system anomaly NOS,P7z..00,9904008,CPRD_AURUM
+8065015,Scaphocephaly,PG03.11,109418001,CPRD_AURUM
+48118018,Trigonocephaly,PG0B.00,28740008,CPRD_AURUM
+484561000006118,Anomalies of pituitary gland,PK24.00,74012004,CPRD_AURUM
+484451000006116,Anomalies of diaphragm,PG6..00,88386004,CPRD_AURUM
+4273012,Ectopic breast tissue,PH68.00,1896004,CPRD_AURUM
+5263018,Congenital cerebral arteriovenous aneurysm,P7y0100,2495006,CPRD_AURUM
+315524014,Anomalies of thyroid gland NEC,PK25.00,32454003,CPRD_AURUM
+157854012,Thoracic hemivertebra,PG14100,95304000,CPRD_AURUM
+315024018,Congenital anomalies of lumbar vertebrae NEC,PG1w.00,74877002,CPRD_AURUM
+583951000006116,Congenital musculoskeletal deformities,PE...11,73573004,CPRD_AURUM
+312466015,Dysplastic spondylolisthesis,N384000,203682009,CPRD_AURUM
+315762014,[X]Other congenital deformities of skull, face and jaw,Pyu8400,268239009,CPRD_AURUM
+314996019,Anomaly of spine, unspecified,PG10.00,74877002,CPRD_AURUM
+893441000006111,Congen.integument anomalies,PH...99,38164009,CPRD_AURUM
+32517013,Congenital cerebral cyst,P240.00,19276002,CPRD_AURUM
+30681018,Supernumerary breast,PH64.00,18166000,CPRD_AURUM
+314424015,Congenital spine deformity, unspecified,PE20.00,205043005,CPRD_AURUM
+313576010,Other specified cerebrovascular anomaly,P7y0y00,204497008,CPRD_AURUM
+439821000006116,Absent breast,PH60.00,248802009,CPRD_AURUM
+371761000006110,[X]Congenital malformations+deformations musculoskeletal sys,Pyu8.00,73573004,CPRD_AURUM
+4163941000006117,Sagittal craniosynostosis,,109418001,CPRD_AURUM
+315028015,Congenital sacrococcygeal anomaly NOS,PG1xz00,254040008,CPRD_AURUM
+5060551000006119,AVM - Congenital arteriovenous malformation,,234141001,CPRD_AURUM
+315039017,Other anomaly of spine NOS,PG1yz00,74877002,CPRD_AURUM
+315337011,Unspecified congenital anomalies of hair,PHz1.00,65033000,CPRD_AURUM
+4799911000006114,Congenital anomaly of skin,,199879009,CPRD_AURUM
+378021011,Congenital deformity of musculoskeletal system NEC,PGz..11,73573004,CPRD_AURUM
+376978012,Local gigantism NEC,PKyz.12,66091009,CPRD_AURUM
+661011000006112,Face bone anomalies,PG0..11,32003007,CPRD_AURUM
+378173014,Congenital deformity of lumbosacral region,PG1y.12,254033007,CPRD_AURUM
+315297010,Congenital localised alopecia,PH40100,205592008,CPRD_AURUM
+378487017,Situs inversus, unspecified,PK30.00,43876007,CPRD_AURUM
+1232043014,Congenital arterial stricture,P769.00,60091004,CPRD_AURUM
+312890013,Anomalies of cerebrum,P227.00,204039001,CPRD_AURUM
+272152015,Ligation of congenital arteriovenous malformation,7A61300,175787003,CPRD_AURUM
+312448013,Scoliosis in connective tissue anomalies,N374D00,203664006,CPRD_AURUM
+893511000006113,Congenital anomalies NOS,PK...99,625381000000104,CPRD_AURUM
+5722291000006116,Congenital lordosis/scoliosis,,287087003,CPRD_AURUM
+315021014,Congenital anomaly of cervical vertebrae NEC NOS,PG1uz00,74877002,CPRD_AURUM
+13561017,Platyspondylia,PG1y000,7603007,CPRD_AURUM
+315704012,[X]Other congenital malformations of larynx,Pyu3100,72292009,CPRD_AURUM
+315788012,[X]Other congenital malformations of hair,Pyu9400,65033000,CPRD_AURUM
+315796019,[X]Congenital malformation of breast, unspecified,Pyu9C00,83546008,CPRD_AURUM
+13943811000006118,Congenital stenosis of spinal canal,null,840487004,CPRD_AURUM
+3079341000006119,Congenital anomaly of nail,,35964007,CPRD_AURUM
+2642371000006116,Congenital hypoplasia of breast,,8915006,CPRD_AURUM
+497601000006112,Atresia of glottis,P832100,52879001,CPRD_AURUM
+581561000006112,Congenital defect of diaphragmatic NEC,PG61.11,17190001,CPRD_AURUM
+315790013,[X]Other specified congenital malformations of integument,Pyu9600,66091009,CPRD_AURUM
+694051000006113,Muscle agenesis,PGy0211,205532005,CPRD_AURUM
+65676015,Congenital anomaly of spinal meninges,P25y200,39150004,CPRD_AURUM
+376983016,Congenital cerebral hernia,P20..13,253101008,CPRD_AURUM
+6030010,Congenital atrichosis,PH40.11,311671002,CPRD_AURUM
+315568011,Monster NOS,PK70.00,276654001,CPRD_AURUM
+400894015,Other nonteratogenic anomaly NOS,PE8yz00,66091009,CPRD_AURUM
+408441000006111,[X]Other congenital malforms of the musculoskeletal system,Pyu8M00,73573004,CPRD_AURUM
+313646012,Congenital cleft of posterior cricoid cartilage,P83y700,204558002,CPRD_AURUM
+7564131000006110,Congenital anomaly of cerebrum,null,702628006,CPRD_AURUM
+6580261000006117,Mast cell disorder,,397007003,CPRD_AURUM
+4831641000006113,Ectopic parathyroid gland,,205757003,CPRD_AURUM
+4029021000006110,Primary malignant neoplasm of thyroglossal duct,null,94097000,CPRD_AURUM
+991681000006111,Congen.integument anomaly NOS,PH...98,38164009,CPRD_AURUM
+315647018,Anomalies of umbilicus,PKz0.00,397320006,CPRD_AURUM
+512794015,Macrocephaly,PG0H.00,19410003,CPRD_AURUM
+484401000006115,Anomalies of adrenal gland,PK1..00,60637003,CPRD_AURUM
+394068016,Correction of deformity of palate,7525.00,265330007,CPRD_AURUM
+788431000006110,Hypoplasia of adrenal gland,PK13.00,93235007,CPRD_AURUM
+313626019,Anomaly of epiglottis,P831100,204539006,CPRD_AURUM
+394351011,Excision of congenital arteriovenous malformation,7A61000,265537006,CPRD_AURUM
+378360017,Bullous eruption of hand,PH3y213,254175006,CPRD_AURUM
+6614561000006115,Congenital pigmented melanocytic naevus of skin,,398943008,CPRD_AURUM
+66129017,Congenital pachyonychia,PH55.00,39427000,CPRD_AURUM
+18039019,Accessory spleen,PK02.00,10362008,CPRD_AURUM
+315566010,Hamartoses NOS,PK6z.00,66091009,CPRD_AURUM
+350103010,Congenital chylothorax,P7yz100,233646003,CPRD_AURUM
+313596019,Congenital nose deformity, unspecified,P810.00,72089000,CPRD_AURUM
+38878012,Proteus syndrome,PK64.00,23150001,CPRD_AURUM
+315252018,Congenital pigmentary skin anomaly NOS,PH32z00,205564003,CPRD_AURUM
+307134018,Congenital skin anomalies,PH...11,199879009,CPRD_AURUM
+501640011,Discoid meniscus - congenital,PE8yB00,70690000,CPRD_AURUM
+504396012,Anomaly of thyroid cartilage,P831200,8032007,CPRD_AURUM
+400956016,Unspecified congenital anomalies of nail,PHz2.00,35964007,CPRD_AURUM
+315099015,Dysplasia epiphysealis hemimelica,PG49.00,205480005,CPRD_AURUM
+400816017,Other anomalies of nose NOS,P81z.00,72089000,CPRD_AURUM
+3643019,Congenital phlebectasia,P768.00,1519002,CPRD_AURUM
+315195011,Unspecified anomaly of tendon,PGz1.00,79191007,CPRD_AURUM
+313539012,Anomaly of artery NEC,P761.00,234119001,CPRD_AURUM
+10927012,Congenital fusion of sacroiliac joint,PF6y300,5968001,CPRD_AURUM
+29037013,Pili torti,PH44.11,17170005,CPRD_AURUM
+1233217010,Congenital poikiloderma,PH32000,70041004,CPRD_AURUM
+312946016,Other specified spinal cord anomalies,P25..00,88425004,CPRD_AURUM
+315190018,Other muscle, tendon or fascia anomalies NOS,PGyz.00,73573004,CPRD_AURUM
+268452017,Other specified correction of deformity of palate,7525y00,265330007,CPRD_AURUM
+315011018,Congenital partial fusion of spine - balanced,PG15100,205436005,CPRD_AURUM
+583651000006112,Congenital malformation of circulatory system, unspecif,P7W..00,9904008,CPRD_AURUM
+313774010,Congenital pharyngeal polyp,PA27100,204642008,CPRD_AURUM
+313616014,Congenital subglottic web of larynx,P822.00,204530005,CPRD_AURUM
+315534017,Anomaly of parathyroid gland NEC NOS,PK27z00,65274008,CPRD_AURUM
+512130019,Congenital stricture of pulmonary artery,P735.11,95441000,CPRD_AURUM
+315015010,Wilderwanck's syndrome,PG16000,79665007,CPRD_AURUM
+312959012,Other specified spinal cord anomalies NOS,P25yz00,253124001,CPRD_AURUM
+20643016,Excision of accessory spleen,7840200,11973000,CPRD_AURUM
+107353018,Congenital clubnail,PH51.00,64596006,CPRD_AURUM
+1235789015,Congenital hypoplastic nose,P819.00,93278002,CPRD_AURUM
+5350241000006114,Arteriovenous malformation of skin,,254780006,CPRD_AURUM
+154287010,Congenital hypoplasia of cerebrum,P227100,93249003,CPRD_AURUM
+858681000006118,Supernumary breast excision,7131.99,546441000000104,CPRD_AURUM
+480711000006117,Amyotrophica congenita,PGyy000,75491005,CPRD_AURUM
+313424014,Congenital aneurysm of heart,P6yy600,204395001,CPRD_AURUM
+108399018,Accessory thyroid gland,PK21.00,65237009,CPRD_AURUM
+313555017,Aberrant main renal artery,P76C000,204485007,CPRD_AURUM
+5350991000006112,Congenital giant pigmented naevus of skin,null,254815002,CPRD_AURUM
+315304014,Congenital alopecia NOS,PH40z00,205592008,CPRD_AURUM
+315540012,Other specified endocrine gland anomaly,PK2y.00,4184009,CPRD_AURUM
+312935019,Congenital cerebral cyst NOS,P240z00,19276002,CPRD_AURUM
+509754012,Congenital absence of coccyx,PG1x000,91876001,CPRD_AURUM
+315003011,Thoracic hemivertebra - unbalanced,PG14600,205430004,CPRD_AURUM
+157852011,Supernumerary thoracic vertebra,PG1v000,95302001,CPRD_AURUM
+4646851000006113,Excision of thyroglossal duct,,171982008,CPRD_AURUM
+5055191000006116,Defect of diaphragm,,233745009,CPRD_AURUM
+3136141000006117,Congenital depression in skull,,39540007,CPRD_AURUM
+3015411000006115,Congenital anomaly of face bones,,32003007,CPRD_AURUM
+5519131000006113,Congenital absence of tendon,,271018002,CPRD_AURUM
+7166471000006117,Congenital asymmetry of breasts,null,432734004,CPRD_AURUM
+7345621000006114,Excision of arteriovenous malformation,null,447764000,CPRD_AURUM
+3409881000006119,Congenital hemihypertrophy,null,56007004,CPRD_AURUM
+315559014,Diaxial (double) monster,PK45.00,205777005,CPRD_AURUM
+5060491000006114,Macrocephaly with multiple lipomas and hemangiomas,,234138005,CPRD_AURUM
+314998018,Congenital absence of sacrum,PG1x100,205425003,CPRD_AURUM
+278519014,Combined operations to separate conjoined twins,7L0C000,180062009,CPRD_AURUM

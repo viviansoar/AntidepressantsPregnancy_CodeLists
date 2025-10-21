@@ -1,0 +1,126 @@
+MEDICAL_CODE_ID,DESCRIPTION,READ_CODE,SNOMED_CT_CODE,DATABASE
+354341016,Nephrotic syndrome with pseudohermaphroditism,K01w111,236385009,CPRD_AURUM
+400865010,Indeterminate sex and pseudohermaphroditism,PC7..00,268229003,CPRD_AURUM
+198371000006112,Pseudohermaphrodite,female with adrenocortical disorder,C152A12,237750004,CPRD_AURUM
+5560601000006119,Congenital absence of testis,,274151005,CPRD_AURUM
+2772031000006111,Congenital aplasia of uterus,,17142008,CPRD_AURUM
+2801231000006119,True hermaphroditism,,18978002,CPRD_AURUM
+5093451000006111,Wilms' tumor and nephrotic syndrome with pseudohermaphroditism,,236385009,CPRD_AURUM
+3006151000006117,Uterus bicornis,,31401003,CPRD_AURUM
+5092021000006119,Flip-flap hypospadias repair,,236280001,CPRD_AURUM
+4671871000006113,Chinese hypospadias repair,,176337003,CPRD_AURUM
+6347821000006115,Congenital absent testes,,371015003,CPRD_AURUM
+5112011000006119,Pseudohermaphrodite, female with adrenocortical disorder,,237750004,CPRD_AURUM
+5335011000006113,Congenital anomaly of clitoris,,253842008,CPRD_AURUM
+3135721000006118,Congenital atresia of vas deferens,,39513007,CPRD_AURUM
+1229534016,Atresia of vas deferens,PCy3100,39513007,CPRD_AURUM
+314205015,Indeterminate sex or pseudohermaphroditism NOS,PC7z.00,268229003,CPRD_AURUM
+12484231000006112,Congenital absence of testis, unilateral,,87310001,CPRD_AURUM
+12731311000006112,Other hypospadias repair,,662081000000104,CPRD_AURUM
+12191901000006114,Embryonic cyst of fimbria of fallopian tube,,64233004,CPRD_AURUM
+6347801000006113,Bilateral congenital aplasia of testicles,,371015003,CPRD_AURUM
+3293051000006118,Male pseudohermaphroditism due to testicular 17,20-desmolase deficiency,,49013001,CPRD_AURUM
+760151000006111,First stage hypospadias repair,7B41017,274040007,CPRD_AURUM
+580571000006113,Congenital aplasia of testicle,PCy1200,274151005,CPRD_AURUM
+3394018,Uterus unicornis,PC34.00,1372004,CPRD_AURUM
+510571000006111,Bicornuate uterus in pregnancy, childbirth and puerperium,L240.11,237225003,CPRD_AURUM
+220321000000110,Plastic operations on penis,7C22.00,271413004,CPRD_AURUM
+893191000006110,Hypospadias/epispadias,PC6..99,204886001,CPRD_AURUM
+478067010,Aplasia of uterus,PC32.00,17142008,CPRD_AURUM
+315735018,[X]Other congenital malformations of ovary,Pyu6000,38296007,CPRD_AURUM
+434851000006112,46XX true hermaphrodite,PJyy100,205719003,CPRD_AURUM
+400868012,Pseudohermaphrodite NOS,PC7z100,268229003,CPRD_AURUM
+7516411000006115,Male subcoronal hypospadias,,699051006,CPRD_AURUM
+377920012,Embryonic cyst of cervix,PC41300,253833001,CPRD_AURUM
+100164014,Congenital absence of clitoris,PC4y200,60291005,CPRD_AURUM
+3474071000006115,Congenital absence of penis,,59981001,CPRD_AURUM
+404581000006110,[X]Oth cong malform vas def/epidid/semin vesicles/prostate,Pyu6900,204821009,CPRD_AURUM
+5334871000006110,Congenital malformation of uterus and cervix,,253827005,CPRD_AURUM
+314187015,Hypospadias and epispadias,PC6..00,204886001,CPRD_AURUM
+106918013,Congenital chordee,PC62.00,64320007,CPRD_AURUM
+88674011,Repair of urethra,7B41.00,53328006,CPRD_AURUM
+315744017,[X]Other specified hypospadias,Pyu6700,416010008,CPRD_AURUM
+273041017,Repair of urethra NOS,7B41z00,302364006,CPRD_AURUM
+314224017,Hypoplasia of scrotum,PCy2200,204912007,CPRD_AURUM
+273327019,Other specified plastic operation on penis,7C22y00,271413004,CPRD_AURUM
+355538018,Bicornuate uterus in pregnancy, childbirth or puerperium NOS,L240z11,267212003,CPRD_AURUM
+5092351000006113,Revision of hypospadias repair,,236290009,CPRD_AURUM
+550511000006111,Chimera 46XX/46XY, true hermaphrodite,PJyy011,205718006,CPRD_AURUM
+3722141000006114,Pseudohermaphroditism,null,75164001,CPRD_AURUM
+52492012,Bicornuate uterus,PC33.00,31401003,CPRD_AURUM
+731501000006116,MAGPI hypospadias repair,7B41700,176337003,CPRD_AURUM
+2475670016,Hypospadias, glanular,PC60311,204891000,CPRD_AURUM
+400853011,Other congenital anomaly of clitoris,PC4yy00,253842008,CPRD_AURUM
+273038014,Other specified repair of urethra,7B41y00,302364006,CPRD_AURUM
+6221391000006111,Hypospadias and chordee repair,,361262004,CPRD_AURUM
+189011000006111,Rectovaginal fistula, congenital,PC43.00,111330004,CPRD_AURUM
+178565013,Male pseudohermaphroditism,PC71.00,111332007,CPRD_AURUM
+315739012,[X]Other congenital malformations of vagina,Pyu6400,52904006,CPRD_AURUM
+1847541000006113,Wilms' tumour + nephrotic syndrome + pseudohermaphroditism,K01w112,236385009,CPRD_AURUM
+28990017,Agenesis of uterus,PC31.00,17142008,CPRD_AURUM
+315737014,[X]Other doubling of uterus,Pyu6200,15545001,CPRD_AURUM
+99645010,Congenital absence of penis,PCy0000,59981001,CPRD_AURUM
+377946011,False hermaphrodite,PC7z111,253857001,CPRD_AURUM
+6221381000006113,Denis-Browne hypospadias repair,,361261006,CPRD_AURUM
+510551000006118,Bicornuate uterus complic p/n care - baby previously deliv,L240411,237219002,CPRD_AURUM
+2548441015,Hypospadias,PC60.00,416010008,CPRD_AURUM
+314191013,Hypospadias, penile,PC60000,204888000,CPRD_AURUM
+314109015,Doubling of uterus,PC2..00,15545001,CPRD_AURUM
+612981000006113,Denis - Browne hypospadias repair,7B41013,361261006,CPRD_AURUM
+1209728018,Congenital absence of both testes,PCy4.11,371015003,CPRD_AURUM
+273328012,Plastic operation on penis NOS,7C22z00,271413004,CPRD_AURUM
+414341000006111,[X]Other specified congenital malform of female genitalia,Pyu6600,204821009,CPRD_AURUM
+377909012,Congenital torsion of ovary,PC05.00,253822004,CPRD_AURUM
+414311000006112,[X]Other specified congenit malform of male genital organs,Pyu6B00,204821009,CPRD_AURUM
+4194231000006117,Congenital rectovaginal fistula,,111330004,CPRD_AURUM
+510561000006116,Bicornuate uterus complicating a/n care, baby not delivered,L240311,237220008,CPRD_AURUM
+5263751000006112,Uterine cervix double,,248912003,CPRD_AURUM
+56301000006118,Young hypospadias repair,7B41016,361262004,CPRD_AURUM
+354181018,Ombredanne hypospadias repair,7B41014,236280001,CPRD_AURUM
+1228171015,Doubling of vagina,PCyB.00,34424009,CPRD_AURUM
+400846019,Embryonic cyst of fallopian tube and broad ligament,PC11.00,268219005,CPRD_AURUM
+314200013,Hypospadias or epispadias NOS,PC6z.00,204886001,CPRD_AURUM
+478924017,True hermaphroditism,PC70.00,18978002,CPRD_AURUM
+314113010,Doubling of uterus NOS,PC2z.00,15545001,CPRD_AURUM
+314102012,Embryonic cyst of fallopian tube or broad ligament NOS,PC11z00,204826004,CPRD_AURUM
+394427017,Other hypospadias repair,7B41000,274040007,CPRD_AURUM
+868261000006119,Hypospadias repair,7B41099,662081000000104,CPRD_AURUM
+411164014,Duckett hypospadias repair,7B41800,275219007,CPRD_AURUM
+144878015,Congenital absence of vagina,PC4y400,87380008,CPRD_AURUM
+315738016,[X]Other congenital malformations of uterus and cervix,Pyu6300,253827005,CPRD_AURUM
+5913611000006115,Embryonic cyst of fallopian tube,,302954008,CPRD_AURUM
+355545018,Bicornuate uterus affecting obstetric care,L240011,237224004,CPRD_AURUM
+5092031000006116,Mathieu hypospadias repair,,236280001,CPRD_AURUM
+15516019,Female pseudohermaphroditism,PC72.00,8800006,CPRD_AURUM
+5906001000006116,Repair of male urethra,,302364006,CPRD_AURUM
+4831551000006114,46, XX true hermaphrodite,,205719003,CPRD_AURUM
+4826951000006114,Congenital fistulae between uterus and digestive and urinary tracts,,204847000,CPRD_AURUM
+510531000006113,Bicornuate uterus - baby delivered + postpartum complication,L240211,237221007,CPRD_AURUM
+157331000006115,Second stage hypospadias repair,7B41018,274040007,CPRD_AURUM
+314192018,Hypospadias, penoscrotal,PC60100,204889008,CPRD_AURUM
+20708012,Congenital absence of ovary,PC00.00,12017008,CPRD_AURUM
+314193011,Hypospadias, perineal,PC60200,204890004,CPRD_AURUM
+628251000006118,Doubling of uterus, including cervix and vagina,PC22.00,15545001,CPRD_AURUM
+315747012,[X]Other congenital malformations of penis,Pyu6A00,70318002,CPRD_AURUM
+315745016,[X]Other congenital malformations of testis and scrotum,Pyu6800,204821009,CPRD_AURUM
+1936151000006114,H/O: hypospadias,,1936151000006105,CPRD_AURUM
+400867019,Indeterminate sex NOS,PC7z000,268229003,CPRD_AURUM
+473681000006115,Agenesis of cervix,PC4y100,37687000,CPRD_AURUM
+5335001000006110,Congenital malformation of clitoris,,253842008,CPRD_AURUM
+2520331000006113,Unicornate uterus,,1372004,CPRD_AURUM
+356304015,Pseudohermaphrodite, male with adrenocortical disorder,C152814,237748007,CPRD_AURUM
+2475669017,Hypospadias, glandular,PC60312,204891000,CPRD_AURUM
+356376017,Absent testes,1AK..00,237804005,CPRD_AURUM
+314194017,Hypospadias, balanic,PC60300,204891000,CPRD_AURUM
+788761000006113,Hypoplasia of testis,PCy2100,85437001,CPRD_AURUM
+530041000006119,Byars hypospadias repair,7B41011,361262004,CPRD_AURUM
+8154241000006116,Glanular hypospadias,,429631000124104,CPRD_AURUM
+355547014,Double uterus in pregnancy, childbirth and the puerperium,L240.12,237225003,CPRD_AURUM
+354182013,Van der Meulen hypospadias repair,7B41015,236280001,CPRD_AURUM
+314110013,Doubling of uterus, unspecified,PC20.00,15545001,CPRD_AURUM
+355544019,Bicornuate uterus - baby delivered,L240111,237223005,CPRD_AURUM
+314394014,Hypospadias, female,PDyz100,205027003,CPRD_AURUM
+8154251000006119,Coronal hypospadias,,429641000124109,CPRD_AURUM
+3006141000006119,Bicornate uterus,,31401003,CPRD_AURUM
+7560701000006113,Distal penile hypospadias,,702434007,CPRD_AURUM
+407841000006113,[X]Other congen malform of fallopian tube & broad ligament,Pyu6100,204826004,CPRD_AURUM

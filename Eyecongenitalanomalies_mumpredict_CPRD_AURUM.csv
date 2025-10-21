@@ -1,0 +1,431 @@
+MEDICAL_CODE_ID,DESCRIPTION,READ_CODE,SNOMED_CT_CODE,DATABASE
+59044019,Congenital absence of lens,P335.11,35387008,CPRD_AURUM
+298051014,Steroid-induced glaucoma residual stage,F453100,193549003,CPRD_AURUM
+1228274017,Agenesis of lens,P335.12,35387008,CPRD_AURUM
+990891000006119,Congenital eye anomaly NOS,P3...99,19416009,CPRD_AURUM
+313025019,Anomalies of lens shape NOS,P336z00,33521009,CPRD_AURUM
+581971000006113,Congenital displaced lens,P337.11,74969002,CPRD_AURUM
+313018014,Total and subtotal congenital cataract,P334.00,204130004,CPRD_AURUM
+3526208016,Cupping of optic discs of bilateral eyes co-occurrent and due to open-angle glaucoma,,737006004,CPRD_AURUM
+5238751000006112,Aphakia - no lens capsule,,247067003,CPRD_AURUM
+3526206017,Cupping of optic disc co-occurrent and due to open angle glaucoma,,736838001,CPRD_AURUM
+3981301000006119,Developmental anomaly of eyelid,,91158006,CPRD_AURUM
+3057441000006118,Glaucoma due to raised episcleral venous pressure,,34623005,CPRD_AURUM
+3656831000006117,Developmental glaucoma,,71111008,CPRD_AURUM
+3601481000006119,Subcapsular glaucomatous flecks,,67733005,CPRD_AURUM
+4720541000006117,Eyeglasses for aphakia,,183132002,CPRD_AURUM
+11923851000006114,Coloboma of retina,,39302008,CPRD_AURUM
+2614341000006110,Agenesis of eyes,,7183006,CPRD_AURUM
+4196731000006115,Glaucoma capsulare,,111514006,CPRD_AURUM
+3874581000006115,Open cleft glaucoma,,84494001,CPRD_AURUM
+3564471000006110,Subacute angle-closure glaucoma,,65460003,CPRD_AURUM
+3656811000006111,Infantile glaucoma,,71111008,CPRD_AURUM
+2808101000006113,Congenital deformity of eye,,19416009,CPRD_AURUM
+5980951000006119,ECCE - Extracapsular cataract extraction and insertion of intraocular lens,null,308694002,CPRD_AURUM
+6041611000006115,Secondary open-angle glaucoma with uveitis,null,314033007,CPRD_AURUM
+3041361000006115,CNAG - Chronic narrow angle glaucoma,,33647009,CPRD_AURUM
+3564461000006115,Interval angle-closure glaucoma,,65460003,CPRD_AURUM
+8433311000006112,Revision of blepharoptosis repair,null,1060121000000107,CPRD_AURUM
+9351591000006116,Suspected glaucoma of bilateral eyes caused by steroids,null,11001071000119104,CPRD_AURUM
+9838741000006112,Left congenital chorioretinal coloboma,null,15665361000119106,CPRD_AURUM
+9838771000006116,Bilateral congenital chorioretinal coloboma of eyes,null,15665401000119102,CPRD_AURUM
+9846921000006120,Narrow angle glaucoma of both eyes,null,15736721000119106,CPRD_AURUM
+9838721000006116,Right congenital chorioretinal coloboma,null,15665321000119100,CPRD_AURUM
+13661751000006120,Open-angle glaucoma of left eye,null,787051000,CPRD_AURUM
+13661761000006116,Open-angle glaucoma of right eye,null,787052007,CPRD_AURUM
+13655531000006114,Congenital pit of optic disc,null,786076007,CPRD_AURUM
+13682971000006116,Bilateral pseudoexfoliation glaucoma of eyes,null,344251000119103,CPRD_AURUM
+13682981000006120,Pseudoexfoliation glaucoma of both eyes,null,344251000119103,CPRD_AURUM
+13711451000006116,Open-angle glaucoma with optic disc cupping of right eye,null,15739881000119108,CPRD_AURUM
+13715521000006112,Bilateral congenital esotropia of eyes,null,16054791000119104,CPRD_AURUM
+13715541000006116,Congenital esotropia of both eyes,null,16054791000119104,CPRD_AURUM
+13933811000006120,Glaucoma suspect,null,833278008,CPRD_AURUM
+13994691000006120,Congenital cortical cataract of both eyes,null,681041000119106,CPRD_AURUM
+14153851000006116,Angle closure glaucoma suspect,null,1003488007,CPRD_AURUM
+14153861000006118,Angle closure glaucoma suspect of right eye,null,1003489004,CPRD_AURUM
+3539651000006110,Congenital absence of cilia of eyelid,,63935007,CPRD_AURUM
+2712301000006113,Ablepharon,,13401001,CPRD_AURUM
+6532941000006119,Lens induced angle closure glaucoma,,392300000,CPRD_AURUM
+3132231000006117,Fundus coloboma,,39302008,CPRD_AURUM
+5501461000006111,Glaucoma due to ocular tumor or cyst,,267625001,CPRD_AURUM
+2808121000006115,Congenital anomaly of the globe,,19416009,CPRD_AURUM
+2614371000006119,Clinical anophthalmos,,7183006,CPRD_AURUM
+3981311000006116,Congenital abnormality of eyelid,,91158006,CPRD_AURUM
+3981331000006110,Congenital malformation of eyelid,,91158006,CPRD_AURUM
+6532931000006112,Lens swelling glaucoma,,392300000,CPRD_AURUM
+4772301000006112,Residual stage of corticosteroid-induced glaucoma,,193549003,CPRD_AURUM
+4057541000006115,Congenital malformation of choroid,,95490000,CPRD_AURUM
+5912721000006110,Steroid-induced glaucoma - borderline,,302895007,CPRD_AURUM
+12731151000006110,Other specified forms of glaucoma,,660261000000103,CPRD_AURUM
+12220921000006119,Congenital fold and cyst of posterior segment of eye,,204175001,CPRD_AURUM
+4823871000006117,Congenital arteriovenous anomaly of retina,,204188003,CPRD_AURUM
+4771621000006118,CRB - Congenital retinal blindness,,193413001,CPRD_AURUM
+3634371000006116,Correction of blepharoptosis,,69769008,CPRD_AURUM
+2712341000006110,Ablepharon - absent eyelids,,13401001,CPRD_AURUM
+2718751000006110,ECCE - Extracapsular cataract extraction,,13793006,CPRD_AURUM
+3564501000006115,Prodromal angle closure glaucoma,,65460003,CPRD_AURUM
+3057431000006111,Glaucoma with increased episcleral venous pressure,,34623005,CPRD_AURUM
+11926601000006116,Fundus coloboma,,39302008,CPRD_AURUM
+4649511000006115,ICCE - Intracapsular cataract extraction,,172523009,CPRD_AURUM
+12729141000006111,Congenital eye anomalies NOS,,699101000000101,CPRD_AURUM
+1746541000006112,Congenital hypertrophy of retinal pigment epithelium,,1746541000006108,CPRD_AURUM
+527641000006113,Unspecified buphthalmos NOS,P320z00,413728006,CPRD_AURUM
+645301000006116,Enlarged eye NOS,P321.11,413728006,CPRD_AURUM
+4061441000006117,Secondary glaucoma,,95717004,CPRD_AURUM
+3041331000006112,Narrow cleft glaucoma,,33647009,CPRD_AURUM
+3132261000006114,Congenital coloboma of retina,,39302008,CPRD_AURUM
+4410701000006112,Congenital malformation of posterior segment of eye,,128534003,CPRD_AURUM
+4772281000006113,Glaucomatous stage of corticosteroid-induced glaucoma,,193548006,CPRD_AURUM
+3872061000006110,Glaucoma associated with lens disorder,,84333006,CPRD_AURUM
+3518351000006119,Congenital cyst of posterior segment of eye,,62631009,CPRD_AURUM
+8511000033115,Drugs Used For Glaucoma,,8511000033104,CPRD_AURUM
+313091019,Congenital cysts of the posterior segment,P353100,62631009,CPRD_AURUM
+11923921000006114,Congenital absence of lacrimal apparatus,,418087009,CPRD_AURUM
+347755010,Neovascular glaucoma,F456600,232086000,CPRD_AURUM
+495680018,Normal pressure glaucoma,F451211,50485007,CPRD_AURUM
+474938018,Anisocoria - unequal pupil diameter,F4K4100,13045009,CPRD_AURUM
+40305018,Aphakia,F4K3000,24010005,CPRD_AURUM
+298375018,Corneal scar or opacity NOS,F4B0z00,193795008,CPRD_AURUM
+84105018,Low tension glaucoma,F45y200,50485007,CPRD_AURUM
+298072012,Other specified forms of glaucoma,F45y.00,23986001,CPRD_AURUM
+377102019,Congenital blocked tear duct,P364400,253205005,CPRD_AURUM
+298049010,Primary angle-closure glaucoma NOS,F452z00,392288006,CPRD_AURUM
+518941000006114,Blue dot cataract,P33y000,204138006,CPRD_AURUM
+299482013,[X]Other glaucoma,FyuG000,23986001,CPRD_AURUM
+313146013,Congenital eye anomalies NOS,P3z..00,19416009,CPRD_AURUM
+54899010,Phacolytic glaucoma,F455000,32893002,CPRD_AURUM
+582261000006116,Congenital eye disorder screen,68A4.00,171217001,CPRD_AURUM
+12843014,Anophthalmos,P30..00,7183006,CPRD_AURUM
+313075017,Specified anomalies of sclera,P345.00,204163006,CPRD_AURUM
+1490617017,Borderline glaucoma steroid responder,F450300,302895007,CPRD_AURUM
+5980941000006116,Extracapsular cataract extraction and insertion of intraocular lens,,308694002,CPRD_AURUM
+283082012,Spectacles for aphakia,8D35.00,183132002,CPRD_AURUM
+3753251000006112,CSG - Chronic simple glaucoma,,77075001,CPRD_AURUM
+312986012,Simple microphthalmos,P311.00,204108000,CPRD_AURUM
+298052019,Steroid-induced glaucoma NOS,F453z00,1654001,CPRD_AURUM
+12624091000006111,No evidence of glaucoma,,1109141000000102,CPRD_AURUM
+312981019,Anophthalmos NOS,P30z.00,7183006,CPRD_AURUM
+315665019,[X]Other congenital lens malformations,Pyu1300,33521009,CPRD_AURUM
+315662016,[X]Other congenital malformations of eyelid,Pyu1000,91158006,CPRD_AURUM
+217901000006116,Posterior chamber congenital anomalies,P35..00,128534003,CPRD_AURUM
+584261000006113,Congenital orbit anomalies,P365.00,54873004,CPRD_AURUM
+3098461000006112,Glaucoma with ocular inflammation,,37155002,CPRD_AURUM
+2718741000006113,Extracapsular cataract extraction,,13793006,CPRD_AURUM
+154182010,Macrophthalmos,P37..00,93181004,CPRD_AURUM
+6057241000006114,Anterior subcapsular cataract,,315352000,CPRD_AURUM
+143494011,Rudimentary eye,P310200,86527000,CPRD_AURUM
+315664015,[X]Other anophthalmos,Pyu1200,7183006,CPRD_AURUM
+3899361000006112,Operation for glaucoma,null,86077009,CPRD_AURUM
+4010091000006113,Mixed mechanism glaucoma,,92829008,CPRD_AURUM
+12321891000006112,Intellectual disability, congenital heart disease, blepharophimosis, blepharoptosis and hypoplastic teeth,,412787009,CPRD_AURUM
+5031801000006115,Glaucoma following surgery,,232090003,CPRD_AURUM
+2690001000006118,Blepharoptosis,,11934000,CPRD_AURUM
+6702211000006118,Intracapsular cataract extraction,null,404628003,CPRD_AURUM
+1486268015,Primary angle-closure glaucoma,F452.00,392288006,CPRD_AURUM
+2533408017,Referral to glaucoma clinic,8HTW.00,415273001,CPRD_AURUM
+313008016,Congenital cataract, unspecified,P330.00,79410001,CPRD_AURUM
+856601000006111,Glaucoma left eye,,856601000006107,CPRD_AURUM
+583431000006115,Congenital lacrimal passage anomalies,P364.00,420049001,CPRD_AURUM
+347736010,Congenital hypertrophy of retinal pigment epithelium,P355200,232074003,CPRD_AURUM
+298369010,Unspecified corneal opacity,F4B0000,64634000,CPRD_AURUM
+16552011,Coloboma of iris,P344200,51485001,CPRD_AURUM
+383421000000110,Needling of bleb following glaucoma surgery,7259000,236891000000101,CPRD_AURUM
+3753261000006114,COAG - Chronic open-angle glaucoma,,77075001,CPRD_AURUM
+5031661000006115,Glaucoma suspect,,232079008,CPRD_AURUM
+3753241000006110,POAG - Primary open-angle glaucoma,,77075001,CPRD_AURUM
+3317631000006118,Normal tension glaucoma,,50485007,CPRD_AURUM
+388091000006115,[X]Glaucoma,FyuG.00,23986001,CPRD_AURUM
+80387013,Congenital anisocoria,P344000,48249002,CPRD_AURUM
+1233026017,Glaucoma due to ocular trauma,F456500,68241007,CPRD_AURUM
+299446015,[X]Other corneal scars and opacities,FyuD400,193795008,CPRD_AURUM
+313145012,Other eye anomalies NOS,P3yz.00,19416009,CPRD_AURUM
+313086015,Vitreous anomalies NOS,P350z00,253236002,CPRD_AURUM
+109784013,Minor opacity of cornea,F4B0100,66104007,CPRD_AURUM
+298084014,Lamellar zonular cataract,F460600,193577007,CPRD_AURUM
+803011000006118,Glaucoma due to ocular inflammation,F456200,37155002,CPRD_AURUM
+2475471012,Congenital lens anomaly,P33..11,128353007,CPRD_AURUM
+313049016,Specified anterior chamber anomalies,P342.00,204151001,CPRD_AURUM
+298062014,Glaucoma due to unspecified ocular disorder,F456000,95717004,CPRD_AURUM
+313095011,Congenital retinal fold,P355100,204181009,CPRD_AURUM
+378721000000118,Other specified operations following glaucoma surgery,7259y00,792741000000100,CPRD_AURUM
+458421018,Excision of pupillary membrane,7258600,314126005,CPRD_AURUM
+6532601000006114,Narrow angle glaucoma,,392291006,CPRD_AURUM
+4196691000006111,Advanced open-angle glaucoma,,111513000,CPRD_AURUM
+298058015,Glaucoma in endocrine, nutritional and metabolic diseases,F454400,193556009,CPRD_AURUM
+1232510017,Subtotal congenital cataract,P334100,63912009,CPRD_AURUM
+14154821000006110,Open angle glaucoma suspect of bilateral eyes,null,1003617002,CPRD_AURUM
+3298891000006111,Congenital anomaly of retina,,49381001,CPRD_AURUM
+2517641000006119,Glaucomatous atrophy of optic disc,,1207009,CPRD_AURUM
+6041451000006116,Acute-on-chronic glaucoma,,314017009,CPRD_AURUM
+4771631000006115,Congenital retinal blindness,,193413001,CPRD_AURUM
+3753221000006115,Chronic simple glaucoma,,77075001,CPRD_AURUM
+7854881000006110,Acquired coloboma of iris,,724371004,CPRD_AURUM
+6535011000006114,Angle recession glaucoma,null,392352004,CPRD_AURUM
+2580361010,Congenital absence of lacrimal apparatus,P364011,418087009,CPRD_AURUM
+3874591000006117,Wide-angle glaucoma,,84494001,CPRD_AURUM
+3245761000006114,Secondary open-angle glaucoma with pigment dispersion,,46168003,CPRD_AURUM
+5484721000006119,Glaucoma implant surgery,,265291005,CPRD_AURUM
+6532581000006116,ACG - Angle closure glaucoma,,392291006,CPRD_AURUM
+411465018,Glaucoma due to ocular cyst,F456411,275477002,CPRD_AURUM
+4061451000006115,Glaucoma due to ocular disease,,95717004,CPRD_AURUM
+3564491000006111,Intermittent closed-angle glaucoma,,65460003,CPRD_AURUM
+298368019,Corneal scars and opacities,F4B0.00,193795008,CPRD_AURUM
+178757012,Pseudoexfoliation glaucoma,F455100,111514006,CPRD_AURUM
+141721000006112,Simple chronic glaucoma,F451111,77075001,CPRD_AURUM
+297770011,Retinal microaneurysms NOS,F421800,34037000,CPRD_AURUM
+461299019,[V]Screening for glaucoma,ZV7A100,171215009,CPRD_AURUM
+383381000000118,Injection of bleb following glaucoma surgery,7259100,428494000,CPRD_AURUM
+1495602018,Blepharoptosis,P360.11,11934000,CPRD_AURUM
+883301000006118,Secondary/other glaucoma,F45y.99,660261000000103,CPRD_AURUM
+14154791000006118,Open angle glaucoma suspect,null,1003614009,CPRD_AURUM
+221811000000117,Congenital corneal opacities,P341.00,268160006,CPRD_AURUM
+313024015,Coloboma of lens,P336200,204134008,CPRD_AURUM
+313081013,Anterior segment anomalies NOS,P34z.00,19416009,CPRD_AURUM
+298071017,Glaucoma associated with other ocular disorders NOS,F456z00,95717004,CPRD_AURUM
+313011015,Capsular or subcapsular cataract NOS,P331z00,204124004,CPRD_AURUM
+31737011,Dysplasia of eye,P310000,18821006,CPRD_AURUM
+313096012,Other congenital retinal changes NOS,P355z00,49381001,CPRD_AURUM
+312987015,Microphthalmos with other eye anomaly,P312.00,61142002,CPRD_AURUM
+92637018,Peripheral opacity of cornea,F4B0200,55713007,CPRD_AURUM
+583421000006118,Congenital lacrimal gland anomalies,P363.00,41620007,CPRD_AURUM
+2660019,Congenital retinal aneurysm,P357000,943003,CPRD_AURUM
+489131000006117,Aphakia and other disorders of lens NOS,F4K3z00,10810001,CPRD_AURUM
+6532921000006114,Phacomorphic glaucoma,,392300000,CPRD_AURUM
+315666018,[X]Other congenital malformations of iris,Pyu1400,128985003,CPRD_AURUM
+461301014,[V]Screening for congenital eye anomaly,ZV7A300,171217001,CPRD_AURUM
+408431000006118,[X]Other congenital malforms of anterior segment of eye,Pyu1600,429448005,CPRD_AURUM
+313129010,Agenesis of punctum lacrimale,P364100,204208005,CPRD_AURUM
+4772381000006115,Secondary angle-closure glaucoma with pupil block,,193561006,CPRD_AURUM
+313041018,Corneal size or shape anomalies NOS,P340z00,128352002,CPRD_AURUM
+3610251000006115,Glaucoma associated with ocular trauma,,68241007,CPRD_AURUM
+527631000006115,Buphthalmos NOS,P32z.00,413728006,CPRD_AURUM
+299484014,[X]Glaucoma in other diseases classified elsewhere,FyuG200,95717004,CPRD_AURUM
+6979851000006114,Glaucoma surgery,null,421885009,CPRD_AURUM
+316238010,Traumatic glaucoma due to birth trauma,Q20y700,206248004,CPRD_AURUM
+315667010,[X]Other congenital corneal malformations,Pyu1500,128352002,CPRD_AURUM
+9846911000006110,Angle-closure glaucoma of both eyes,,15736721000119106,CPRD_AURUM
+3041321000006114,Anatomical narrow angle glaucoma,,33647009,CPRD_AURUM
+313090018,Congenital folds of the posterior segment,P353000,65997000,CPRD_AURUM
+2614361000006114,Anophthalmia,,7183006,CPRD_AURUM
+3317621000006116,LTG - Low tension glaucoma,,50485007,CPRD_AURUM
+4772371000006118,Secondary angle-closure glaucoma with pupillary block,,193561006,CPRD_AURUM
+5031741000006113,Secondary angle closure glaucoma with rubeosis,,232086000,CPRD_AURUM
+3298901000006110,Congenital malformation of retina,,49381001,CPRD_AURUM
+298024011,Borderline glaucoma,F450.00,193531003,CPRD_AURUM
+298075014,Glaucoma NOS,F45z.00,23986001,CPRD_AURUM
+251653013,H/O: glaucoma,1482.00,161488001,CPRD_AURUM
+347754014,Rubeotic glaucoma,F456611,232086000,CPRD_AURUM
+856591000006115,Glaucoma right eye,,856591000006104,CPRD_AURUM
+399462013,Corneal opacity and other disorders of cornea,F4B..00,15250008,CPRD_AURUM
+298074013,Other specified glaucoma NOS,F45yz00,23986001,CPRD_AURUM
+1220514012,Optic disc glaucomatous atrophy,F4H1400,1207009,CPRD_AURUM
+6532571000006119,Angle-closure glaucoma,,392291006,CPRD_AURUM
+1221368012,Steroid-induced glaucoma,F453.00,1654001,CPRD_AURUM
+493844018,Congenital optic disc coloboma,P356000,44295002,CPRD_AURUM
+105082012,Congenital keratoconus,P340100,63216003,CPRD_AURUM
+313094010,Other congenital retinal changes,P355.00,49381001,CPRD_AURUM
+65902016,Fundus coloboma,P351.00,39302008,CPRD_AURUM
+118092013,Glaucoma of childhood,F451400,71111008,CPRD_AURUM
+313109014,Specified anomaly of choroid NOS,P358z00,95490000,CPRD_AURUM
+5980961000006117,Intracapsular cataract extraction and insertion of intraocular lens,,308695001,CPRD_AURUM
+312982014,Microphthalmos, unspecified,P310.00,61142002,CPRD_AURUM
+313037017,Corneal size and shape anomalies,P340.00,204143004,CPRD_AURUM
+803061000006115,Glaucoma due to pupillary block,F456100,193561006,CPRD_AURUM
+1010721000006116,Adverse reaction to Drugs Used For Glaucoma,,1010721000006100,CPRD_AURUM
+2676361011,Removal of releasable suture following glaucoma surgery,7259300,426877004,CPRD_AURUM
+7089401000006110,Injection of filtering bleb following glaucoma surgery,,428494000,CPRD_AURUM
+298057013,Glaucoma due to systemic syndrome,F454300,193555008,CPRD_AURUM
+2808091000006119,Congenital anomaly of eye,,19416009,CPRD_AURUM
+158559014,Hypoplasia of iris,P344500,95714006,CPRD_AURUM
+383401000000118,Operations following glaucoma surgery NOS,7259z00,792741000000100,CPRD_AURUM
+907841000006110,[RFC] Glaucoma,,907841000006106,CPRD_AURUM
+313034012,Other congenital cataract or lens anomaly NOS,P33yz00,268159001,CPRD_AURUM
+313131018,Congenital absence of punctum lacrimale,P364111,204208005,CPRD_AURUM
+399447011,Glaucoma due to ocular tumour or cyst,F456400,267625001,CPRD_AURUM
+802981000006115,Glaucoma due to episode of increased venous pressure,F45y100,34623005,CPRD_AURUM
+9846881000006110,Bilateral narrow angle glaucoma,,15736721000119106,CPRD_AURUM
+313033018,Congenital membranous cataract,P33y100,204139003,CPRD_AURUM
+313020012,Anomalies of lens shape,P336.00,33521009,CPRD_AURUM
+4010061000006117,Glaucoma due to combination of mechanisms,,92829008,CPRD_AURUM
+3872051000006113,Phacogenic glaucoma,,84333006,CPRD_AURUM
+9846871000006112,Bilateral angle-closure glaucoma,,15736721000119106,CPRD_AURUM
+8111981000006112,Bilateral absolute glaucoma,,347401000119106,CPRD_AURUM
+141681000006117,Simple buphthalmos,P321.00,413728006,CPRD_AURUM
+6353481000006112,Glaucoma drainage surgery,,371370007,CPRD_AURUM
+13988921000006116,Phacolytic glaucoma of left eye,null,338761000119103,CPRD_AURUM
+3532561018,Glaucoma micro-stent,,738510009,CPRD_AURUM
+5031571000006111,Congenital hyperplasia of retinal pigment epithelium,,232074003,CPRD_AURUM
+2808141000006110,Congenital malformation of eye,,19416009,CPRD_AURUM
+4772241000006119,Borderline angle closure glaucoma,,193534006,CPRD_AURUM
+3539631000006115,Congenital absence of eyelash,,63935007,CPRD_AURUM
+558691000000111,Suspected glaucoma,1JF..00,232079008,CPRD_AURUM
+264949013,Glaucoma monitoring,66T1.00,170946006,CPRD_AURUM
+803131000006113,Glaucoma screen,68A2.00,171215009,CPRD_AURUM
+734071000006115,Low tension glaucoma,F451200,50485007,CPRD_AURUM
+582671000006113,Congenital glaucoma,P320000,204113001,CPRD_AURUM
+560611000006117,Closed angle glaucoma,F452.11,392288006,CPRD_AURUM
+62561000006116,Vitreous anomalies,P350.00,76682005,CPRD_AURUM
+1629641000006111,Suspected glaucoma,,1629641000006107,CPRD_AURUM
+298053012,Glaucoma due to disease EC,F454.00,95717004,CPRD_AURUM
+454198017,No H/O: Glaucoma,115D.00,310596004,CPRD_AURUM
+2983571000006113,Acute angle-closure glaucoma,,30041005,CPRD_AURUM
+1697781000006112,At risk of glaucoma,,314018004,CPRD_AURUM
+802901000006112,Glaucoma - absolute,F404211,19144002,CPRD_AURUM
+43381000006119,Optic disc congenital anomalies,P356.11,60505005,CPRD_AURUM
+883291000006119,Primary closed-angle glaucoma,F452.99,392288006,CPRD_AURUM
+378061000000112,Revision of bleb NEC following glaucoma surgery,7259200,236891000000101,CPRD_AURUM
+298025012,Unspecified preglaucoma,F450000,23986001,CPRD_AURUM
+313107011,Specified anomalies of choroid,P358.00,204191003,CPRD_AURUM
+298015019,Pupillary membranes NOS,F447700,371405004,CPRD_AURUM
+313142010,Eyelid, lacrimal system and orbit congenital anomalies NOS,P36zz00,204196008,CPRD_AURUM
+313144011,Other specified eye anomalies,P3y..00,19416009,CPRD_AURUM
+298060018,Glaucoma associated with disorders of the lens NOS,F455z00,84333006,CPRD_AURUM
+581911000006116,Congenital dislocation of lens,P337.12,74969002,CPRD_AURUM
+378701000000110,Laser suture lysis following glaucoma surgery,7259400,234611000000100,CPRD_AURUM
+1232801015,Cortical cataract - congenital,P332000,66499004,CPRD_AURUM
+313074018,Other iris or ciliary body anomalies NOS,P344z00,17657000,CPRD_AURUM
+2848811000006113,Secondary open-angle glaucoma,,21928008,CPRD_AURUM
+3899381000006119,Glaucoma surgery,,86077009,CPRD_AURUM
+6041601000006118,Uveitic glaucoma,,314033007,CPRD_AURUM
+97131000006116,Total congenital cataract,P334000,29590001,CPRD_AURUM
+313112012,Congenital anomalies of eyelid, lacrimal system and orbit,P36..00,204196008,CPRD_AURUM
+313104016,Congenital arteriovenous malformation of retina,P357100,204188003,CPRD_AURUM
+473791000006112,Agenesis of lacrimal apparatus,P364000,418087009,CPRD_AURUM
+315670014,[X]Other specified congenital malformations of eye,Pyu1800,19416009,CPRD_AURUM
+1232965011,Glaucomatous subcapsular flecks,F463100,67733005,CPRD_AURUM
+5031581000006114,CHRPE - Congenital hypertrophy of retinal pigment epithelium,,232074003,CPRD_AURUM
+312985011,Unspecified microphthalmos NOS,P310z00,61142002,CPRD_AURUM
+13684661000006110,Bilateral congenital nuclear cataracts of eyes,null,346701000119104,CPRD_AURUM
+3656821000006115,Juvenile glaucoma,,71111008,CPRD_AURUM
+5238811000006119,Thickening of lens capsule in aphakia,null,247071000,CPRD_AURUM
+6056721000006110,Congenital dysgenetic ptosis,null,315297006,CPRD_AURUM
+503452018,Primary open-angle glaucoma,F451100,77075001,CPRD_AURUM
+140102012,Open-angle glaucoma,F451.00,84494001,CPRD_AURUM
+298042018,Open-angle glaucoma NOS,F451z00,84494001,CPRD_AURUM
+459721000006110,Acute primary angle-closure glaucoma,F452200,30041005,CPRD_AURUM
+264071000006115,Open angle glaucoma with borderline intraocular pressure,F450100,193533000,CPRD_AURUM
+76978010,Pigmentary glaucoma,F451300,46168003,CPRD_AURUM
+249331000006112,Pan retinal photocoagulation for glaucoma,7275.00,172586003,CPRD_AURUM
+556201000006114,Chronic primary angle-closure glaucoma,F452300,33647009,CPRD_AURUM
+3041311000006118,Chronic angle-closure glaucoma,,33647009,CPRD_AURUM
+3753211000006111,Primary open angle glaucoma,,77075001,CPRD_AURUM
+521031000006117,Borderline glaucoma with anatomical narrow angle,F450200,193534006,CPRD_AURUM
+101601011,Microphthalmos,P31..00,61142002,CPRD_AURUM
+493845017,Coloboma of optic disc,F4H2200,17541006,CPRD_AURUM
+479476015,Congenital eye anomalies,P3...00,19416009,CPRD_AURUM
+313108018,Coloboma of choroid,P358000,204192005,CPRD_AURUM
+313035013,Congenital cataract or lens anomaly NOS,P33z.00,268159001,CPRD_AURUM
+47081000006113,Open-angle glaucoma residual stage,F451500,66990007,CPRD_AURUM
+489121000006115,Aphakia and other disorders of lens,F4K3.00,10810001,CPRD_AURUM
+772991000006113,Insertion Molteno implantation tube in anterior chamber eye,7255411,231720003,CPRD_AURUM
+584241000006114,Congenital optic atrophy,P2xz100,26360005,CPRD_AURUM
+770481000006118,Intermittent primary angle-closure glaucoma,F452100,65460003,CPRD_AURUM
+361511000000118,Operations following glaucoma surgery,7259.00,792741000000100,CPRD_AURUM
+124511016,Congenital ectopic lens,P337.00,74969002,CPRD_AURUM
+313085016,Congenital vitreous opacity,P350000,204171005,CPRD_AURUM
+59043013,Congenital aphakia,P335.00,35387008,CPRD_AURUM
+3213601000006113,Congenital coloboma of optic disc,,44295002,CPRD_AURUM
+892821000006114,Congenital eye anomaly NOS,P3z..99,699101000000101,CPRD_AURUM
+298054018,Glaucoma due to chamber angle anomaly,F454000,193552006,CPRD_AURUM
+298048019,Primary angle-closure glaucoma residual stage,F452400,193546005,CPRD_AURUM
+298055017,Glaucoma due to iris anomaly,F454100,193553001,CPRD_AURUM
+253141000006117,Other/unspecified anomalies of eyelid/lacrimal system/orbit,P36z.00,204196008,CPRD_AURUM
+313078015,Specified anomaly of sclera NOS,P345z00,204163006,CPRD_AURUM
+315661011,[X]Congenital malformations of eye, ear, face and neck,Pyu1.00,204223000,CPRD_AURUM
+3507301000006119,Congenital ptosis,,61989004,CPRD_AURUM
+313062017,Specified anterior chamber anomalies NOS,P342z00,204151001,CPRD_AURUM
+313046011,Congenital corneal opacity with visual deficit,P341000,204148008,CPRD_AURUM
+12847010,Congenital absence of eyes,P303.00,7183006,CPRD_AURUM
+312977019,Agenesis of eye,P300100,204099004,CPRD_AURUM
+485111000006113,Anophthalmos NOS,P300z00,7183006,CPRD_AURUM
+313017016,Cortical or zonular cataract NOS,P332z00,204128001,CPRD_AURUM
+6050201000006111,Chronic angle closure glaucoma,,314784002,CPRD_AURUM
+2743971000006118,Aphakic glaucoma,,15374009,CPRD_AURUM
+2808111000006111,Congenital abnormality of eye,,19416009,CPRD_AURUM
+374994019,Goniodysgenesis,P344.11,251730004,CPRD_AURUM
+580291000006111,Congenital anomalies of posterior chamber NOS,P35z.00,128534003,CPRD_AURUM
+312976011,Clinical anophthalmos, unspecified,P300.00,7183006,CPRD_AURUM
+313105015,Congenital stricture of retinal artery,P357200,204189006,CPRD_AURUM
+388101000006114,[X]Glaucoma in endocrine,nutritional+metabolic diseases CE,FyuG100,193556009,CPRD_AURUM
+3098451000006110,Glaucoma associated with ocular inflammation,,37155002,CPRD_AURUM
+3646281000006115,Repair of blepharoptosis by conjunctivo-tarso-levator resection, Fasanella-Servat type,,70485006,CPRD_AURUM
+6050191000006113,Secondary angle-closure glaucoma - synechial,null,314784002,CPRD_AURUM
+40268016,Glaucoma,F45..00,23986001,CPRD_AURUM
+255335015,O/E - retinal microaneurysms,2BB4.00,163986001,CPRD_AURUM
+158573017,Subcapsular cataract,P331100,95723009,CPRD_AURUM
+313036014,Anterior chamber anomalies,P34..00,204142009,CPRD_AURUM
+313010019,Capsular cataract,P331000,204125003,CPRD_AURUM
+143493017,Hypoplasia of eye,P310100,86527000,CPRD_AURUM
+298033013,Borderline glaucoma NOS,F450z00,193531003,CPRD_AURUM
+298047012,Unspecified primary angle-closure glaucoma,F452000,392288006,CPRD_AURUM
+313009012,Capsular and subcapsular cataract,P331.00,204124004,CPRD_AURUM
+40635016,Congenital chorioretinal degeneration,P352.00,24210004,CPRD_AURUM
+5503361000006118,Congenital ptosis of upper eyelid,,268163008,CPRD_AURUM
+298064010,Glaucoma due to ocular vascular disorder,F456300,193562004,CPRD_AURUM
+43735011,Microcornea,P340000,26098002,CPRD_AURUM
+3041351000006117,Chronic narrow angle glaucoma,,33647009,CPRD_AURUM
+296821000006118,Nuclear cataract - congenital,P333.00,5361003,CPRD_AURUM
+312988013,Microphthalmos NOS,P31z.00,61142002,CPRD_AURUM
+298059011,Glaucoma due to disease NOS,F454z00,95717004,CPRD_AURUM
+1494952018,Corectopia,P344300,193523008,CPRD_AURUM
+313031016,Other specified congenital cataract or lens anomaly,P33y.00,268159001,CPRD_AURUM
+312980018,Cryptophthalmos syndrome,P302.00,204102004,CPRD_AURUM
+7629711000006119,Suspected angle-closure glaucoma,,708176002,CPRD_AURUM
+3610261000006118,Traumatic glaucoma,,68241007,CPRD_AURUM
+313048012,Congenital corneal opacities NOS,P341z00,268160006,CPRD_AURUM
+12850013,Congenital absence of eye,P300200,7183006,CPRD_AURUM
+313014011,Zonular cataract,P332100,204128001,CPRD_AURUM
+2524871000006112,Corticosteroid-induced glaucoma,,1654001,CPRD_AURUM
+298050010,Steroid-induced glaucoma glaucomatous stage,F453000,193548006,CPRD_AURUM
+3872071000006115,Glaucoma with lens disorder,,84333006,CPRD_AURUM
+313071014,Polycoria,P344400,204159004,CPRD_AURUM
+313019018,Total or subtotal congenital cataract NOS,P334z00,29590001,CPRD_AURUM
+313012010,Cortical and zonular cataract,P332.00,204127006,CPRD_AURUM
+4196741000006113,Secondary open-angle glaucoma with pseudoexfoliation,,111514006,CPRD_AURUM
+6057271000006118,PSC - posterior subcapsular cataract,null,315353005,CPRD_AURUM
+6871531000006110,Primary congenital glaucoma,,415176004,CPRD_AURUM
+4823391000006111,Nanophthalmos,,204108000,CPRD_AURUM
+13994411000006110,Congenital cortical cataract of right eye,null,679931000119109,CPRD_AURUM
+313122018,Hypoplasia of eyelid,P362300,204203001,CPRD_AURUM
+9846901000006112,Narrow angle glaucoma of bilateral eyes,null,15736721000119106,CPRD_AURUM
+6871541000006117,Primary infantile glaucoma,,415176004,CPRD_AURUM
+14008511000006110,Anophthalmos of both eyes,null,15665641000119104,CPRD_AURUM
+4540281000006112,History of glaucoma,,161488001,CPRD_AURUM
+298034019,Unspecified open-angle glaucoma,F451000,84494001,CPRD_AURUM
+400783012,Congenital ptosis,P360.00,268163008,CPRD_AURUM
+400779012,Congenital cataract and lens anomalies,P33..00,268159001,CPRD_AURUM
+580751000006112,Congenital blocked tear duct,P364.11,253205005,CPRD_AURUM
+400782019,Specified optic disc anomalies,P356.00,268162003,CPRD_AURUM
+492014012,Coloboma of retina,P355000,39302008,CPRD_AURUM
+298061019,Glaucoma associated with other ocular disorders,F456.00,95717004,CPRD_AURUM
+6057261000006113,Posterior subcapsular cataract,,315353005,CPRD_AURUM
+313101012,Specified optic disc anomaly NOS,P356z00,268162003,CPRD_AURUM
+1226368013,Glaucomatocyclitic crises,F442100,29538005,CPRD_AURUM
+802911000006110,Glaucoma associated with disorders of the lens,F455.00,84333006,CPRD_AURUM
+3874601000006113,Open angle glaucoma,,84494001,CPRD_AURUM
+94006018,Central opacity of cornea,F4B0300,56530002,CPRD_AURUM
+3334231000006119,Congenital coloboma of iris,,51485001,CPRD_AURUM
+2517661000006115,Glaucomatous optic atrophy,,1207009,CPRD_AURUM
+298056016,Glaucoma due to other anterior segment anomaly,F454200,95717004,CPRD_AURUM
+3564451000006117,Intermittent angle-closure glaucoma,,65460003,CPRD_AURUM
+97854019,Congenital cystic eyeball,P301.00,58882000,CPRD_AURUM
+313039019,Cornea plana,P340200,204145006,CPRD_AURUM
+315663014,[X]Other congenital malformations of lacrimal apparatus,Pyu1100,13499006,CPRD_AURUM
+7089411000006113,Needling of bleb following glaucoma surgery,,428494000,CPRD_AURUM
+5031811000006117,Congenital esotropia,,232093001,CPRD_AURUM
+2974881000006116,Glaucomatocyclitic crisis,,29538005,CPRD_AURUM
+313047019,Congenital corneal opacity without visual deficit,P341100,204149000,CPRD_AURUM
+674741000006115,Newborn glaucoma,P320011,204113001,CPRD_AURUM
+29541017,Atresia of pupil,P344100,17480001,CPRD_AURUM
+1495404012,Aplasia of iris,P344600,69278003,CPRD_AURUM
+49139016,Hypersecretion glaucoma,F45y000,29369005,CPRD_AURUM
+2843081000006117,Secondary angle-closure glaucoma,,21571006,CPRD_AURUM
+6532591000006118,Narrow-angle glaucoma,null,392291006,CPRD_AURUM
+3564481000006113,Subacute closed-angle glaucoma,,65460003,CPRD_AURUM
+8107961000006110,Acute angle-closure glaucoma of right eye,,336611000119109,CPRD_AURUM
+3874611000006111,OAG - Open-angle glaucoma,,84494001,CPRD_AURUM
+5484711000006110,Glaucoma tube shunt,,265291005,CPRD_AURUM
+2983591000006114,AACG - Acute angle closure glaucoma,,30041005,CPRD_AURUM
+6046771000006114,Congenital myogenic ptosis,,314508003,CPRD_AURUM
+7727931000006113,Glaucoma caused by silicone oil,,715144004,CPRD_AURUM
+4216151000006113,Repair of blepharoptosis by superior rectus tendon transplant,,112958002,CPRD_AURUM

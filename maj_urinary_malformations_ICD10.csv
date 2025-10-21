@@ -1,0 +1,41 @@
+MEDICAL_CODE_ID,DESCRIPTION,READ_CODE,SNOMED_CT_CODE,DATABASE
+N323,Diverticulum of bladder,N32.3,,ICD10
+Q622,Congenital megaloureter,Q62.2,,ICD10
+Q60,Renal agenesis and other reduction defects of kidney,Q60,,ICD10
+Q600,Renal agenesis, unilateral,Q60.0,,ICD10
+Q601,Renal agenesis, bilateral,Q60.1,,ICD10
+Q602,Renal agenesis, unspecified,Q60.2,,ICD10
+Q603,Renal hypoplasia, unilateral,Q60.3,,ICD10
+Q604,Renal hypoplasia, bilateral,Q60.4,,ICD10
+Q605,Renal hypoplasia, unspecified,Q60.5,,ICD10
+Q606,Potter syndrome,Q60.6,,ICD10
+Q61,Cystic kidney disease,Q61,,ICD10
+Q614,Renal dysplasia,Q61.4,,ICD10
+Q618,Other cystic kidney diseases,Q61.8,,ICD10
+Q619,Cystic kidney disease, unspecified,Q61.9,,ICD10
+Q62,Congenital obstructive defects of renal pelvis and congenital malformations of ureter,Q62,,ICD10
+Q620,Congenital hydronephrosis,Q62.0,,ICD10
+Q621,Atresia and stenosis of ureter,Q62.1,,ICD10
+Q623,Other obstructive defects of renal pelvis and ureter,Q62.3,,ICD10
+Q624,Agenesis of ureter,Q62.4,,ICD10
+Q625,Duplication of ureter,Q62.5,,ICD10
+Q626,Malposition of ureter,Q62.6,,ICD10
+Q628,Other congenital malformations of ureter,Q62.8,,ICD10
+Q63,Other congenital malformations of kidney,Q63,,ICD10
+Q630,Accessory kidney,Q63.0,,ICD10
+Q631,Lobulated, fused and horseshoe kidney,Q63.1,,ICD10
+Q632,Ectopic kidney,Q63.2,,ICD10
+Q638,Other specified congenital malformations of kidney,Q63.8,,ICD10
+Q639,Congenital malformation of kidney, unspecified,Q63.9,,ICD10
+Q64,Other congenital malformations of urinary system,Q64,,ICD10
+Q640,Epispadias,Q64.0,,ICD10
+Q641,Exstrophy of urinary bladder,Q64.1,,ICD10
+Q642,Congenital posterior urethral valves,Q64.2,,ICD10
+Q643,Other atresia and stenosis of urethra and bladder neck,Q64.3,,ICD10
+Q644,Malformation of urachus,Q64.4,,ICD10
+Q645,Congenital absence of bladder and urethra,Q64.5,,ICD10
+Q646,Congenital diverticulum of bladder,Q64.6,,ICD10
+Q647,Other congenital malformations of bladder and urethra,Q64.7,,ICD10
+Q648,Other specified congenital malformations of urinary system,Q64.8,,ICD10
+Q649,Congenital malformation of urinary system, unspecified,Q64.9,,ICD10
+Q794,Prune belly syndrome,Q79.4,,ICD10

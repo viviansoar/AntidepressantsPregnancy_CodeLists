@@ -1,0 +1,74 @@
+MEDICAL_CODE_ID,DESCRIPTION,READ_CODE,SNOMED_CT_CODE,DATABASE
+Q65,Congenital deformities of hip,Q65,,ICD10
+Q650,Congenital dislocation of hip, unilateral,Q65.0,,ICD10
+Q651,Congenital dislocation of hip, bilateral,Q65.1,,ICD10
+Q652,Congenital dislocation of hip, unspecified,Q65.2,,ICD10
+Q653,Congenital subluxation of hip, unilateral,Q65.3,,ICD10
+Q654,Congenital subluxation of hip, bilateral,Q65.4,,ICD10
+Q655,Congenital subluxation of hip, unspecified,Q65.5,,ICD10
+Q658,Other congenital deformities of hip,Q65.8,,ICD10
+Q659,Congenital deformity of hip, unspecified,Q65.9,,ICD10
+Q66,Congenital deformities of feet,Q66,,ICD10
+Q660,Talipes equinovarus,Q66.0,,ICD10
+Q661,Talipes calcaneovarus,Q66.1,,ICD10
+Q663,Other congenital varus deformities of feet,Q66.3,,ICD10
+Q668,Other congenital deformities of feet,Q66.8,,ICD10
+Q67,Congenital musculoskeletal deformities of head, face, spine and chest,Q67,,ICD10
+Q68,Other congenital musculoskeletal deformities,Q68,,ICD10
+Q681,Congenital deformity of hand,Q68.1,,ICD10
+Q682,Congenital deformity of knee,Q68.2,,ICD10
+Q683,Congenital bowing of femur,Q68.3,,ICD10
+Q684,Congenital bowing of tibia and fibula,Q68.4,,ICD10
+Q685,Congenital bowing of long bones of leg, unspecified,Q68.5,,ICD10
+Q688,Other specified congenital musculoskeletal deformities,Q68.8,,ICD10
+Q69,Polydactyly,Q69,,ICD10
+Q690,Accessory finger(s),Q69.0,,ICD10
+Q691,Accessory thumb(s),Q69.1,,ICD10
+Q692,Accessory toe(s),Q69.2,,ICD10
+Q699,Polydactyly, unspecified,Q69.9,,ICD10
+Q70,Syndactyly,Q70,,ICD10
+Q700,Fused fingers,Q70.0,,ICD10
+Q701,Webbed fingers,Q70.1,,ICD10
+Q702,Fused toes,Q70.2,,ICD10
+Q703,Webbed toes,Q70.3,,ICD10
+Q704,Polysyndactyly,Q70.4,,ICD10
+Q709,Syndactyly, unspecified,Q70.9,,ICD10
+Q71,Reduction defects of upper limb,Q71,,ICD10
+Q710,Congenital complete absence of upper limb(s),Q71.0,,ICD10
+Q711,Congenital absence of upper arm and forearm with hand present,Q71.1,,ICD10
+Q712,Congenital absence of both forearm and hand,Q71.2,,ICD10
+Q713,Congenital absence of hand and finger(s),Q71.3,,ICD10
+Q714,Longitudinal reduction defect of radius,Q71.4,,ICD10
+Q715,Longitudinal reduction defect of ulna,Q71.5,,ICD10
+Q716,Lobster-claw hand,Q71.6,,ICD10
+Q718,Other reduction defects of upper limb(s),Q71.8,,ICD10
+Q719,Reduction defect of upper limb, unspecified,Q71.9,,ICD10
+Q72,Reduction defects of lower limb,Q72,,ICD10
+Q720,Congenital complete absence of lower limb(s),Q72.0,,ICD10
+Q721,Congenital absence of thigh and lower leg with foot present,Q72.1,,ICD10
+Q722,Congenital absence of both lower leg and foot,Q72.2,,ICD10
+Q723,Congenital absence of foot and toe(s),Q72.3,,ICD10
+Q724,Longitudinal reduction defect of femur,Q72.4,,ICD10
+Q725,Longitudinal reduction defect of tibia,Q72.5,,ICD10
+Q726,Longitudinal reduction defect of fibula,Q72.6,,ICD10
+Q727,Split foot,Q72.7,,ICD10
+Q728,Other reduction defects of lower limb(s),Q72.8,,ICD10
+Q729,Reduction defect of lower limb, unspecified,Q72.9,,ICD10
+Q73,Reduction defects of unspecified limb,Q73,,ICD10
+Q730,Congenital absence of unspecified limb(s),Q73.0,,ICD10
+Q731,Phocomelia, unspecified limb(s),Q73.1,,ICD10
+Q738,Other reduction defects of unspecified limb(s),Q73.8,,ICD10
+Q74,Other congenital malformations of limb(s),Q74,,ICD10
+Q740,Other congenital malformations of upper limb(s), including shoulder girdle,Q74.0,,ICD10
+Q741,Congenital malformation of knee,Q74.1,,ICD10
+Q742,Other congenital malformations of lower limb(s), including pelvic girdle,Q74.2,,ICD10
+Q743,Arthrogryposis multiplex congenita,Q74.3,,ICD10
+Q748,Other specified congenital malformations of limb(s),Q74.8,,ICD10
+Q749,Unspecified congenital malformation of limb(s),Q74.9,,ICD10
+Q773,Chondrodysplasia punctata,Q77.3,,ICD10
+Q78,Other osteochondrodysplasias,Q78,,ICD10
+Q788,Other specified osteochondrodysplasias,Q78.8,,ICD10
+Q789,Osteochondrodysplasia, unspecified,Q78.9,,ICD10
+Q799,Congenital malformation of musculoskeletal system, unspecified,Q79.9,,ICD10
+Q843,Anonychia,Q84.3,,ICD10
+Q872,Congenital malformation syndromes predominantly involving limbs,Q87.2,,ICD10

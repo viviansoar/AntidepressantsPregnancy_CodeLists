@@ -1,0 +1,416 @@
+MEDICAL_CODE_ID,DESCRIPTION,READ_CODE,SNOMED_CT_CODE,DATABASE
+2709,Congenital musculoskeletal anomalies NOS,PGz..00,null,CPRD_GOLD
+3336,Spina bifida occulta,PG17.00,null,CPRD_GOLD
+3374,Congenital absence of thyroid gland,PK25100,null,CPRD_GOLD
+3797,Thyroglossal duct cyst,PK23.00,null,CPRD_GOLD
+9751,Persistent umbilical sinus,PD73.00,null,CPRD_GOLD
+10427,Specified anomalies of nails,PH5..00,null,CPRD_GOLD
+16897,Craniosynostosis,PG03.00,null,CPRD_GOLD
+17914,Skull, face and jaw congenital deformities,PE0..00,null,CPRD_GOLD
+19918,Conjoined twins NOS,PK4z.00,null,CPRD_GOLD
+22768,Other anomaly of spine NOS,PG1yz00,null,CPRD_GOLD
+23091,Other congenital skin anomaly NOS,PH3yz00,null,CPRD_GOLD
+29367,Skull and face bone anomalies,PG0..00,null,CPRD_GOLD
+32424,Anomalies of pituitary gland,PK24.00,null,CPRD_GOLD
+35991,Pili torti,PH44.11,null,CPRD_GOLD
+42389,Anomaly of artery NEC,P761.00,null,CPRD_GOLD
+44150,Certain congenital musculoskeletal deformities,PE...00,null,CPRD_GOLD
+47670,Anomaly of vein NEC,P764.00,null,CPRD_GOLD
+54258,Skull, face or jaw congenital deformities NOS,PE0z.00,null,CPRD_GOLD
+57769,Amyotrophica congenita,PGyy000,null,CPRD_GOLD
+24207,Absence or hypoplasia of the umbilical artery,P75..00,null,CPRD_GOLD
+25089,Acardia,PKyz100,null,CPRD_GOLD
+38119,Congenital absence of skull bones,PG00.00,null,CPRD_GOLD
+40320,Other specified circulatory system anomalies,P7y..00,null,CPRD_GOLD
+42643,Proteus syndrome,PK64.00,null,CPRD_GOLD
+44151,Anomaly of cricoid cartilage,P831000,null,CPRD_GOLD
+45376,Other anomalies of nose NOS,P81z.00,null,CPRD_GOLD
+45918,Congenital anomaly of spinal meninges,P25y200,null,CPRD_GOLD
+46978,Absent parathyroid gland,PK20.00,null,CPRD_GOLD
+47596,Transposition of viscera unspecified,PK30.11,null,CPRD_GOLD
+48194,Platyspondylia,PG1y000,null,CPRD_GOLD
+48646,Other specified correction of deformity of palate,7525y00,null,CPRD_GOLD
+48842,Anomaly of thymus gland NOS,PK28z00,null,CPRD_GOLD
+49244,Accessory adrenal gland,PK12.00,null,CPRD_GOLD
+49742,Congenital pharyngeal polyp,PA27100,null,CPRD_GOLD
+56160,Orbinsky syndrome,PGy0212,null,CPRD_GOLD
+51107,Separation of conjoined twins NOS,7L0Cz00,null,CPRD_GOLD
+52022,Kalischer's disease,PK61.11,null,CPRD_GOLD
+52579,Absent nose,P811.00,null,CPRD_GOLD
+52883,Other specified anomalies of diaphragm,PG6y.00,null,CPRD_GOLD
+52822,Congenital complete fusion of spine,PG15000,null,CPRD_GOLD
+53028,Congenital partial fusion of spine - unbalanced,PG15200,null,CPRD_GOLD
+53474,Congenital cerebral hernia,P20..13,null,CPRD_GOLD
+53631,Craniolacunia,PG0G.11,null,CPRD_GOLD
+54235,Other congenital skin anomalies,PH3y.00,null,CPRD_GOLD
+56147,Diaxial (double) monster,PK45.00,null,CPRD_GOLD
+57704,Anomalies of thyroglossal duct NEC,PK26.00,null,CPRD_GOLD
+57797,Aberrant pituitary gland,PK24000,null,CPRD_GOLD
+58868,Congenital fissure of epiglottis,P83y600,null,CPRD_GOLD
+59424,Craniopagus,PK40.00,null,CPRD_GOLD
+59334,Supernumerary vertebra,PG1y100,null,CPRD_GOLD
+59273,Congenital stenosis of larynx, trachea and bronchus,P833.00,null,CPRD_GOLD
+59281,Congenital defect of diaphragmatic NEC,PG61.11,null,CPRD_GOLD
+59400,Monster NOS,PK70.00,null,CPRD_GOLD
+59553,Congenital atrichosis,PH40.11,null,CPRD_GOLD
+60195,Congenital adhesions of cerebral meninges,P245.00,null,CPRD_GOLD
+60246,Congenital scar,PH3y100,null,CPRD_GOLD
+60755,Accessory renal artery,P76B.11,null,CPRD_GOLD
+61522,Supernumerary breast,PH64.00,null,CPRD_GOLD
+62636,Aberrant adrenal gland,PK10.00,null,CPRD_GOLD
+62805,Specified syndromes involving skin anomalies NEC NOS,PH33z00,null,CPRD_GOLD
+62999,Aberrant spleen,PK00.00,null,CPRD_GOLD
+63103,[X]Other specified congenital malformations of skin,Pyu9200,null,CPRD_GOLD
+63291,Congenital absence of sternum,PG31.00,null,CPRD_GOLD
+65148,Excision of accessory spleen,7840200,null,CPRD_GOLD
+65192,Congenital fissure of nose,P818.00,null,CPRD_GOLD
+65558,Mis-shapen spleen,PK07.00,null,CPRD_GOLD
+65785,Transposition of abdominal viscera,PK31.11,null,CPRD_GOLD
+66463,Congenital anomaly of lumbar vertebra NEC NOS,PG1wz00,null,CPRD_GOLD
+66657,Other muscle, tendon or fascia anomalies NOS,PGyz.00,null,CPRD_GOLD
+66738,Craniopagus parasiticus,PK40300,null,CPRD_GOLD
+67259,Absent tendon,PGy0000,null,CPRD_GOLD
+67425,Ectopic spleen,PK04.00,null,CPRD_GOLD
+68093,Congenital absence of cervical vertebra,PG13000,null,CPRD_GOLD
+68081,Congenital absence of sacrum,PG1x100,null,CPRD_GOLD
+68310,Atresia of artery NEC,P762.00,null,CPRD_GOLD
+68667,Craniopagus occipitalis,PK40100,null,CPRD_GOLD
+70985,Congenital web of larynx NOS,P82z.00,null,CPRD_GOLD
+71109,Absent adrenal gland,PK11.00,null,CPRD_GOLD
+71733,Congenital cerebral cyst NOS,P240z00,null,CPRD_GOLD
+72742,Men ret congen heart dis blepharophim blepharop hypopl teeth,PKyG.00,null,CPRD_GOLD
+72950,Absence of vein NEC,P763.00,null,CPRD_GOLD
+73205,Encephalocutaneous angiomatosis,PK61.12,null,CPRD_GOLD
+73595,Congenital perforation of the nasal sinus wall,P816.00,null,CPRD_GOLD
+83531,Ectopic adrenal gland,PK14.00,null,CPRD_GOLD
+92345,Congenital localised alopecia,PH40100,null,CPRD_GOLD
+92834,Atresia of glottis,P832100,null,CPRD_GOLD
+93830,Congenital absence of coccyx,PG1x000,null,CPRD_GOLD
+94887,Atrichosis,PH40211,null,CPRD_GOLD
+95743,Split notochord syndrome,P110.11,null,CPRD_GOLD
+95800,Congenital arteriovenous fistula of brain,P7y0111,null,CPRD_GOLD
+96023,Single monster, specified type,PKy3.00,null,CPRD_GOLD
+97401,Anomaly of renal artery NEC NOS,P76Cz00,null,CPRD_GOLD
+97893,Lumbar hemivertebra - unbalanced,PG14800,null,CPRD_GOLD
+97956,Congenital subglottic web of larynx,P822.00,null,CPRD_GOLD
+98081,Nonteratogenic anomalies NOS,PE8z.00,null,CPRD_GOLD
+98124,Congenital absence of umbilical artery, unspecified,P750.00,null,CPRD_GOLD
+98724,Multiple congenital anomalies NOS,PK7z.00,null,CPRD_GOLD
+99390,[X]Congenital malformations of the circulatory system,Pyu2.00,null,CPRD_GOLD
+101663,Aberrant thymus gland,PK28000,null,CPRD_GOLD
+102162,Other specified integument anomaly,PHy..00,null,CPRD_GOLD
+102794,Agenesis of nose,P811000,null,CPRD_GOLD
+104030,Congenital alopecia, unspecified,PH40000,null,CPRD_GOLD
+104945,Supernumerary cervical vertebra,PG1u000,null,CPRD_GOLD
+105605,Congenital cleft of posterior cricoid cartilage,P83y700,null,CPRD_GOLD
+107541,Other congenital anomaly of adrenal gland NOS,PK1yz00,null,CPRD_GOLD
+107732,[X]Other specified congenital malformations of spinal cord,Pyu0600,null,CPRD_GOLD
+107735,Four vessels in umbilical cord,P76y100,null,CPRD_GOLD
+107846,Single congenital cerebral cyst,P240000,null,CPRD_GOLD
+107879,[X]Other congenital malformations of breast,Pyu9300,null,CPRD_GOLD
+108747,[X]Congenital malformation of circulatory system, unspecif,Pyu2K00,null,CPRD_GOLD
+108804,Repair of anomalous caval vein connection,7A63500,null,CPRD_GOLD
+109441,Multiple congenital cerebral cysts,P240100,null,CPRD_GOLD
+109690,[X]Congenital malformation of breast, unspecified,Pyu9C00,null,CPRD_GOLD
+110850,[X]Other congenital malformations of nose,Pyu3000,null,CPRD_GOLD
+111389,Congenital stricture of pulmonary artery,P735.11,null,CPRD_GOLD
+111840,[X]Other specified cong malformations of circulatory system,Pyu2E00,null,CPRD_GOLD
+111952,Aberrant parathyroid gland,PK27000,null,CPRD_GOLD
+112638,Accessory pituitary gland,PK24200,null,CPRD_GOLD
+112764,Congenit partial fusion spine with hemivertebra, unbalanced,PG15400,null,CPRD_GOLD
+113316,Congenital renal artery aneurysm,G721100,null,CPRD_GOLD
+113875,Congenital absence of larynx,P830111,null,CPRD_GOLD
+113881,Congenital stricture of retinal artery,P357200,null,CPRD_GOLD
+114425,Thoracic hemivertebra - unbalanced,PG14600,null,CPRD_GOLD
+115258,[X]Congenital malformations+deformations musculoskeletal sys,Pyu8.00,null,CPRD_GOLD
+101281,[X]Other congenital malforms of the musculoskeletal system,Pyu8M00,null,CPRD_GOLD
+1299,Congenital anomaly NOS,Pz...00,null,CPRD_GOLD
+1354,Arteriovenous malformation,P76D.00,null,CPRD_GOLD
+1871,Congenital spondylolisthesis,PG12.00,null,CPRD_GOLD
+2948,Other congenital musculoskeletal anomalies,PG...00,null,CPRD_GOLD
+3298,Congenital musculoskeletal deformities,PE...11,null,CPRD_GOLD
+4294,Accessory breast,PH62.00,null,CPRD_GOLD
+4330,Congenital postural scoliosis,PE22.00,null,CPRD_GOLD
+5246,Imperfect fusion of skull,PG06.00,null,CPRD_GOLD
+5405,Congenital laryngeal stridor,P83y900,null,CPRD_GOLD
+5574,Congenital anomalies of cervical vertebrae NEC,PG1u.00,null,CPRD_GOLD
+5681,Congenital integument anomalies,PH...00,null,CPRD_GOLD
+6435,Macrocephaly,PG0H.00,null,CPRD_GOLD
+8511,Renal artery stenosis,P769000,null,CPRD_GOLD
+9567,Congenital scoliosis due to congenital bony malformation,PE23.00,null,CPRD_GOLD
+9758,Congenital accessory skin tags,PH3y000,null,CPRD_GOLD
+9778,Other congenital circulatory system anomalies,P7...00,null,CPRD_GOLD
+10047,Pulmonary arterio-venous malformation,P736.12,null,CPRD_GOLD
+10396,Congenital anomalies,P....00,null,CPRD_GOLD
+10401,Peripheral arterio-venous malformation,P766.11,null,CPRD_GOLD
+10505,Asplenia,PK01.11,null,CPRD_GOLD
+10638,Anomalies of thyroid gland NEC,PK25.00,null,CPRD_GOLD
+10704,Retrosternal thyroid gland,PK25011,null,CPRD_GOLD
+11001,Specified hair anomalies,PH4..00,null,CPRD_GOLD
+12753,Congenital lacrimal gland anomalies,P363.00,null,CPRD_GOLD
+12755,Other specified skin anomalies,PH3..00,null,CPRD_GOLD
+14941,Eventration of diaphragm,PG63.00,null,CPRD_GOLD
+15046,Albright-Sternberg syndrome,PG5y000,null,CPRD_GOLD
+15048,Other rib and sternum anomalies,PG3..00,null,CPRD_GOLD
+15275,Skull or face bone anomaly NOS,PG0z.00,null,CPRD_GOLD
+15453,Congenital clubnail,PH51.00,null,CPRD_GOLD
+15499,Congenital fusion of spine,PG15.00,null,CPRD_GOLD
+15715,Congenital nose deformity, unspecified,P810.00,null,CPRD_GOLD
+16164,Spinal cord anomalies NOS,P25z.00,null,CPRD_GOLD
+16201,Endocrine gland anomaly NOS,PK2z.00,null,CPRD_GOLD
+16618,Congenital alopecia,PH40.00,null,CPRD_GOLD
+16630,Unspecified anomaly of cartilage,PGz3.00,null,CPRD_GOLD
+16710,Congenital phlebectasia,P768.00,null,CPRD_GOLD
+16754,Ectopic breast tissue,PH68.00,null,CPRD_GOLD
+16755,Unspecified anomaly of muscle,PGz0.00,null,CPRD_GOLD
+16933,Single nostril,P81z.11,null,CPRD_GOLD
+17050,Congenital forehead deformity,PG02.00,null,CPRD_GOLD
+18041,Anomalies of umbilicus,PKz0.00,null,CPRD_GOLD
+18269,Peripheral arterio-venous aneurysm,P766.00,null,CPRD_GOLD
+18605,Specified anomalies of breast,PH6..00,null,CPRD_GOLD
+18752,Liver hamartoma,PB6yw11,null,CPRD_GOLD
+18808,Skull congenital deformities,PE0..13,null,CPRD_GOLD
+19468,Unspecified anomaly of tendon,PGz1.00,null,CPRD_GOLD
+19669,Congenital kyphosis,PG18.00,null,CPRD_GOLD
+19949,Congenital absence of muscle and tendon,PGy0.00,null,CPRD_GOLD
+20062,Situs inversus,PK3..00,null,CPRD_GOLD
+20810,Anomalies of spine,PG1..00,null,CPRD_GOLD
+20838,H/O: congenital anomaly,14H..00,null,CPRD_GOLD
+21049,Poland's syndrome,PGy0100,null,CPRD_GOLD
+22012,Congenital spine deformity,PE2..00,null,CPRD_GOLD
+22070,Other congenital anomalies of peripheral veins,P76..12,null,CPRD_GOLD
+22319,Absent spleen,PK01.00,null,CPRD_GOLD
+22492,Unspecified anomaly of bones,PGz2.00,null,CPRD_GOLD
+22547,Specified nail anomalies NOS,PH5z.00,null,CPRD_GOLD
+22717,Vascular hamartomas,PH31.00,null,CPRD_GOLD
+23513,Situs inversus NOS,PK3z.00,null,CPRD_GOLD
+23918,Congenital pigmentary skin anomalies,PH32.00,null,CPRD_GOLD
+24075,Other hamartoses NEC,PK6..00,null,CPRD_GOLD
+24424,Congenital cerebral arteriovenous aneurysm,P7y0100,null,CPRD_GOLD
+24437,Short bowel syndrome,PB5z.12,null,CPRD_GOLD
+24561,Congenital foramen Morgagni hernia,PG62.00,null,CPRD_GOLD
+25250,Platybasia,PG08.00,null,CPRD_GOLD
+25281,Hemivertebra,PG14.00,null,CPRD_GOLD
+25292,Anomalies of adrenal gland,PK1..00,null,CPRD_GOLD
+25927,Bullous eruption of hand,PH3y213,null,CPRD_GOLD
+26136,Caudal dysplasia sequence,PKy7700,null,CPRD_GOLD
+26338,Anomalies of spleen,PK0..00,null,CPRD_GOLD
+27292,Premature cranial suture closure,PG09.00,null,CPRD_GOLD
+27473,Sacral agenesis,PG13311,null,CPRD_GOLD
+27537,Macrocephaly,P241.13,null,CPRD_GOLD
+27676,Congenital deformity of nail,PHz2.11,null,CPRD_GOLD
+28001,Hypoplasia of breast,PH66.00,null,CPRD_GOLD
+28199,Congenital hypoplastic nose,P819.00,null,CPRD_GOLD
+28212,Short Achilles tendon, congenital,PE74.00,null,CPRD_GOLD
+28247,Unspecified anomaly of connective tissue,PGz4.00,null,CPRD_GOLD
+28717,Congenital kyphoscoliosis,PG18.11,null,CPRD_GOLD
+29412,Congenital spine deformity NOS,PE2z.00,null,CPRD_GOLD
+29414,Congenital lumbosacral fusion,PG15.11,null,CPRD_GOLD
+29708,Local gigantism NEC,PKyz.12,null,CPRD_GOLD
+29738,Congenital malformation of circulatory system, unspecif,P7W..00,null,CPRD_GOLD
+29818,Hypoplasia of adrenal gland,PK13.00,null,CPRD_GOLD
+30154,Congenital hypertrichosis,PH42.00,null,CPRD_GOLD
+30403,Excision of congenital arteriovenous malformation,7A61000,null,CPRD_GOLD
+30675,Mis-shapen ribs,PG35.00,null,CPRD_GOLD
+30946,Other nonteratogenic anomaly NOS,PE8yz00,null,CPRD_GOLD
+31007,Congenital skin anomalies,PH...11,null,CPRD_GOLD
+31160,Skull and face bone anomalies,PG0..12,null,CPRD_GOLD
+31174,Embolisation of arteriovenous abnormality,7A61200,null,CPRD_GOLD
+31378,Other congenital anomalies of ribs,PG3x.00,null,CPRD_GOLD
+31416,Anomalies of diaphragm,PG6..00,null,CPRD_GOLD
+31451,Cerebrovascular system anomalies,P7y0.00,null,CPRD_GOLD
+31710,Discoid meniscus - congenital,PE8yB00,null,CPRD_GOLD
+31732,Parasternal hernia,J34..12,null,CPRD_GOLD
+31771,Congenital web of larynx,P82..00,null,CPRD_GOLD
+31853,Congenital hemihypertrophy,PKyz600,null,CPRD_GOLD
+31929,Congenital pigmentary skin anomaly NOS,PH32z00,null,CPRD_GOLD
+32597,Lacunar skull,PG0G.12,null,CPRD_GOLD
+32621,Congenital koilonychia,PH52.00,null,CPRD_GOLD
+33776,Vascular hamartoma NOS,PH31z00,null,CPRD_GOLD
+33946,Congenital musculoskeletal deformity NOS,PEz..00,null,CPRD_GOLD
+34141,Other absent muscle,PGy0200,null,CPRD_GOLD
+34662,Integument anomalies NOS,PH3z.00,null,CPRD_GOLD
+35067,Congenital pachyonychia,PH55.00,null,CPRD_GOLD
+35729,Congenital lumbosacral spondylolysis,PG11.00,null,CPRD_GOLD
+35735,Other rib or sternum anomaly NOS,PG3z.00,null,CPRD_GOLD
+35801,Congenital deformity of musculoskeletal system NEC,PGz..11,null,CPRD_GOLD
+36064,Anomalies of adrenal gland NOS,PK1z.00,null,CPRD_GOLD
+36066,Specified breast anomalies NOS,PH6z.00,null,CPRD_GOLD
+36110,Persistent thyroglossal duct,PK22.00,null,CPRD_GOLD
+36416,Complete situs inversus with dextrocardia,PK33.00,null,CPRD_GOLD
+36474,Congenital malformation of larynx, unspecified,P83yX00,null,CPRD_GOLD
+36666,Congenital brain aneurysm NEC,P7y0200,null,CPRD_GOLD
+36752,Repair of deformity of palate,7525.11,null,CPRD_GOLD
+36974,Congenital spinal cord anomaly,P2y1.00,null,CPRD_GOLD
+37167,Other congenital musculoskeletal deformity,PE9..11,null,CPRD_GOLD
+37457,Correction of deformity of palate,7525.00,null,CPRD_GOLD
+38363,Congenital postural curvature of spine NOS,PE2z.11,null,CPRD_GOLD
+38476,Trigonocephaly,PG0B.00,null,CPRD_GOLD
+38522,Hypertrophic nails,PH55.11,null,CPRD_GOLD
+38982,Unspecified congenital anomalies of nail,PHz2.00,null,CPRD_GOLD
+39281,Aberrant thyroid gland,PK25000,null,CPRD_GOLD
+39354,Unspecified congenital anomalies of skin,PHz0.00,null,CPRD_GOLD
+39362,Cranio-orbital remodelling for trigonocephaly,7L0N100,null,CPRD_GOLD
+39366,Anomalies of thymus,PK28.00,null,CPRD_GOLD
+39391,Congenital cerebral cyst,P240.00,null,CPRD_GOLD
+39588,Anomalies of parathyroid gland NEC,PK27.00,null,CPRD_GOLD
+39724,Anomalies of cerebrum,P227.00,null,CPRD_GOLD
+39894,Scaphocephaly,PG03.11,null,CPRD_GOLD
+39931,Anonychia,PH50.00,null,CPRD_GOLD
+40350,Oxycephaly,PG07.00,null,CPRD_GOLD
+40430,Cirsoid aneurysm,P767.11,null,CPRD_GOLD
+40690,Congenital anomalies of thoracic vertebrae NEC,PG1v.00,null,CPRD_GOLD
+40848,Diaphragm anomalies NOS,PG6z.00,null,CPRD_GOLD
+41002,Correction of deformity of palate NOS,7525z00,null,CPRD_GOLD
+41216,Defect of vertebral segmentation,PG1y300,null,CPRD_GOLD
+41763,Congenital anomaly of cervical vertebrae NEC NOS,PG1uz00,null,CPRD_GOLD
+42026,Accessory spleen,PK02.00,null,CPRD_GOLD
+42378,Congenital absence of rib,PG30.00,null,CPRD_GOLD
+42379,Absent breast,PH60.00,null,CPRD_GOLD
+42608,Defect of skull ossification,PG0y.11,null,CPRD_GOLD
+42848,Congenital shortening of tendon,PGyy100,null,CPRD_GOLD
+42855,Congenital glottic web of larynx,P821.00,null,CPRD_GOLD
+43192,Scoliosis in connective tissue anomalies,N374D00,null,CPRD_GOLD
+43205,Anomaly of epiglottis,P831100,null,CPRD_GOLD
+43297,Circulatory system anomaly NOS,P7z..00,null,CPRD_GOLD
+43351,Congenital absence of sacrum,PG13300,null,CPRD_GOLD
+43560,Situs inversus abdominalis,PK31.00,null,CPRD_GOLD
+44093,Other specified muscle, tendon and fascia anomaly,PGy..00,null,CPRD_GOLD
+44145,Lichen spinulosus,PH3yz11,null,CPRD_GOLD
+44581,Congenital cerebral arteriovenous malformation,P7y0112,null,CPRD_GOLD
+44822,Thoracic hemivertebra,PG14100,null,CPRD_GOLD
+45214,Arteriovenous malformation of precerebral vessels,P77..00,null,CPRD_GOLD
+45351,Congenital laryngocele,P83y300,null,CPRD_GOLD
+45429,Anomalies of spine NOS,PG1z.00,null,CPRD_GOLD
+45438,Other anomalies of nose,P81..00,null,CPRD_GOLD
+45473,Aplasia of muscle,PGyy400,null,CPRD_GOLD
+46833,Face bone anomalies,PG0..11,null,CPRD_GOLD
+47467,Anomaly of thyroid cartilage,P831200,null,CPRD_GOLD
+47471,Hypoplasia of muscle,PGyy200,null,CPRD_GOLD
+47814,Aber retro-oesophag subclavian artery causing dysphag lusori,P76E.00,null,CPRD_GOLD
+48046,Congenital poikiloderma,PH32000,null,CPRD_GOLD
+48072,Unspecified congenital anomalies of hair,PHz1.00,null,CPRD_GOLD
+48088,Congenital sacrococcygeal anomalies NEC,PG1x.00,null,CPRD_GOLD
+48122,Absent muscle or tendon NOS,PGy0z00,null,CPRD_GOLD
+48272,Acrocephaly,PG01.00,null,CPRD_GOLD
+48726,Congenital anomalies of lumbar vertebrae NEC,PG1w.00,null,CPRD_GOLD
+48940,Congenital tethering of spinal cord,P252.00,null,CPRD_GOLD
+49791,Congenital retinal aneurysm,P357000,null,CPRD_GOLD
+49933,Congenital spine deformity, unspecified,PE20.00,null,CPRD_GOLD
+50094,Other endocrine gland anomalies,PK2..00,null,CPRD_GOLD
+50583,Dysplasia epiphysealis hemimelica,PG49.00,null,CPRD_GOLD
+50786,Anomalies of renal artery NEC,P76C.00,null,CPRD_GOLD
+51029,Mast cell disease,PH32111,null,CPRD_GOLD
+51118,Separation of conjoined twins,7L0C.00,null,CPRD_GOLD
+51156,Congenital deformity of lumbosacral region,PG1y.12,null,CPRD_GOLD
+51424,Other congenital anomalies of sternum,PG3y.00,null,CPRD_GOLD
+51771,Localised skull defects,PG0G.00,null,CPRD_GOLD
+51933,Laryngeal hypoplasia,P831500,null,CPRD_GOLD
+52601,Conjoined twins,PK4..00,null,CPRD_GOLD
+52674,Hypertrichosis lanuginosa,PH43.11,null,CPRD_GOLD
+53416,Congenital deformity of lumbosacral joint,PG1y.11,null,CPRD_GOLD
+54573,Hamartoses NOS,PK6z.00,null,CPRD_GOLD
+55069,Twisted hair,PH44.00,null,CPRD_GOLD
+55078,Multiple renal arteries,P76B.00,null,CPRD_GOLD
+55641,Specified hair anomalies NOS,PH4z.00,null,CPRD_GOLD
+55893,Congenital anomaly of cerebral vessel, unspecified,P7y0000,null,CPRD_GOLD
+55966,Cervical hemivertebra,PG14000,null,CPRD_GOLD
+56152,Wilderwanck's syndrome,PG16000,null,CPRD_GOLD
+56200,Congenital aneurysm of aorta,P72z100,null,CPRD_GOLD
+56707,Accessory muscle,PGy1.00,null,CPRD_GOLD
+56810,Congenital chylothorax,P7yz100,null,CPRD_GOLD
+56878,Other anomaly of spine,PG1y.00,null,CPRD_GOLD
+57566,Congenital fissure of sternum,PG32.00,null,CPRD_GOLD
+58591,Congenital arterial stricture,P769.00,null,CPRD_GOLD
+59625,Anomalies of spleen NOS,PK0z.00,null,CPRD_GOLD
+59741,Congenital splenomegaly,PK03.00,null,CPRD_GOLD
+60064,Specified syndromes NEC involving skin anomalies,PH33.00,null,CPRD_GOLD
+60066,Anomaly of spine, unspecified,PG10.00,null,CPRD_GOLD
+60362,Other specified nonteratogenic anomalies,PE8..00,null,CPRD_GOLD
+60540,Other specified skull or face bone anomaly,PG0y.00,null,CPRD_GOLD
+60781,Cerebrovascular system anomaly NOS,P7y0z00,null,CPRD_GOLD
+60987,Accessory nose,P812.00,null,CPRD_GOLD
+61054,Lumbar hemivertebra,PG14200,null,CPRD_GOLD
+61062,Congenital peripheral aneurysm,P767.00,null,CPRD_GOLD
+61450,Congenital stenosis of larynx,P833000,null,CPRD_GOLD
+61727,Atresia of epiglottis,P832000,null,CPRD_GOLD
+61765,Two umbilical vessels,P753.00,null,CPRD_GOLD
+62455,Hyperplasia of spleen,PK03.11,null,CPRD_GOLD
+62537,Congenital anomaly NOS,PKzz.00,null,CPRD_GOLD
+62587,Congenital arteriovenous malformation of retina,P357100,null,CPRD_GOLD
+62641,Congenital absence of vertebra,PG13.00,null,CPRD_GOLD
+63173,Congenital aneurysm NEC,P7yz000,null,CPRD_GOLD
+63497,Hemivertebra NOS,PG14z00,null,CPRD_GOLD
+63824,Other specified anomalies of adrenal gland,PK1y.00,null,CPRD_GOLD
+63861,Situs inversus thoracis,PK32.00,null,CPRD_GOLD
+64527,Congenital deformity of sacroiliac joint,PF6y200,null,CPRD_GOLD
+64859,Ligation of congenital arteriovenous malformation,7A61300,null,CPRD_GOLD
+64941,Moulded baby syndrome,PKyH.00,null,CPRD_GOLD
+65017,Dysplastic spondylolisthesis,N384000,null,CPRD_GOLD
+65092,Congenital malformation of breast, unspecified,PH6X.00,null,CPRD_GOLD
+65103,Other specified anomalies of spleen,PK0y.00,null,CPRD_GOLD
+65384,Other congenital anomalies of peripheral arteries,P76..11,null,CPRD_GOLD
+66070,Congenital onychauxis,PH54.00,null,CPRD_GOLD
+66698,Congenital cleft nose,P813.00,null,CPRD_GOLD
+67220,Congenital fusion of sacroiliac joint,PF6y300,null,CPRD_GOLD
+67318,Other nonteratogenic anomalies OS,PE8y.00,null,CPRD_GOLD
+68179,Congenital generalised alopecia,PH40200,null,CPRD_GOLD
+68493,Hypoplasia of spine,PG1y400,null,CPRD_GOLD
+68898,Absence or hypoplasia of the umbilical artery NOS,P75z.00,null,CPRD_GOLD
+69430,Muscle agenesis,PGy0211,null,CPRD_GOLD
+69532,Supernumerary lumbar vertebra,PG1w000,null,CPRD_GOLD
+69913,Other anomaly of skull or face bone NOS,PG0yz00,null,CPRD_GOLD
+70266,Other specified spinal cord anomalies,P25..00,null,CPRD_GOLD
+70576,Anomaly of pituitary gland NOS,PK24z00,null,CPRD_GOLD
+70581,Anomaly of thyroid gland NEC NOS,PK25z00,null,CPRD_GOLD
+70583,Congenital sacrococcygeal anomaly NOS,PG1xz00,null,CPRD_GOLD
+70633,Accessory thyroid gland,PK21.00,null,CPRD_GOLD
+70743,Poland's syndrome,PF59400,null,CPRD_GOLD
+70979,Integument anomalies NOS,PHz..00,null,CPRD_GOLD
+71039,Xiphopagus,PK44.00,null,CPRD_GOLD
+71152,Congenital anomaly of thoracic vertebrae NEC NOS,PG1vz00,null,CPRD_GOLD
+71447,Ayala's disease,PGyy.11,null,CPRD_GOLD
+72246,Situs inversus, unspecified,PK30.00,null,CPRD_GOLD
+72486,O/E - muscle power absent,29A4.00,null,CPRD_GOLD
+85997,Embolisation of arteriovenous abnormality NEC,7A61800,null,CPRD_GOLD
+86022,Excision of accessory breast tissue,7131900,null,CPRD_GOLD
+86047,Cutis marmorata telangiectasia congenita,PH7..00,null,CPRD_GOLD
+86587,Perc translum arterial venous embolis arteriovenous malform,7A61700,null,CPRD_GOLD
+87863,Other specified hamartoses NEC,PK6y.00,null,CPRD_GOLD
+89734,Congenital discoid meniscus,N072.11,null,CPRD_GOLD
+89761,Percut translumin venous embolisat arteriovenous malform,7A61600,null,CPRD_GOLD
+90498,Congenital absence of lumbar vertebra,PG13200,null,CPRD_GOLD
+91259,Congenital partial fusion of spine - balanced,PG15100,null,CPRD_GOLD
+92629,Aberrant main renal artery,P76C000,null,CPRD_GOLD
+94105,Other specified cerebrovascular anomaly,P7y0y00,null,CPRD_GOLD
+94806,Percutan transluminal embolis arteriovenous malformation NEC,7A61500,null,CPRD_GOLD
+95591,Other specified anomalies of spinal cord,P25y.00,null,CPRD_GOLD
+95632,Congenital intracerebral cyst,P240.11,null,CPRD_GOLD
+95752,Aplasia of adrenal gland,PK15.00,null,CPRD_GOLD
+96225,Pulmonary arterio-venous aneurysm,P736.00,null,CPRD_GOLD
+96419,Anal and urogenital canal fusion,PB58.12,null,CPRD_GOLD
+97006,[X]Other specified congenit malformation skull & face bones,Pyu8D00,null,CPRD_GOLD
+97640,Other specified other anomalies of muscle, tendon and fascia,PGyy.00,null,CPRD_GOLD
+98260,Other anomaly of tendon, fascia or muscle NOS,PGyyz00,null,CPRD_GOLD
+98667,Congenital alopecia NOS,PH40z00,null,CPRD_GOLD
+98773,[X]Other congenital deformities of skull, face and jaw,Pyu8400,null,CPRD_GOLD
+100681,Anomaly of parathyroid gland NEC NOS,PK27z00,null,CPRD_GOLD
+101307,Anomalous portal vein termination,P743.00,null,CPRD_GOLD
+103530,Congenital absence of nails,PH50.11,null,CPRD_GOLD
+103611,Congenital hypoplasia of cerebrum,P227100,null,CPRD_GOLD
+103870,Supernumerary ribs,PG36.11,null,CPRD_GOLD
+104035,Other specified spinal cord anomalies NOS,P25yz00,null,CPRD_GOLD
+104555,Congenital laryngomalacia,P831700,null,CPRD_GOLD
+105646,Lambdoid synostosis,PG03100,null,CPRD_GOLD
+105717,Absence of artery NEC,P760.00,null,CPRD_GOLD
+107550,Marshall-Smith syndrome,PKy0400,null,CPRD_GOLD
+110120,Retrosternal hernia,J34..13,null,CPRD_GOLD
+110685,Other specified endocrine gland anomaly,PK2y.00,null,CPRD_GOLD
+110797,Situs inversus with levocardia,PK34.00,null,CPRD_GOLD
+111186,Congenital web of larynx, unspecified,P820.00,null,CPRD_GOLD
+111258,Anomaly of cerebrum NOS,P227z00,null,CPRD_GOLD
+112936,Congenital stricture of cerebral artery,P7y0300,null,CPRD_GOLD
+113460,Atresia of vein NEC,P765.00,null,CPRD_GOLD
+113583,Ligation of congenital arteriovenous malformation,7A61011,null,CPRD_GOLD
+114803,Supernumerary thoracic vertebra,PG1v000,null,CPRD_GOLD
+114973,[X]Other specified congenital musculoskeletal deformities,Pyu8600,null,CPRD_GOLD

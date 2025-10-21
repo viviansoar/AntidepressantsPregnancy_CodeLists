@@ -1,0 +1,5 @@
+"MEDICAL_CODE_ID","DESCRIPTION","READ_CODE","SNOMED_CT_CODE","DATABASE"
+"O72","Postpartum haemorrhage","O72","","ICD10"
+"O720","Third-stage haemorrhage","O72.0","","ICD10"
+"O721","Other immediate postpartum haemorrhage","O72.1","","ICD10"
+"O722","Delayed and secondary postpartum haemorrhage","O72.2","","ICD10"

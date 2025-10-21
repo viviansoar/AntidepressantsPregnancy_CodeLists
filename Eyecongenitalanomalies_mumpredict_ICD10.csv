@@ -1,0 +1,53 @@
+MEDICAL_CODE_ID,DESCRIPTION,READ_CODE,SNOMED_CT_CODE,DATABASE
+H17,Corneal scars and opacities,H17,,ICD10
+H178,Other corneal scars and opacities,H17.8,,ICD10
+H270,Aphakia,H27.0,,ICD10
+H400,Glaucoma suspect,H40.0,,ICD10
+H401,Primary open-angle glaucoma,H40.1,,ICD10
+H402,Primary angle-closure glaucoma,H40.2,,ICD10
+H403,Glaucoma secondary to eye trauma,H40.3,,ICD10
+H404,Glaucoma secondary to eye inflammation,H40.4,,ICD10
+H405,Glaucoma secondary to other eye disorders,H40.5,,ICD10
+H406,Glaucoma secondary to drugs,H40.6,,ICD10
+H408,Other glaucoma,H40.8,,ICD10
+H409,Glaucoma, unspecified,H40.9,,ICD10
+H42,Glaucoma in diseases classified elsewhere,H42,,ICD10
+H420,Glaucoma in endocrine, nutritional and metabolic diseases,H42.0,,ICD10
+H428,Glaucoma in other diseases classified elsewhere,H42.8,,ICD10
+Q10,Congenital malformations of eyelid, lacrimal apparatus and orbit,Q10,,ICD10
+Q100,Congenital ptosis,Q10.0,,ICD10
+Q103,Other congenital malformations of eyelid,Q10.3,,ICD10
+Q104,Absence and agenesis of lacrimal apparatus,Q10.4,,ICD10
+Q106,Other congenital malformations of lacrimal apparatus,Q10.6,,ICD10
+Q107,Congenital malformation of orbit,Q10.7,,ICD10
+Q11,Anophthalmos, microphthalmos and macrophthalmos,Q11,,ICD10
+Q110,Cystic eyeball,Q11.0,,ICD10
+Q111,Other anophthalmos,Q11.1,,ICD10
+Q112,Microphthalmos,Q11.2,,ICD10
+Q113,Macrophthalmos,Q11.3,,ICD10
+Q12,Congenital lens malformations,Q12,,ICD10
+Q120,Congenital cataract,Q12.0,,ICD10
+Q121,Congenital displaced lens,Q12.1,,ICD10
+Q122,Coloboma of lens,Q12.2,,ICD10
+Q123,Congenital aphakia,Q12.3,,ICD10
+Q128,Other congenital lens malformations,Q12.8,,ICD10
+Q129,Congenital lens malformation, unspecified,Q12.9,,ICD10
+Q13,Congenital malformations of anterior segment of eye,Q13,,ICD10
+Q130,Coloboma of iris,Q13.0,,ICD10
+Q132,Other congenital malformations of iris,Q13.2,,ICD10
+Q133,Congenital corneal opacity,Q13.3,,ICD10
+Q134,Other congenital corneal malformations,Q13.4,,ICD10
+Q138,Other congenital malformations of anterior segment of eye,Q13.8,,ICD10
+Q139,Congenital malformation of anterior segment of eye, unspecified,Q13.9,,ICD10
+Q14,Congenital malformations of posterior segment of eye,Q14,,ICD10
+Q140,Congenital malformation of vitreous humour,Q14.0,,ICD10
+Q141,Congenital malformation of retina,Q14.1,,ICD10
+Q142,Congenital malformation of optic disc,Q14.2,,ICD10
+Q143,Congenital malformation of choroid,Q14.3,,ICD10
+Q148,Other congenital malformations of posterior segment of eye,Q14.8,,ICD10
+Q149,Congenital malformation of posterior segment of eye, unspecified,Q14.9,,ICD10
+Q15,Other congenital malformations of eye,Q15,,ICD10
+Q150,Congenital glaucoma,Q15.0,,ICD10
+Q158,Other specified congenital malformations of eye,Q15.8,,ICD10
+Q159,Congenital malformation of eye, unspecified,Q15.9,,ICD10
+H40,Glaucoma,H40,,ICD10
