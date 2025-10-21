@@ -1,0 +1,14 @@
+DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
+14116141000033111,Sertraline 150mg tablets Sertraline 150mg tablets Tablet Oral Sertraline hydrochloride 150.000mg,4030300,null,null,null,CPRD_AURUM
+14116241000033116,Sertraline 200mg tablets Sertraline 200mg tablets Tablet Oral Sertraline hydrochloride 200.000mg,4030300,null,null,null,CPRD_AURUM
+14190441000033119,Sertraline 100mg/5ml oral solution sugar free Sertraline 100mg/5ml oral solution sugar free Oral solution Oral Sertraline hydrochloride 20.000mg/1.000ml,4030300,null,null,null,CPRD_AURUM
+14061741000033112,Contulen 50mg tablets (HFA Healthcare Ltd) Contulen 50mg tablets Tablet Oral Sertraline hydrochloride 50.000mg,0,null,null,null,CPRD_AURUM
+14061841000033119,Contulen 100mg tablets (HFA Healthcare Ltd) Contulen 100mg tablets Tablet Oral Sertraline hydrochloride 100.000mg,0,null,null,null,CPRD_AURUM
+1278841000033119,Sertraline 50mg tablets Tablet Oral Sertraline hydrochloride 50.000mg,4030300,null,null,null,CPRD_AURUM
+1278741000033112,Sertraline 100mg tablets Tablet Oral Sertraline hydrochloride 100.000mg,4030300,null,null,null,CPRD_AURUM
+854241000033118,Lustral 50mg tablets (Upjohn UK Ltd) Tablet Oral Sertraline hydrochloride 50.000mg,4030300,null,null,null,CPRD_AURUM
+13743641000033113,Sertraline 25mg tablets Sertraline 25mg tablets Tablet Oral Sertraline hydrochloride 25.000mg,null,null,null,null,CPRD_AURUM
+854141000033113,Lustral 100mg tablets (Upjohn UK Ltd) Tablet Oral Sertraline hydrochloride 100.000mg,4030300,null,null,null,CPRD_AURUM
+4148341000033116,Sertraline 50mg/5ml oral suspension Oral suspension Oral Sertraline hydrochloride 10.000mg/1.000ml,null,null,null,null,CPRD_AURUM
+5975341000033119,Sertraline 100mg/5ml oral suspension Oral suspension Oral Sertraline hydrochloride 20.000mg/1.000ml,null,null,null,null,CPRD_AURUM
+12900941000033117,Sertraline 25mg/5ml oral suspension Oral suspension Oral Sertraline hydrochloride 5.000mg/1.000ml,null,null,null,null,CPRD_AURUM

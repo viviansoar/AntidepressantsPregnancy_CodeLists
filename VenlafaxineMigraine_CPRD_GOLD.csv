@@ -1,0 +1,115 @@
+DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
+5710,Efexor XL 150mg capsules (Pfizer Ltd) Venlafaxine hydrochloride Modified-release capsule 150mg Oral,04030400,null,null,null,CPRD_GOLD
+75894,Efexor XL 75mg capsules (Lexon (UK) Ltd) Venlafaxine hydrochloride Modified-release capsule 75mg Oral,04030400,null,null,null,CPRD_GOLD
+43968,Foraven XL 75mg capsules (Forum Products Ltd) Venlafaxine hydrochloride Modified-release capsule 75mg Oral,04030400,null,null,null,CPRD_GOLD
+59923,Venlafaxine 37.5mg tablets (Bristol Laboratories Ltd) Venlafaxine hydrochloride 37.5mg Tablet Oral,04030400,null,null,null,CPRD_GOLD
+60449,Venlafaxine 75mg tablets (A A H Pharmaceuticals Ltd) Venlafaxine hydrochloride 75mg Tablet Oral,04030400,null,null,null,CPRD_GOLD
+49511,Venlablue XL 75mg capsules (Creo Pharma Ltd) Venlafaxine hydrochloride Modified-release capsule 75mg Oral,04030400,null,null,null,CPRD_GOLD
+59563,Venlafaxine 75mg modified-release capsules (Kent Pharmaceuticals Ltd) Venlafaxine hydrochloride Modified-release capsule 75mg Oral,04030400,null,null,null,CPRD_GOLD
+43334,Venlafaxine 150mg modified-release capsules (Sandoz Ltd) Venlafaxine hydrochloride Modified-release capsule 150mg Oral,04030400,null,null,null,CPRD_GOLD
+48199,Ranfaxine XL 75mg capsules (Ranbaxy (UK) Ltd) Venlafaxine hydrochloride Modified-release capsule 75mg Oral,04030400,null,null,null,CPRD_GOLD
+63859,Venlafaxine 75mg tablets (Waymade Healthcare Plc) Venlafaxine hydrochloride 75mg Tablet Oral,04030400,null,null,null,CPRD_GOLD
+71782,Venlafaxine 150mg modified-release capsules (Mawdsley-Brooks & Company Ltd) Venlafaxine hydrochloride Modified-release capsule 150mg Oral,04030400,null,null,null,CPRD_GOLD
+42600,Vexarin XL 75mg capsules (Mylan) Venlafaxine hydrochloride Modified-release capsule 75mg Oral,04030400,null,null,null,CPRD_GOLD
+67271,Efexor 37.5mg tablets (Waymade Healthcare Plc) Venlafaxine hydrochloride Tablet 37.5mg Oral,04030400,null,null,null,CPRD_GOLD
+40764,ViePax 37.5mg tablets (Dexcel-Pharma Ltd) Venlafaxine hydrochloride Tablet 37.5mg Oral,04030400,null,null,null,CPRD_GOLD
+60549,Venlafaxine 150mg modified-release capsules (Kent Pharmaceuticals Ltd) Venlafaxine hydrochloride 150mg Modified-release capsule Oral,04030400,null,null,null,CPRD_GOLD
+68050,Venlafaxine 37.5mg tablets (Alliance Healthcare (Distribution) Ltd) Venlafaxine hydrochloride 37.5mg Tablet Oral,04030400,null,null,null,CPRD_GOLD
+39359,Venlafaxine 75mg modified-release tablets Venlafaxine hydrochloride Modified-release tablet 75mg Oral,04030400,null,null,null,CPRD_GOLD
+39360,Venlafaxine 150mg modified-release tablets Venlafaxine hydrochloride Modified-release tablet 150mg Oral,04030400,null,null,null,CPRD_GOLD
+39770,Tifaxin XL 75mg capsules (Genus Pharmaceuticals Ltd) Venlafaxine hydrochloride Modified-release capsule 75mg Oral,04030400,null,null,null,CPRD_GOLD
+39809,Tifaxin XL 150mg capsules (Genus Pharmaceuticals Ltd) Venlafaxine hydrochloride Modified-release capsule 150mg Oral,04030400,null,null,null,CPRD_GOLD
+40048,ViePax XL 75mg tablets (Dexcel-Pharma Ltd) Venlafaxine hydrochloride Modified-release tablet 75mg Oral,04030400,null,null,null,CPRD_GOLD
+40049,ViePax XL 150mg tablets (Dexcel-Pharma Ltd) Venlafaxine hydrochloride Modified-release tablet 150mg Oral,04030400,null,null,null,CPRD_GOLD
+40054,Venlafaxine 225mg modified-release tablets Venlafaxine hydrochloride Modified-release tablet 225mg Oral,04030400,null,null,null,CPRD_GOLD
+40059,Venlalic XL 75mg tablets (Ethypharm UK Ltd) Venlafaxine hydrochloride Modified-release tablet 75mg Oral,04030400,null,null,null,CPRD_GOLD
+40062,Venlalic XL 150mg tablets (Ethypharm UK Ltd) Venlafaxine hydrochloride Modified-release tablet 150mg Oral,04030400,null,null,null,CPRD_GOLD
+40092,Vensir XL 150mg capsules (Morningside Healthcare Ltd) Venlafaxine hydrochloride Modified-release capsule 150mg Oral,04030400,null,null,null,CPRD_GOLD
+40277,Vensir XL 75mg capsules (Morningside Healthcare Ltd) Venlafaxine hydrochloride Modified-release capsule 75mg Oral,04030400,null,null,null,CPRD_GOLD
+65738,Efexor 37.5mg tablets (Sigma Pharmaceuticals Plc) Venlafaxine hydrochloride 37.5mg Tablet Oral,04030400,null,null,null,CPRD_GOLD
+40407,Venlalic XL 225mg tablets (Ethypharm UK Ltd) Venlafaxine hydrochloride Modified-release tablet 225mg Oral,04030400,null,null,null,CPRD_GOLD
+40514,Venaxx XL 150mg capsules (AMCo) Venlafaxine hydrochloride Modified-release capsule 150mg Oral,04030400,null,null,null,CPRD_GOLD
+40515,Venaxx XL 75mg capsules (AMCo) Venlafaxine hydrochloride Modified-release capsule 75mg Oral,04030400,null,null,null,CPRD_GOLD
+70353,Venlafaxine 37.5mg tablets (DE Pharmaceuticals) Venlafaxine hydrochloride 37.5mg Tablet Oral,04030400,null,null,null,CPRD_GOLD
+40917,ViePax 75mg tablets (Dexcel-Pharma Ltd) Venlafaxine hydrochloride Tablet 75mg Oral,04030400,null,null,null,CPRD_GOLD
+41033,Rodomel XL 75mg capsules (Teva UK Ltd) Venlafaxine hydrochloride Modified-release capsule 75mg Oral,04030400,null,null,null,CPRD_GOLD
+41314,Rodomel XL 150mg capsules (Teva UK Ltd) Venlafaxine hydrochloride Modified-release capsule 150mg Oral,04030400,null,null,null,CPRD_GOLD
+43203,Venlafaxine 75mg modified-release capsules (Sandoz Ltd) Venlafaxine hydrochloride Modified-release capsule 75mg Oral,04030400,null,null,null,CPRD_GOLD
+40817,Tardcaps XL 150mg capsules (IXL Pharma Ltd) Venlafaxine hydrochloride Modified-release capsule 150mg Oral,04030400,null,null,null,CPRD_GOLD
+61236,Bonilux XL 150mg capsules (Sandoz Ltd) Venlafaxine hydrochloride Modified-release capsule 150mg Oral,04030400,null,null,null,CPRD_GOLD
+73658,Venlafaxine 75mg tablets (Actavis UK Ltd) Venlafaxine hydrochloride 75mg Tablet Oral,04030400,null,null,null,CPRD_GOLD
+51361,Venlafaxine 37.5mg tablets (Ranbaxy (UK) Ltd) Venlafaxine hydrochloride 37.5mg Tablet Oral,04030400,null,null,null,CPRD_GOLD
+52716,Tonpular XL 75mg capsules (Wockhardt UK Ltd) Venlafaxine hydrochloride Modified-release capsule 75mg Oral,04030400,null,null,null,CPRD_GOLD
+75848,Winfex XL 150mg capsules (Zentiva) Venlafaxine hydrochloride Modified-release capsule 150mg Oral,04030400,null,null,null,CPRD_GOLD
+78585,ViePax XL 225mg tablets (Dexcel-Pharma Ltd) Venlafaxine hydrochloride Modified-release tablet 225mg Oral,04030400,null,null,null,CPRD_GOLD
+55424,Venlafaxine Venlafaxine Hydrochloride   ,04030400,null,null,null,CPRD_GOLD
+44936,Venlaneo XL 150mg capsules (Kent Pharmaceuticals Ltd) Venlafaxine hydrochloride Modified-release capsule 150mg Oral,04030400,null,null,null,CPRD_GOLD
+44937,Venlaneo XL 75mg capsules (Kent Pharmaceuticals Ltd) Venlafaxine hydrochloride Modified-release capsule 75mg Oral,04030400,null,null,null,CPRD_GOLD
+45664,Depefex XL 150mg capsules (Chiesi Ltd) Venlafaxine hydrochloride Modified-release capsule 150mg Oral,04030400,null,null,null,CPRD_GOLD
+45806,Venlafaxine 37.5mg modified-release tablets Venlafaxine hydrochloride Modified-release tablet 37.5mg Oral,04030400,null,null,null,CPRD_GOLD
+45818,Venlalic XL 37.5mg tablets (Ethypharm UK Ltd) Venlafaxine hydrochloride Modified-release tablet 37.5mg Oral,04030400,null,null,null,CPRD_GOLD
+81253,Efexor XL 150mg capsules (Lexon (UK) Ltd)Venlafaxine hydrochloride150mgModified-release capsuleOral ,04030400,null,null,null,CPRD_GOLD
+50081,Venlablue XL 150mg capsules (Creo Pharma Ltd) Venlafaxine hydrochloride Modified-release capsule 150mg Oral,04030400,null,null,null,CPRD_GOLD
+50934,Venlafaxine 150mg/5ml oral solution Venlafaxine hydrochloride Oral solution 30mg/1ml Oral,04030400,null,null,null,CPRD_GOLD
+51699,Venlafaxine 37.5mg/5ml oral solution Venlafaxine hydrochloride Oral solution 7.5mg/1ml Oral,04030400,null,null,null,CPRD_GOLD
+52074,Alventa XL 75mg capsules (Consilient Health Ltd) Venlafaxine hydrochloride Modified-release capsule 75mg Oral,04030400,null,null,null,CPRD_GOLD
+52516,Alventa XL 150mg capsules (Consilient Health Ltd) Venlafaxine hydrochloride Modified-release capsule 150mg Oral,04030400,null,null,null,CPRD_GOLD
+53326,Venlafaxine 75mg/5ml oral solution Venlafaxine hydrochloride Oral solution 15mg/1ml Oral,04030400,null,null,null,CPRD_GOLD
+56457,Venlafaxine 75mg tablets (Teva UK Ltd) Venlafaxine hydrochloride Tablet 75mg Oral,04030400,null,null,null,CPRD_GOLD
+56662,Venlafaxine 37.5mg tablets (A A H Pharmaceuticals Ltd) Venlafaxine hydrochloride Tablet 37.5mg Oral,04030400,null,null,null,CPRD_GOLD
+57751,Tonpular XL 150mg capsules (Wockhardt UK Ltd) Venlafaxine hydrochloride Modified-release capsule 150mg Oral,04030400,null,null,null,CPRD_GOLD
+58681,Venladex XL 75mg tablets (Dexcel-Pharma Ltd) Venlafaxine hydrochloride Modified-release tablet 75mg Oral,04030400,null,null,null,CPRD_GOLD
+58726,Venladex XL 150mg tablets (Dexcel-Pharma Ltd) Venlafaxine hydrochloride Modified-release tablet 150mg Oral,04030400,null,null,null,CPRD_GOLD
+58837,Venlafaxine 37.5mg modified-release capsules Venlafaxine hydrochloride Modified-release capsule 37.5mg Oral,04030400,null,null,null,CPRD_GOLD
+74011,Efexor XL 75mg capsules (Dowelhurst Ltd) Venlafaxine hydrochloride Modified-release capsule 75mg Oral,04030400,null,null,null,CPRD_GOLD
+75525,Venlafaxine 37.5mg tablets (Almus Pharmaceuticals Ltd) Venlafaxine hydrochloride Tablet 37.5mg Oral,04030400,null,null,null,CPRD_GOLD
+68876,Venlafaxine 75mg modified-release capsules (Mawdsley-Brooks & Company Ltd) Venlafaxine hydrochloride Modified-release capsule 75mg Oral,04030400,null,null,null,CPRD_GOLD
+41299,Politid XL 75mg capsules (Actavis UK Ltd) Venlafaxine hydrochloride Modified-release capsule 75mg Oral,04030400,null,null,null,CPRD_GOLD
+74010,Efexor XL 150mg capsules (Necessity Supplies Ltd) Venlafaxine hydrochloride Modified-release capsule 150mg Oral,04030400,null,null,null,CPRD_GOLD
+67288,Efexor 75mg tablets (Dowelhurst Ltd) Venlafaxine hydrochloride Tablet 75mg Oral,04030400,null,null,null,CPRD_GOLD
+59035,Venlablue XL 37.5mg capsules (Creo Pharma Ltd) Venlafaxine hydrochloride Modified-release capsule 37.5mg Oral,04030400,null,null,null,CPRD_GOLD
+59753,Sunveniz XL 150mg tablets (Sun Pharmaceuticals UK Ltd) Venlafaxine hydrochloride Modified-release tablet 150mg Oral,04030400,null,null,null,CPRD_GOLD
+60843,Sunveniz XL 75mg tablets (Sun Pharmaceuticals UK Ltd) Venlafaxine hydrochloride Modified-release tablet 75mg Oral,04030400,null,null,null,CPRD_GOLD
+60895,Venlafaxine 37.5mg tablets (Teva UK Ltd) Venlafaxine hydrochloride Tablet 37.5mg Oral,04030400,null,null,null,CPRD_GOLD
+62734,Venlafaxine 150mg/5ml oral suspension Venlafaxine hydrochloride Oral suspension 30mg/1ml Oral,04030400,null,null,null,CPRD_GOLD
+63268,Venlafaxine 75mg/5ml oral suspension Venlafaxine hydrochloride Oral suspension 15mg/1ml Oral,04030400,null,null,null,CPRD_GOLD
+65666,Venlafaxine 225mg modified-release capsules Venlafaxine hydrochloride Modified-release capsule 225mg Oral,04030400,null,null,null,CPRD_GOLD
+65899,Efexor XL 225mg capsules (Pfizer Ltd) Venlafaxine hydrochloride Modified-release capsule 225mg Oral,04030400,null,null,null,CPRD_GOLD
+66437,Venlafaxine 75mg tablets (DE Pharmaceuticals) Venlafaxine hydrochloride Tablet 75mg Oral,04030400,null,null,null,CPRD_GOLD
+45959,Depefex XL 75mg capsules (Chiesi Ltd) Venlafaxine hydrochloride Modified-release capsule 75mg Oral,04030400,null,null,null,CPRD_GOLD
+43673,Politid XL 150mg capsules (Actavis UK Ltd) Venlafaxine hydrochloride Modified-release capsule 150mg Oral,04030400,null,null,null,CPRD_GOLD
+55501,Venlafaxine 150mg Modified-release capsule (Hillcross Pharmaceuticals Ltd) Venlafaxine hydrochloride Modified-release capsule 150mg Oral,04030400,null,null,null,CPRD_GOLD
+40517,Vexarin XL 150mg capsules (Mylan) Venlafaxine hydrochloride Modified-release capsule 150mg Oral,04030400,null,null,null,CPRD_GOLD
+70806,Venlafaxine 150mg modified-release capsules (DE Pharmaceuticals) Venlafaxine hydrochloride Modified-release capsule 150mg Oral,04030400,null,null,null,CPRD_GOLD
+71806,Amphero XL 75mg capsules (Mylan) Venlafaxine hydrochloride Modified-release capsule 75mg Oral,04030400,null,null,null,CPRD_GOLD
+79124,Winfex XL 75mg capsules (Zentiva),04030400,null,null,null,CPRD_GOLD
+67563,Vensir XL 225mg capsules (Morningside Healthcare Ltd) Venlafaxine hydrochloride Modified-release capsule 225mg Oral,04030400,null,null,null,CPRD_GOLD
+69819,Vencarm XL 37.5mg capsules (Aspire Pharma Ltd) Venlafaxine hydrochloride Modified-release capsule 37.5mg Oral,04030400,null,null,null,CPRD_GOLD
+70315,Vencarm XL 75mg capsules (Aspire Pharma Ltd) Venlafaxine hydrochloride Modified-release capsule 75mg Oral,04030400,null,null,null,CPRD_GOLD
+70420,Vencarm XL 150mg capsules (Aspire Pharma Ltd) Venlafaxine hydrochloride Modified-release capsule 150mg Oral,04030400,null,null,null,CPRD_GOLD
+70495,Vencarm XL 225mg capsules (Aspire Pharma Ltd) Venlafaxine hydrochloride Modified-release capsule 225mg Oral,04030400,null,null,null,CPRD_GOLD
+70931,Venlasov XL 75mg capsules (Sovereign Medical Ltd) Venlafaxine hydrochloride Modified-release capsule 75mg Oral,04030400,null,null,null,CPRD_GOLD
+71257,Venlafaxine 75mg modified-release capsules (DE Pharmaceuticals) Venlafaxine hydrochloride Modified-release capsule 75mg Oral,04030400,null,null,null,CPRD_GOLD
+71932,Venlasov XL 150mg capsules (Sovereign Medical Ltd) Venlafaxine hydrochloride Modified-release capsule 150mg Oral,04030400,null,null,null,CPRD_GOLD
+73667,Venlafaxine 37.5mg tablets (Actavis UK Ltd) Venlafaxine hydrochloride Tablet 37.5mg Oral,04030400,null,null,null,CPRD_GOLD
+74516,Venladex XL 225mg tablets (Dexcel-Pharma Ltd) Venlafaxine hydrochloride Modified-release tablet 225mg Oral,04030400,null,null,null,CPRD_GOLD
+75263,Venzip XL 75mg capsules (Milpharm Ltd) Venlafaxine hydrochloride Modified-release capsule 75mg Oral,04030400,null,null,null,CPRD_GOLD
+76727,Venzip XL 150mg capsules (Milpharm Ltd) Venlafaxine hydrochloride Modified-release capsule 150mg Oral,04030400,null,null,null,CPRD_GOLD
+76771,Efexor XL 75mg capsules (Waymade Healthcare Plc) Venlafaxine hydrochloride Modified-release capsule 75mg Oral,04030400,null,null,null,CPRD_GOLD
+77089,Efexor 75mg tablets (Waymade Healthcare Plc) Venlafaxine hydrochloride Tablet 75mg Oral,04030400,null,null,null,CPRD_GOLD
+80331,Venlafaxine 300mg modified-release tablets Venlafaxine hydrochloride Modified-release tablet 300mg Oral,04030400,null,null,null,CPRD_GOLD
+80541,Venlalic XL 300mg tablets (Ethypharm UK Ltd) Venlafaxine hydrochloride Modified-release tablet 300mg Oral,04030400,null,null,null,CPRD_GOLD
+80721,Majoven XL 37.5mg capsules (Bristol Laboratories Ltd) Venlafaxine hydrochloride Modified-release capsule 37.5mg Oral,04030400,null,null,null,CPRD_GOLD
+51280,Efexor XL 150mg capsules (Waymade Healthcare Plc) Venlafaxine hydrochloride Modified-release capsule 150mg Oral,04030400,null,null,null,CPRD_GOLD
+40815,Tardcaps XL 75mg capsules (IXL Pharma Ltd) Venlafaxine hydrochloride Modified-release capsule 75mg Oral,04030400,null,null,null,CPRD_GOLD
+81158,Foraven XL 150mg capsules (Forum Products Ltd) Venlafaxine hydrochloride Modified-release capsule 150mg Oral,04030400,null,null,null,CPRD_GOLD
+623,Efexor 37.5mg tablets (Wyeth Pharmaceuticals) Venlafaxine hydrochloride Tablet 37.5mg Oral,04030400,null,null,null,CPRD_GOLD
+301,Venlafaxine 37.5mg tablets Venlafaxine hydrochloride Tablet 37.5mg Oral,04030400,null,null,null,CPRD_GOLD
+470,Venlafaxine 75mg modified-release capsules Venlafaxine hydrochloride Modified-release capsule 75mg Oral,04030400,null,null,null,CPRD_GOLD
+1222,Venlafaxine 75mg tablets Venlafaxine hydrochloride Tablet 75mg Oral,04030400,null,null,null,CPRD_GOLD
+1474,Efexor XL 75mg capsules (Pfizer Ltd) Venlafaxine hydrochloride Modified-release capsule 75mg Oral,04030400,null,null,null,CPRD_GOLD
+2617,Venlafaxine 50mg tablets Venlafaxine hydrochloride Tablet 50mg Oral,00000000,null,null,null,CPRD_GOLD
+2654,Venlafaxine 150mg modified-release capsules Venlafaxine hydrochloride Modified-release capsule 150mg Oral,04030400,null,null,null,CPRD_GOLD
+6274,Efexor 50mg tablets (Wyeth Pharmaceuticals) Venlafaxine hydrochloride Tablet 50mg Oral,00000000,null,null,null,CPRD_GOLD
+9182,Efexor 75mg tablets (Wyeth Pharmaceuticals) Venlafaxine hydrochloride Tablet 75mg Oral,04030400,null,null,null,CPRD_GOLD
+13237,Venlafaxine 37.5mg/5ml oral suspension Venlafaxine hydrochloride Oral suspension 7.5mg/1ml Oral,04030400,null,null,null,CPRD_GOLD
